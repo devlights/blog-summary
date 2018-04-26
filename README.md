@@ -11,7 +11,7 @@
 
 - [.NETクラスライブラリ探訪](https://github.com/devlights/blog-summary#net%E3%82%AF%E3%83%A9%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E6%8E%A2%E8%A8%AA)
 
-- [タスク並列ライブラリ(TPL)入門記]()
+- [タスク並列ライブラリ(TPL)入門記](https://github.com/devlights/blog-summary/blob/master/README.md#%E3%82%BF%E3%82%B9%E3%82%AF%E4%B8%A6%E5%88%97%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AAtpl%E5%85%A5%E9%96%80%E8%A8%98)
 
 - [DevExpress奮闘記](https://github.com/devlights/blog-summary#devexpress%E5%A5%AE%E9%97%98%E8%A8%98)
 
