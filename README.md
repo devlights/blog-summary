@@ -225,21 +225,53 @@
 
 [Linq入門記-20 (LINQ Dynamic Query ライブラリ, 動的LINQ)](http://d.hatena.ne.jp/gsf_zero1/20100705/p4)
 
-[]()
+[Linq入門記-21 (LINQ To Object, Where)](http://d.hatena.ne.jp/gsf_zero1/20100708/p1)
 
-[]()
+[Linq入門記-22 (LINQ To Object, Select)](http://d.hatena.ne.jp/gsf_zero1/20100714/p1)
 
-[]()
+[Linq入門記-23 (LINQ To Object, SelectMany)](http://d.hatena.ne.jp/gsf_zero1/20100715/p1)
 
-[]()
+[Linq入門記-24 (LINQ To Object, OrderBy, OrderByDescending)](http://d.hatena.ne.jp/gsf_zero1/20100729/p2)
 
-[]()
+[Linq入門記-25 (LINQ To Object, ThenBy, ThenByDescending)](http://d.hatena.ne.jp/gsf_zero1/20100729/p1)
 
-[]()
+[Linq入門記-26 (LINQ To Object, Reverse)](http://d.hatena.ne.jp/gsf_zero1/20100816/p1)
 
-[]()
+[Linq入門記-27 (LINQ To Object, GroupBy)](http://d.hatena.ne.jp/gsf_zero1/20100819/p1)
 
-[]()
+[Linq入門記-28 (CodeProject, Linq DLinq XLinq PLinq All at one place)](http://d.hatena.ne.jp/gsf_zero1/20100830/p1)
+
+[Linq入門記-29 (LINQ To Object, Join)](http://d.hatena.ne.jp/gsf_zero1/20100830/p2)
+
+[Linq入門記-30 (LINQ To Object, GroupJoin)](http://d.hatena.ne.jp/gsf_zero1/20100902/p1)
+
+[Linq入門記-31 (LINQ To Object, Distinct)](http://d.hatena.ne.jp/gsf_zero1/20100906/p2)
+
+[Linq入門記-32 (LINQ To Object, Union, Concat)](http://d.hatena.ne.jp/gsf_zero1/20100907/p1)
+
+[Linq入門記-33 (LINQ To Object, Intersect)](http://d.hatena.ne.jp/gsf_zero1/20100908/p2)
+
+[Linq入門記-34 (LINQ To Object, Except)](http://d.hatena.ne.jp/gsf_zero1/20100908/p3)
+
+[Linq入門記-35 (LINQ To Object, Count, LongCount)](http://d.hatena.ne.jp/gsf_zero1/20100909/p1)
+
+[Linq入門記-36 (LINQ To Object, Sum)](http://d.hatena.ne.jp/gsf_zero1/20100913/p2)
+
+[Linq入門記-37 (LINQ To Object, Min, Max)](http://d.hatena.ne.jp/gsf_zero1/20100916/p2)
+
+[Linq入門記-38 (LINQ To Object, Average)](http://d.hatena.ne.jp/gsf_zero1/20100916/p3)
+
+[Linq入門記-39 (LINQ To Object, Zip, 4.0で追加されたメソッド)](http://d.hatena.ne.jp/gsf_zero1/20100921/p1)
+
+[Linq入門記-40 (LINQ To Object, Aggregate)](http://d.hatena.ne.jp/gsf_zero1/20101005/p1)
+
+[Linq入門記-41 (LINQ To Object, Range, Repeat)](http://d.hatena.ne.jp/gsf_zero1/20101006/p1)
+
+[Linq入門記-42 (LINQ To Object, Any)](http://d.hatena.ne.jp/gsf_zero1/20101006/p2)
+
+[Linq入門記-43 (LINQ To Object, All)](http://d.hatena.ne.jp/gsf_zero1/20101006/p3)
+
+[Linq入門記-44 (LINQ To Object, Empty)](http://d.hatena.ne.jp/gsf_zero1/20101016/p1)
 
 []()
 
