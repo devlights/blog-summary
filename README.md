@@ -112,7 +112,33 @@
 
 [Pythonメモ-52 (ipython 上で pudb 起動) (ipython integration, pudb, %pudb, magic command)](http://devlights.hatenablog.com/entry/2018/01/09/040031)
 
-[]()
+[Pythonメモ-53 (pytest から pudb 起動) (pytest, pudb, pdbcls, pudb.debugger)](http://devlights.hatenablog.com/entry/2018/01/09/043946)
+
+[Pythonメモ-54 (py.test と pytest) (pytest, command, since version 3.0)](http://devlights.hatenablog.com/entry/2018/01/09/053518)
+
+[Pythonメモ-55 (pygments でシンタックスハイライトさせて遊ぶ) (pygments, pygmentize, syntax highlight)](http://devlights.hatenablog.com/entry/2018/01/17/173552)
+
+[Pythonメモ-56 (pygments で色付き cat コマンドみたいなの作る) (pygments, highlight, get_lexer_for_filename, TerminalFormatter)](http://devlights.hatenablog.com/entry/2018/01/18/130644)
+
+[Pythonメモ-57 (サブクラスで __init__ を定義する場合の注意点) (class, super, __init__, Never code a method that just delegates to the superclass)](http://devlights.hatenablog.com/entry/2018/01/23/122315)
+
+[Pythonメモ-58 (3.7で追加される Data Classes についての情報) (dataclass, PEP 526, A brief tour of Python 3.7 data classes)](http://devlights.hatenablog.com/entry/2018/01/29/194205)
+
+[Pythonメモ-59 (dockerでpython 3.7のdataclassを試す) (dataclass, PEP 526, docker, rc-alpine, python 3.7.0a4)](http://devlights.hatenablog.com/entry/2018/02/04/033318)
+
+[Pythonメモ-60 (Pythonチュートリアルを読んで勉強になったこと) (python, tutorial, document)](http://devlights.hatenablog.com/entry/2018/02/05/011522)
+
+[Pythonメモ-61 (conda 4.4.0からactivateの仕方が変わってる) (conda, activate, deactivate, 4.4.0, conda.sh)](http://devlights.hatenablog.com/entry/2018/02/05/025008)
+
+[Pythonメモ-62 (glances試してみたら凄く良かった) (psutil, glances, top/htop alternative)](http://devlights.hatenablog.com/entry/2018/02/15/014647)
+
+[Pythonメモ-63 (vscodeのpython拡張でlinterが選択可能になった) (visual studio code, select linter, Jan 2018 Release)](http://devlights.hatenablog.com/entry/2018/02/15/152401)
+
+[Pythonメモ-64 (contextlib.redirect_stdout) (stdoutの矛先を一時的に変更する, redirect_stderr)](http://devlights.hatenablog.com/entry/2018/02/20/001449)
+
+[Pythonメモ-65 (send2trash) (ファイルをゴミ箱に捨ててくれるライブラリ, クロスプラットフォーム)](http://devlights.hatenablog.com/entry/2018/02/20/005539)
+
+[Pythonメモ-66 (pycファイルの生成が行われないようにする) (PYTHONDONTWRITEBYTECODE, sys.dont_write_bytecode, __pycache__, pyc)](http://devlights.hatenablog.com/entry/2018/02/23/124719)
 
 []()
 
