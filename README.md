@@ -88,6 +88,52 @@
 
 [Pythonメモ-40 (オブジェクトが削除されたことを検知する) (weakref.finalize, ファイナライザ, 弱参照)](http://devlights.hatenablog.com/entry/2017/12/05/125716)
 
+[Pythonメモ-41 (__weakref__ 属性) (weakref, 弱参照, ユーザ定義クラス, __slots__)](http://devlights.hatenablog.com/entry/2017/12/07/175922)
+
+[Pythonメモ-42 (mmapとreの組合せ) (パフォーマンス, メモリマップ, re.search, mmap.mmap)](http://devlights.hatenablog.com/entry/2017/12/07/205013)
+
+[Pythonメモ-43 (conda search する際のtips) (full-name, names-only, 名前で完全一致, 名前だけ表示, anaconda search)](http://devlights.hatenablog.com/entry/2017/12/09/175638)
+
+[Pythonメモ-44 (conda に conda-forge チャネルを追加) (conda config, channel, 追加パッケージ)](http://devlights.hatenablog.com/entry/2017/12/09/183715)
+
+[Pythonメモ-45 (Django vs Flask) (Django, Flask, 比較)](http://devlights.hatenablog.com/entry/2017/12/10/041320)
+
+[Pythonメモ-46 (2.x系と3.x系で内包表記内の変数のスコープが違う) (python2, python3, listcomp, 内包表記, 変数スコープ)](http://devlights.hatenablog.com/entry/2017/12/14/115213)
+
+[Pythonメモ-47 (結果の型を特定の値の型と一致させる) (python3, type, coerce)](http://devlights.hatenablog.com/entry/2017/12/18/134600)
+
+[Pythonメモ-48 (vscodeで特定のpython環境を選択) (visual studio code, select interpreter, conda)](http://devlights.hatenablog.com/entry/2017/12/29/175440)
+
+[Pythonメモ-49 (startswithとendswithはタプルも受け付ける) (str, bytes, bytearray)](http://devlights.hatenablog.com/entry/2018/01/06/175637)
+
+[Pythonメモ-50 (conda 4.4.6 にしたら fish shell 上で activate 出来なくなった) (conda, activate, fish)](http://devlights.hatenablog.com/entry/2018/01/08/204810)
+
+[Pythonメモ-51 (PuDB -- コンソール上でIDEみたいなデバッグ環境) (pudb)](http://devlights.hatenablog.com/entry/2018/01/09/033939)
+
+[Pythonメモ-52 (ipython 上で pudb 起動) (ipython integration, pudb, %pudb, magic command)](http://devlights.hatenablog.com/entry/2018/01/09/040031)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
 []()
 
 []()
