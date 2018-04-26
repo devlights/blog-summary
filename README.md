@@ -273,7 +273,99 @@
 
 [Linq入門記-44 (LINQ To Object, Empty)](http://d.hatena.ne.jp/gsf_zero1/20101016/p1)
 
-[]()
+[Linq入門記-45 (LINQ To Object, Contains)](http://d.hatena.ne.jp/gsf_zero1/20101016/p2)
+
+[Linq入門記-46 (LINQ To Object, Take, TakeWhile)](http://d.hatena.ne.jp/gsf_zero1/20101016/p3)
+
+[Linq入門記-47 (LINQ To Object, Skip, SkipWhile)](http://d.hatena.ne.jp/gsf_zero1/20101016/p4)
+
+[Linq入門記-48 (LINQ To Object, First, Last, Single)](http://d.hatena.ne.jp/gsf_zero1/20101016/p5)
+
+[Linq入門記-49 (LINQ To Object, FirstOrDefault, LastOrDefault, SingleOrDefault, DefaultIfEmpty)](http://d.hatena.ne.jp/gsf_zero1/20101016/p6)
+
+[Linq入門記-50 (LINQ To Object, ElementAt, ElementAtOrDefault)](http://d.hatena.ne.jp/gsf_zero1/20101016/p7)
+
+[Linq入門記-51 (LINQ To Object, SequenceEqual)](http://d.hatena.ne.jp/gsf_zero1/20101016/p8)
+
+[Linq入門記-52 (補足, .NET 4.0で追加された遅延評価されるメソッド, EnumerateFiles, EnumerateDirectories, EnumerateFileSystemEntries)](http://d.hatena.ne.jp/gsf_zero1/20101026/p1)
+
+[Linq入門記-53 (補足, .NET 4.0で追加された遅延評価されるメソッド, File.ReadLines)](http://d.hatena.ne.jp/gsf_zero1/20101116/p2)
+
+[Linq入門記-54 (LINQ to XML, XDocument, Parse, 文字列から構築)](http://d.hatena.ne.jp/gsf_zero1/20120926/p1)
+
+[Linq入門記-55 (LINQ to XML, XDocument, XElement.ctor, 関数型構築)](http://d.hatena.ne.jp/gsf_zero1/20120927/p1)
+
+[Linq入門記-56 (LINQ to XML, XDocument, XElement, Load, URIを指定して読み込み)](http://d.hatena.ne.jp/gsf_zero1/20120928/p1)
+
+[Linq入門記-57 (LINQ to XML, XElement, Load, ストリームを指定して読み込み)](http://d.hatena.ne.jp/gsf_zero1/20121106/p1)
+
+[Linq入門記-58 (LINQ to XML, XmlException, エラー時に発生する例外)](http://d.hatena.ne.jp/gsf_zero1/20121108/p1)
+
+[Linq入門記-59 (LINQ to XML, XMLの出力, XMLファイルの作成, Save)](http://d.hatena.ne.jp/gsf_zero1/20121112/p1)
+
+[Linq入門記-60 (LINQ to XML, 要素の取得, Elements)](http://d.hatena.ne.jp/gsf_zero1/20121113/p1)
+
+[Linq入門記-61 (LINQ to XML, 要素のクローンとアタッチ)](http://d.hatena.ne.jp/gsf_zero1/20121114/p1)
+
+[Linq入門記-62 (LINQ Insight, Devart, free版とstandard版あり, LINQをその場で実行して結果が確認できる, LINQのデバッグ)](http://d.hatena.ne.jp/gsf_zero1/20121123/p1)
+
+[Linq入門記-63 (シーケンスを特定の数のチャンクに分割する方法, Chunk, 拡張メソッド, yield return, Any, Take, Skip)](http://d.hatena.ne.jp/gsf_zero1/20121130/p2)
+
+[Linq入門記-64 (LINQ to XML, 要素の追加, Add, AddAfterSelf, AddBeforeSelf, AddFirst)](http://d.hatena.ne.jp/gsf_zero1/20121203/p1)
+
+[Linq入門記-65 (LINQ to XML, 要素の更新, Value, SetValue, SetElementValue)](http://d.hatena.ne.jp/gsf_zero1/20121204/p1)
+
+[Linq入門記-66 (LINQ to XML, 要素の削除, Remove, RemoveAll, RemoveNodes, SetElementValue)](http://d.hatena.ne.jp/gsf_zero1/20121205/p1)
+
+[Linq入門記-67 (LINQ to XML, 要素の置換, ReplaceWith, ReplaceNodes, ReplaceAll)](http://d.hatena.ne.jp/gsf_zero1/20121210/p1)
+
+[Linq入門記-68 (LINQ to XML, 属性の取得, FirstAttribute, LastAttribute, Attribute, Attributes)](http://d.hatena.ne.jp/gsf_zero1/20121211/p1)
+
+[Linq入門記-69 (LINQ to XML, 属性の追加, Add, SetAttributeValue)](http://d.hatena.ne.jp/gsf_zero1/20121213/p1)
+
+[Linq入門記-70 (LINQ to XML, 属性の更新, XAttribute.Value, XAttribute.SetValue, SetAttributeValue)](http://d.hatena.ne.jp/gsf_zero1/20121214/p1)
+
+[Linq入門記-71 (LINQ to XML, 属性の削除, XAttribute.Remove, XElement.SetAttributeValue, XElement.RemoveAttributes)](http://d.hatena.ne.jp/gsf_zero1/20121215/p1)
+
+[Linq入門記-72 (LINQ to XML, 属性の置換, ReplaceAttributes)](http://d.hatena.ne.jp/gsf_zero1/20121217/p1)
+
+[Linq入門記-73 (LINQ to XML, 名前空間, XElement.Name, XName, XNamespace)](http://d.hatena.ne.jp/gsf_zero1/20121219/p1)
+
+[Linq入門記-74 (LINQ to XML, 存在確認, HasElements, HasAttributes)](http://d.hatena.ne.jp/gsf_zero1/20130319/p1)
+
+[Linq入門記-75 (LINQ to XML, 前後存在確認, IsBefore, IsAfter)](http://d.hatena.ne.jp/gsf_zero1/20130320/p1)
+
+[Linq入門記-76 (LINQ to XML, 空要素, IsEmpty, EmptySequence)](http://d.hatena.ne.jp/gsf_zero1/20130321/p1)
+
+[Linq入門記-77 (LINQ to XML, ナビゲーション, PreviousNode, NextNode)](http://d.hatena.ne.jp/gsf_zero1/20130322/p2)
+
+[Linq入門記-78 (LINQ to XML, ナビゲーション, FirstNode, LastNode)](http://d.hatena.ne.jp/gsf_zero1/20130323/p1)
+
+[Linq入門記-79 (LINQ to XML, ナビゲーション, Parent)](http://d.hatena.ne.jp/gsf_zero1/20130324/p1)
+
+[Linq入門記-80 (LINQ to XML, ナビゲーション, Descendants, Ancestors)](http://d.hatena.ne.jp/gsf_zero1/20130325/p1)
+
+[Linq入門記-81 (LINQ to XML, ナビゲーション, DescendantsAndSelf, AncestorsAndSelf)](http://d.hatena.ne.jp/gsf_zero1/20130326/p1)
+
+[Linq入門記-82 (LINQ to XML, ナビゲーション, DescendantNodes, DescendantNodesAndSelf)](http://d.hatena.ne.jp/gsf_zero1/20130327/p1)
+
+[Linq入門記-83 (LINQ to XML, ナビゲーション, ElementsAfterSelf, ElementsBeforeSelf)](http://d.hatena.ne.jp/gsf_zero1/20130328/p1)
+
+[Linq入門記-84 (LINQ to XML, ナビゲーション, NodesAfterSelf, NodesBeforeSelf)](http://d.hatena.ne.jp/gsf_zero1/20130328/p2)
+
+[Linq入門記-85 (LINQ to XML, 並び順, InDocumentOrder)](http://d.hatena.ne.jp/gsf_zero1/20130329/p1)
+
+[Linq入門記-86 (LINQ to XML, XPath, XPathSelectElements, XPathEvaluate)](http://d.hatena.ne.jp/gsf_zero1/20130330/p1)
+
+[Linq入門記-87 (LINQ to XML, Tips, XElementとXAttributeをキャストして値取得)](http://d.hatena.ne.jp/gsf_zero1/20130330/p2)
+
+[Linq入門記-88 (LINQ to XML, イベント, Changing, Changed)](http://d.hatena.ne.jp/gsf_zero1/20130331/p1)
+
+[Linq入門記-89 (LINQ to XML, 巨大XMLファイルの読み込みと変換処理, XStreamingElement)](http://d.hatena.ne.jp/gsf_zero1/20130331/p2)
+
+[Linq入門記-90 (LINQ to XML, アノテーション, AddAnnotation, Annotation<T>, RemoveAnnotations)](http://d.hatena.ne.jp/gsf_zero1/20130331/p3)
+
+[Linq入門記-91 (LINQ to XML, 行番号と行位置の取得, IXmlLineInfo, HasLineInfo, LineNumber, LinePosition)](http://d.hatena.ne.jp/gsf_zero1/20130401/p1)
 
 ## .NETクラスライブラリ探訪
 
