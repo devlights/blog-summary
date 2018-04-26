@@ -48,6 +48,54 @@
 
 [Pythonメモ-20 (Pythonに関する情報のリンク) (あとで読むリスト)](http://devlights.hatenablog.com/entry/2017/10/06/125928)
 
+[Pythonメモ-21 (PyCharmでgithubのprivate repoをcloneしようとしたらエラー) ](http://devlights.hatenablog.com/entry/2017/10/09/023438)
+
+[Pythonメモ-22 (ftputilでサクッとftp処理)(ftputil, a high-level interface to the ​ftplib module) ](http://devlights.hatenablog.com/entry/2017/10/09/025519)
+
+[Pythonメモ-23 (gitpythonでgitを操作)(gitpython, ファイルの日付をコミット日時に) ](http://devlights.hatenablog.com/entry/2017/10/09/145203)
+
+[Pythonメモ-24 (f文字列の書式メモ)(PEP498, フォーマット済み文字列リテラル, f-strings) ](http://devlights.hatenablog.com/entry/2017/10/24/204211)
+
+[Pythonメモ-25 (pip実行するとエラーになる)(ModuleNotFoundError: No module named 'pip._vendor.requests.adapters', conda, anaconda) ](http://devlights.hatenablog.com/entry/2017/10/25/170855)
+
+[Pythonメモ-26 (sphinx勉強環境を構築)(sphinx, sphinx-quickstart, vs code, reStructuredText, sphinx_rtd_theme) ](http://devlights.hatenablog.com/entry/2017/10/26/030437)
+
+[Pythonメモ-27 (名前空間パッケージ)(PEP420, Implicit Namespace Packages) ](http://devlights.hatenablog.com/entry/2017/11/01/191645)
+
+[Pythonメモ-28 (contextlib.suppress)(例外発生しても暗黙で飲み込むコンテキストマネージャ) ](http://devlights.hatenablog.com/entry/2017/11/02/074015)
+
+[Pythonメモ-29 (slice)(特定のシーケンスのrangeを表すオブジェクト, スライスオブジェクト) ](http://devlights.hatenablog.com/entry/2017/11/06/203648)
+
+[Pythonメモ-30 (pythonの特殊 else ブロック)(for-else, while-else, try-else) ](http://devlights.hatenablog.com/entry/2017/11/07/114514)
+
+[Pythonメモ-31 (無料で読めるPython情報) ](http://devlights.hatenablog.com/entry/2017/11/08/165019)
+
+[Pythonメモ-32 (個人的おすすめPython書籍) ](http://devlights.hatenablog.com/entry/2017/11/09/121702)
+
+[Pythonメモ-33 (iter関数) (iter(callable, sentinel), iter関数の引数2つ版) ](http://devlights.hatenablog.com/entry/2017/11/10/211629)
+
+[Pythonメモ-34 (ファイルの読取り専用を外す) (os.access, os.W_OK, os.chmod, stat.S_IWRITE) ](http://devlights.hatenablog.com/entry/2017/11/16/194941)
+
+[Pythonメモ-35 (基本コンテナオブジェクトと読み取り専用オブジェクト) (list, dict, set, tuple, MappingProxyType, frozenset) ](http://devlights.hatenablog.com/entry/2017/11/20/024252)
+
+[Pythonメモ-36 (コメントでpylintの警告を抑制する) (pylint, suppress warning, claiming)](http://devlights.hatenablog.com/entry/2017/11/24/021922)
+
+[Pythonメモ-37 (bisectモジュール) (配列二分法アルゴリズム, bisect_left, bisect_right, SortedCollection)](http://devlights.hatenablog.com/entry/2017/11/27/151120)
+
+[Pythonメモ-38 (disモジュール) (バイトコードの逆アセンブラ, dis.dis, dis.Bytecode, dis.code_info, compile)](http://devlights.hatenablog.com/entry/2017/11/30/154554)
+
+[Pythonメモ-39 (メッセージボックス表示) (tkinter, messagebox)](http://devlights.hatenablog.com/entry/2017/12/04/134738)
+
+[Pythonメモ-40 (オブジェクトが削除されたことを検知する) (weakref.finalize, ファイナライザ, 弱参照)](http://devlights.hatenablog.com/entry/2017/12/05/125716)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
 ## Linq入門記
 
 ## .NETクラスライブラリ探訪
