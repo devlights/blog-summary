@@ -11,6 +11,8 @@
 
 - [.NETクラスライブラリ探訪](https://github.com/devlights/blog-summary#net%E3%82%AF%E3%83%A9%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E6%8E%A2%E8%A8%AA)
 
+- [タスク並列ライブラリ(TPL)入門記]()
+
 - [DevExpress奮闘記](https://github.com/devlights/blog-summary#devexpress%E5%A5%AE%E9%97%98%E8%A8%98)
 
 - [WCF関連](https://github.com/devlights/blog-summary#wcf%E9%96%A2%E9%80%A3)
@@ -368,6 +370,8 @@
 [Linq入門記-91 (LINQ to XML, 行番号と行位置の取得, IXmlLineInfo, HasLineInfo, LineNumber, LinePosition)](http://d.hatena.ne.jp/gsf_zero1/20130401/p1)
 
 ## .NETクラスライブラリ探訪
+
+## タスク並列ライブラリ(TPL)入門記
 
 ## DevExpress奮闘記
 
