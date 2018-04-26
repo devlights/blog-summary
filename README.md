@@ -140,33 +140,25 @@
 
 [Pythonメモ-66 (pycファイルの生成が行われないようにする) (PYTHONDONTWRITEBYTECODE, sys.dont_write_bytecode, __pycache__, pyc)](http://devlights.hatenablog.com/entry/2018/02/23/124719)
 
-[]()
+[Pythonメモ-67 (JupyterLab試してみた) (JupyterLab is Ready for Users, conda, jupyter lab, PhosphorJS)](http://devlights.hatenablog.com/entry/2018/02/25/212126)
 
-[]()
+[Pythonメモ-68 (requests-html試してみた) (HTML Parsing for Human, PyQuery, markdown)](http://devlights.hatenablog.com/entry/2018/02/26/024346)
 
-[]()
+[Pythonメモ-69 (標準ライブラリだけでLinuxのシステム情報を取得) (Linux System Mining with Python, Useful Blog Post)](http://devlights.hatenablog.com/entry/2018/02/27/144922)
 
-[]()
+[Pythonメモ-70 (SortedList, SortedDict, SortedSet) (sortedcontainers, ソート済みコレクション)](https://devlights.hatenablog.com/entry/2018/03/13/193545)
 
-[]()
+[Pythonメモ-71 (printデバッグの代わりに使えるライブラリ) (icecream, ic, debug, print)](https://devlights.hatenablog.com/entry/2018/03/27/180047)
 
-[]()
+[Pythonメモ-72 (標準ライブラリメモ - itertools) (zip_longest, chain, groupby, accumulate, islice, tee)](https://devlights.hatenablog.com/entry/2018/03/29/123802)
 
-[]()
+[Pythonメモ-73 (condaのチャネルの優先度を操作) (prepend, channels, lowest channel, highest channel)](https://devlights.hatenablog.com/entry/2018/03/29/154351)
 
-[]()
+[Pythonメモ-74 (標準ライブラリメモ - pathlib) (Path, glob, rglob, iterdir)](https://devlights.hatenablog.com/entry/2018/04/03/121047)
 
-[]()
+[Pythonメモ-75 (ライブラリメモ - logging) (getLogger, basicConfig, dictConfig, raven, SentryHandler)](https://devlights.hatenablog.com/entry/2018/04/19/233142)
 
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
+[Pythonメモ-76 (Qt for Python) (PySide2から名称変更, まだリリースされていない, LGPL)](https://devlights.hatenablog.com/entry/2018/04/23/114446)
 
 ## Linq入門記
 
