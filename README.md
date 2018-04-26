@@ -3,6 +3,11 @@
 [いろいろ備忘録日記](https://devlights.hatenablog.com/)の各記事をリンクしています。
 
 ---
+## 目次
+
+[Pythonメモ](https://github.com/devlights/blog-summary#python%E3%83%A1%E3%83%A2)
+
+---
 
 ## Pythonメモ
 
