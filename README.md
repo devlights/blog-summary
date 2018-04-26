@@ -185,6 +185,64 @@
 
 ## Linq入門記
 
+[Linq入門記-01 (遅延実行、例外処理, try, catch)](http://d.hatena.ne.jp/gsf_zero1/20091204/p3)
+
+[Linq入門記-02 (クエリキーワード, クエリ構文, from)](http://d.hatena.ne.jp/gsf_zero1/20091204/p2)
+
+[Linq入門記-03 (クエリキーワード, クエリ構文, select)](http://d.hatena.ne.jp/gsf_zero1/20091204/p1)
+
+[Linq入門記-04 (クエリキーワード, クエリ構文, where)](http://d.hatena.ne.jp/gsf_zero1/20091204/p4)
+
+[Linq入門記-05 (クエリキーワード, クエリ構文, グルーピング, group, IGrouping)](http://d.hatena.ne.jp/gsf_zero1/20091210/p2)
+
+[Linq入門記-06 (クエリキーワード, クエリ構文, ソート, 並び替え, orderby, ascending, descending)](http://d.hatena.ne.jp/gsf_zero1/20091214/p1)
+
+[Linq入門記-07 (クエリキーワード, クエリ構文, クエリ結果を一時保持, into, select, group, join)](http://d.hatena.ne.jp/gsf_zero1/20091215/p2)
+
+[Linq入門記-08 (クエリキーワード, クエリ構文, 一時変数を作成, let)](http://d.hatena.ne.jp/gsf_zero1/20091215/p1)
+
+[Linq入門記-09 (クエリキーワード, クエリ構文, 結合, join, 内部結合, inner join, equals, cross join)](http://d.hatena.ne.jp/gsf_zero1/20091218/p1)
+
+[Linq入門記-10 (クエリキーワード, クエリ構文, 結合, join, グループ化結合, group join, equals, into)](http://d.hatena.ne.jp/gsf_zero1/20091218/p2)
+
+[Linq入門記-11 (クエリキーワード, クエリ構文, 結合, join, 左外部結合, left outer join, equals, DefaultIfEmpty)](http://d.hatena.ne.jp/gsf_zero1/20100107/p1)
+
+[Linq入門記-12 (LINQ To Object, 変換演算子, ToArray)](http://d.hatena.ne.jp/gsf_zero1/20100625/p2)
+
+[Linq入門記-13 (LINQ To Object, 変換演算子, ToList)](http://d.hatena.ne.jp/gsf_zero1/20100625/p3)
+
+[Linq入門記-14 (LINQ To Object, 変換演算子, ToDictionary)](http://d.hatena.ne.jp/gsf_zero1/20100628/p1)
+
+[Linq入門記-15 (LINQ To Object, 変換演算子, ToLookup)](http://d.hatena.ne.jp/gsf_zero1/20100629/p1)
+
+[Linq入門記-16 (LINQ To Object, 変換演算子, OfType)](http://d.hatena.ne.jp/gsf_zero1/20100630/p1)
+
+[Linq入門記-17 (LINQ To Object, 変換演算子, Cast)](http://d.hatena.ne.jp/gsf_zero1/20100702/p2)
+
+[Linq入門記-18 (LINQ To Object, 拡張メソッド解決)](http://d.hatena.ne.jp/gsf_zero1/20100705/p2)
+
+[Linq入門記-19 (LINQ To Object, 変換演算子, AsEnumerable)](http://d.hatena.ne.jp/gsf_zero1/20100705/p3)
+
+[Linq入門記-20 (LINQ Dynamic Query ライブラリ, 動的LINQ)](http://d.hatena.ne.jp/gsf_zero1/20100705/p4)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
 ## .NETクラスライブラリ探訪
 
 ## DevExpress奮闘記
