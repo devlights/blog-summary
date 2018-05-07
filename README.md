@@ -584,6 +584,40 @@
 
 ## ADO.NET入門記
 
+[ADO.NET入門記-001 (コネクションの確立及び解放)](http://d.hatena.ne.jp/gsf_zero1/20070812/p1)
+
+[ADO.NET入門記-002 (ConnectionStringSettingsを用いて接続文字列を取得)](http://d.hatena.ne.jp/gsf_zero1/20070812/p2)
+
+[ADO.NET入門記-003 (接続文字列の暗号化(aspnet_regiis)) ](http://d.hatena.ne.jp/gsf_zero1/20070812/p3)
+
+[ADO.NET入門記-004 (コネクションプーリングをする場合としない場合の速度差)](http://d.hatena.ne.jp/gsf_zero1/20070812/p4)
+
+[ADO.NET入門記-005 (接続型のデータの読み取り(IDbCommand, DbCommand, ExecuteScalar, ExecuteReader)) ](http://d.hatena.ne.jp/gsf_zero1/20070813/p1)
+
+[ADO.NET入門記-006 (Insert,Update,Deleteの発行(DbCommand, DbParameter, TransactionScope))](http://d.hatena.ne.jp/gsf_zero1/20070813/p2)
+
+[ADO.NET入門記-007 (コマンドの非同期実行(System.Data.SqlClient.SqlCommand,BeginExecuteReader,EndExecuteReader)) ](http://d.hatena.ne.jp/gsf_zero1/20070814/p1)
+
+[ADO.NET入門記-008 (DataAdapterの使用(Select) (DbDataAdapter, Fill, SelectCommand))](http://d.hatena.ne.jp/gsf_zero1/20070826/p1)
+
+[ADO.NET入門記 -009 (DataAdapterの使用(Insert,Update,Delete) (AcceptChanges, DbDataAdapter, Fill, Update, InsertCommand, UpdateCommand, DeleteCommand))](http://d.hatena.ne.jp/gsf_zero1/20070827/p1)
+
+[ADO.NET入門記-010 (CommandBuilderの使用(Insert,Update,Delete) (CommandBuilder, DataAdapter, Fill, Update))](http://d.hatena.ne.jp/gsf_zero1/20070829/p1)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
 ## DataGridView入門記
 
 ## iBatis(MyBatis)奮闘記
