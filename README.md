@@ -604,19 +604,49 @@
 
 [ADO.NET入門記-010 (CommandBuilderの使用(Insert,Update,Delete) (CommandBuilder, DataAdapter, Fill, Update))](http://d.hatena.ne.jp/gsf_zero1/20070829/p1)
 
-[]()
+[ADO.NET入門記-011 (DataRelationの利用 (DataSet, DataTable, DataRelation, ReadXmlSchema, ReadXml, GetChildRows, GetParentRow))](http://d.hatena.ne.jp/gsf_zero1/20070906/p2)
 
-[]()
+[ADO.NET入門記-012 (DataSetにてXMLデータを扱う (DataSet, DataTable, ReadXmlSchema, ReadXml, xsd))](http://d.hatena.ne.jp/gsf_zero1/20070906/p3)
 
-[]()
+[ADO.NET入門記-013 (DataRow.RowStateの遷移について (DataTable, DataRow, DataRowState))](http://d.hatena.ne.jp/gsf_zero1/20070911/p1)
 
-[]()
+[ADO.NET入門記-014 (System.Data.DataTableついて(01) (DataTable, DataRow, DataColumn))](http://d.hatena.ne.jp/gsf_zero1/20070920/p1)
 
-[]()
+[ADO.NET入門記-015 (Deletedとマークされた行からデータを取得する)](http://d.hatena.ne.jp/gsf_zero1/20080214/p1)
 
-[]()
+[ADO.NET入門記-016 (データプロバイダファクトリの手動追加について)(machine.config, app.config, system.data, DbProviderFactories)](http://d.hatena.ne.jp/gsf_zero1/20080227/p1)
 
-[]()
+[ADO.NET入門記-017 (DbParameterオブジェクトを再利用する際の注意点)(DbParameter, DbCommand) ](http://d.hatena.ne.jp/gsf_zero1/20080710/p1)
+
+[ADO.NET入門記-018 (DataViewを用いた重複行の取り除き)(DataTable, DataView, ToTable, distinct) ](http://d.hatena.ne.jp/gsf_zero1/20080713/p1)
+
+[ADO.NET入門記-019 (MergeとImportRowの場合のRowStateの違い)(DataTable, Merge, ImportRow, RowState) ](http://d.hatena.ne.jp/gsf_zero1/20080729/p1)
+
+[ADO.NET入門記-020 (DataTableに追加された拡張メソッド)(System.Data.DataTableExtensions, AsEnumerable, CopyToDataTable)](http://d.hatena.ne.jp/gsf_zero1/20090130/p1)
+
+[ADO.NET入門記-021 (DataRowに追加された拡張メソッド)(System.Data.DataRowExtensions, Field, SetField) ](http://d.hatena.ne.jp/gsf_zero1/20090209/p1)
+
+[ADO.NET入門記-022 (DataRow同士の比較)(System.Data.DataRowExtensions, SequenceEqual, All, AsEnumerable)](http://d.hatena.ne.jp/gsf_zero1/20090823/p1)
+
+[ADO.NET入門記-023 (System.Data.DataTableについて(02) (DataTable内で計算) (DataTable, Compute))](http://d.hatena.ne.jp/gsf_zero1/20090825/p1)
+
+[ADO.NET入門記-024 (System.Data.DataTableについて(03) (行の抽出) (DataTable, Select))](http://d.hatena.ne.jp/gsf_zero1/20090909/p1)
+
+[ADO.NET入門記-025 (System.Data.DataTableについて(04) (スキーマとデータのコピー) (DataTable, Clone, Copy))](http://d.hatena.ne.jp/gsf_zero1/20090910/p1)
+
+[ADO.NET入門記-026 (DataTable.Selectのバグ??奇妙な動作)(DataTable.Select)](http://d.hatena.ne.jp/gsf_zero1/20091013/p1)
+
+[ADO.NET入門記-027 (Excelに接続してデータを取得・追加・更新)(Excel,OleDb,HDR,Extended Properties,xlsx)](http://d.hatena.ne.jp/gsf_zero1/20091116/p1)
+
+[ADO.NET入門記-028 (テキストファイルに接続してデータを取得・追加)(text,OleDb,HDR,Extended Properties,FMT,Delimited)](http://d.hatena.ne.jp/gsf_zero1/20091117/p1)
+
+[ADO.NET入門記-029 (SQL Server Compact Edition 3.5, System.Data.SqlServerCe.3.5, DbProviderFactory) ](http://d.hatena.ne.jp/gsf_zero1/20101220/p1)
+
+[ADO.NET入門記-030 (暗号化されたapp.configのデータを復号化, aspnet_regiis, -pef, -pdf)](http://d.hatena.ne.jp/gsf_zero1/20110223/p1)
+
+[ADO.NET入門記-031 (DataTableにて文字列値の列を数値ソートする）](http://d.hatena.ne.jp/gsf_zero1/20110307/p1)
+
+[ADO.NET入門記-032 (JoinViewを利用して結合表データを表示）(結合ビュー, 複数の表データ, DataSet, DataTable)](http://d.hatena.ne.jp/gsf_zero1/20110721/p3)
 
 ## DataGridView入門記
 
