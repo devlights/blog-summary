@@ -457,68 +457,58 @@
 
 [.NET クラスライブラリ探訪-044 (System.Threading.CountdownEvent(2))(N個の処理を待機, .NET 4.0)](http://d.hatena.ne.jp/gsf_zero1/20110324/p2)
 
-[]()
+[.NET クラスライブラリ探訪-045 (System.Threading.CountdownEvent(3))(キャンセルトークンの利用, CancellationToken, Wait, .NET 4.0)](http://d.hatena.ne.jp/gsf_zero1/20110324/p3)
 
-[]()
+[.NET クラスライブラリ探訪-046 (System.Threading.CountdownEvent(4))(AddCount, Reset, .NET 4.0)](http://d.hatena.ne.jp/gsf_zero1/20110324/p4)
 
-[]()
+[.NET クラスライブラリ探訪-047 (System.Threading.Barrier(1))(バリア, SignalAndWait, フェーズ, 協調動作, 揃うまで待つ, .NET 4.0)](http://d.hatena.ne.jp/gsf_zero1/20110329/p1)
 
-[]()
+[.NET クラスライブラリ探訪-048 (System.Threading.Barrier(2))(バリア, キャンセル処理, CancellationToken, .NET 4.0)](http://d.hatena.ne.jp/gsf_zero1/20110330/p1)
 
-[]()
+[.NET クラスライブラリ探訪-049 (System.Threading.SemaphoreSlim(1))(セマフォ, 軽量版, CancellationToken, .NET 4.0)](http://d.hatena.ne.jp/gsf_zero1/20110422/p1)
 
-[]()
+[.NET クラスライブラリ探訪-050 (System.Threading.SemaphoreSlim(2))(セマフォ, 軽量版, キャンセル処理, CancellationToken, .NET 4.0)](http://d.hatena.ne.jp/gsf_zero1/20110422/p2)
 
-[]()
+[.NET クラスライブラリ探訪-051 (System.Drawing.ImageConverter)(Imageからバイト配列の変換, バイト配列からImageへの変換)](http://d.hatena.ne.jp/gsf_zero1/20111212/p1)
 
-[]()
+[.NET クラスライブラリ探訪-052 (System.Runtime.CompilerServices.RuntimeHelpers)(オブジェクト識別ID取得, 特殊なGetHashCode, RuntimeHelpers.PrepareMethod, RuntimeHelpers.GetHashCode)](http://d.hatena.ne.jp/gsf_zero1/20120321/p1)
 
-[]()
+[.NET クラスライブラリ探訪-053 (System.Runtime.CompilerServices.RuntimeHelpers (2))(PrepareConstrainedRegions, ReliabilityContract, CER, Consistency, 信頼性のコントラクト, 事前コンパイル)
+](http://d.hatena.ne.jp/gsf_zero1/20120327/p2)
 
-[]()
+[.NET クラスライブラリ探訪-054 (System.Runtime.CompilerServices.RuntimeHelpers (3))(ExecuteCodeWithGuaranteedCleanup, TryCode, CleanupCode, ReliabilityContract, CER)](http://d.hatena.ne.jp/gsf_zero1/20120403/p1)
 
-[]()
+[.NET クラスライブラリ探訪-055 (System.Runtime.Remoting.Messaging.CallContext, 実行コンテキスト, 論理呼び出しコンテキスト, ExecutionContext, LogicalSetData, SuppressFlow)](http://d.hatena.ne.jp/gsf_zero1/20120604/p1)
 
-[]()
+[.NET クラスライブラリ探訪-056 (System.IEquatable<T>, 等価性, 型指定のEqualsメソッド)](http://d.hatena.ne.jp/gsf_zero1/20120608/p2)
 
-[]()
+[.NET クラスライブラリ探訪-057 (System.Collections.Generic.EqualityComparer<T>, 等価であるかどうかの比較処理を提供)](http://d.hatena.ne.jp/gsf_zero1/20120612/p1)
 
-[]()
+[.NET クラスライブラリ探訪-058 (System.Threading.CancellationToken, System.Threading.CancellationTokenSource, キャンセル処理)](http://d.hatena.ne.jp/gsf_zero1/20120628/p1)
 
-[]()
+[.NET クラスライブラリ探訪-059 (System.Lazy<T>, 遅延初期化, double-checked locking, race-to-initialize)](http://d.hatena.ne.jp/gsf_zero1/20120717/p1)
 
-[]()
+[.NET クラスライブラリ探訪-060 (System.LazyInitializer, System.Lazy, 遅延初期化, EnsureInitialized)](http://d.hatena.ne.jp/gsf_zero1/20120718/p1)
 
-[]()
+[.NET クラスライブラリ探訪-061 (System.Threading.ThreadLocal, TLS, スレッドローカルストレージ, ThreadStatic, .NET4.0から追加)](http://d.hatena.ne.jp/gsf_zero1/20120720/p1)
 
-[]()
+[.NET クラスライブラリ探訪-062 (System.IO.Compression.ZipFile (1), .NET 4.5から追加, ZIPファイルの圧縮/解凍)](http://d.hatena.ne.jp/gsf_zero1/20120823/p1)
 
-[]()
+[.NET クラスライブラリ探訪-063 (System.IO.Compression.ZipFile (2), .NET 4.5から追加, ZIPファイル内のエントリを列挙, ZipArchive, ZipArchiveEntry)](http://d.hatena.ne.jp/gsf_zero1/20120826/p1)
 
-[]()
+[.NET クラスライブラリ探訪-064 (System.IO.Compression.ZipFile (3), .NET 4.5から追加, ZIPファイルを作成および更新, CreateEntryFromFile, CreateEntry)](http://d.hatena.ne.jp/gsf_zero1/20120827/p2)
 
-[]()
+[.NET クラスライブラリ探訪-065 (System.IProgress<T>, System.Progress<T>, .NET 4.5から追加, 進捗状況, レポート)](http://d.hatena.ne.jp/gsf_zero1/20120829/p1)
 
-[]()
+[.NET クラスライブラリ探訪-066 (Caller Information, CallerFilePath, CallerLineNumber, CallerMemberName, C# 5.0, 呼び元情報の取得)](http://d.hatena.ne.jp/gsf_zero1/20130419/p1)
 
-[]()
+[.NET クラスライブラリ探訪-067 (System.Threading.CancellationTokenSource, CancelAfter, .NET 4.5から追加されたメソッド)](http://devlights.hatenablog.com/entry/2014/01/13/201939)
 
-[]()
+[.NET クラスライブラリ探訪-068 (System.Dynamic.DynamicObject, 動的オブジェクトの作成)](http://devlights.hatenablog.com/entry/2014/01/14/054122)
 
-[]()
+[.NET クラスライブラリ探訪-069 (System.ArraySegment<T>, 部分配列の作成)](http://devlights.hatenablog.com/entry/2014/04/30/164033)
 
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
+[.NET クラスライブラリ探訪-070 (System.Diagnostics.DebuggerDisplayAttribute, デバッグ時のオブジェクト表示方法を制御)](http://devlights.hatenablog.com/entry/2017/04/10/021307)
 
 ## タスク並列ライブラリ(TPL)入門記
 
