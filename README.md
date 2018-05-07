@@ -534,6 +534,54 @@
 
 ## WCF関連
 
+[MicrosoftがWCF向けのJava用相互運用バインディングをリリース (WCF, Binding, CodePlex, Websphere, WebLogic, Axis2)](http://d.hatena.ne.jp/gsf_zero1/20110711/p1)
+
+[WCF入門-001 (簡単なサンプル, 自己ホスト形式, コードで記述)](http://d.hatena.ne.jp/gsf_zero1/20111020/p1)
+
+[WCF入門-002 (簡単なサンプル, アプリケーション構成ファイルに記述)](http://d.hatena.ne.jp/gsf_zero1/20111020/p2)
+
+[WCF入門-003 (簡単なサンプル, バインディングにNetTcpBindingを利用)](http://d.hatena.ne.jp/gsf_zero1/20111020/p3)
+
+[WCF入門-004 (基本的なサンプル, 構成ファイルを利用, バインディングにNamedPipe(名前付きパイプ)を利用)](http://d.hatena.ne.jp/gsf_zero1/20111022/p1)
+
+[WCF入門-005 (基本的なサンプル, 構成ファイルを利用, バインディングにMsmqBinding(メッセージキュー)を利用)](http://d.hatena.ne.jp/gsf_zero1/20111022/p2)
+
+[WCF入門-006 (基本的なサンプル, 一方向通信(IsOneWay))](http://d.hatena.ne.jp/gsf_zero1/20111023/p1)
+
+[WCF入門-007 (基本的なサンプル, 双方向通信(Duplex))](http://d.hatena.ne.jp/gsf_zero1/20111023/p2)
+
+[WCF入門-008 (基本的なサンプル, データコントラクト)](http://d.hatena.ne.jp/gsf_zero1/20111025/p1)
+
+[WCF入門-009 (基本的なサンプル, エラーコントラクト)](http://d.hatena.ne.jp/gsf_zero1/20111025/p2)
+
+[WCF入門-010 (基本的なサンプル, 非同期処理)](http://d.hatena.ne.jp/gsf_zero1/20111028/p1)
+
+[WCF入門-011 (基本的なサンプル, トレースログの出力)](http://d.hatena.ne.jp/gsf_zero1/20111029/p1)
+
+[WCF Claims, STS and Federation – Layman’s View (フェデレーション認証, セキュリティトークンサービス, クレーム, コミック風)](http://d.hatena.ne.jp/gsf_zero1/20111029/p2)
+
+[WCFの参考リソース (CodeProject, REST, webHttpBinding, behaviorExtensions, リンク)](http://d.hatena.ne.jp/gsf_zero1/20111101/p1)
+
+[WCF入門-012 (基本的なサンプル, IISでWCFサービスをホスト(HTTP))](http://d.hatena.ne.jp/gsf_zero1/20111110/p2)
+
+[WCF入門-013 (基本的なサンプル, IIS, WASの有効化, Windows Process Activation Service, 非HTTPプロトコルのサポート, net.tcp, net.pipe, net.msmq)](http://d.hatena.ne.jp/gsf_zero1/20111110/p1)
+
+[WCF入門-014 (基本的なサンプル, IIS, WAS, net.tcpのWCFサービスをホスト)](http://d.hatena.ne.jp/gsf_zero1/20111110/p3)
+
+[WCF入門-015 (基本的なサンプル, IIS, WAS, net.pipeのWCFサービスをホスト)](http://d.hatena.ne.jp/gsf_zero1/20111110/p4)
+
+[WCF入門-016 (基本的なサンプル, IIS, WAS, net.msmqのWCFサービスをホスト)](http://d.hatena.ne.jp/gsf_zero1/20111110/p5)
+
+[WCF入門-017 (基本的なサンプル, IIS, WAS, net.tcp,net.pipe,net.msmqのWCFサービスを1サービスでホスト)](http://d.hatena.ne.jp/gsf_zero1/20111110/p6)
+
+[WCF入門-018 (基本的なサンプル, webHttpBinding, REST, WebInvoke, WebGet)](http://d.hatena.ne.jp/gsf_zero1/20111121/p1)
+
+[WCF入門-019 (基本的なサンプル, webHttpBinding, RSS, Atom 1.0, WebGet, SyndicationFeed, フィード配信)](http://d.hatena.ne.jp/gsf_zero1/20111209/p2)
+
+[WCF And Android (CodeProject, JSON, REST, google-json)](http://d.hatena.ne.jp/gsf_zero1/20120406/p1)
+
+[WCF 4.5のリソース (MSDN, .NET 4.5, Multiple authentication support, Automatic HTTPS endpoint, BasicHttpsBinding, UDP transport support, WebSocket support)](http://d.hatena.ne.jp/gsf_zero1/20120413/p4)
+
 ## ADO.NET入門記
 
 ## DataGridView入門記
