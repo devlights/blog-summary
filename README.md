@@ -371,6 +371,24 @@
 
 ## .NETクラスライブラリ探訪
 
+[タスク並列ライブラリ(TPL)についてのリソース (Task Parallel Library, Parallel.For, Thread, ThreadPool, 非同期, 並列)](http://d.hatena.ne.jp/gsf_zero1/20110210/p1)
+
+[タスク並列ライブラリ入門記-000 (事始め, 殴り書きメモ)](http://d.hatena.ne.jp/gsf_zero1/20110308/p1)
+
+[タスク並列ライブラリ入門記-001 (タスクの実行, TPL, Task.Factory.StartNew, Wait, WaitAll)](http://d.hatena.ne.jp/gsf_zero1/20120411/p1)
+
+[タスク並列ライブラリ入門記-002 (タスクの実行, TPL, Task.ctor, Wait, WaitAll)](http://d.hatena.ne.jp/gsf_zero1/20120412/p1)
+
+[タスク並列ライブラリ入門記-003 (タスクの入れ子, デタッチされた入れ子のタスク, 親のタスクとの関連を持たない, TaskCreationOptions.None)](http://d.hatena.ne.jp/gsf_zero1/20120413/p1)
+
+[タスク並列ライブラリ入門記-004 (タスクの入れ子, 親のタスクにアタッチされた入れ子タスク, 親のタスクとの関連を持つ, TaskCreationOptions.AttachedToParent)](http://d.hatena.ne.jp/gsf_zero1/20120416/p1)
+
+[タスク並列ライブラリ入門記-005 (Task.Run, .NET 4.5から追加されたタスク開始方法)](http://devlights.hatenablog.com/entry/2014/01/14/050000)
+
+[タスク並列ライブラリ入門記-006 (TaskCreationOptions.LongRunning, 長時間実行されるタスクであることを示すオプション, オーバーサブスクリプション)](http://devlights.hatenablog.com/entry/2014/01/15/010832)
+
+[タスク並列ライブラリ入門記-007 (TaskのDisposeについて, Task.Dispose)](http://devlights.hatenablog.com/entry/2014/01/18/145025)
+
 ## タスク並列ライブラリ(TPL)入門記
 
 ## DevExpress奮闘記
