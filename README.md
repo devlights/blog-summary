@@ -588,6 +588,28 @@
 
 ## iBatis(MyBatis)奮闘記
 
+[iBatis.NET奮闘記-001 (インストール及びVisualStudioでの環境設定)](http://d.hatena.ne.jp/gsf_zero1/20070930/p1)
+
+[iBatis.NET奮闘記-002 (基本的な操作(1テーブルに対するSelect)) (Mapper, ISqlMapper, QueryForList, QueryForObject)](http://d.hatena.ne.jp/gsf_zero1/20070930/p2)
+
+[iBatis.NET奮闘記-003 (基本的な操作(Insert)) (Mapper, ISqlMapper, Insert, IDalSession, BeginTransaction, selectKey)](http://d.hatena.ne.jp/gsf_zero1/20071001/p1)
+
+[iBatis.NET奮闘記-004 (基本的な操作(Update)) (Mapper, ISqlMapper, Update, IDalSession, BeginTransaction)](http://d.hatena.ne.jp/gsf_zero1/20071001/p2)
+
+[iBatis.NET奮闘記-005 (基本的な操作(Delete)) (Mapper, ISqlMapper, Delete, IDalSession, BeginTransaction)](http://d.hatena.ne.jp/gsf_zero1/20071001/p3)
+
+[iBatis.NET奮闘記-006 (1対Nのデータ取得) (Mapper, ISqlMapper, QueryForObject, groupBy resultMap)](http://d.hatena.ne.jp/gsf_zero1/20071003/p1)
+
+[iBatis.NET奮闘記-007 (1対1のデータ取得) (Mapper, ISqlMapper, QueryForObject, resultMap, resultMapping)](http://d.hatena.ne.jp/gsf_zero1/20071201/p1)
+
+[iBatis.NET奮闘記 -008 (ログの設定) (ConfigurationSectionHandler, Log4NetConfigurationSectionHandler, ConsoleOutLoggerFA, Log4NetLoggerFA)](http://d.hatena.ne.jp/gsf_zero1/20071202/p1)
+
+[iBatis.NET奮闘記-009 (IDictionaryにて結果を取得) (Mapper, QueryForDictionary, IDictionary)](http://d.hatena.ne.jp/gsf_zero1/20071203/p1)
+
+[iBatis.NET奮闘記-010 (動的SQL(DynamicSQL-01(UnaryConditionElements, ParameterPresentElements))) (QueryForObject, QueryForList, dynamic, isNull, isNotNull)](http://d.hatena.ne.jp/gsf_zero1/20071204/p2)
+
+[iBatis.NET奮闘記-011 (Apacheプロジェクトから脱退, Google-Codeへ移籍, MyBatis)](http://d.hatena.ne.jp/gsf_zero1/20100806/p3)
+
 ## C#関連
 
 ## いろいろTips
