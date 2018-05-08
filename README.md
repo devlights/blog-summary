@@ -7,6 +7,8 @@
 
 - [Git](https://github.com/devlights/blog-summary#git)
 
+- [VSCode](https://github.com/devlights/blog-summary#vscode)
+
 - [Pythonメモ](https://github.com/devlights/blog-summary#python%E3%83%A1%E3%83%A2)
 
 - [Linq入門記](https://github.com/devlights/blog-summary#linq%E5%85%A5%E9%96%80%E8%A8%98)
@@ -54,6 +56,18 @@
 [Windowsでgitのエディタをgvimに設定するメモ (Git, GitHub for Windows, core.editor, rebase, fixup)](http://d.hatena.ne.jp/gsf_zero1/20121107/p1)
 
 [間違えてマージしちゃいけないブランチにマージしてしまったときにリモートのコミット状態に一致させる (git, merge, checkout, reset --hard)](https://devlights.hatenablog.com/entry/2018/04/26/120822)
+
+## VSCode
+
+[VSCodeでPython開発する際に入れとくべき拡張機能 (Top 10 Visual Studio Code extensions for Python development, Code Runner, Better Comments, GitLens)](http://devlights.hatenablog.com/entry/2018/02/26/173353)
+
+[最近の VSCode の C# サポート具合をメモ (Visual Studio Code, C#, dotnet core, .NET Core)](http://devlights.hatenablog.com/entry/2018/01/14/012735)
+
+[最近の VSCode の Python サポート具合をメモ (Visual Studio Code, Python, conda, pytest)](http://devlights.hatenablog.com/entry/2018/01/13/172140)
+
+[最近の VSCode の Java サポート具合がすごい (Visual Studio Code, Java, JUnit, Maven, Tomcat)](http://devlights.hatenablog.com/entry/2018/01/13/164418)
+
+[vscodeにて特定のエンコーディングで開くことを設定する (workspace settings, file encoding)](http://devlights.hatenablog.com/entry/2017/11/13/164020)
 
 ## Pythonメモ
 
