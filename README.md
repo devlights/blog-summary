@@ -5,6 +5,8 @@
 ---
 ## 目次
 
+- [Git](https://github.com/devlights/blog-summary#git)
+
 - [Pythonメモ](https://github.com/devlights/blog-summary#python%E3%83%A1%E3%83%A2)
 
 - [Linq入門記](https://github.com/devlights/blog-summary#linq%E5%85%A5%E9%96%80%E8%A8%98)
@@ -28,6 +30,8 @@
 - [いろいろTips](https://github.com/devlights/blog-summary#%E3%81%84%E3%82%8D%E3%81%84%E3%82%8Dtips)
 
 ---
+
+## Git
 
 ## Pythonメモ
 
