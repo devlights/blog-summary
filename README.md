@@ -473,8 +473,7 @@
 
 [.NET クラスライブラリ探訪-052 (System.Runtime.CompilerServices.RuntimeHelpers)(オブジェクト識別ID取得, 特殊なGetHashCode, RuntimeHelpers.PrepareMethod, RuntimeHelpers.GetHashCode)](http://d.hatena.ne.jp/gsf_zero1/20120321/p1)
 
-[.NET クラスライブラリ探訪-053 (System.Runtime.CompilerServices.RuntimeHelpers (2))(PrepareConstrainedRegions, ReliabilityContract, CER, Consistency, 信頼性のコントラクト, 事前コンパイル)
-](http://d.hatena.ne.jp/gsf_zero1/20120327/p2)
+[.NET クラスライブラリ探訪-053 (System.Runtime.CompilerServices.RuntimeHelpers (2))(PrepareConstrainedRegions, ReliabilityContract, CER, Consistency, 信頼性のコントラクト, 事前コンパイル)](http://d.hatena.ne.jp/gsf_zero1/20120327/p2)
 
 [.NET クラスライブラリ探訪-054 (System.Runtime.CompilerServices.RuntimeHelpers (3))(ExecuteCodeWithGuaranteedCleanup, TryCode, CleanupCode, ReliabilityContract, CER)](http://d.hatena.ne.jp/gsf_zero1/20120403/p1)
 
@@ -649,6 +648,48 @@
 [ADO.NET入門記-032 (JoinViewを利用して結合表データを表示）(結合ビュー, 複数の表データ, DataSet, DataTable)](http://d.hatena.ne.jp/gsf_zero1/20110721/p3)
 
 ## DataGridView入門記
+
+[DataGridView入門記-01 (非連結モードでの使用)](http://d.hatena.ne.jp/gsf_zero1/20070129/p1)
+
+[DataGridView入門記-02 (奇数行に対してのセルスタイル(CellStyle)の指定)](http://d.hatena.ne.jp/gsf_zero1/20070130/p1)
+
+[DataGridView入門記-03 (デフォルトで用意されているカラムクラス達(DataGridViewColumnサブクラス))](http://d.hatena.ne.jp/gsf_zero1/20070131/p1)
+
+[DataGridView入門記-04 (現在のセルの値の取得(CurrentCell))](http://d.hatena.ne.jp/gsf_zero1/20070201/p1)
+
+[DataGridView入門記-05 (ヘッダーの非表示)](http://d.hatena.ne.jp/gsf_zero1/20070202/p2)
+
+[DataGridView入門記-06 (セルの値変更を検知(CellValueChanged))](http://d.hatena.ne.jp/gsf_zero1/20070207/p1)
+
+[DataGridView入門記-07 (データバインド (IList))(表示)](http://d.hatena.ne.jp/gsf_zero1/20070221/p1)
+
+[DataGridView入門記-08 (データバインド (BindingSource))(表示)](http://d.hatena.ne.jp/gsf_zero1/20070302/p2)
+
+[DataGridView入門記-09 (カスタムオブジェクトのバインド)(カラム自動生成は無し)](http://d.hatena.ne.jp/gsf_zero1/20070306/p1)
+
+[DataGridView入門記-10 (列の表示・非表示・削除)](http://d.hatena.ne.jp/gsf_zero1/20070313/p1)
+
+[DataGridView入門記-11 (コンボボックスカラムのデータバインド)](http://d.hatena.ne.jp/gsf_zero1/20070314/p1)
+
+[DataGridView入門記-12 (行にバインドされているオブジェクトの取得)(DataBoundItem)](http://d.hatena.ne.jp/gsf_zero1/20070315/p1)
+
+[DataGridView入門記-13 (セルが属する行と列)(OwningRow, OwningColumn)](http://d.hatena.ne.jp/gsf_zero1/20070320/p1)
+
+[DataGridView入門記-14 (セルの一部がクリックされた際のイベント)(CellClick)](http://d.hatena.ne.jp/gsf_zero1/20070323/p1)
+
+[DataGridView入門記-15 (セルの内容がクリックされた際のイベント)(CellContentClick)](http://d.hatena.ne.jp/gsf_zero1/20070323/p2)
+
+[DataGridView入門記-16 (セルがダブルクリックされた際のイベント)(CellDoubleClick, CellContentDoubleClick)](http://d.hatena.ne.jp/gsf_zero1/20070326/p1)
+
+[DataGridView入門記-17 (行に規定値を表示)(DefaultValuesNeeded)](http://d.hatena.ne.jp/gsf_zero1/20070328/p1)
+
+[DataGridView入門記-18 (セルの値が変更された際のイベント)(CellValueChanged, CellEnter)](http://d.hatena.ne.jp/gsf_zero1/20070424/p1)
+
+[DataGridView入門記-19 (セルの書式設定が行われる際のイベント)(CellFormatting)](http://d.hatena.ne.jp/gsf_zero1/20070522/p1)
+
+[DataGridView入門記-20 (Shift+Enterで一行上に移動)(KeyDown, Handled, CurrentCell, Keys, ProcessTabKey)](http://d.hatena.ne.jp/gsf_zero1/20080407/p1)
+
+[DataGridView入門記-21 (表示時に値を変換する／入力された値を変換する)(CellFormatting, CellParsing)](http://d.hatena.ne.jp/gsf_zero1/20080712/p1)
 
 ## iBatis(MyBatis)奮闘記
 
