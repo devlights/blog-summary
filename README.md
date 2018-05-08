@@ -33,6 +33,28 @@
 
 ## Git
 
+[macのターミナルでgitのブランチ名表示や補完が効くようにする (git-prompt, git-completion, homebrew)](http://devlights.hatenablog.com/entry/2017/09/24/212303)
+
+[WindowsでgitのdiffとmergeのツールをBeyond Compareに設定するメモ (Git, GitHub for Windows, Beyond Compare 4, difftool, mergetool)](http://devlights.hatenablog.com/entry/2017/09/19/161233)
+
+[detached HEAD状態から元に戻すコマンド (git, checkout, fix a detached HEAD, .git/HEAD, refs/heads/master)](http://d.hatena.ne.jp/gsf_zero1/20130417/p1)
+
+[ローカルでの変更を元に戻すコマンド (git, checkout, ドット)](http://d.hatena.ne.jp/gsf_zero1/20130417/p2)
+
+[こわくない Git (スライド, slideshare)](http://d.hatena.ne.jp/gsf_zero1/20121122/p1)
+
+[git reset --hardした内容を取り消す (git reset --hard, reflog, HEAD@{x}, 取り消してしまったコミットを元に戻す)](http://d.hatena.ne.jp/gsf_zero1/20121121/p1)
+
+[マージでコンフリクトした際にどちらかのブランチの内容を適用 (git merge, conflict, checkout, --ours, --theirs)](http://d.hatena.ne.jp/gsf_zero1/20121120/p1)
+
+[git logのコミット履歴を書式付きグラフで表示 (git log, alias, --format, --graph, --oneline, --abbrev-commit)](http://d.hatena.ne.jp/gsf_zero1/20121119/p1)
+
+[WindowsでgitのdiffとmergeのツールをWinMergeに設定するメモ (Git, GitHub for Windows, WinMerge, difftool, mergetool)](http://d.hatena.ne.jp/gsf_zero1/20121114/p2)
+
+[Windowsでgitのエディタをgvimに設定するメモ (Git, GitHub for Windows, core.editor, rebase, fixup)](http://d.hatena.ne.jp/gsf_zero1/20121107/p1)
+
+[間違えてマージしちゃいけないブランチにマージしてしまったときにリモートのコミット状態に一致させる (git, merge, checkout, reset --hard)](https://devlights.hatenablog.com/entry/2018/04/26/120822)
+
 ## Pythonメモ
 
 [Pythonメモ-00 (マルチバイトを考慮した文字幅を取得)(unicodedata, east_asian_width, multibytes, WF)](http://devlights.hatenablog.com/entry/2017/03/18/180549)
