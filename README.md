@@ -571,85 +571,85 @@
 
 ## DevExpress奮闘記
 
-[DevExpress奮闘記-001 (各プロダクトの日本語化)](http://d.hatena.ne.jp/gsf_zero1/20080213/p1)
+- [DevExpress奮闘記-001 (各プロダクトの日本語化)](http://d.hatena.ne.jp/gsf_zero1/20080213/p1)
 
-[DevExpress奮闘記-002 (XtraGridでコピーペースト関連のKBまとめ)(XtraGrid, DeveloperExpress, GridView, ContextMenu)](http://d.hatena.ne.jp/gsf_zero1/20080301/p1)
+- [DevExpress奮闘記-002 (XtraGridでコピーペースト関連のKBまとめ)(XtraGrid, DeveloperExpress, GridView, ContextMenu)](http://d.hatena.ne.jp/gsf_zero1/20080301/p1)
 
-[DevExpress奮闘記-003 (フォーム全体にスキンを適用) (SkinManager, LookAndFeelHelper)](http://d.hatena.ne.jp/gsf_zero1/20080313/p1)
+- [DevExpress奮闘記-003 (フォーム全体にスキンを適用) (SkinManager, LookAndFeelHelper)](http://d.hatena.ne.jp/gsf_zero1/20080313/p1)
 
-[DevExpress奮闘記-004 TreeListに対してのデータバインディング時の速度差 (TreeList, DataSource, DataSet, BindingSource)](http://d.hatena.ne.jp/gsf_zero1/20080527/p1)
+- [DevExpress奮闘記-004 TreeListに対してのデータバインディング時の速度差 (TreeList, DataSource, DataSet, BindingSource)](http://d.hatena.ne.jp/gsf_zero1/20080527/p1)
 
-[DevExpress奮闘記-005 GridControlにて独自貼り付け処理を実装 (ProcessGridKey, KeyDown, e.Handled)](http://d.hatena.ne.jp/gsf_zero1/20080617/p1)
+- [DevExpress奮闘記-005 GridControlにて独自貼り付け処理を実装 (ProcessGridKey, KeyDown, e.Handled)](http://d.hatena.ne.jp/gsf_zero1/20080617/p1)
 
-[DevExpress奮闘記-006 アプリケーションのフォントを一括指定 (AppearanceObject.DefaultFont)](http://d.hatena.ne.jp/gsf_zero1/20081111/p1)
+- [DevExpress奮闘記-006 アプリケーションのフォントを一括指定 (AppearanceObject.DefaultFont)](http://d.hatena.ne.jp/gsf_zero1/20081111/p1)
 
-[DevExpress奮闘記-007 XPOにて複合主キーを作成するには (XPO, Compound Primary Key, KeyAttribute)](http://d.hatena.ne.jp/gsf_zero1/20081113/p1)
+- [DevExpress奮闘記-007 XPOにて複合主キーを作成するには (XPO, Compound Primary Key, KeyAttribute)](http://d.hatena.ne.jp/gsf_zero1/20081113/p1)
 
-[DevExpress奮闘記-008 XtraEditors LibraryとASP.NETのコントロールがフリーで提供されたみたい](http://d.hatena.ne.jp/gsf_zero1/20081114/p1)
+- [DevExpress奮闘記-008 XtraEditors LibraryとASP.NETのコントロールがフリーで提供されたみたい](http://d.hatena.ne.jp/gsf_zero1/20081114/p1)
 
-[DevExpress奮闘記-009 CodeRush Xpress for C# Developers (CodeRush, Free, フリー)](http://d.hatena.ne.jp/gsf_zero1/20081125/p1)
+- [DevExpress奮闘記-009 CodeRush Xpress for C# Developers (CodeRush, Free, フリー)](http://d.hatena.ne.jp/gsf_zero1/20081125/p1)
 
-[DevExpress奮闘記-010 DevExpress Search](http://d.hatena.ne.jp/gsf_zero1/20081201/p1)
+- [DevExpress奮闘記-010 DevExpress Search](http://d.hatena.ne.jp/gsf_zero1/20081201/p1)
 
-[DevExpress奮闘記-011 XtraGaugeについてのTips (DigitalGauge,LinearGauge,CircularGauge,StateIndicatorGauge)](http://d.hatena.ne.jp/gsf_zero1/20090115/p2)
+- [DevExpress奮闘記-011 XtraGaugeについてのTips (DigitalGauge,LinearGauge,CircularGauge,StateIndicatorGauge)](http://d.hatena.ne.jp/gsf_zero1/20090115/p2)
 
-[DevExpress奮闘記-012 別スレッドでデータソースのデータを変更する(1) (XtraGrid, GridContorl, DataSource, Cross thread operation, DisableThreadingProblemsDetection)](http://d.hatena.ne.jp/gsf_zero1/20090116/p1)
+- [DevExpress奮闘記-012 別スレッドでデータソースのデータを変更する(1) (XtraGrid, GridContorl, DataSource, Cross thread operation, DisableThreadingProblemsDetection)](http://d.hatena.ne.jp/gsf_zero1/20090116/p1)
 
-[DevExpress奮闘記-013 別スレッドでデータソースのデータを変更する(2) (XtraGrid, GridContorl, DataSource, Cross thread operation, DisableThreadingProblemsDetection)](http://d.hatena.ne.jp/gsf_zero1/20090120/p1)
+- [DevExpress奮闘記-013 別スレッドでデータソースのデータを変更する(2) (XtraGrid, GridContorl, DataSource, Cross thread operation, DisableThreadingProblemsDetection)](http://d.hatena.ne.jp/gsf_zero1/20090120/p1)
 
-[DevExpress奮闘記-014 XPO, What’s Coming in 2009?](http://d.hatena.ne.jp/gsf_zero1/20090129/p1)
+- [DevExpress奮闘記-014 XPO, What’s Coming in 2009?](http://d.hatena.ne.jp/gsf_zero1/20090129/p1)
 
-[DevExpress奮闘記-015 XtraTabbedMdiManager](http://d.hatena.ne.jp/gsf_zero1/20090304/p1)
+- [DevExpress奮闘記-015 XtraTabbedMdiManager](http://d.hatena.ne.jp/gsf_zero1/20090304/p1)
 
-[DevExpress奮闘記-016 v2009-01のPreviewおよびBreaking Changes](http://d.hatena.ne.jp/gsf_zero1/20090305/p1)
+- [DevExpress奮闘記-016 v2009-01のPreviewおよびBreaking Changes](http://d.hatena.ne.jp/gsf_zero1/20090305/p1)
 
-[DevExpress奮闘記-017 Great UIシリーズ](http://d.hatena.ne.jp/gsf_zero1/20090305/p2)
+- [DevExpress奮闘記-017 Great UIシリーズ](http://d.hatena.ne.jp/gsf_zero1/20090305/p2)
 
-[DevExpress奮闘記-018 (Using a SQL View with Persistent Classes (XPO))](http://d.hatena.ne.jp/gsf_zero1/20090313/p2)
+- [DevExpress奮闘記-018 (Using a SQL View with Persistent Classes (XPO))](http://d.hatena.ne.jp/gsf_zero1/20090313/p2)
 
-[DevExpress奮闘記-019 (v2009 vol 1 Beta is Now Available)](http://d.hatena.ne.jp/gsf_zero1/20090316/p1)
+- [DevExpress奮闘記-019 (v2009 vol 1 Beta is Now Available)](http://d.hatena.ne.jp/gsf_zero1/20090316/p1)
 
-[DevExpress奮闘記-020 (v2009 vol 1 is Now Available)](http://d.hatena.ne.jp/gsf_zero1/20090401/p1)
+- [DevExpress奮闘記-020 (v2009 vol 1 is Now Available)](http://d.hatena.ne.jp/gsf_zero1/20090401/p1)
 
-[DevExpress奮闘記-021 (XtraGridでのデータコピーの仕様)](http://d.hatena.ne.jp/gsf_zero1/20090515/p1)
+- [DevExpress奮闘記-021 (XtraGridでのデータコピーの仕様)](http://d.hatena.ne.jp/gsf_zero1/20090515/p1)
 
-[DevExpress奮闘記-022 (New Skin/Theme v2009 vol 2)](http://d.hatena.ne.jp/gsf_zero1/20090605/p1)
+- [DevExpress奮闘記-022 (New Skin/Theme v2009 vol 2)](http://d.hatena.ne.jp/gsf_zero1/20090605/p1)
 
-[DevExpress奮闘記-023 (コピー時にカラム名を付加するかどうかの切り替え, OptionsBehavior.CopyToClipboardWithColumnHeaders)](http://d.hatena.ne.jp/gsf_zero1/20090617/p1)
+- [DevExpress奮闘記-023 (コピー時にカラム名を付加するかどうかの切り替え, OptionsBehavior.CopyToClipboardWithColumnHeaders)](http://d.hatena.ne.jp/gsf_zero1/20090617/p1)
 
-[DevExpress奮闘記-024 (CodeRush Xpress, 使い方, howto)](http://d.hatena.ne.jp/gsf_zero1/20090626/p1)
+- [DevExpress奮闘記-024 (CodeRush Xpress, 使い方, howto)](http://d.hatena.ne.jp/gsf_zero1/20090626/p1)
 
-[DevExpress奮闘記-025 (wallpaper)](http://d.hatena.ne.jp/gsf_zero1/20090707/p1)
+- [DevExpress奮闘記-025 (wallpaper)](http://d.hatena.ne.jp/gsf_zero1/20090707/p1)
 
-[DevExpress奮闘記-026 (DevExpressを使ったちょっとしたアプリ-01, ado.net, GetSchema)](http://d.hatena.ne.jp/gsf_zero1/20090716/p1)
+- [DevExpress奮闘記-026 (DevExpressを使ったちょっとしたアプリ-01, ado.net, GetSchema)](http://d.hatena.ne.jp/gsf_zero1/20090716/p1)
 
-[DevExpress奮闘記-027 (DevExpressを使ったちょっとしたアプリ-02, 簡易電卓, calc)](http://d.hatena.ne.jp/gsf_zero1/20090722/p1)
+- [DevExpress奮闘記-027 (DevExpressを使ったちょっとしたアプリ-02, 簡易電卓, calc)](http://d.hatena.ne.jp/gsf_zero1/20090722/p1)
 
-[DevExpress奮闘記-028 (XPO Best Practices, Mapping to an Existing Database with XPO)](http://d.hatena.ne.jp/gsf_zero1/20090731/p1)
+- [DevExpress奮闘記-028 (XPO Best Practices, Mapping to an Existing Database with XPO)](http://d.hatena.ne.jp/gsf_zero1/20090731/p1)
 
-[DevExpress奮闘記-029 (XPOでの非同期ローディング)(XPO, LoadAsync, XPCollection, UnitOfWork, CommitChangesAsync)](http://d.hatena.ne.jp/gsf_zero1/20090805/p1)
+- [DevExpress奮闘記-029 (XPOでの非同期ローディング)(XPO, LoadAsync, XPCollection, UnitOfWork, CommitChangesAsync)](http://d.hatena.ne.jp/gsf_zero1/20090805/p1)
 
-[DevExpress奮闘記-030 (2009 Vol.2リリース)(CodeRush, Refactor, DXCore)](http://d.hatena.ne.jp/gsf_zero1/20090826/p1)
+- [DevExpress奮闘記-030 (2009 Vol.2リリース)(CodeRush, Refactor, DXCore)](http://d.hatena.ne.jp/gsf_zero1/20090826/p1)
 
-[DevExpress奮闘記-031 (vol 2.6リリース)(Fixed Version, Installer, Bug)](http://d.hatena.ne.jp/gsf_zero1/20090923/p2)
+- [DevExpress奮闘記-031 (vol 2.6リリース)(Fixed Version, Installer, Bug)](http://d.hatena.ne.jp/gsf_zero1/20090923/p2)
 
-[DevExpress奮闘記-032 (VGridControlとPropertyGridControlに関するもろもろ)(VGridControlBase, UnboundMode, LayoutStyle)](http://d.hatena.ne.jp/gsf_zero1/20090923/p3)
+- [DevExpress奮闘記-032 (VGridControlとPropertyGridControlに関するもろもろ)(VGridControlBase, UnboundMode, LayoutStyle)](http://d.hatena.ne.jp/gsf_zero1/20090923/p3)
 
-[DevExpress奮闘記-033 (DateEditにて時刻も編集できるようにする)(DateEdit, RepositoryItemDateEdit, FormatString, EditMask, VistaDisplayMode, VistaEditTime)](http://d.hatena.ne.jp/gsf_zero1/20091009/p1)
+- [DevExpress奮闘記-033 (DateEditにて時刻も編集できるようにする)(DateEdit, RepositoryItemDateEdit, FormatString, EditMask, VistaDisplayMode, VistaEditTime)](http://d.hatena.ne.jp/gsf_zero1/20091009/p1)
 
-[DevExpress奮闘記-034 (Professional DevExpress ASP.NET Controls)(書籍, 洋書)](http://d.hatena.ne.jp/gsf_zero1/20091102/p1)
+- [DevExpress奮闘記-034 (Professional DevExpress ASP.NET Controls)(書籍, 洋書)](http://d.hatena.ne.jp/gsf_zero1/20091102/p1)
 
-[DevExpress奮闘記-035 (v2009 vol.2.8リリース)(緊急アップデート, 脆弱性, ASP.NET, Security Vulnerability)](http://d.hatena.ne.jp/gsf_zero1/20091109/p1)
+- [DevExpress奮闘記-035 (v2009 vol.2.8リリース)(緊急アップデート, 脆弱性, ASP.NET, Security Vulnerability)](http://d.hatena.ne.jp/gsf_zero1/20091109/p1)
 
-[DevExpress奮闘記-036 (ローカライズ, Localize)](http://d.hatena.ne.jp/gsf_zero1/20091126/p1)
+- [DevExpress奮闘記-036 (ローカライズ, Localize)](http://d.hatena.ne.jp/gsf_zero1/20091126/p1)
 
-[DevExpress奮闘記-037 (Code Rush, Plugin, Method Preview, プラグイン, プレビュー)](http://d.hatena.ne.jp/gsf_zero1/20091210/p1)
+- [DevExpress奮闘記-037 (Code Rush, Plugin, Method Preview, プラグイン, プレビュー)](http://d.hatena.ne.jp/gsf_zero1/20091210/p1)
 
-[DevExpress奮闘記-038 (Detail側の件数が０件の場合にプラスボタンを非表示にする）(GridControl, CustomDrawCell, CellButtonRect, CellValueRect, Rectangle.Empty)](http://d.hatena.ne.jp/gsf_zero1/20100223/p2)
+- [DevExpress奮闘記-038 (Detail側の件数が０件の場合にプラスボタンを非表示にする）(GridControl, CustomDrawCell, CellButtonRect, CellValueRect, Rectangle.Empty)](http://d.hatena.ne.jp/gsf_zero1/20100223/p2)
 
-[DevExpress奮闘記-039 (ASP.NET Captcha Control)(キャプチャコントロール)](http://d.hatena.ne.jp/gsf_zero1/20100225/p1)
+- [DevExpress奮闘記-039 (ASP.NET Captcha Control)(キャプチャコントロール)](http://d.hatena.ne.jp/gsf_zero1/20100225/p1)
 
-[DevExpress奮闘記-040 (DevExpress DLLを配布する際に注意する事)(Visual Studio, CopyLocal)](http://d.hatena.ne.jp/gsf_zero1/20100402/p1)
+- [DevExpress奮闘記-040 (DevExpress DLLを配布する際に注意する事)(Visual Studio, CopyLocal)](http://d.hatena.ne.jp/gsf_zero1/20100402/p1)
 
 ## WCF関連
 
