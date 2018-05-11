@@ -651,6 +651,46 @@
 
 - [DevExpress奮闘記-040 (DevExpress DLLを配布する際に注意する事)(Visual Studio, CopyLocal)](http://d.hatena.ne.jp/gsf_zero1/20100402/p1)
 
+- [DevExpress奮闘記-041 (CodeRush Xpressでのオプションダイアログ表示)(Options, Dialog)](http://d.hatena.ne.jp/gsf_zero1/20100407/p1)
+
+- [DevExpress奮闘記-042 (eXpress Presentation Framework)(XPF, Silverlight, Ag, WPF, XAF)](http://d.hatena.ne.jp/gsf_zero1/20100407/p2)
+
+- [DevExpress奮闘記-043 (v2010 vol.1のインストーラ)(VS2005の対応無し,WPF,ドキュメントが付属していない)](http://d.hatena.ne.jp/gsf_zero1/20100417/p1)
+
+- [DevExpress奮闘記-044 (v2010 vol.1のRCリリース)(What's New)](http://d.hatena.ne.jp/gsf_zero1/20100422/p1)
+
+- [DevExpress奮闘記-045 (v2010 vol.1のRC2リリース)(Breaking Changes, WPF, Silverlight, Xpf)](http://d.hatena.ne.jp/gsf_zero1/20100502/p1)
+
+- [DevExpress奮闘記-046 (WPF Project Wizard)(WPF, DXGrid, Xpf)](http://d.hatena.ne.jp/gsf_zero1/20100516/p1)
+
+- [DevExpress奮闘記-047 (InMemoryDataStore)(XPO, DataSet, インメモリデータストア)](http://d.hatena.ne.jp/gsf_zero1/20100517/p1)
+
+- [DevExpress奮闘記-048 (eXpressApp Framework v10.1 Application Model Migration Guidelines)(XAF, 移行)](http://d.hatena.ne.jp/gsf_zero1/20100518/p1)
+
+- [DevExpress奮闘記-049 (v2010 vol.1正式リリース)](http://d.hatena.ne.jp/gsf_zero1/20100520/p2)
+
+- [DevExpress奮闘記-050 (HELP! It’s all new!, オンラインドキュメントがニューバージョンに)](http://d.hatena.ne.jp/gsf_zero1/20100625/p1)
+
+- [DevExpress奮闘記-051 (LINQ to XPOのサンプルがKBにアップ)](http://d.hatena.ne.jp/gsf_zero1/20100701/p1)
+
+- [DevExpress奮闘記-052 (XPO to Database Connectivity: Mastering Fork Etiquette, DataStoreFork, ASP.NET, IIS)](http://d.hatena.ne.jp/gsf_zero1/20100708/p2)
+
+- [DevExpress奮闘記-053 (Exporting Data from an XtraPivotGrid in Visual Studio 2010, Excel, xlsx, IE8)](http://d.hatena.ne.jp/gsf_zero1/20100714/p2)
+
+- [DevExpress奮闘記-054 (The DXCore Visualize Toolbar, CodeRush, Refactor, ツールバー)](http://d.hatena.ne.jp/gsf_zero1/20100728/p1)
+
+- [DevExpress奮闘記-055 (Using the XtraPivotGrid As an XtraChart Datasource, XtraPivotGridをXtraChartのデータソースとして利用する)](http://d.hatena.ne.jp/gsf_zero1/20100729/p3)
+
+- [DevExpress奮闘記-056 (10 exciting things to know about XAF, eXpress App Framework, XAFまとめ)](http://d.hatena.ne.jp/gsf_zero1/20100810/p2)
+
+- [DevExpress奮闘記-057 (Creating a WinForms Chart at Run-time, XtraChartを動的に作成)](http://d.hatena.ne.jp/gsf_zero1/20100814/p1)
+
+- [DevExpress奮闘記-058 (サイトデザインがリニューアル, beta)](http://d.hatena.ne.jp/gsf_zero1/20100824/p2)
+
+- [DevExpress奮闘記-059 (XPOがストアドプロシージャに対応, v2010 vol.2, 新機能)](http://d.hatena.ne.jp/gsf_zero1/20100924/p1)
+
+- [DevExpress奮闘記-060 (XPOがダイレクトSQLクエリに対応, v2010 vol.2, 新機能)](http://d.hatena.ne.jp/gsf_zero1/20101013/p1)
+
 ## WCF関連
 
 - [MicrosoftがWCF向けのJava用相互運用バインディングをリリース (WCF, Binding, CodePlex, Websphere, WebLogic, Axis2)](http://d.hatena.ne.jp/gsf_zero1/20110711/p1)
