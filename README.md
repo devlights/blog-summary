@@ -621,35 +621,35 @@
 
 [DevExpress奮闘記-025 (wallpaper)](http://d.hatena.ne.jp/gsf_zero1/20090707/p1)
 
-[]()
+[DevExpress奮闘記-026 (DevExpressを使ったちょっとしたアプリ-01, ado.net, GetSchema)](http://d.hatena.ne.jp/gsf_zero1/20090716/p1)
 
-[]()
+[DevExpress奮闘記-027 (DevExpressを使ったちょっとしたアプリ-02, 簡易電卓, calc)](http://d.hatena.ne.jp/gsf_zero1/20090722/p1)
 
-[]()
+[DevExpress奮闘記-028 (XPO Best Practices, Mapping to an Existing Database with XPO)](http://d.hatena.ne.jp/gsf_zero1/20090731/p1)
 
-[]()
+[DevExpress奮闘記-029 (XPOでの非同期ローディング)(XPO, LoadAsync, XPCollection, UnitOfWork, CommitChangesAsync)](http://d.hatena.ne.jp/gsf_zero1/20090805/p1)
 
-[]()
+[DevExpress奮闘記-030 (2009 Vol.2リリース)(CodeRush, Refactor, DXCore)](http://d.hatena.ne.jp/gsf_zero1/20090826/p1)
 
-[]()
+[DevExpress奮闘記-031 (vol 2.6リリース)(Fixed Version, Installer, Bug)](http://d.hatena.ne.jp/gsf_zero1/20090923/p2)
 
-[]()
+[DevExpress奮闘記-032 (VGridControlとPropertyGridControlに関するもろもろ)(VGridControlBase, UnboundMode, LayoutStyle)](http://d.hatena.ne.jp/gsf_zero1/20090923/p3)
 
-[]()
+[DevExpress奮闘記-033 (DateEditにて時刻も編集できるようにする)(DateEdit, RepositoryItemDateEdit, FormatString, EditMask, VistaDisplayMode, VistaEditTime)](http://d.hatena.ne.jp/gsf_zero1/20091009/p1)
 
-[]()
+[DevExpress奮闘記-034 (Professional DevExpress ASP.NET Controls)(書籍, 洋書)](http://d.hatena.ne.jp/gsf_zero1/20091102/p1)
 
-[]()
+[DevExpress奮闘記-035 (v2009 vol.2.8リリース)(緊急アップデート, 脆弱性, ASP.NET, Security Vulnerability)](http://d.hatena.ne.jp/gsf_zero1/20091109/p1)
 
-[]()
+[DevExpress奮闘記-036 (ローカライズ, Localize)](http://d.hatena.ne.jp/gsf_zero1/20091126/p1)
 
-[]()
+[DevExpress奮闘記-037 (Code Rush, Plugin, Method Preview, プラグイン, プレビュー)](http://d.hatena.ne.jp/gsf_zero1/20091210/p1)
 
-[]()
+[DevExpress奮闘記-038 (Detail側の件数が０件の場合にプラスボタンを非表示にする）(GridControl, CustomDrawCell, CellButtonRect, CellValueRect, Rectangle.Empty)](http://d.hatena.ne.jp/gsf_zero1/20100223/p2)
 
-[]()
+[DevExpress奮闘記-039 (ASP.NET Captcha Control)(キャプチャコントロール)](http://d.hatena.ne.jp/gsf_zero1/20100225/p1)
 
-[]()
+[DevExpress奮闘記-040 (DevExpress DLLを配布する際に注意する事)(Visual Studio, CopyLocal)](http://d.hatena.ne.jp/gsf_zero1/20100402/p1)
 
 ## WCF関連
 
