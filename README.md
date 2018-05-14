@@ -225,6 +225,8 @@
 
 - [Pythonメモ-76 (Qt for Python) (PySide2から名称変更, まだリリースされていない, LGPL)](https://devlights.hatenablog.com/entry/2018/04/23/114446)
 
+- [Pythonメモ-77 (Pyre -- Fast Type Checking for Python) (facebook, 型チェッカー, mypy, そのうちPyCharmでサポートされるかも)](https://devlights.hatenablog.com/entry/2018/05/14/125226)
+
 ## Linq入門記
 
 - [Linq入門記-01 (遅延実行、例外処理, try, catch)](http://d.hatena.ne.jp/gsf_zero1/20091204/p3)
