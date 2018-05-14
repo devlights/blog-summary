@@ -691,6 +691,48 @@
 
 - [DevExpress奮闘記-060 (XPOがダイレクトSQLクエリに対応, v2010 vol.2, 新機能)](http://d.hatena.ne.jp/gsf_zero1/20101013/p1)
 
+- [DevExpress奮闘記-061 (Project wizard for WinForms, v2010 vol.2, 新機能)](http://d.hatena.ne.jp/gsf_zero1/20101020/p2)
+
+- [DevExpress奮闘記-062 (XPO Worst Practices, Why are objects not deleted when I delete them in the XtraGrid?)](http://d.hatena.ne.jp/gsf_zero1/20101029/p1)
+
+- [DevExpress奮闘記-063 (Videoのtranscriptをダウンロード, 写し)](http://d.hatena.ne.jp/gsf_zero1/20101103/p1)
+
+- [DevExpress奮闘記-064 (v2010 vol.2の新機能まとめ, リリース前)](http://d.hatena.ne.jp/gsf_zero1/20101113/p1)
+
+- [DevExpress奮闘記-065 (v2010 Vol.2のRCリリース)](http://d.hatena.ne.jp/gsf_zero1/20101119/p1)
+
+- [DevExpress奮闘記-066 (DXRichEditとDXSchedulerのサンプル, v2010 vol.2, チュートリアル, サンプル)](http://d.hatena.ne.jp/gsf_zero1/20101121/p2)
+
+- [DevExpress奮闘記-067 (XPOのDirect SQL QueriesとLinq To XPOについて)(v2010 vol2, Linq To XPO, Direct SQL, ExecuteQuery, GetObjectsFromQuery)](http://d.hatena.ne.jp/gsf_zero1/20101122/p1)
+
+- [DevExpress奮闘記-068 (v2010 Vol.2リリース, version 2.3)](http://d.hatena.ne.jp/gsf_zero1/20101202/p1)
+
+- [DevExpress奮闘記-069 (ASPxTreeViewを利用してMSDNライクなツリーを作成, ASPxTreeView, ASPxSplitter, ASPxPanel, ASPxCallbackPanel)](http://d.hatena.ne.jp/gsf_zero1/20101206/p1)
+
+- [DevExpress奮闘記-070 (全製品の日本語メッセージファイルが揃っています, Fully Translated)](http://d.hatena.ne.jp/gsf_zero1/20101224/p1)
+
+- [DevExpress奮闘記-071 (2011 Roadmap, ロードマップ, DXGrid, DXEditors, DXDocking, DXRibbon, Instant Feedback UI)](http://d.hatena.ne.jp/gsf_zero1/20110217/p1)
+
+- [DevExpress奮闘記-072 (WPF Grid Control and the New Instant Feedback UI Mode – Coming in v2011.1)](http://d.hatena.ne.jp/gsf_zero1/20110303/p1)
+
+- [DevExpress奮闘記-073 (壁紙, テーマ, Free DevExpress Wallpapers and Windows 7 Aero Theme)](http://d.hatena.ne.jp/gsf_zero1/20110405/p2)
+
+- [DevExpress奮闘記-074 (CheckEditのちょっとしたTips)(ValueChecked, CheckStyle, RadioGroupIndex)](http://d.hatena.ne.jp/gsf_zero1/20110507/p2)
+
+- [DevExpress奮闘記-075 (RadioGroupコントロール)(RadioGroupItem, ValidateOnEnterKey)](http://d.hatena.ne.jp/gsf_zero1/20110507/p3)
+
+- [DevExpress奮闘記-076 (LabelControlコントロール)(LineVisible, 垂直線、水平線を表示)](http://d.hatena.ne.jp/gsf_zero1/20110515/p1)
+
+- [DevExpress奮闘記-077 (XPO, XtraGrid)(Linq To XPO, XPQuery, EnumerateAsync, 非同期クエリ実行)](http://d.hatena.ne.jp/gsf_zero1/20110517/p1)
+
+- [DevExpress奮闘記-078 (InstantFeedback Modeを試してみた)(LinqInstantFeedbackSource, XPInstantFeedbackSource, IQueryable, FindPanelのバグ)](http://d.hatena.ne.jp/gsf_zero1/20110518/p1)
+
+- [DevExpress奮闘記-079 (InMemoryDataStoreとXpCollection.LoadAsyncのサンプル)(LoadAsync, AsyncLoadObjectCallback, InMemoryDataStore)](http://d.hatena.ne.jp/gsf_zero1/20110520/p1)
+
+- [DevExpress奮闘記-080 (Criteriaの内容をDataSetやDB用の条件に変換(K18434))(CriteriaToWhereClauseHelper, GetDataSetWhere, CriteriaOperator)](http://d.hatena.ne.jp/gsf_zero1/20110524/p2)
+
+- []()
+
 ## WCF関連
 
 - [MicrosoftがWCF向けのJava用相互運用バインディングをリリース (WCF, Binding, CodePlex, Websphere, WebLogic, Axis2)](http://d.hatena.ne.jp/gsf_zero1/20110711/p1)
