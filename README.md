@@ -791,16 +791,45 @@
 
 - [DevExpress奮闘記-110 (LINQPadでLINQ to XPO, XPOContextDriver, DevExpress.XPO)](http://d.hatena.ne.jp/gsf_zero1/20120801/p1)
 
-- []()
+- [DevExpress奮闘記-111 (CodeRush Tips&Tricks, Implementing the IDisposable pattern using CodeRush, IDisposableパターン自動実装, 翻訳)](http://d.hatena.ne.jp/gsf_zero1/20120818/p1)
 
-- []()
+- [DevExpress奮闘記-112 (RealTimeSourceを試してみた, 120000件超のデータ読み込み, C# 5.0のasync/awaitも利用)](http://d.hatena.ne.jp/gsf_zero1/20120820/p1)
 
-- []()
+- [DevExpress奮闘記-113 (ORM Data Model WizardがVisualStudio 2012で利用できない件, ver12.1.3から利用できない)](http://d.hatena.ne.jp/gsf_zero1/20120822/p1)
 
-- []()
+- [DevExpress奮闘記-114 (devexpress.jp, 日本サイトがオープンしてた, XtraGrid for WinForms日本語版)](http://d.hatena.ne.jp/gsf_zero1/20120825/p1)
 
-- []()
+- [DevExpress奮闘記-115 (VisualStudio, ツールボックス, 重複, ローディングが遅い, How to resolve issues with Toolbox items, KA18574)](http://d.hatena.ne.jp/gsf_zero1/20120903/p1)
 
+- [DevExpress奮闘記-116 (DevExpress Winforms ControlsがCoded UI Testに対応, コード化されたUIテスト)](http://d.hatena.ne.jp/gsf_zero1/20120906/p1)
+
+- [DevExpress奮闘記-117 (DXTREME, multi-screen applications across platforms and devices, Windows 8, iPhone, iPad, Android)](http://d.hatena.ne.jp/gsf_zero1/20120918/p1)
+
+- [DevExpress奮闘記-118 (商用版とフリー版のCodeRush (Refactor!)の機能差異, CodeRushXpress, Differences between paid (Pro) and free Refactor! versions)](http://d.hatena.ne.jp/gsf_zero1/20121002/p1)
+
+- [DevExpress奮闘記-119 (Map Control for WPFをちょっと使ってみた, DXMap, Bing Maps, BingSearchDataProvider)](http://d.hatena.ne.jp/gsf_zero1/20121116/p1)
+
+- [DevExpress奮闘記-120 (XPOのDirect SQL query機能にてパラメータクエリのサポート, parameterized SQL query, LINQ to XPOでjoinサポート)](http://d.hatena.ne.jp/gsf_zero1/20121201/p1)
+
+- [DevExpress奮闘記-121 (XPO, Session.ExecuteQueryWithMetadata, 結果と列情報を一度に取得)](http://d.hatena.ne.jp/gsf_zero1/20121202/p1)
+
+- [DevExpress奮闘記-122 (v2013.1よりSpreadsheet Controlが追加, スプレッドシート)](http://d.hatena.ne.jp/gsf_zero1/20130511/p2)
+
+- [DevExpress奮闘記-123 (TestCafeリリース, Web Test Framework, 非商用利用は無償)](http://d.hatena.ne.jp/gsf_zero1/20130808/p1)
+
+- [DevExpress奮闘記-124 (PDBファイルがダウンロード可能に, DXperience以上のライセンス必要)](http://d.hatena.ne.jp/gsf_zero1/20130828/p1)
+
+- [DevExpress奮闘記-125 (CodeRush Unit Test Builder, UTB, ユニットテスト自動作成)](http://devlights.hatenablog.com/entry/2014/04/29/171113)
+
+- [DevExpress奮闘記-126 (Assembly Deployment Tool, 配布時に必要なDLLを選択してくれるツール)](DevExpress奮闘記-126 (Assembly Deployment Tool, 配布時に必要なDLLを選択してくれるツール))
+
+- [DevExpress奮闘記-127 (v14.2のリリース前情報メモ)](http://devlights.hatenablog.com/entry/2014/11/27/215239)
+
+- [DevExpress奮闘記-128 (CodeRushのテンプレート展開キーを変更, SpaceからTabへ)](http://devlights.hatenablog.com/entry/2015/03/10/163032)
+
+- [DevExpress奮闘記-129 (v15.2でダイアグラムコントロールが追加される (Diagram Control, WinForms, WPF, Visio inspired Diagram Control))](http://devlights.hatenablog.com/entry/2015/11/12/170310)
+
+- [番外編．CsvEditor for BIP (BIP, 帳票ツール, CSV編集ツール, XtraGrid, XtraVerticalGrid, XtraBars)](http://d.hatena.ne.jp/gsf_zero1/20101106/p1)
 
 ## WCF関連
 
