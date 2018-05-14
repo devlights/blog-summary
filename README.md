@@ -771,7 +771,36 @@
 
 - [DevExpress奮闘記-100 (CodeRush Tips&Tricks, DXCore/CodeRushプラグインのローディング時トラブルシューティング, 翻訳)](http://d.hatena.ne.jp/gsf_zero1/20120518/p1)
 
+- [DevExpress奮闘記-101 (ASPxGridView, How to sort groups, CustomColumnSortイベント, カスタムソート, グルーピングした列と別の列でソートする)](http://d.hatena.ne.jp/gsf_zero1/20120524/p1)
+
+- [DevExpress奮闘記-102 (CodeRush Tips&Tricks, Code Generation – Create Ancestor, 親クラス生成, 翻訳)](http://d.hatena.ne.jp/gsf_zero1/20120605/p1)
+
+- [DevExpress奮闘記-103 (CodeRush Tips&Tricks, Code Generation – Create Descendant, 子クラス生成, 翻訳)](http://d.hatena.ne.jp/gsf_zero1/20120605/p2)
+
+- [DevExpress奮闘記-104 (CodeRush Tips&Tricks, Code Generation – Creating interface implementers, 実装クラス生成, 翻訳)](http://d.hatena.ne.jp/gsf_zero1/20120607/p1)
+
+- [DevExpress奮闘記-105 (CodeRush Tips&Tricks, Code Generation – Declare Attribute, 属性生成, 翻訳)](http://d.hatena.ne.jp/gsf_zero1/20120608/p1)
+
+- [DevExpress奮闘記-106 (XPO, log the SQL queries, SQLのロギングの方法あれこれ, TraceListener, DataStoreLogger)](http://d.hatena.ne.jp/gsf_zero1/20120626/p1)
+
+- [DevExpress奮闘記-107 (XPO, XPO Profiler, XPOの状態をプロファイリング, localhost, log)](http://d.hatena.ne.jp/gsf_zero1/20120627/p1)
+
+- [DevExpress奮闘記-108 (RealTimeSource Data Sourceを試してみた, データの変更を非同期でUI側に伝えるブリッジデータソース)](http://d.hatena.ne.jp/gsf_zero1/20120630/p1)
+
+- [DevExpress奮闘記-109 (CodeRushを使ってINotifyPropertyChangedインターフェース実装クラスを手軽に作成, Paste Event Trigger)](http://d.hatena.ne.jp/gsf_zero1/20120705/p1)
+
+- [DevExpress奮闘記-110 (LINQPadでLINQ to XPO, XPOContextDriver, DevExpress.XPO)](http://d.hatena.ne.jp/gsf_zero1/20120801/p1)
+
 - []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
 
 ## WCF関連
 
