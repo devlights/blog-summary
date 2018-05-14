@@ -751,6 +751,26 @@
 
 - [DevExpress奮闘記-090 (CodeIssueAnalysis, Code Rush プラグイン, CodeIssueの結果を一覧表示, HTMLにエクスポート)](http://d.hatena.ne.jp/gsf_zero1/20110922/p1)
 
+- [DevExpress奮闘記-091 (v2011 vol.2からのWinForms Skinの格納DLLについて, Metro, VS2010, Office 2010)](http://d.hatena.ne.jp/gsf_zero1/20111004/p1)
+
+- [DevExpress奮闘記-092 (XtraGrid, AllowFixedGroups, スクロール時にグループ帯を常に表示)](http://d.hatena.ne.jp/gsf_zero1/20111208/p1)
+
+- [DevExpress奮闘記-093 (v2011 vol.2リリースノート 個人的まとめ)](http://d.hatena.ne.jp/gsf_zero1/20120120/p1)
+
+- [DevExpress奮闘記-094 (CodeRush Tips&Tricks)](http://d.hatena.ne.jp/gsf_zero1/20120201/p2)
+
+- [DevExpress奮闘記-095 (How to implement CRUD operations using DXGrid シリーズ, WPF, Silverlight, behavior, XPO, WCF Data Services, LINQ to SQL, Entity Framework)](http://d.hatena.ne.jp/gsf_zero1/20120301/p1)
+
+- [DevExpress奮闘記-096 (XPOとIdentityMap, リロード時、キャンセル時の注意点, XPLiteObject, UnitOfWork, DropIdentityMap, ReloadChangedObjects, XPCollection.Reload, OptimisticLockField)](http://d.hatena.ne.jp/gsf_zero1/20120306/p1)
+
+- [DevExpress奮闘記-097 (TDD with CodeRush, テスト駆動型開発, VSTest, NUnit)](http://d.hatena.ne.jp/gsf_zero1/20120329/p1)
+
+- [DevExpress奮闘記-098 (FacebookやTwitterみたいに最下部までスクロールしたら自動的に次のページ分を表示, How to load the content while scrolling, ASPxCallback, ASPxClientUtils)](http://d.hatena.ne.jp/gsf_zero1/20120330/p1)
+
+- [DevExpress奮闘記-099 (Complete Website Sample of DevExpress ASP.NET Wizard, Wizard Interface, ASP.NET Webforms, ASP.NET MVC)](http://d.hatena.ne.jp/gsf_zero1/20120511/p1)
+
+- [DevExpress奮闘記-100 (CodeRush Tips&Tricks, DXCore/CodeRushプラグインのローディング時トラブルシューティング, 翻訳)](http://d.hatena.ne.jp/gsf_zero1/20120518/p1)
+
 - []()
 
 ## WCF関連
