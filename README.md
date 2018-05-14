@@ -731,6 +731,26 @@
 
 - [DevExpress奮闘記-080 (Criteriaの内容をDataSetやDB用の条件に変換(K18434))(CriteriaToWhereClauseHelper, GetDataSetWhere, CriteriaOperator)](http://d.hatena.ne.jp/gsf_zero1/20110524/p2)
 
+- [DevExpress奮闘記-081 (ソート列を複数設定)(ASPxGridView, Shiftキー, クリック)](http://d.hatena.ne.jp/gsf_zero1/20110627/p1)
+
+- [DevExpress奮闘記-082 (XtraRichEditがDoc形式をサポート)(v2011.1, RichEditor, LoadDocument)](http://d.hatena.ne.jp/gsf_zero1/20110721/p1)
+
+- [DevExpress奮闘記-083 (DevExpressがLightSwitch Extensionsをリリース)(DevExpress LightSwitch Extensions, XtraReports, DXEditor, Editor部分は無償)](http://d.hatena.ne.jp/gsf_zero1/20110721/p2)
+
+- [DevExpress奮闘記-084 (XtraTreeListのUnboundModeと動的ローディング)(TreeList, BeforeExpand, Dynamic Loading, KeyFieldName, ParentFieldName)](http://d.hatena.ne.jp/gsf_zero1/20110722/p1)
+
+- [DevExpress奮闘記-085 (日本語化(ローカライズ)についての日本語KBが公開)(Japanese, Localize, 日本語化)](http://d.hatena.ne.jp/gsf_zero1/20110724/p1)
+
+- [DevExpress奮闘記-086 (ASP.NET製品の日本語化(ローカライズ)についての日本語KBが公開)(Japanese, Localize, 日本語化, ASP.NET)](http://d.hatena.ne.jp/gsf_zero1/20110802/p1)
+
+- [DevExpress奮闘記-087 (WinForms Splash Screen Component, スプラッシュスクリーン, v2011 vol.2)](http://d.hatena.ne.jp/gsf_zero1/20110902/p1)
+
+- [DevExpress奮闘記-088 (XtraGrid, エンター押下で1行下の列に移動, KeyUp, FocusedRowHandle, ShowEditor)](http://d.hatena.ne.jp/gsf_zero1/20110909/p1)
+
+- [DevExpress奮闘記-089 (JSONとXPOの連携, TwitterデータをJSONで取得しXPOでDBに連携)](http://d.hatena.ne.jp/gsf_zero1/20110915/p1)
+
+- [DevExpress奮闘記-090 (CodeIssueAnalysis, Code Rush プラグイン, CodeIssueの結果を一覧表示, HTMLにエクスポート)](http://d.hatena.ne.jp/gsf_zero1/20110922/p1)
+
 - []()
 
 ## WCF関連
