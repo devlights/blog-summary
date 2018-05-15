@@ -73,6 +73,40 @@
 
 ## VisualStudio
 
+- [VisualStudioでdiffとmergeのツールをBeyond Compareに設定するメモ (TFS, TFVC, VisualStudio, Beyond Compare 4)](http://devlights.hatenablog.com/entry/2017/09/20/152153)
+
+- [VisualStudio "15" Preview2にてXAMLのEdit Continueが可能に](http://devlights.hatenablog.com/entry/2016/05/16/142755)
+
+- [PerfTips (VisualStudio 2014 CTP3, 処理速度計測, CPUタイム)](http://devlights.hatenablog.com/entry/2014/08/20/140610)
+
+- [VisualStudioプロジェクトプロパティの「32ビットの優先」チェックボックス](http://devlights.hatenablog.com/entry/2014/04/28/091535)
+
+- [Modified VS 2012 Theme (CodeProject, VisualStudio 2012のテーマを変更する方法)](http://d.hatena.ne.jp/gsf_zero1/20120907/p1)
+
+- [WPFデザイナで選択中コントロールのコンテナを選択するショートカット (WPFデザイナ, VisualStudio, ESCキー)](http://d.hatena.ne.jp/gsf_zero1/20120512/p1)
+
+- [Visual Studio 2010の起動が遅くなる現象について (VS2010, Silverlight 5, Microsoft.VisualStudio.IDE.ToolboxControlsInstaller,ToolboxInstallerPackage, "{2C298B35-07DA-45F1-96A3-BE55D91C8D7A}")](http://d.hatena.ne.jp/gsf_zero1/20120409/p1)
+
+- [VisualStudioのデバッガー上で$exceptionってすると例外情報が表示できる](http://d.hatena.ne.jp/gsf_zero1/20120323/p1)
+
+- [Visual Studio 2010 評価ガイド - ユーザーインターフェイスの自動テスト (MSDN, VisualStudio, CodedUITest, コード化されたUIテスト)](http://d.hatena.ne.jp/gsf_zero1/20100906/p1)
+
+- [VS2010の自動UIテストとATOKの相性が悪い・・・(VisualStudio 2010, VS2010, Coded UI Tests, ATOK, コード化されたUIテスト, レコーディングUIテスト)](http://d.hatena.ne.jp/gsf_zero1/20100827/p1)
+
+- [Search and Navigation Tips/Tricks with Visual Studio (ScottGu's Blog, VS2010, VisualStudio, Visual Studio Tricks)](http://d.hatena.ne.jp/gsf_zero1/20100824/p4)
+
+- [VisualStudio LightSwitchとWebMatrixに関してのリソース (visual studio 2010, lightswitch, webmatrix, asp.net, silverlight, railsみたいな)](http://d.hatena.ne.jp/gsf_zero1/20100823/p1)
+
+- [XAMLデザイナが表示されない件とMicrosoft.VisualStudio.Xamlがロードできない件について (VSTS, SP1, resetsettings, resetskippkgs)](http://d.hatena.ne.jp/gsf_zero1/20090822/p1)
+
+- [VisualStudioでプロジェクトファイルを編集する。(VS, csproj, vbproj, インテリセンス)](http://d.hatena.ne.jp/gsf_zero1/20090806/p1)
+
+- [VisualStudioでのアドインの作り方 (@IT)](http://d.hatena.ne.jp/gsf_zero1/20090330/p1)
+
+- [VisualStudioで良く使うショートカットコマンド](http://d.hatena.ne.jp/gsf_zero1/20080912/p1)
+
+- [セットアッププロジェクトにて前のバージョンを削除してから新バージョンをインストールする(VisualStudio, Setup, msi)](http://d.hatena.ne.jp/gsf_zero1/20080228/p1)
+
 ## Pythonメモ
 
 - [Pythonメモ-00 (マルチバイトを考慮した文字幅を取得)(unicodedata, east_asian_width, multibytes, WF)](http://devlights.hatenablog.com/entry/2017/03/18/180549)
