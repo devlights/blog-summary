@@ -1107,9 +1107,11 @@
 
 - [C#3.0, VB9.0の参考資料](http://d.hatena.ne.jp/gsf_zero1/20071219/p2)
 
-- []()
+- [C#3.0,3.5の新機能についての参考資料（プラス VB9.0も) (LINQ, VB9.0) ](http://d.hatena.ne.jp/gsf_zero1/20071004/p1)
 
-- []()
+- [C#の仕様書について](http://d.hatena.ne.jp/gsf_zero1/20071004/p2)
+
+- [C#の基礎についての情報](http://d.hatena.ne.jp/gsf_zero1/20060829/p1)
 
 ## いろいろTips
 
