@@ -1043,13 +1043,69 @@
 
 - [C#4.0の追加機能-06(共変性と反変性, Covariance and Contravariance)](http://d.hatena.ne.jp/gsf_zero1/20100709/p1)
 
-- []()
+- [C#のサンプルコードが沢山あるサイト (1000 C# Programs With Example Code and Output)](http://devlights.hatenablog.com/entry/2018/02/22/133515)
 
-- []()
+- [いろいろな言語をREPLで試せるサイト (repl.it, C#, python, java, C++, Go, Ruby)](http://devlights.hatenablog.com/entry/2018/02/19/234327)
 
-- []()
+- [最近の VSCode の C# サポート具合をメモ (Visual Studio Code, C#, dotnet core, .NET Core)](http://devlights.hatenablog.com/entry/2018/01/14/012735)
 
-- []()
+- [C# 6.0 のメモ (VisualStudio 2015, .NET Framework 4.6)](http://devlights.hatenablog.com/entry/2015/01/14/081144)
+
+- [Protocol Buffersを利用してC#とJava間でデータ連携するサンプル (protobuf-net, protoc, protogen)](http://d.hatena.ne.jp/gsf_zero1/20130704/p1)
+
+- [Async/Await FAQ (MSDNブログ, C# 5.0, 英語)](http://d.hatena.ne.jp/gsf_zero1/20120827/p1)
+
+- [C# 5.0 asyncとawaitに関するリソースメモ](http://d.hatena.ne.jp/gsf_zero1/20120821/p1)
+
+- [Oxygene言語とC#の比較資料 (Embarcadero Prism XE2, RemObjects)](http://d.hatena.ne.jp/gsf_zero1/20120119/p1)
+
+- [書籍「C# プログラミング入門」を読みました。](http://d.hatena.ne.jp/gsf_zero1/20110708/p2)
+
+- [Gapi.NET (.NET (C#) wrapper for Google AJAX API, Googleの検索結果を取得)](http://d.hatena.ne.jp/gsf_zero1/20110405/p1)
+
+- [Code Converter (Beta) (Telerik, C#からVB, VBからC#, ソース変換サービス)](http://d.hatena.ne.jp/gsf_zero1/20110308/p2)
+
+- [Mono 2.8でC#4.0のプログラムをコンパイル (mcs, gmcs, dmcs, dynamic)](http://d.hatena.ne.jp/gsf_zero1/20110226/p1)
+
+- [A C# Project in Optical Character Recognition (OCR) Using Chain Code (CodeProject)](http://d.hatena.ne.jp/gsf_zero1/20110223/p2)
+
+- [C#でEverNote APIを触ってみた (EverNote, 1.17, Note, UserStore, NoteStore, Thrift, AuthenticationResult, AuthenticationToken)](http://d.hatena.ne.jp/gsf_zero1/20101214/p1)
+
+- [Progress reporting in C# 5 async (CodeProject, 5.0, async, await, TAP, Task-based Asynchrony Pattern)](http://d.hatena.ne.jp/gsf_zero1/20101121/p1)
+
+- [C# 5.0 Asynchrony(async/await)のリソース (新機能, 非同期, Async CTP)](http://d.hatena.ne.jp/gsf_zero1/20101030/p1)
+
+- [Use C# to manage IIS (IIS, CodeProject, IISManager, Active Directory, DirectoryEntry, IISを操作)](http://d.hatena.ne.jp/gsf_zero1/20100809/p1)
+
+- [Expando Objects in C# 4.0 (MSDN Magazine, Expando Object)](http://d.hatena.ne.jp/gsf_zero1/20100806/p1)
+
+- [New C# Features in the .NET Framework 4 (MSDN Magazine, covariance, contravariance, dynamic)](http://d.hatena.ne.jp/gsf_zero1/20100806/p2)
+
+- [Visual Studio 2010 Keyboard Shortcuts (PDF, C#, F#, VB, CPP)](http://d.hatena.ne.jp/gsf_zero1/20100729/p4)
+
+- [C# SocketAsyncEventArgs High Performance Socket Code (CodeProject, ソケット, パフォーマンス, Listen, Accept, Receive, Send, Socket)](http://d.hatena.ne.jp/gsf_zero1/20100727/p1)
+
+- [C#ラムダ式 基礎文法最速マスター (@IT, lambda)](http://d.hatena.ne.jp/gsf_zero1/20100706/p1)
+
+- [IDisposableを実装しているか特定出来ない場合のusingの利用 (using, IDisposable, Dispose, Effective C#)](http://d.hatena.ne.jp/gsf_zero1/20100330/p3)
+
+- [連載! とことん C# (MSDN, 連載, C#, 入門](http://d.hatena.ne.jp/gsf_zero1/20100129/p1)
+
+- [Windows® API Code Pack for Microsoft® .NET Framework (マイクロソフト, Win32, C#, Windows 7, Windows Vista)](http://d.hatena.ne.jp/gsf_zero1/20100116/p1)
+
+- [C# 4.0の特徴 (C# 4.0, dynamic, named and optional parameters, 共変性/反変性 (covariance/contravariance))](http://d.hatena.ne.jp/gsf_zero1/20090706/p1)
+
+- [C#でフォームを擬似的にロックする方法 by CodeZine](http://d.hatena.ne.jp/gsf_zero1/20090313/p1)
+
+- [拡張メソッドって値がnullの場合でも実行可能 (C#3.0, Extension Method)](http://d.hatena.ne.jp/gsf_zero1/20090114/p1)
+
+- [C#の言語バージョンごとのデリゲートの書き方の変移 (delegate)](http://d.hatena.ne.jp/gsf_zero1/20081007/p1)
+
+- [C#3.0入門](http://d.hatena.ne.jp/gsf_zero1/20080412/p1)
+
+- [MSBuildにてC#3.0のコードをコンパイルする](http://d.hatena.ne.jp/gsf_zero1/20080104/p2)
+
+- [C#3.0, VB9.0の参考資料](http://d.hatena.ne.jp/gsf_zero1/20071219/p2)
 
 - []()
 
