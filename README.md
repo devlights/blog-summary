@@ -9,6 +9,8 @@
 
 - [VSCode](https://github.com/devlights/blog-summary#vscode)
 
+- [VisualStudio](https://github.com/devlights/blog-summary#visualstudio)
+
 - [Pythonメモ](https://github.com/devlights/blog-summary#python%E3%83%A1%E3%83%A2)
 
 - [Linq入門記](https://github.com/devlights/blog-summary#linq%E5%85%A5%E9%96%80%E8%A8%98)
@@ -68,6 +70,8 @@
 - [最近の VSCode の Java サポート具合がすごい (Visual Studio Code, Java, JUnit, Maven, Tomcat)](http://devlights.hatenablog.com/entry/2018/01/13/164418)
 
 - [vscodeにて特定のエンコーディングで開くことを設定する (workspace settings, file encoding)](http://devlights.hatenablog.com/entry/2017/11/13/164020)
+
+## VisualStudio
 
 ## Pythonメモ
 
