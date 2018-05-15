@@ -1019,5 +1019,41 @@
 
 ## C#関連
 
+- [C#3.0の追加機能-01(暗黙型付け(var))](http://d.hatena.ne.jp/gsf_zero1/20080104/p3)
+
+- [C#3.0の追加機能-02(拡張メソッド)](http://d.hatena.ne.jp/gsf_zero1/20080104/p4)
+
+- [C#3.0の追加機能-03(ラムダ式(lambda))](http://d.hatena.ne.jp/gsf_zero1/20080105/p1)
+
+- [C#3.0の追加機能-04(匿名型の作成(Anonymous Type))](http://d.hatena.ne.jp/gsf_zero1/20080106/p1)
+
+- [C#3.0の追加機能-05(LINQ-01 (クエリの基本))](http://d.hatena.ne.jp/gsf_zero1/20080819/p1)
+
+- [C#3.0の追加機能-06(LINQ-02 (IEnumerableの場合のクエリ))](http://d.hatena.ne.jp/gsf_zero1/20080820/p1)
+
+- [C#4.0の追加機能-01(dynamic-01, 動的プログラミング, dynamic programming, duck typing, late binding)](http://d.hatena.ne.jp/gsf_zero1/20100115/p1)
+
+- [C#4.0の追加機能-02(dynamic-02, 動的プログラミング, runtime lookup, overload resolution, IDispatch)](http://d.hatena.ne.jp/gsf_zero1/20100119/p1)
+
+- [C#4.0の追加機能-03(dynamic-03, 動的プログラミング, 制限, 拡張メソッド、ラムダメソッド)](http://d.hatena.ne.jp/gsf_zero1/20100126/p1)
+
+- [C#4.0の追加機能-04(オプション引数と名前付け引数, optional parameter, named parameter)](http://d.hatena.ne.jp/gsf_zero1/20100126/p2)
+
+- [C#4.0の追加機能-05(オプション引数と名前付け引数-2, コンストラクタ, インデクサ, constructor, indexer)](http://d.hatena.ne.jp/gsf_zero1/20100127/p2)
+
+- [C#4.0の追加機能-06(共変性と反変性, Covariance and Contravariance)](http://d.hatena.ne.jp/gsf_zero1/20100709/p1)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
 ## いろいろTips
 
