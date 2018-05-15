@@ -1158,3 +1158,67 @@
 - [FileHelpers入門記-02 (固定長ファイルをマッピング)(Fixed, 固定長, Length)](http://d.hatena.ne.jp/gsf_zero1/20090731/p2)
 
 - [FileHelpers入門記-03 (結果をDataTableにマッピング)(DataTable, AsDT, DataRowComparer)](http://d.hatena.ne.jp/gsf_zero1/20090812/p1)
+
+- [PowerShell入門記-001 (事始め）](http://d.hatena.ne.jp/gsf_zero1/20090204/p1)
+
+- [「Kotlin入門までの助走読本」が公開 (pdf, 日本語資料)](http://devlights.hatenablog.com/entry/2017/05/30/123344)
+
+- [Kotlinのめっちゃ分かりやすかった記事 (Qiita, Java, Kotlin)](http://devlights.hatenablog.com/entry/2018/01/13/161509)
+
+- [Java9 + Kotlin 1.2.21 で出る謎の警告メッセージ (java9, kotlin 1.2, kotlinc, An illegal reflective access operation has occurred)](http://devlights.hatenablog.com/entry/2018/02/01/175053)
+
+- [CodeProjectのWPF Tutorialシリーズ  (CodeProject, WPF, DataBindings)](http://d.hatena.ne.jp/gsf_zero1/20101229/p1)
+
+- [XAMLデザイナでViewModelが存在しないと言われた場合のメモ](http://devlights.hatenablog.com/entry/2014/10/31/014820)
+
+- [WPFでWinFormsのPerformClickみたいな動作を実施](http://devlights.hatenablog.com/entry/2014/12/25/080259)
+
+- [Prism 5.0 の ドキュメントがPDFやEPUBとかでダウンロード可能](http://devlights.hatenablog.com/entry/2015/03/16/173643)
+
+- [ドラッグ可能なPopup (Draggable Popup)](http://devlights.hatenablog.com/entry/2015/05/25/232704)
+
+- [WPFでネストしたスタイルを定義する (Nested Styles, Style.Resources, 入れ子にしたスタイル)](http://devlights.hatenablog.com/entry/2015/11/09/205136)
+
+- [コントロールのデータ連結機能(Control.DataBindings, Binding)](http://d.hatena.ne.jp/gsf_zero1/20070413/p1)
+
+- [DataBindingについて-01(書式を指定してバインディング)(Binding, DataSourceUpdateMode, formatString)](http://d.hatena.ne.jp/gsf_zero1/20080730/p1)
+
+- [Windows Formsスレッド処理-001 (Windows Formsでのスレッド処理について)](http://d.hatena.ne.jp/gsf_zero1/20061126/p1)
+
+- [Windows Formsスレッド処理-002 (BackgroundWorker, Control.Invokeの使用) ](http://d.hatena.ne.jp/gsf_zero1/20061127/p1)
+
+- [TreeViewの罫線が途切れる件 (ShowLines, ImageUrl, HorizontalPadding, VerticalPadding, css)](http://d.hatena.ne.jp/gsf_zero1/20110711/p2)
+
+- [Google Libraries APIにホストされているスクリプトのパスを一発でコピー (jquery, scriptsrc, google)](http://d.hatena.ne.jp/gsf_zero1/20110712/p1)
+
+- [The future of CSS layouts (CSS3, 英語, -moz prefix, -webkit prefix, FlexBox)](http://d.hatena.ne.jp/gsf_zero1/20110803/p1)
+
+- [IEで二重罫線とドット罫線を利用すると表示が変？ (IE, CSS, border, dotted)](http://d.hatena.ne.jp/gsf_zero1/20110915/p2)
+
+- [Achieving Zero Postback Business Sites Leveraging jQuery And ASP.NET Web Services](http://d.hatena.ne.jp/gsf_zero1/20110916/p1)
+
+- [IE6のメモリリークに関するリソース (IE6, メモリリーク, 循環参照, Ajax Control ToolkitとIE6)](http://d.hatena.ne.jp/gsf_zero1/20110920/p1)
+
+- [TreeViewにてSelectedNodeChangedイベントが発生しないパターンについて (OnSelectedNodeChanged, Selectedプロパティ, IsPostBack)](http://d.hatena.ne.jp/gsf_zero1/20110926/p1)
+
+- [Webアプリケーションプロジェクトでエディットコンティニュー(EditContinue)を有効にする (VisualStudio, EditContinue, Web Application Project)](http://d.hatena.ne.jp/gsf_zero1/20111227/p1)
+
+- [ASP.NET アプリケーションをハッキングから守る (MSDN マガジン December 2011, security)](http://d.hatena.ne.jp/gsf_zero1/20120111/p2)
+
+- [Microsoft Web Protection Library (CodePlex, XSS, Cross Site Scripting, SQL Injection)](http://d.hatena.ne.jp/gsf_zero1/20120112/p1)
+
+- [ASP.NET MVC 4 Mobile Features (MSDN, スマフォ, Windows Phone, 英語)](http://d.hatena.ne.jp/gsf_zero1/20120130/p1)
+
+- [Introduction to CSS3 Transitions & CSS3 Animations (CSS3, MSDN, HTML5)](http://d.hatena.ne.jp/gsf_zero1/20120210/p1)
+
+- [KnockoutJS vs. Silverlight (CodeProject, KnockoutJSとSilverlightで同じ機能のアプリを作成)](http://d.hatena.ne.jp/gsf_zero1/20120413/p2)
+
+- [ASP.NET MVC3 Razor With jQuery For Beginners (CodeProject, Razor, jQuery)](http://d.hatena.ne.jp/gsf_zero1/20120423/p1)
+
+- [UICloud (UI部品を探せるサイト, 素材探し, UI Elements, User Interface)](http://d.hatena.ne.jp/gsf_zero1/20120731/p1)
+
+- [HTML5 Frameworkについてのメモ (主に商用系フレームワークについて)](http://d.hatena.ne.jp/gsf_zero1/20121024/p1)
+
+- [Visual Studio 2012のPage Inspectorがすごく便利](http://d.hatena.ne.jp/gsf_zero1/20130125/p1)
+
+- [Performance for Metro style app (Windows 8, Metro, MSDN)](http://d.hatena.ne.jp/gsf_zero1/20120405/p2)
