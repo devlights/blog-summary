@@ -31,8 +31,6 @@
 
 - [C#関連](https://github.com/devlights/blog-summary#c%E9%96%A2%E9%80%A3)
 
-- [FileHelpers](https://github.com/devlights/blog-summary#filehelpers)
-
 - [いろいろTips](https://github.com/devlights/blog-summary#%E3%81%84%E3%82%8D%E3%81%84%E3%82%8Dtips)
 
 ---
@@ -1153,21 +1151,10 @@
 
 - [C#の基礎についての情報](http://d.hatena.ne.jp/gsf_zero1/20060829/p1)
 
-## FileHelpers
-
-- []()
-
-- []()
-
-- []()
-
-- []()
-
-- []()
-
-- []()
-
-- []()
-
 ## いろいろTips
 
+- [FileHelpers入門記-01 (区切り文字があるファイルのマッピング)(Delimited, 区切り文字, デリミタ)](http://d.hatena.ne.jp/gsf_zero1/20090728/p1)
+
+- [FileHelpers入門記-02 (固定長ファイルをマッピング)(Fixed, 固定長, Length)](http://d.hatena.ne.jp/gsf_zero1/20090731/p2)
+
+- [FileHelpers入門記-03 (結果をDataTableにマッピング)(DataTable, AsDT, DataRowComparer)](http://d.hatena.ne.jp/gsf_zero1/20090812/p1)
