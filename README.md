@@ -71,6 +71,8 @@
 
 - [vscodeにて特定のエンコーディングで開くことを設定する (workspace settings, file encoding)](http://devlights.hatenablog.com/entry/2017/11/13/164020)
 
+- [polacode (指定したソースコードを画像にしてくれる VS Code 拡張機能)(polanoid for your code, visual studio code)](http://devlights.hatenablog.com/entry/2018/02/21/123728)
+
 ## VisualStudio
 
 - [VisualStudioでdiffとmergeのツールをBeyond Compareに設定するメモ (TFS, TFVC, VisualStudio, Beyond Compare 4)](http://devlights.hatenablog.com/entry/2017/09/20/152153)
@@ -1153,6 +1155,8 @@
 
 - [C#の基礎についての情報](http://d.hatena.ne.jp/gsf_zero1/20060829/p1)
 
+- [C#のサンプルコードが沢山あるサイト (1000 C# Programs With Example Code and Output)](http://devlights.hatenablog.com/entry/2018/02/22/133515)
+
 ## いろいろTips
 
 - [FileHelpers入門記-01 (区切り文字があるファイルのマッピング)(Delimited, 区切り文字, デリミタ)](http://d.hatena.ne.jp/gsf_zero1/20090728/p1)
@@ -1224,3 +1228,63 @@
 - [Visual Studio 2012のPage Inspectorがすごく便利](http://d.hatena.ne.jp/gsf_zero1/20130125/p1)
 
 - [Performance for Metro style app (Windows 8, Metro, MSDN)](http://d.hatena.ne.jp/gsf_zero1/20120405/p2)
+
+- [Evernoteで日付範囲で検索条件を設定する方法メモ (evernote, date range, search query)](https://devlights.hatenablog.com/entry/2018/05/10/171018)
+
+- [.NET Core 3 で Windows デスクトップアプリケーションをサポートするみたい](https://devlights.hatenablog.com/entry/2018/05/08/120953)
+
+- [.NET Core と .NET Standard と .NET Framework の違いについてメモ](https://devlights.hatenablog.com/entry/2018/05/08/114629)
+
+- [GraalVM (Oracle, High-performance polyglot VM, いろんな言語に対応)](https://devlights.hatenablog.com/entry/2018/04/20/120114)
+
+- [Windows で Linux や Mac の time コマンドみたいなものを出力したい (実行時間計測, time command)](https://devlights.hatenablog.com/entry/2018/04/20/114112)
+
+- [エクスプローラーからコマンドプロンプトを起動 (explorer, cmd, アドレスバー)](https://devlights.hatenablog.com/entry/2018/04/17/112943)
+
+- [searchcode (GithubやBitBucketなどのソースを検索してくれるサービス)](http://devlights.hatenablog.com/entry/2018/02/27/122602)
+
+- [gui.cs (Terminal UI toolkit for .NET, MonoCurses, コンソールUI作成のためのツールキット)](http://devlights.hatenablog.com/entry/2018/02/26/172255)
+
+- [zetcode さんのチュートリアルシリーズ (ZetCode turorials, 沢山チュートリアルがあるサイト)](http://devlights.hatenablog.com/entry/2018/02/22/150217)
+
+- [carbon (ソースコードをキレイなハイライト状態で画像にしてくれるサイト)](http://devlights.hatenablog.com/entry/2018/02/20/122639)
+
+- [いろいろな言語をREPLで試せるサイト (repl.it, C#, python, java, C++, Go, Ruby)](http://devlights.hatenablog.com/entry/2018/02/19/234327)
+
+- [JetBrains の IDE の公式マニュアル日本語版サイトが登場 (JetBrains, PyCharm, Rider, Resharper)](http://devlights.hatenablog.com/entry/2018/01/25/183813)
+
+- [JetBrains の IDE を日本語化 (Pleiades, IntelliJ IDEA, PyCharm, Rider)](http://devlights.hatenablog.com/entry/2018/01/13/153145)
+
+- [Happy Hacking Keyboard で右クリックメニューを表示 (hkk, shift + F10)](http://devlights.hatenablog.com/entry/2017/12/26/115726)
+
+- [fish shellインストール ＆ condaの設定 (mac, fish shell, oh my fish, fisherman, conda, dracula-theme)](http://devlights.hatenablog.com/entry/2017/12/19/023629)
+
+- [CLionでmakefileをサポートしてくれるプラグイン (JetBrains, CLion, Makefile Support)](http://devlights.hatenablog.com/entry/2017/12/18/154645)
+
+- [Postgres.appとPostico (macOS, postgresql, GUIツール)](http://devlights.hatenablog.com/entry/2017/12/12/163134)
+
+- [path_helper ($PATHを設定するコマンド) (macOS, /etc/paths.d, /etc/paths, shell間をまたいだパス設定)](http://devlights.hatenablog.com/entry/2017/12/12/160216)
+
+- [javascript と python が似てる (JavaScript is almost pythonic)](http://devlights.hatenablog.com/entry/2017/12/08/124532)
+
+- [CoreCLRのソースコードを研究するシリーズ (Qiita, 翻訳)](http://devlights.hatenablog.com/entry/2017/11/28/232147)
+
+- [YouTrack が ver.2017.4 で日本語のテキストインデックスに対応 (JetBrains, YouTrack, Extended Text Index Support)](http://devlights.hatenablog.com/entry/2017/11/21/114308)
+
+- [macのターミナルでgitのブランチ名表示や補完が効くようにする (git-prompt, git-completion, homebrew)](http://devlights.hatenablog.com/entry/2017/09/24/212303)
+
+- [WindowsでgitのdiffとmergeのツールをBeyond Compareに設定するメモ (Git, GitHub for Windows, Beyond Compare 4, difftool, mergetool)](http://devlights.hatenablog.com/entry/2017/09/19/161233)
+
+- [ReshaperのValue Originが超便利 (Resharper, Inspect, Value Origin, 値の遷移を追跡)](http://devlights.hatenablog.com/entry/2017/06/14/110832)
+
+- [JetBrainsのIDEでコード補完を大文字小文字無視にする (Case-insensitive code completion)](http://devlights.hatenablog.com/entry/2017/05/24/172325)
+
+- [Rider EAP 22 リリース (マルチスタートアップでのデバッグが可能に, Debugging for compound run/debug configurations)](http://devlights.hatenablog.com/entry/2017/05/22/123327)
+
+- [JetBrains Rider 2017.1 EAP でTFSインテグレーションがなくなってる？](http://devlights.hatenablog.com/entry/2017/04/08/170859)
+
+- [インストールされている .NET Framework のパッチリストを調べる](http://devlights.hatenablog.com/entry/2017/04/04/195839)
+
+- [Visual Studio for mac と .Net Core 1.1 と Visual Studio 2017 RC アナウンス](http://devlights.hatenablog.com/entry/2016/11/17/132644)
+
+- [WebStormでElectronのデバッグする方法 （Windows版）](http://devlights.hatenablog.com/entry/2016/11/07/185205)
