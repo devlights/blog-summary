@@ -265,6 +265,8 @@
 
 - [Pythonメモ-77 (Pyre -- Fast Type Checking for Python) (facebook, 型チェッカー, mypy, そのうちPyCharmでサポートされるかも)](https://devlights.hatenablog.com/entry/2018/05/14/125226)
 
+- [Pythonメモ-78 (relogコマンドを再帰的に実行してblgをcsvに変換) (windows, relog, pathlib, subprocess, with_suffix)](https://devlights.hatenablog.com/entry/2018/05/17/144254)
+
 ## Linq入門記
 
 - [Linq入門記-01 (遅延実行、例外処理, try, catch)](http://d.hatena.ne.jp/gsf_zero1/20091204/p3)
