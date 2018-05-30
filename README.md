@@ -147,6 +147,7 @@
 - [Pythonメモ-77 (Pyre -- Fast Type Checking for Python) (facebook, 型チェッカー, mypy, そのうちPyCharmでサポートされるかも)](https://devlights.hatenablog.com/entry/2018/05/14/125226)
 - [Pythonメモ-78 (relogコマンドを再帰的に実行してblgをcsvに変換) (windows, relog, pathlib, subprocess, with_suffix)](https://devlights.hatenablog.com/entry/2018/05/17/144254)
 - [Pythonメモ-79 (ciso8601) (datetime, strptime, parse_datetime, 最速日付解析ライブラリ)](https://devlights.hatenablog.com/entry/2018/05/18/130006)
+- [Pythonメモ-80 (dropboxがmypy-Pycharm-pluginをGithubで公開) (mypy, pycharm, プラグイン, jar)](https://devlights.hatenablog.com/entry/2018/05/30/143431)
 
 ## Linq入門記
 
