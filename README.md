@@ -613,6 +613,7 @@
 
 ## いろいろTips
 
+- [オープンソースライセンスの選び方ガイドページ (Choose an open source license, MIT license, Apache license, GNU GPLv3)](https://devlights.hatenablog.com/entry/2018/06/08/103847)
 - [便利なCLIツール10選 (10 CLI Tools that You Will Love, ack, ag, mc, pydf, htop, aria2, nnn)](https://devlights.hatenablog.com/entry/2018/05/18/154916)
 - [FileHelpers入門記-01 (区切り文字があるファイルのマッピング)(Delimited, 区切り文字, デリミタ)](http://d.hatena.ne.jp/gsf_zero1/20090728/p1)
 - [FileHelpers入門記-02 (固定長ファイルをマッピング)(Fixed, 固定長, Length)](http://d.hatena.ne.jp/gsf_zero1/20090731/p2)
