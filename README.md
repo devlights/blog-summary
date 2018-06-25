@@ -615,6 +615,7 @@
 
 ## いろいろTips
 
+- [.NET Framework の新元号対応予定の情報 (日本マイクロソフトの情報)](https://devlights.hatenablog.com/entry/2018/06/25/162238)
 - [JetBrainsのC#についてのサーベイ結果 2018年版](https://devlights.hatenablog.com/entry/2018/06/08/105940)
 - [オープンソースライセンスの選び方ガイドページ (Choose an open source license, MIT license, Apache license, GNU GPLv3)](https://devlights.hatenablog.com/entry/2018/06/08/103847)
 - [便利なCLIツール10選 (10 CLI Tools that You Will Love, ack, ag, mc, pydf, htop, aria2, nnn)](https://devlights.hatenablog.com/entry/2018/05/18/154916)
