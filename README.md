@@ -25,6 +25,7 @@
 
 ## Git
 
+- [WIP (github app, WIPが付いているプルリクエストはマージ出来ないようにしてくれるgithubアプリ)](https://devlights.hatenablog.com/entry/2018/06/25/131934)
 - [macのターミナルでgitのブランチ名表示や補完が効くようにする (git-prompt, git-completion, homebrew)](http://devlights.hatenablog.com/entry/2017/09/24/212303)
 - [WindowsでgitのdiffとmergeのツールをBeyond Compareに設定するメモ (Git, GitHub for Windows, Beyond Compare 4, difftool, mergetool)](http://devlights.hatenablog.com/entry/2017/09/19/161233)
 - [detached HEAD状態から元に戻すコマンド (git, checkout, fix a detached HEAD, .git/HEAD, refs/heads/master)](http://d.hatena.ne.jp/gsf_zero1/20130417/p1)
@@ -614,7 +615,6 @@
 
 ## いろいろTips
 
-- [WIP (github app, WIPが付いているプルリクエストはマージ出来ないようにしてくれるgithubアプリ)](https://devlights.hatenablog.com/entry/2018/06/25/131934)
 - [JetBrainsのC#についてのサーベイ結果 2018年版](https://devlights.hatenablog.com/entry/2018/06/08/105940)
 - [オープンソースライセンスの選び方ガイドページ (Choose an open source license, MIT license, Apache license, GNU GPLv3)](https://devlights.hatenablog.com/entry/2018/06/08/103847)
 - [便利なCLIツール10選 (10 CLI Tools that You Will Love, ack, ag, mc, pydf, htop, aria2, nnn)](https://devlights.hatenablog.com/entry/2018/05/18/154916)
