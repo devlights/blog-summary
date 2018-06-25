@@ -6,20 +6,20 @@
 
 ## 目次
 
-- [Git](https://github.com/devlights/blog-summary#git)
-- [VSCode](https://github.com/devlights/blog-summary#vscode)
-- [VisualStudio](https://github.com/devlights/blog-summary#visualstudio)
-- [Pythonメモ](https://github.com/devlights/blog-summary#python%E3%83%A1%E3%83%A2)
-- [Linq入門記](https://github.com/devlights/blog-summary#linq%E5%85%A5%E9%96%80%E8%A8%98)
-- [.NETクラスライブラリ探訪](https://github.com/devlights/blog-summary#net%E3%82%AF%E3%83%A9%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E6%8E%A2%E8%A8%AA)
-- [タスク並列ライブラリ(TPL)入門記](https://github.com/devlights/blog-summary#%E3%82%BF%E3%82%B9%E3%82%AF%E4%B8%A6%E5%88%97%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AAtpl%E5%85%A5%E9%96%80%E8%A8%98)
-- [DevExpress奮闘記](https://github.com/devlights/blog-summary#devexpress%E5%A5%AE%E9%97%98%E8%A8%98)
-- [WCF関連](https://github.com/devlights/blog-summary#wcf%E9%96%A2%E9%80%A3)
-- [ADO.NET入門記](https://github.com/devlights/blog-summary#adonet%E5%85%A5%E9%96%80%E8%A8%98)
-- [DataGridView入門記](https://github.com/devlights/blog-summary#datagridview%E5%85%A5%E9%96%80%E8%A8%98)
-- [iBatis(MyBatis)奮闘記](https://github.com/devlights/blog-summary#ibatismybatis%E5%A5%AE%E9%97%98%E8%A8%98)
-- [C#関連](https://github.com/devlights/blog-summary#c%E9%96%A2%E9%80%A3)
-- [いろいろTips](https://github.com/devlights/blog-summary#%E3%81%84%E3%82%8D%E3%81%84%E3%82%8Dtips)
+- [Git](#git)
+- [VSCode](#vscode)
+- [VisualStudio](#visualstudio)
+- [Pythonメモ](#python%E3%83%A1%E3%83%A2)
+- [Linq入門記](#linq%E5%85%A5%E9%96%80%E8%A8%98)
+- [.NETクラスライブラリ探訪](#net%E3%82%AF%E3%83%A9%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E6%8E%A2%E8%A8%AA)
+- [タスク並列ライブラリ(TPL)入門記](#%E3%82%BF%E3%82%B9%E3%82%AF%E4%B8%A6%E5%88%97%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AAtpl%E5%85%A5%E9%96%80%E8%A8%98)
+- [DevExpress奮闘記](#devexpress%E5%A5%AE%E9%97%98%E8%A8%98)
+- [WCF関連](#wcf%E9%96%A2%E9%80%A3)
+- [ADO.NET入門記](#adonet%E5%85%A5%E9%96%80%E8%A8%98)
+- [DataGridView入門記](#datagridview%E5%85%A5%E9%96%80%E8%A8%98)
+- [iBatis(MyBatis)奮闘記](#ibatismybatis%E5%A5%AE%E9%97%98%E8%A8%98)
+- [C#関連](#c%E9%96%A2%E9%80%A3)
+- [いろいろTips](#%E3%81%84%E3%82%8D%E3%81%84%E3%82%8Dtips)
 
 ---
 
