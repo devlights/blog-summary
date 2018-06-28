@@ -150,6 +150,7 @@
 - [Pythonメモ-78 (relogコマンドを再帰的に実行してblgをcsvに変換) (windows, relog, pathlib, subprocess, with_suffix)](https://devlights.hatenablog.com/entry/2018/05/17/144254)
 - [Pythonメモ-79 (ciso8601) (datetime, strptime, parse_datetime, 最速日付解析ライブラリ)](https://devlights.hatenablog.com/entry/2018/05/18/130006)
 - [Pythonメモ-80 (dropboxがmypy-Pycharm-pluginをGithubで公開) (mypy, pycharm, プラグイン, jar)](https://devlights.hatenablog.com/entry/2018/05/30/143431)
+- [Pythonメモ-81 (python 3.7 がリリース) (data classes, breakpoint, asyncio.run)](https://devlights.hatenablog.com/entry/2018/06/28/113320)
 
 ## Linq入門記
 
