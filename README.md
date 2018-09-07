@@ -616,6 +616,7 @@
 
 ## いろいろTips
 
+- [VSCodeのタイトルバーをカスタム描画に変更する (Visual Studio Code, version 1.27.1, window.titleBarStyle)](https://devlights.hatenablog.com/entry/2018/09/07/154918)
 - [VSCodeに設定用のエディタ画面が追加された (Visual Studio Code, version 1.27.1, Setting Editor)](https://devlights.hatenablog.com/entry/2018/09/07/153403)
 - [.NET Framework の新元号対応予定の情報 (日本マイクロソフトの情報)](https://devlights.hatenablog.com/entry/2018/06/25/162238)
 - [JetBrainsのC#についてのサーベイ結果 2018年版](https://devlights.hatenablog.com/entry/2018/06/08/105940)
