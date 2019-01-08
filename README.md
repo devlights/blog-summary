@@ -40,6 +40,7 @@
 
 ## VSCode
 
+- [VSCodeのターミナルにCmderを使えるようにする](https://devlights.hatenablog.com/entry/2019/01/08/131826)
 - [VSCodeでPython開発する際に入れとくべき拡張機能 (Top 10 Visual Studio Code extensions for Python development, Code Runner, Better Comments, GitLens)](http://devlights.hatenablog.com/entry/2018/02/26/173353)
 - [最近の VSCode の C# サポート具合をメモ (Visual Studio Code, C#, dotnet core, .NET Core)](http://devlights.hatenablog.com/entry/2018/01/14/012735)
 - [最近の VSCode の Python サポート具合をメモ (Visual Studio Code, Python, conda, pytest)](http://devlights.hatenablog.com/entry/2018/01/13/172140)
