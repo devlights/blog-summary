@@ -154,6 +154,7 @@
 - [Pythonメモ-81 (python 3.7 がリリース) (data classes, breakpoint, asyncio.run)](https://devlights.hatenablog.com/entry/2018/06/28/113320)
 - [Pythonメモ-82 (anaconda が python 3.7 に対応) (Python 3.7 Package Build Out & Miniconda Release)](https://devlights.hatenablog.com/entry/2018/09/11/124220)
 - [Pythonメモ-83 (PyInstaller が python 3.7 に対応) (Add support for Python 3.7)](https://devlights.hatenablog.com/entry/2018/09/11/163923)
+- [Pythonメモ-84 (python-patterns) (各デザインパターンのpythonでの実装例)](https://devlights.hatenablog.com/entry/2019/02/25/113724)
 
 ## Linq入門記
 
