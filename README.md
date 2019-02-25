@@ -155,6 +155,7 @@
 - [Pythonメモ-82 (anaconda が python 3.7 に対応) (Python 3.7 Package Build Out & Miniconda Release)](https://devlights.hatenablog.com/entry/2018/09/11/124220)
 - [Pythonメモ-83 (PyInstaller が python 3.7 に対応) (Add support for Python 3.7)](https://devlights.hatenablog.com/entry/2018/09/11/163923)
 - [Pythonメモ-84 (python-patterns) (各デザインパターンのpythonでの実装例)](https://devlights.hatenablog.com/entry/2019/02/25/113724)
+- [Pythonメモ-85 (Evolution of the Jupyter Notebook) (jupyter lab の基本的な使い方について)](https://devlights.hatenablog.com/entry/2019/02/25/120012)
 
 ## Linq入門記
 
