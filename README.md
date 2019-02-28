@@ -157,7 +157,7 @@
 - [Pythonメモ-84 (python-patterns) (各デザインパターンのpythonでの実装例)](https://devlights.hatenablog.com/entry/2019/02/25/113724)
 - [Pythonメモ-85 (Evolution of the Jupyter Notebook) (jupyter lab の基本的な使い方について)](https://devlights.hatenablog.com/entry/2019/02/25/120012)
 - [Pythonメモ-86 (requirements.txtにて特定のOSの場合のみインストールするようにする)](https://devlights.hatenablog.com/entry/2019/02/26/174531)
-- [Pythonメモ-87 (文字列から16進とか2進に変換したり戻したり)(bistring使用)](https://devlights.hatenablog.com/entry/2019/02/28/193546)
+- [Pythonメモ-87 (文字列から16進とか2進に変換したり戻したり)(bitstring使用)](https://devlights.hatenablog.com/entry/2019/02/28/193546)
 
 ## Linq入門記
 
