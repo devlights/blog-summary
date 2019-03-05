@@ -158,6 +158,7 @@
 - [Pythonメモ-85 (Evolution of the Jupyter Notebook) (jupyter lab の基本的な使い方について)](https://devlights.hatenablog.com/entry/2019/02/25/120012)
 - [Pythonメモ-86 (requirements.txtにて特定のOSの場合のみインストールするようにする)](https://devlights.hatenablog.com/entry/2019/02/26/174531)
 - [Pythonメモ-87 (文字列から16進とか2進に変換したり戻したり)(bitstring使用)](https://devlights.hatenablog.com/entry/2019/02/28/193546)
+- [Pythonメモ-88 (ターミナルの行列のサイズを取得)(get_terminal_size, terminal_size, 3.3 以降)](https://devlights.hatenablog.com/entry/2019/03/05/130524)
 
 ## Linq入門記
 
