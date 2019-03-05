@@ -160,6 +160,7 @@
 - [Pythonメモ-87 (文字列から16進とか2進に変換したり戻したり)(bitstring使用)](https://devlights.hatenablog.com/entry/2019/02/28/193546)
 - [Pythonメモ-88 (ターミナルの行列のサイズを取得)(get_terminal_size, terminal_size, 3.3 以降)](https://devlights.hatenablog.com/entry/2019/03/05/130524)
 - [Pythonメモ-89 (vscodeでパッケージ形式になってるpythonファイルをデバッグ起動)(PYTHONPATH, launch.json)](https://devlights.hatenablog.com/entry/2019/03/05/180223)
+- [Pythonメモ-90 (vscodeでpython のターミナルとしてIPythonが起動するようにする)(python.terminal.launchArgs, IPython)](https://devlights.hatenablog.com/entry/2019/03/05/200127)
 
 ## Linq入門記
 
