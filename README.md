@@ -627,6 +627,8 @@
 
 ## いろいろTips
 
+- [Coder.com が VSCode をリモートサーバで動作させるcode-serverをオープンソースで公開 (code-server, vscode on a remote server, github, docker)](https://devlights.hatenablog.com/entry/2019/03/08/124226)
+- [Windows 10 の電卓がオープンソースに (Microsoft, calculator, C++, xaml)](https://devlights.hatenablog.com/entry/2019/03/07/131102)
 - [Java11のライセンスモデルについての個人メモ (Java11, license model, oracle jdk)](https://devlights.hatenablog.com/entry/2018/09/29/182532)
 - [VSCodeのタイトルバーをカスタム描画に変更する (Visual Studio Code, version 1.27.1, window.titleBarStyle)](https://devlights.hatenablog.com/entry/2018/09/07/154918)
 - [VSCodeに設定用のエディタ画面が追加された (Visual Studio Code, version 1.27.1, Setting Editor)](https://devlights.hatenablog.com/entry/2018/09/07/153403)
