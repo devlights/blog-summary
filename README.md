@@ -163,6 +163,7 @@
 - [Pythonメモ-90 (vscodeでpython のターミナルとしてIPythonが起動するようにする)(python.terminal.launchArgs, IPython)](https://devlights.hatenablog.com/entry/2019/03/05/200127)
 - [Pythonメモ-91 (python 3.7 からdictの挿入順序が保証されている)(Dictionaries now ordered, 順番を守ったまま重複を削除する)](https://devlights.hatenablog.com/entry/2019/03/06/185357)
 - [Pythonメモ-92 (PEP-448 Additional Unpacking Generalizations)(アンパック演算子の利用方法拡張, python 3.5で追加)](https://devlights.hatenablog.com/entry/2019/03/08/172151)
+- [Pythonメモ-93 (Pythonセキュリティベストプラクティスチートシート)(Python Security Best Practices Cheat Sheet)](https://devlights.hatenablog.com/entry/2019/03/11/144448)
 
 ## Linq入門記
 
