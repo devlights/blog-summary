@@ -165,6 +165,7 @@
 - [Pythonメモ-92 (PEP-448 Additional Unpacking Generalizations)(アンパック演算子の利用方法拡張, python 3.5で追加)](https://devlights.hatenablog.com/entry/2019/03/08/172151)
 - [Pythonメモ-93 (Pythonセキュリティベストプラクティスチートシート)(Python Security Best Practices Cheat Sheet)](https://devlights.hatenablog.com/entry/2019/03/11/144448)
 - [Pythonメモ-94 (正規表現でアトミックグループを指定する)(re, regex, atomic groups, 標準モジュールではサポートされていない)](https://devlights.hatenablog.com/entry/2019/03/12/182431)
+- [Pythonメモ-95 (正規表現で絶対最大量指定子を指定する)(re, regex, possessive quantifier, 強欲な量指定子, 標準モジュールではサポートされていない)](https://devlights.hatenablog.com/entry/2019/03/13/192719)
 
 ## Linq入門記
 
