@@ -166,6 +166,7 @@
 - [Pythonメモ-93 (Pythonセキュリティベストプラクティスチートシート)(Python Security Best Practices Cheat Sheet)](https://devlights.hatenablog.com/entry/2019/03/11/144448)
 - [Pythonメモ-94 (正規表現でアトミックグループを指定する)(re, regex, atomic groups, 標準モジュールではサポートされていない)](https://devlights.hatenablog.com/entry/2019/03/12/182431)
 - [Pythonメモ-95 (正規表現で絶対最大量指定子を指定する)(re, regex, possessive quantifier, 強欲な量指定子, 標準モジュールではサポートされていない)](https://devlights.hatenablog.com/entry/2019/03/13/192719)
+- [Pythonメモ-96 (async-timeout)(asyncio 互換のタイムアウトクラス)](Pythonメモ-96 (async-timeout)(asyncio 互換のタイムアウトクラス))
 
 ## Linq入門記
 
