@@ -633,6 +633,7 @@
 
 ## いろいろTips
 
+- [ConsoleZ (Console2) で コピー アンド ペースト する方法](https://devlights.hatenablog.com/entry/2019/03/26/195137)
 - [Coder.com が VSCode をリモートサーバで動作させるcode-serverをオープンソースで公開 (code-server, vscode on a remote server, github, docker)](https://devlights.hatenablog.com/entry/2019/03/08/124226)
 - [Windows 10 の電卓がオープンソースに (Microsoft, calculator, C++, xaml)](https://devlights.hatenablog.com/entry/2019/03/07/131102)
 - [Java11のライセンスモデルについての個人メモ (Java11, license model, oracle jdk)](https://devlights.hatenablog.com/entry/2018/09/29/182532)
