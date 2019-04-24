@@ -42,6 +42,7 @@
 
 ## VSCode
 
+- [VSCodeのオススメ拡張機能のリンク (Qiita, vscode, extensions)](https://devlights.hatenablog.com/entry/2019/04/24/144200)
 - [VSCodeのターミナルにCmderを使えるようにする](https://devlights.hatenablog.com/entry/2019/01/08/131826)
 - [VSCodeでPython開発する際に入れとくべき拡張機能 (Top 10 Visual Studio Code extensions for Python development, Code Runner, Better Comments, GitLens)](http://devlights.hatenablog.com/entry/2018/02/26/173353)
 - [最近の VSCode の C# サポート具合をメモ (Visual Studio Code, C#, dotnet core, .NET Core)](http://devlights.hatenablog.com/entry/2018/01/14/012735)
