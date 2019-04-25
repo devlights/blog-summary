@@ -25,6 +25,7 @@
 
 ## Git
 
+- [github で https で毎回ユーザ名とパスワード聞かれないようにする](https://devlights.hatenablog.com/entry/2019/04/25/131432)
 - [Gitpodがめっちゃ便利 (github app, gitpod, vscodeライク, ブラウザでソース編集)](https://devlights.hatenablog.com/entry/2019/04/24/090245)
 - [gitで日本語ファイル名が文字化けするのを直す (git, config, core.quotepath)](https://devlights.hatenablog.com/entry/2019/04/24/084036)
 - [WIP (github app, WIPが付いているプルリクエストはマージ出来ないようにしてくれるgithubアプリ)](https://devlights.hatenablog.com/entry/2018/06/25/131934)
