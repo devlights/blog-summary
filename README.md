@@ -172,6 +172,7 @@
 - [Pythonメモ-95 (正規表現で絶対最大量指定子を指定する)(re, regex, possessive quantifier, 強欲な量指定子, 標準モジュールではサポートされていない)](https://devlights.hatenablog.com/entry/2019/03/13/192719)
 - [Pythonメモ-96 (async-timeout)(asyncio 互換のタイムアウトクラス)](Pythonメモ-96 (async-timeout)(asyncio 互換のタイムアウトクラス))
 - [Pythonメモ-97 (python 3.7 + pyinstaller 3.4 + venv で TypeError が出る件)(expected str, bytes or os.PathLike object, not NoneType)](https://devlights.hatenablog.com/entry/2019/03/20/131234)
+- [Pythonメモ-98 (venvでの仮想環境でのsys.prefixとbase_prefixの違い)](https://devlights.hatenablog.com/entry/2019/04/28/141136)
 
 ## Linq入門記
 
