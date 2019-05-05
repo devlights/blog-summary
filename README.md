@@ -174,6 +174,7 @@
 - [Pythonメモ-97 (python 3.7 + pyinstaller 3.4 + venv で TypeError が出る件)(expected str, bytes or os.PathLike object, not NoneType)](https://devlights.hatenablog.com/entry/2019/03/20/131234)
 - [Pythonメモ-98 (venvでの仮想環境でのsys.prefixとbase_prefixの違い)](https://devlights.hatenablog.com/entry/2019/04/28/141136)
 - [Pythonメモ-99 (リストの flatten 化)(list, itertools.chain, フラット化)](https://devlights.hatenablog.com/entry/2019/04/28/143458)
+- [Pythonメモ-100 (aiojobs)(asyncio向けのジョブスケジューラライブラリ)](https://devlights.hatenablog.com/entry/2019/05/06/033815)
 
 ## Linq入門記
 
