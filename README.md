@@ -644,6 +644,7 @@
 
 ## いろいろTips
 
+- [brew cask で "No Cask with this name exists." って出て困った件](https://devlights.hatenablog.com/entry/2019/05/20/004045)
 - [ConsoleZ (Console2) で コピー アンド ペースト する方法](https://devlights.hatenablog.com/entry/2019/03/26/195137)
 - [Coder.com が VSCode をリモートサーバで動作させるcode-serverをオープンソースで公開 (code-server, vscode on a remote server, github, docker)](https://devlights.hatenablog.com/entry/2019/03/08/124226)
 - [Windows 10 の電卓がオープンソースに (Microsoft, calculator, C++, xaml)](https://devlights.hatenablog.com/entry/2019/03/07/131102)
