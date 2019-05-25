@@ -179,6 +179,7 @@
 - [Pythonメモ-102 (特殊メソッドのリスト)(Special Method, Dunder Method, Double Underscore)](https://devlights.hatenablog.com/entry/2019/05/08/084654)
 - [Pythonメモ-103 (round関数の丸め戦略)(python3から変更, 最近接偶数丸め, round ties to even)](https://devlights.hatenablog.com/entry/2019/05/09/084255)
 - [Pythonメモ-104 (GithubでTravis-CIを設定)(Python 3.7を使用, pipでwxPythonをインストール)](https://devlights.hatenablog.com/entry/2019/05/15/165854)
+- [Pythonメモ-105 (動的にクラスを定義)(type(), types.new_class())](https://devlights.hatenablog.com/entry/2019/05/26/014741)
 
 ## Linq入門記
 
