@@ -643,6 +643,7 @@
 - [C#の仕様書について](http://d.hatena.ne.jp/gsf_zero1/20071004/p2)
 - [C#の基礎についての情報](http://d.hatena.ne.jp/gsf_zero1/20060829/p1)
 - [C#のサンプルコードが沢山あるサイト (1000 C# Programs With Example Code and Output)](http://devlights.hatenablog.com/entry/2018/02/22/133515)
+- [セッション跨いで名前付き Mutex を使ったときにうまく動かなかった件 (System.Threading.Mutex, Global Mutex, 所有権)](https://devlights.hatenablog.com/entry/2019/07/10/152601)
 
 ## いろいろTips
 
