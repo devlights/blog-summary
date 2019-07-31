@@ -648,6 +648,7 @@
 
 ## いろいろTips
 
+- [Rubberduck (rubberduck-vba, VBA開発環境を少しモダンな環境にしてくれるアドイン, VBE)](https://devlights.hatenablog.com/entry/2019/07/31/142411)
 - [mac で "/usr/include" ディレクトリが存在しなかった件について (10.14, xcode-select, Xcode 10, 標準インクルードファイル)](https://devlights.hatenablog.com/entry/2019/05/20/022448)
 - [brew cask で "No Cask with this name exists." って出て困った件](https://devlights.hatenablog.com/entry/2019/05/20/004045)
 - [ConsoleZ (Console2) で コピー アンド ペースト する方法](https://devlights.hatenablog.com/entry/2019/03/26/195137)
