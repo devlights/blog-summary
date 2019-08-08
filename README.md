@@ -182,6 +182,7 @@
 - [Pythonメモ-105 (動的にクラスを定義)(type(), types.new_class())](https://devlights.hatenablog.com/entry/2019/05/26/014741)
 - [Pythonメモ-106 (PyPIが2段階認証に対応)(two-factor authentication, 2FA)](https://devlights.hatenablog.com/entry/2019/06/02/013027)
 - [Pythonメモ-107 (```__main__.py``` について)(-m オプション, メインファイル)](https://devlights.hatenablog.com/entry/2019/07/13/231344)
+- [Pythonメモ-108 (sys.getsizeof()と__sizeof__()が返す値が異なる時がある)](https://devlights.hatenablog.com/entry/2019/08/08/190138)
 
 ## Linq入門記
 
