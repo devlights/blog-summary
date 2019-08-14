@@ -76,6 +76,7 @@
 ## golangmemo
 
 - [go.mod ファイルのGoランタイムのバージョン変更の仕方 (go mod edit)](https://devlights.hatenablog.com/entry/2019/08/15/002307)
+- [go build のちょっとしたクセ (go buildは指定されたディレクトリをビルド対象にする)](https://devlights.hatenablog.com/entry/2019/08/15/053236)
 
 ## Pythonメモ
 
