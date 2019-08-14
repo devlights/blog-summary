@@ -9,6 +9,7 @@
 - [Git](#git)
 - [VSCode](#vscode)
 - [VisualStudio](#visualstudio)
+- [Go言語メモ](#golangmemo)
 - [Pythonメモ](#python%E3%83%A1%E3%83%A2)
 - [Linq入門記](#linq%E5%85%A5%E9%96%80%E8%A8%98)
 - [.NETクラスライブラリ探訪](#net%E3%82%AF%E3%83%A9%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E6%8E%A2%E8%A8%AA)
@@ -71,6 +72,10 @@
 - [VisualStudioでのアドインの作り方 (@IT)](http://d.hatena.ne.jp/gsf_zero1/20090330/p1)
 - [VisualStudioで良く使うショートカットコマンド](http://d.hatena.ne.jp/gsf_zero1/20080912/p1)
 - [セットアッププロジェクトにて前のバージョンを削除してから新バージョンをインストールする(VisualStudio, Setup, msi)](http://d.hatena.ne.jp/gsf_zero1/20080228/p1)
+
+## golangmemo
+
+- [go.mod ファイルのGoランタイムのバージョン変更の仕方 (go mod edit)](https://devlights.hatenablog.com/entry/2019/08/15/002307)
 
 ## Pythonメモ
 
