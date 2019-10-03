@@ -79,6 +79,7 @@
 - [go build のちょっとしたクセ (go buildは指定されたディレクトリをビルド対象にする)](https://devlights.hatenablog.com/entry/2019/08/15/053236)
 - [go fmt をプロジェクト配下の全ファイルに対して実行したい](https://devlights.hatenablog.com/entry/2019/08/15/060851)
 - [Goメモ-01 (インストール)](https://devlights.hatenablog.com/entry/2019/10/01/113343)
+- [Goメモ-02 (HelloWorld)](https://devlights.hatenablog.com/entry/2019/10/03/163955)
 
 ## python
 
