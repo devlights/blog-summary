@@ -178,7 +178,7 @@
 - [Pythonメモ-93 (Pythonセキュリティベストプラクティスチートシート)(Python Security Best Practices Cheat Sheet)](https://devlights.hatenablog.com/entry/2019/03/11/144448)
 - [Pythonメモ-94 (正規表現でアトミックグループを指定する)(re, regex, atomic groups, 標準モジュールではサポートされていない)](https://devlights.hatenablog.com/entry/2019/03/12/182431)
 - [Pythonメモ-95 (正規表現で絶対最大量指定子を指定する)(re, regex, possessive quantifier, 強欲な量指定子, 標準モジュールではサポートされていない)](https://devlights.hatenablog.com/entry/2019/03/13/192719)
-- [Pythonメモ-96 (async-timeout)(asyncio 互換のタイムアウトクラス)](Pythonメモ-96 (async-timeout)(asyncio 互換のタイムアウトクラス))
+- [Pythonメモ-96 (async-timeout)(asyncio 互換のタイムアウトクラス)](https://devlights.hatenablog.com/entry/2019/03/17/195128)
 - [Pythonメモ-97 (python 3.7 + pyinstaller 3.4 + venv で TypeError が出る件)(expected str, bytes or os.PathLike object, not NoneType)](https://devlights.hatenablog.com/entry/2019/03/20/131234)
 - [Pythonメモ-98 (venvでの仮想環境でのsys.prefixとbase_prefixの違い)](https://devlights.hatenablog.com/entry/2019/04/28/141136)
 - [Pythonメモ-99 (リストの flatten 化)(list, itertools.chain, フラット化)](https://devlights.hatenablog.com/entry/2019/04/28/143458)
@@ -657,6 +657,7 @@
 
 ## いろいろTips
 
+- [github の コードレビュー 画面で複数行に対してのコメントが付けれるようになっていた (beta, Multiple-line comments)](https://devlights.hatenablog.com/entry/2019/10/03/115905)
 - [Rubberduck (rubberduck-vba, VBA開発環境を少しモダンな環境にしてくれるアドイン, VBE)](https://devlights.hatenablog.com/entry/2019/07/31/142411)
 - [mac で "/usr/include" ディレクトリが存在しなかった件について (10.14, xcode-select, Xcode 10, 標準インクルードファイル)](https://devlights.hatenablog.com/entry/2019/05/20/022448)
 - [brew cask で "No Cask with this name exists." って出て困った件](https://devlights.hatenablog.com/entry/2019/05/20/004045)
