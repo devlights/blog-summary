@@ -9,22 +9,22 @@
 - [Git](#git)
 - [VSCode](#vscode)
 - [VisualStudio](#visualstudio)
-- [Go言語メモ](#golangmemo)
-- [Pythonメモ](#python%E3%83%A1%E3%83%A2)
-- [Linq入門記](#linq%E5%85%A5%E9%96%80%E8%A8%98)
-- [.NETクラスライブラリ探訪](#net%E3%82%AF%E3%83%A9%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E6%8E%A2%E8%A8%AA)
-- [タスク並列ライブラリ(TPL)入門記](#%E3%82%BF%E3%82%B9%E3%82%AF%E4%B8%A6%E5%88%97%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AAtpl%E5%85%A5%E9%96%80%E8%A8%98)
-- [DevExpress奮闘記](#devexpress%E5%A5%AE%E9%97%98%E8%A8%98)
-- [WCF関連](#wcf%E9%96%A2%E9%80%A3)
-- [ADO.NET入門記](#adonet%E5%85%A5%E9%96%80%E8%A8%98)
-- [DataGridView入門記](#datagridview%E5%85%A5%E9%96%80%E8%A8%98)
-- [iBatis(MyBatis)奮闘記](#ibatismybatis%E5%A5%AE%E9%97%98%E8%A8%98)
-- [C#関連](#c%E9%96%A2%E9%80%A3)
-- [いろいろTips](#%E3%81%84%E3%82%8D%E3%81%84%E3%82%8Dtips)
+- [Go言語メモ](#golang)
+- [Pythonメモ](#python)
+- [Linq入門記](#linq)
+- [.NETクラスライブラリ探訪](#dotnet_classlibrary)
+- [タスク並列ライブラリ(TPL)入門記](#tpl)
+- [DevExpress奮闘記](#devexpress)
+- [WCF関連](#wcf)
+- [ADO.NET入門記](#adonet)
+- [DataGridView入門記](#datagridview)
+- [iBatis(MyBatis)奮闘記](#ibatismybatis)
+- [C#関連](#csharp)
+- [いろいろTips](#misc)
 
 ---
 
-## Git
+## git
 
 - [github で https で毎回ユーザ名とパスワード聞かれないようにする](https://devlights.hatenablog.com/entry/2019/04/25/131432)
 - [Gitpodがめっちゃ便利 (github app, gitpod, vscodeライク, ブラウザでソース編集)](https://devlights.hatenablog.com/entry/2019/04/24/090245)
@@ -42,7 +42,7 @@
 - [Windowsでgitのエディタをgvimに設定するメモ (Git, GitHub for Windows, core.editor, rebase, fixup)](http://d.hatena.ne.jp/gsf_zero1/20121107/p1)
 - [間違えてマージしちゃいけないブランチにマージしてしまったときにリモートのコミット状態に一致させる (git, merge, checkout, reset --hard)](https://devlights.hatenablog.com/entry/2018/04/26/120822)
 
-## VSCode
+## vscode
 
 - [VSCodeのオススメ拡張機能のリンク (Qiita, vscode, extensions)](https://devlights.hatenablog.com/entry/2019/04/24/144200)
 - [VSCodeのターミナルにCmderを使えるようにする](https://devlights.hatenablog.com/entry/2019/01/08/131826)
@@ -53,7 +53,7 @@
 - [vscodeにて特定のエンコーディングで開くことを設定する (workspace settings, file encoding)](http://devlights.hatenablog.com/entry/2017/11/13/164020)
 - [polacode (指定したソースコードを画像にしてくれる VS Code 拡張機能)(polanoid for your code, visual studio code)](http://devlights.hatenablog.com/entry/2018/02/21/123728)
 
-## VisualStudio
+## visualstudio
 
 - [VisualStudioでdiffとmergeのツールをBeyond Compareに設定するメモ (TFS, TFVC, VisualStudio, Beyond Compare 4)](http://devlights.hatenablog.com/entry/2017/09/20/152153)
 - [VisualStudio "15" Preview2にてXAMLのEdit Continueが可能に](http://devlights.hatenablog.com/entry/2016/05/16/142755)
@@ -73,14 +73,14 @@
 - [VisualStudioで良く使うショートカットコマンド](http://d.hatena.ne.jp/gsf_zero1/20080912/p1)
 - [セットアッププロジェクトにて前のバージョンを削除してから新バージョンをインストールする(VisualStudio, Setup, msi)](http://d.hatena.ne.jp/gsf_zero1/20080228/p1)
 
-## golangmemo
+## golang
 
 - [Goメモ-01 (インストール)](https://devlights.hatenablog.com/entry/2019/10/01/113343)
 - [go.mod ファイルのGoランタイムのバージョン変更の仕方 (go mod edit)](https://devlights.hatenablog.com/entry/2019/08/15/002307)
 - [go build のちょっとしたクセ (go buildは指定されたディレクトリをビルド対象にする)](https://devlights.hatenablog.com/entry/2019/08/15/053236)
 - [go fmt をプロジェクト配下の全ファイルに対して実行したい](https://devlights.hatenablog.com/entry/2019/08/15/060851)
 
-## Pythonメモ
+## python
 
 - [Pythonメモ-00 (マルチバイトを考慮した文字幅を取得)(unicodedata, east_asian_width, multibytes, WF)](http://devlights.hatenablog.com/entry/2017/03/18/180549)
 - [Pythonメモ-01 (アスタリクスのみの引数, 後続のキーワード引数のキーワード指定を強制する)](http://devlights.hatenablog.com/entry/2017/04/14/011054)
@@ -192,7 +192,7 @@
 - [Pythonメモ-107 (```__main__.py``` について)(-m オプション, メインファイル)](https://devlights.hatenablog.com/entry/2019/07/13/231344)
 - [Pythonメモ-108 (sys.getsizeof()と__sizeof__()が返す値が異なる時がある)](https://devlights.hatenablog.com/entry/2019/08/08/190138)
 
-## Linq入門記
+## linq
 
 - [Linq入門記-01 (遅延実行、例外処理, try, catch)](http://d.hatena.ne.jp/gsf_zero1/20091204/p3)
 - [Linq入門記-02 (クエリキーワード, クエリ構文, from)](http://d.hatena.ne.jp/gsf_zero1/20091204/p2)
@@ -286,7 +286,7 @@
 - [Linq入門記-90 (LINQ to XML, アノテーション, AddAnnotation, Annotation&lt;T&gt;, RemoveAnnotations)](http://d.hatena.ne.jp/gsf_zero1/20130331/p3)
 - [Linq入門記-91 (LINQ to XML, 行番号と行位置の取得, IXmlLineInfo, HasLineInfo, LineNumber, LinePosition)](http://d.hatena.ne.jp/gsf_zero1/20130401/p1)
 
-## .NETクラスライブラリ探訪
+## dotnet_classlibrary
 
 - [.NET クラスライブラリ探訪-001 (System.Activator)](http://d.hatena.ne.jp/gsf_zero1/20070302/p1)
 - [.NET クラスライブラリ探訪-002 (System.Object)](http://d.hatena.ne.jp/gsf_zero1/20070305/p1)
@@ -358,7 +358,7 @@
 - [.NET クラスライブラリ探訪-069 (System.ArraySegment&lt;T&gt;, 部分配列の作成)](http://devlights.hatenablog.com/entry/2014/04/30/164033)
 - [.NET クラスライブラリ探訪-070 (System.Diagnostics.DebuggerDisplayAttribute, デバッグ時のオブジェクト表示方法を制御)](http://devlights.hatenablog.com/entry/2017/04/10/021307)
 
-## タスク並列ライブラリ(TPL)入門記
+## tpl
 
 - [タスク並列ライブラリ(TPL)についてのリソース (Task Parallel Library, Parallel.For, Thread, ThreadPool, 非同期, 並列)](http://d.hatena.ne.jp/gsf_zero1/20110210/p1)
 - [タスク並列ライブラリ入門記-000 (事始め, 殴り書きメモ)](http://d.hatena.ne.jp/gsf_zero1/20110308/p1)
@@ -370,7 +370,7 @@
 - [タスク並列ライブラリ入門記-006 (TaskCreationOptions.LongRunning, 長時間実行されるタスクであることを示すオプション, オーバーサブスクリプション)](http://devlights.hatenablog.com/entry/2014/01/15/010832)
 - [タスク並列ライブラリ入門記-007 (TaskのDisposeについて, Task.Dispose)](http://devlights.hatenablog.com/entry/2014/01/18/145025)
 
-## DevExpress奮闘記
+## devexpress
 
 - [DevExpress奮闘記-001 (各プロダクトの日本語化)](http://d.hatena.ne.jp/gsf_zero1/20080213/p1)
 - [DevExpress奮闘記-002 (XtraGridでコピーペースト関連のKBまとめ)(XtraGrid, DeveloperExpress, GridView, ContextMenu)](http://d.hatena.ne.jp/gsf_zero1/20080301/p1)
@@ -497,13 +497,13 @@
 - [DevExpress奮闘記-123 (TestCafeリリース, Web Test Framework, 非商用利用は無償)](http://d.hatena.ne.jp/gsf_zero1/20130808/p1)
 - [DevExpress奮闘記-124 (PDBファイルがダウンロード可能に, DXperience以上のライセンス必要)](http://d.hatena.ne.jp/gsf_zero1/20130828/p1)
 - [DevExpress奮闘記-125 (CodeRush Unit Test Builder, UTB, ユニットテスト自動作成)](http://devlights.hatenablog.com/entry/2014/04/29/171113)
-- [DevExpress奮闘記-126 (Assembly Deployment Tool, 配布時に必要なDLLを選択してくれるツール)](DevExpress奮闘記-126 (Assembly Deployment Tool, 配布時に必要なDLLを選択してくれるツール))
+- [DevExpress奮闘記-126 (Assembly Deployment Tool, 配布時に必要なDLLを選択してくれるツール)](https://devlights.hatenablog.com/entry/2014/09/30/172458)
 - [DevExpress奮闘記-127 (v14.2のリリース前情報メモ)](http://devlights.hatenablog.com/entry/2014/11/27/215239)
 - [DevExpress奮闘記-128 (CodeRushのテンプレート展開キーを変更, SpaceからTabへ)](http://devlights.hatenablog.com/entry/2015/03/10/163032)
 - [DevExpress奮闘記-129 (v15.2でダイアグラムコントロールが追加される (Diagram Control, WinForms, WPF, Visio inspired Diagram Control))](http://devlights.hatenablog.com/entry/2015/11/12/170310)
 - [番外編．CsvEditor for BIP (BIP, 帳票ツール, CSV編集ツール, XtraGrid, XtraVerticalGrid, XtraBars)](http://d.hatena.ne.jp/gsf_zero1/20101106/p1)
 
-## WCF関連
+## wcf
 
 - [MicrosoftがWCF向けのJava用相互運用バインディングをリリース (WCF, Binding, CodePlex, Websphere, WebLogic, Axis2)](http://d.hatena.ne.jp/gsf_zero1/20110711/p1)
 - [WCF入門-001 (簡単なサンプル, 自己ホスト形式, コードで記述)](http://d.hatena.ne.jp/gsf_zero1/20111020/p1)
@@ -565,7 +565,7 @@
 - [ADO.NET入門記-031 (DataTableにて文字列値の列を数値ソートする）](http://d.hatena.ne.jp/gsf_zero1/20110307/p1)
 - [ADO.NET入門記-032 (JoinViewを利用して結合表データを表示）(結合ビュー, 複数の表データ, DataSet, DataTable)](http://d.hatena.ne.jp/gsf_zero1/20110721/p3)
 
-## DataGridView入門記
+## datagridview
 
 - [DataGridView入門記-01 (非連結モードでの使用)](http://d.hatena.ne.jp/gsf_zero1/20070129/p1)
 - [DataGridView入門記-02 (奇数行に対してのセルスタイル(CellStyle)の指定)](http://d.hatena.ne.jp/gsf_zero1/20070130/p1)
@@ -589,7 +589,7 @@
 - [DataGridView入門記-20 (Shift+Enterで一行上に移動)(KeyDown, Handled, CurrentCell, Keys, ProcessTabKey)](http://d.hatena.ne.jp/gsf_zero1/20080407/p1)
 - [DataGridView入門記-21 (表示時に値を変換する／入力された値を変換する)(CellFormatting, CellParsing)](http://d.hatena.ne.jp/gsf_zero1/20080712/p1)
 
-## iBatis(MyBatis)奮闘記
+## ibatismybatis
 
 - [iBatis.NET奮闘記-001 (インストール及びVisualStudioでの環境設定)](http://d.hatena.ne.jp/gsf_zero1/20070930/p1)
 - [iBatis.NET奮闘記-002 (基本的な操作(1テーブルに対するSelect)) (Mapper, ISqlMapper, QueryForList, QueryForObject)](http://d.hatena.ne.jp/gsf_zero1/20070930/p2)
@@ -603,7 +603,7 @@
 - [iBatis.NET奮闘記-010 (動的SQL(DynamicSQL-01(UnaryConditionElements, ParameterPresentElements))) (QueryForObject, QueryForList, dynamic, isNull, isNotNull)](http://d.hatena.ne.jp/gsf_zero1/20071204/p2)
 - [iBatis.NET奮闘記-011 (Apacheプロジェクトから脱退, Google-Codeへ移籍, MyBatis)](http://d.hatena.ne.jp/gsf_zero1/20100806/p3)
 
-## C#関連
+## csharp
 
 - [C#3.0の追加機能-01(暗黙型付け(var))](http://d.hatena.ne.jp/gsf_zero1/20080104/p3)
 - [C#3.0の追加機能-02(拡張メソッド)](http://d.hatena.ne.jp/gsf_zero1/20080104/p4)
@@ -655,7 +655,7 @@
 - [C#のサンプルコードが沢山あるサイト (1000 C# Programs With Example Code and Output)](http://devlights.hatenablog.com/entry/2018/02/22/133515)
 - [セッション跨いで名前付き Mutex を使ったときにうまく動かなかった件 (System.Threading.Mutex, Global Mutex, 所有権)](https://devlights.hatenablog.com/entry/2019/07/10/152601)
 
-## いろいろTips
+## misc
 
 - [github の コードレビュー 画面で複数行に対してのコメントが付けれるようになっていた (beta, Multiple-line comments)](https://devlights.hatenablog.com/entry/2019/10/03/115905)
 - [Rubberduck (rubberduck-vba, VBA開発環境を少しモダンな環境にしてくれるアドイン, VBE)](https://devlights.hatenablog.com/entry/2019/07/31/142411)
