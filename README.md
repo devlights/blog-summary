@@ -83,6 +83,7 @@
 - [Goメモ-03 (GOPATH, ワークスペース, プロジェクトレイアウト)](https://devlights.hatenablog.com/entry/2019/10/03/173001)
 - [Goメモ-04 (ライブラリの公開と利用, go get, go mod)](https://devlights.hatenablog.com/entry/2019/10/05/130006)
 - [Goメモ-05 (import, Tour of Go)](https://devlights.hatenablog.com/entry/2019/10/08/120219)
+- [Goメモ-06 (Top 25 editing features of GoLand IDE, JetBrains)](https://devlights.hatenablog.com/entry/2019/10/08/161731)
 
 ## python
 
