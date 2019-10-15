@@ -198,6 +198,7 @@
 - [Pythonメモ-106 (PyPIが2段階認証に対応)(two-factor authentication, 2FA)](https://devlights.hatenablog.com/entry/2019/06/02/013027)
 - [Pythonメモ-107 (```__main__.py``` について)(-m オプション, メインファイル)](https://devlights.hatenablog.com/entry/2019/07/13/231344)
 - [Pythonメモ-108 (sys.getsizeof()と__sizeof__()が返す値が異なる時がある)](https://devlights.hatenablog.com/entry/2019/08/08/190138)
+- [Pythonメモ-109 (python 3.8.0 リリース, venv の アップグレード)](https://devlights.hatenablog.com/entry/2019/10/15/110533)
 
 ## linq
 
