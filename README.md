@@ -89,6 +89,7 @@
 - [Goメモ-09 (Basic Types, 基本型, Tour of Go)](https://devlights.hatenablog.com/entry/2019/10/28/111211)
 - [Goメモ-10 (Zero values, ゼロ値, Tour of Go)](https://devlights.hatenablog.com/entry/2019/10/29/195037)
 - [Goメモ-11 (明示的な型変換, Type conversions, Tour of Go)](https://devlights.hatenablog.com/entry/2019/10/30/104130)
+- [Goメモ-12 (定数, Constant, Tour of Go)](https://devlights.hatenablog.com/entry/2019/10/31/104243)
 
 ## python
 
