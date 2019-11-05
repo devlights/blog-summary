@@ -91,6 +91,7 @@
 - [Goメモ-11 (明示的な型変換, Type conversions, Tour of Go)](https://devlights.hatenablog.com/entry/2019/10/30/104130)
 - [Goメモ-12 (定数, Constant, Tour of Go)](https://devlights.hatenablog.com/entry/2019/10/31/104243)
 - [Goメモ-13 (chromebookでのgolang環境設定メモ, go1.13.4)](https://devlights.hatenablog.com/entry/2019/11/02/230426)
+- [Goメモ-14 (ループ, For, Tour of Go)](https://devlights.hatenablog.com/entry/2019/11/05/111929)
 
 ## python
 
