@@ -92,6 +92,7 @@
 - [Goメモ-12 (定数, Constant, Tour of Go)](https://devlights.hatenablog.com/entry/2019/10/31/104243)
 - [Goメモ-13 (chromebookでのgolang環境設定メモ, go1.13.4)](https://devlights.hatenablog.com/entry/2019/11/02/230426)
 - [Goメモ-14 (ループ, For, Tour of Go)](https://devlights.hatenablog.com/entry/2019/11/05/111929)
+- [Goメモ-15 (分岐, If, Tour of Go)](https://devlights.hatenablog.com/entry/2019/11/06/133956)
 
 ## python
 
