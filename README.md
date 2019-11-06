@@ -93,6 +93,7 @@
 - [Goメモ-13 (chromebookでのgolang環境設定メモ, go1.13.4)](https://devlights.hatenablog.com/entry/2019/11/02/230426)
 - [Goメモ-14 (ループ, For, Tour of Go)](https://devlights.hatenablog.com/entry/2019/11/05/111929)
 - [Goメモ-15 (分岐, If, Tour of Go)](https://devlights.hatenablog.com/entry/2019/11/06/133956)
+- [Goメモ-16 (今の環境を崩さずにお手軽に別のバージョンのgoを使う)](https://devlights.hatenablog.com/entry/2019/11/07/003735)
 
 ## python
 
