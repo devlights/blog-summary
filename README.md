@@ -75,6 +75,7 @@
 
 ## golang
 
+- [ChromebookのLinux (ベータ版)のDebian 9 (stretch) を 10 (buster) にアップグレード](https://devlights.hatenablog.com/entry/2019/11/08/142211)
 - [go.mod ファイルのGoランタイムのバージョン変更の仕方 (go mod edit)](https://devlights.hatenablog.com/entry/2019/08/15/002307)
 - [go build のちょっとしたクセ (go buildは指定されたディレクトリをビルド対象にする)](https://devlights.hatenablog.com/entry/2019/08/15/053236)
 - [go fmt をプロジェクト配下の全ファイルに対して実行したい](https://devlights.hatenablog.com/entry/2019/08/15/060851)
