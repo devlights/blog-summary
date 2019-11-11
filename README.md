@@ -96,6 +96,7 @@
 - [Goメモ-15 (分岐, If, Tour of Go)](https://devlights.hatenablog.com/entry/2019/11/06/133956)
 - [Goメモ-16 (今の環境を崩さずにお手軽に別のバージョンのgoを使う)](https://devlights.hatenablog.com/entry/2019/11/07/003735)
 - [Goメモ-17 (分岐, Switch, Tour of Go)](https://devlights.hatenablog.com/entry/2019/11/10/115347)
+- [Goメモ-18 (遅延呼び出し, Defer, Tour of Go)](https://devlights.hatenablog.com/entry/2019/11/11/114250)
 
 ## python
 
