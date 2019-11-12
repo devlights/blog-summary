@@ -678,6 +678,7 @@
 
 ## misc
 
+- [IntelliJ IDEのテーマコンテスト (IntelliJ Themes Contest 2019, Gradianto)](https://devlights.hatenablog.com/entry/2019/11/12/153804)
 - [github の コードレビュー 画面で複数行に対してのコメントが付けれるようになっていた (beta, Multiple-line comments)](https://devlights.hatenablog.com/entry/2019/10/03/115905)
 - [Rubberduck (rubberduck-vba, VBA開発環境を少しモダンな環境にしてくれるアドイン, VBE)](https://devlights.hatenablog.com/entry/2019/07/31/142411)
 - [mac で "/usr/include" ディレクトリが存在しなかった件について (10.14, xcode-select, Xcode 10, 標準インクルードファイル)](https://devlights.hatenablog.com/entry/2019/05/20/022448)
