@@ -98,6 +98,7 @@
 - [Goメモ-17 (分岐, Switch, Tour of Go)](https://devlights.hatenablog.com/entry/2019/11/10/115347)
 - [Goメモ-18 (遅延呼び出し, Defer, Tour of Go)](https://devlights.hatenablog.com/entry/2019/11/11/114250)
 - [Goメモ-19 (ポインタ, Pointer, Tour of Go)](https://devlights.hatenablog.com/entry/2019/11/12/122121)
+- [Goメモ-20 (構造体, Structs, Tour of Go)](https://devlights.hatenablog.com/entry/2019/11/13/110031)
 
 ## python
 
