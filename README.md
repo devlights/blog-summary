@@ -100,6 +100,7 @@
 - [Goメモ-19 (ポインタ, Pointer, Tour of Go)](https://devlights.hatenablog.com/entry/2019/11/12/122121)
 - [Goメモ-20 (構造体, Structs, Tour of Go)](https://devlights.hatenablog.com/entry/2019/11/13/110031)
 - [Goメモ-21 (50 Shades of Go, Goでよくやりがちな間違い50個)](https://devlights.hatenablog.com/entry/2019/11/13/165619)
+- [Goメモ-22 (配列, Arrays, Tour of Go)](https://devlights.hatenablog.com/entry/2019/11/14/162243)
 
 ## python
 
