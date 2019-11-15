@@ -217,6 +217,7 @@
 - [Pythonメモ-110 (python 3.8 で 最新の ipython インストールしたら trailtlets の警告出た)](https://devlights.hatenablog.com/entry/2019/10/18/183227)
 - [Pythonメモ-111 (Excelの各シートのズーム倍率を揃えるスクリプト)](https://devlights.hatenablog.com/entry/2019/11/15/131625)
 - [Pythonメモ-112 (Pythonネットワークプログラミングチートシートが公開)](https://devlights.hatenablog.com/entry/2019/11/15/132154)
+- [Pythonメモ-113 (Excelの最初のシートの最初のセルを選択状態にするスクリプト)](https://devlights.hatenablog.com/entry/2019/11/15/134757)
 
 ## linq
 
