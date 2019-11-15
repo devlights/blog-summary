@@ -215,6 +215,8 @@
 - [Pythonメモ-108 (sys.getsizeof()と__sizeof__()が返す値が異なる時がある)](https://devlights.hatenablog.com/entry/2019/08/08/190138)
 - [Pythonメモ-109 (python 3.8.0 リリース, venv の アップグレード)](https://devlights.hatenablog.com/entry/2019/10/15/110533)
 - [Pythonメモ-110 (python 3.8 で 最新の ipython インストールしたら trailtlets の警告出た)](https://devlights.hatenablog.com/entry/2019/10/18/183227)
+- [Pythonメモ-111 (Excelの各シートのズーム倍率を揃えるスクリプト)](https://devlights.hatenablog.com/entry/2019/11/15/131625)
+- [Pythonメモ-112 (Pythonネットワークプログラミングチートシートが公開)](https://devlights.hatenablog.com/entry/2019/11/15/132154)
 
 ## linq
 
