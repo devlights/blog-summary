@@ -687,6 +687,7 @@
 
 ## misc
 
+- [vimの３つのビジュアルモード開始コマンドとoコマンド](https://devlights.hatenablog.com/entry/2019/11/26/012325)
 - [IntelliJ IDEのテーマコンテスト (IntelliJ Themes Contest 2019, Gradianto)](https://devlights.hatenablog.com/entry/2019/11/12/153804)
 - [github の コードレビュー 画面で複数行に対してのコメントが付けれるようになっていた (beta, Multiple-line comments)](https://devlights.hatenablog.com/entry/2019/10/03/115905)
 - [Rubberduck (rubberduck-vba, VBA開発環境を少しモダンな環境にしてくれるアドイン, VBE)](https://devlights.hatenablog.com/entry/2019/07/31/142411)
