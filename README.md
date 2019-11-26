@@ -7,6 +7,7 @@
 ## 目次
 
 - [Git](#git)
+- [vim](#vim)
 - [VSCode](#vscode)
 - [VisualStudio](#visualstudio)
 - [Go言語メモ](#golang)
@@ -41,6 +42,17 @@
 - [WindowsでgitのdiffとmergeのツールをWinMergeに設定するメモ (Git, GitHub for Windows, WinMerge, difftool, mergetool)](http://d.hatena.ne.jp/gsf_zero1/20121114/p2)
 - [Windowsでgitのエディタをgvimに設定するメモ (Git, GitHub for Windows, core.editor, rebase, fixup)](http://d.hatena.ne.jp/gsf_zero1/20121107/p1)
 - [間違えてマージしちゃいけないブランチにマージしてしまったときにリモートのコミット状態に一致させる (git, merge, checkout, reset --hard)](https://devlights.hatenablog.com/entry/2018/04/26/120822)
+
+## vim
+
+- [vimの３つのビジュアルモード開始コマンドとoコマンド](https://devlights.hatenablog.com/entry/2019/11/26/012325)
+- [DiffOrigコマンド](https://devlights.hatenablog.com/entry/20080515/p2)
+- [vim7のタブ関連の設定について](https://devlights.hatenablog.com/entry/20071002/p2)
+- [タブの切り替えをCTRL-TABでできるようにする](https://devlights.hatenablog.com/entry/20060724/1153719810)
+- [ファイルの追加方法](https://devlights.hatenablog.com/entry/20060721/1153448506)
+- [argdo](https://devlights.hatenablog.com/entry/20060711/1152672004)
+- [モードライン](https://devlights.hatenablog.com/entry/20060708/1153981986)
+- [オムニ(Omni)補完](https://devlights.hatenablog.com/entry/20060611/1150863314)
 
 ## vscode
 
@@ -687,7 +699,6 @@
 
 ## misc
 
-- [vimの３つのビジュアルモード開始コマンドとoコマンド](https://devlights.hatenablog.com/entry/2019/11/26/012325)
 - [IntelliJ IDEのテーマコンテスト (IntelliJ Themes Contest 2019, Gradianto)](https://devlights.hatenablog.com/entry/2019/11/12/153804)
 - [github の コードレビュー 画面で複数行に対してのコメントが付けれるようになっていた (beta, Multiple-line comments)](https://devlights.hatenablog.com/entry/2019/10/03/115905)
 - [Rubberduck (rubberduck-vba, VBA開発環境を少しモダンな環境にしてくれるアドイン, VBE)](https://devlights.hatenablog.com/entry/2019/07/31/142411)
