@@ -115,6 +115,7 @@
 - [Goメモ-22 (配列, Arrays, Tour of Go)](https://devlights.hatenablog.com/entry/2019/11/14/162243)
 - [Goメモ-23 (スライス, Slices, Tour of Go)](https://devlights.hatenablog.com/entry/2019/11/18/161224)
 - [Goメモ-24 (マップ, Maps, Tour of Go)](https://devlights.hatenablog.com/entry/2019/11/25/183257)
+- [Goメモ-25 (メソッド, Methods, Tour of Go)](https://devlights.hatenablog.com/entry/2019/11/28/122220)
 
 ## python
 
