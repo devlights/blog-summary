@@ -117,6 +117,7 @@
 - [Goメモ-24 (マップ, Maps, Tour of Go)](https://devlights.hatenablog.com/entry/2019/11/25/183257)
 - [Goメモ-25 (メソッド, Methods, Tour of Go)](https://devlights.hatenablog.com/entry/2019/11/28/122220)
 - [Goメモ-26 (インターフェース, Interface, Tour of Go)](https://devlights.hatenablog.com/entry/2019/11/29/174624)
+- [Goメモ-27 (空インターフェース, Empty interface, Tour of Go)](https://devlights.hatenablog.com/entry/2019/12/01/202523)
 
 ## python
 
