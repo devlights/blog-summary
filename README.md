@@ -118,7 +118,7 @@
 - [Goメモ-25 (メソッド, Methods, Tour of Go)](https://devlights.hatenablog.com/entry/2019/11/28/122220)
 - [Goメモ-26 (インターフェース, Interface, Tour of Go)](https://devlights.hatenablog.com/entry/2019/11/29/174624)
 - [Goメモ-27 (空インターフェース, Empty interface, Tour of Go)](https://devlights.hatenablog.com/entry/2019/12/01/202523)
-- [Goメモ-28 (GoLand 2019.3からIDEのチュートリアルプロジェクトが追加)](https://devlights.hatenablog.com/entry/2019/12/02/175604)
+- [Goメモ-28 (GoLand 2019.3, チュートリアルプロジェクト, ショートカットメモ)](https://devlights.hatenablog.com/entry/2019/12/02/175604)
 
 ## python
 
