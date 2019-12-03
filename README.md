@@ -45,6 +45,7 @@
 
 ## vim
 
+- [vimで最短一致で検索 (vim用の正規表現)](https://devlights.hatenablog.com/entry/2019/12/03/202717)
 - [vimの３つのビジュアルモード開始コマンドとoコマンド](https://devlights.hatenablog.com/entry/2019/11/26/012325)
 - [DiffOrigコマンド](https://devlights.hatenablog.com/entry/20080515/p2)
 - [vim7のタブ関連の設定について](https://devlights.hatenablog.com/entry/20071002/p2)
