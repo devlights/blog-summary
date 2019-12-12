@@ -8,6 +8,7 @@
 
 - [Git](#git)
 - [vim](#vim)
+- [jetbrains](#jetbrains)
 - [VSCode](#vscode)
 - [VisualStudio](#visualstudio)
 - [Go言語メモ](#golang)
@@ -54,6 +55,10 @@
 - [argdo](https://devlights.hatenablog.com/entry/20060711/1152672004)
 - [モードライン](https://devlights.hatenablog.com/entry/20060708/1153981986)
 - [オムニ(Omni)補完](https://devlights.hatenablog.com/entry/20060611/1150863314)
+
+## jetbrains
+
+- [Rider 2019.3 で T4 テンプレートが正式サポート](https://devlights.hatenablog.com/entry/2019/12/12/123903)
 
 ## vscode
 
