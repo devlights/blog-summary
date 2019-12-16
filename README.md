@@ -246,6 +246,7 @@
 - [Pythonメモ-112 (Pythonネットワークプログラミングチートシートが公開)](https://devlights.hatenablog.com/entry/2019/11/15/132154)
 - [Pythonメモ-113 (Excelの最初のシートの最初のセルを選択状態にするスクリプト)](https://devlights.hatenablog.com/entry/2019/11/15/134757)
 - [Pythonメモ-114 (Excelの各シートのシェイプの位置を調整するスクリプト)](https://devlights.hatenablog.com/entry/2019/11/15/155830)
+- [Pythonメモ-115 (Excelの特定シートのフッターの値を調整するスクリプト)](https://devlights.hatenablog.com/entry/2019/12/16/171923)
 
 ## linq
 
