@@ -128,6 +128,7 @@
 - [Goメモ-29 (空構造体, Empty struct)](https://devlights.hatenablog.com/entry/2019/12/03/114645)
 - [Goメモ-30 (型検証, Type Assertions, Tour of Go)](https://devlights.hatenablog.com/entry/2019/12/08/045907)
 - [Goメモ-31 (型判定switch, Type Switch, Tour of Go)](https://devlights.hatenablog.com/entry/2019/12/09/005722)
+- [Goメモ-32 (エラー, Errors, Tour of Go)](https://devlights.hatenablog.com/entry/2019/12/17/143103)
 
 ## python
 
