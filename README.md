@@ -130,6 +130,7 @@
 - [Goメモ-31 (型判定switch, Type Switch, Tour of Go)](https://devlights.hatenablog.com/entry/2019/12/09/005722)
 - [Goメモ-32 (エラー, Errors, Tour of Go)](https://devlights.hatenablog.com/entry/2019/12/17/143103)
 - [Goメモ-33 (Go Modules がオンの状態でライブラリ変更してPUSHする前に使われている箇所の当たりをテストしたい)](https://devlights.hatenablog.com/entry/2019/12/18/180251)
+- [Goメモ-34 (モジュールの新しいバージョンをリリースしたのに go list -u -m all しても反映されない件)](https://devlights.hatenablog.com/entry/2019/12/19/132615)
 
 ## python
 
