@@ -132,6 +132,7 @@
 - [Goメモ-33 (Go Modules がオンの状態でライブラリ変更してPUSHする前に使われている箇所の当たりをテストしたい)](https://devlights.hatenablog.com/entry/2019/12/18/180251)
 - [Goメモ-34 (モジュールの新しいバージョンをリリースしたのに go list -u -m all しても反映されない件)](https://devlights.hatenablog.com/entry/2019/12/19/132615)
 - [Goメモ-35 (モジュールのメジャーバージョンを２以降にした場合の取り扱い方について)](https://devlights.hatenablog.com/entry/2019/12/20/132730)
+- [Goメモ-36 (スライスのポインタについて)](https://devlights.hatenablog.com/entry/2019/12/22/164626)
 
 ## python
 
