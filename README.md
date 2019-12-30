@@ -133,6 +133,7 @@
 - [Goメモ-34 (モジュールの新しいバージョンをリリースしたのに go list -u -m all しても反映されない件)](https://devlights.hatenablog.com/entry/2019/12/19/132615)
 - [Goメモ-35 (モジュールのメジャーバージョンを２以降にした場合の取り扱い方について)](https://devlights.hatenablog.com/entry/2019/12/20/132730)
 - [Goメモ-36 (スライスのポインタについて)](https://devlights.hatenablog.com/entry/2019/12/22/164626)
+- [Goメモ-37 (stringとruneとbyteの変換)](https://devlights.hatenablog.com/entry/2019/12/31/023117)
 
 ## python
 
