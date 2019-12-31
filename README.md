@@ -134,6 +134,7 @@
 - [Goメモ-35 (モジュールのメジャーバージョンを２以降にした場合の取り扱い方について)](https://devlights.hatenablog.com/entry/2019/12/20/132730)
 - [Goメモ-36 (スライスのポインタについて)](https://devlights.hatenablog.com/entry/2019/12/22/164626)
 - [Goメモ-37 (stringとruneとbyteの変換)](https://devlights.hatenablog.com/entry/2019/12/31/023117)
+- [Goメモ-38 (io.Readerインターフェース, Readers, Tour of Go)](https://devlights.hatenablog.com/entry/2019/12/31/165904)
 
 ## python
 
