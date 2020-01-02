@@ -135,6 +135,7 @@
 - [Goメモ-36 (スライスのポインタについて)](https://devlights.hatenablog.com/entry/2019/12/22/164626)
 - [Goメモ-37 (stringとruneとbyteの変換)](https://devlights.hatenablog.com/entry/2019/12/31/023117)
 - [Goメモ-38 (io.Readerインターフェース, Readers, Tour of Go)](https://devlights.hatenablog.com/entry/2019/12/31/165904)
+- [Goメモ-39 (ゴルーチン, Goroutines, Tour of Go)](https://devlights.hatenablog.com/entry/2020/01/03/022802)
 
 ## python
 
