@@ -137,6 +137,7 @@
 - [Goメモ-38 (io.Readerインターフェース, Readers, Tour of Go)](https://devlights.hatenablog.com/entry/2019/12/31/165904)
 - [Goメモ-39 (ゴルーチン, Goroutines, Tour of Go)](https://devlights.hatenablog.com/entry/2020/01/03/022802)
 - [Goメモ-40 (ビルトイン関数のprintとfmt.Printの違い](https://devlights.hatenablog.com/entry/2020/01/03/085750)
+- [Goメモ-41 (logパッケージのフラグ設定についてのメモ, log.Flags, log.SetFlags)](https://devlights.hatenablog.com/entry/2020/01/09/183527)
 
 ## python
 
