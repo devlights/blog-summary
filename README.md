@@ -725,6 +725,7 @@
 
 ## misc
 
+- [Windows10メモ (win+v, shift+右クリック)](https://devlights.hatenablog.com/entry/2020/01/14/104957)
 - [Homebrewのanalyticsをオプトアウトする方法](https://devlights.hatenablog.com/entry/2019/12/08/010306)
 - [IntelliJ IDEのテーマコンテスト (IntelliJ Themes Contest 2019, Gradianto)](https://devlights.hatenablog.com/entry/2019/11/12/153804)
 - [github の コードレビュー 画面で複数行に対してのコメントが付けれるようになっていた (beta, Multiple-line comments)](https://devlights.hatenablog.com/entry/2019/10/03/115905)
