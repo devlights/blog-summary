@@ -725,6 +725,7 @@
 
 ## misc
 
+- [Windows10メモ (WSL(Ubuntu) 初期設定メモ)](https://devlights.hatenablog.com/entry/2020/01/14/132743)
 - [Windows10メモ (win+v, shift+右クリック)](https://devlights.hatenablog.com/entry/2020/01/14/104957)
 - [Homebrewのanalyticsをオプトアウトする方法](https://devlights.hatenablog.com/entry/2019/12/08/010306)
 - [IntelliJ IDEのテーマコンテスト (IntelliJ Themes Contest 2019, Gradianto)](https://devlights.hatenablog.com/entry/2019/11/12/153804)
