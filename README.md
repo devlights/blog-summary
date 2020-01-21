@@ -725,6 +725,7 @@
 
 ## misc
 
+- [ターミナル上でcsvファイルを見る際のコマンドメモ](https://devlights.hatenablog.com/entry/2020/01/21/195308)
 - [Windows10メモ (WSL(Ubuntu) 初期設定メモ)](https://devlights.hatenablog.com/entry/2020/01/14/132743)
 - [Windows10メモ (win+v, shift+右クリック)](https://devlights.hatenablog.com/entry/2020/01/14/104957)
 - [Homebrewのanalyticsをオプトアウトする方法](https://devlights.hatenablog.com/entry/2019/12/08/010306)
