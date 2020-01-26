@@ -140,6 +140,7 @@
 - [Goメモ-41 (logパッケージのフラグ設定についてのメモ, log.Flags, log.SetFlags)](https://devlights.hatenablog.com/entry/2020/01/09/183527)
 - [Goメモ-42 (sentry-goパッケージを使ってエラー情報をsentryで表示)](https://devlights.hatenablog.com/entry/2020/01/13/223655)
 - [Goメモ-43 (sentry-goをゴルーチン内で利用する場合の注意点)](https://devlights.hatenablog.com/entry/2020/01/14/014552)
+- [Goメモ-44 (スライスのクリア、及び、nilスライスと空スライス)](https://devlights.hatenablog.com/entry/2020/01/27/012651)
 
 ## python
 
