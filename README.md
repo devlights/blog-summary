@@ -142,6 +142,7 @@
 - [Goメモ-43 (sentry-goをゴルーチン内で利用する場合の注意点)](https://devlights.hatenablog.com/entry/2020/01/14/014552)
 - [Goメモ-44 (スライスのクリア、及び、nilスライスと空スライス)](https://devlights.hatenablog.com/entry/2020/01/27/012651)
 - [Goメモ-45 (Excelの各シートのズーム倍率を揃える)](https://devlights.hatenablog.com/entry/2020/02/09/202459)
+- [Goメモ-46 (Excelの各シートの最初のセルを選択状態にする)](https://devlights.hatenablog.com/entry/2020/02/09/203245)
 
 ## python
 
