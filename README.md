@@ -145,6 +145,7 @@
 - [Goメモ-46 (Excelの各シートの最初のセルを選択状態にする)](https://devlights.hatenablog.com/entry/2020/02/09/203245)
 - [Goメモ-47 (Excelの特定シートのフッターの値を調整](https://devlights.hatenablog.com/entry/2020/02/09/203644)
 - [Goメモ-48 (Excelの特定シートの印刷の向きを調整)](https://devlights.hatenablog.com/entry/2020/02/09/204137)
+- [Goメモ-49 (ゴルーチンとチャネルでProducer/Consumer処理を作る)](https://devlights.hatenablog.com/entry/2020/02/10/035535)
 
 ## python
 
