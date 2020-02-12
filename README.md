@@ -146,6 +146,7 @@
 - [Goメモ-47 (Excelの特定シートのフッターの値を調整](https://devlights.hatenablog.com/entry/2020/02/09/203644)
 - [Goメモ-48 (Excelの特定シートの印刷の向きを調整)](https://devlights.hatenablog.com/entry/2020/02/09/204137)
 - [Goメモ-49 (ゴルーチンとチャネルでProducer/Consumer処理を作る)](https://devlights.hatenablog.com/entry/2020/02/10/035535)
+- [Goメモ-50 (go1.14の新機能をちょこっと試す(インターフェースのオーバーラップ可能))](https://devlights.hatenablog.com/entry/2020/02/12/194604)
 
 ## python
 
