@@ -147,6 +147,7 @@
 - [Goメモ-48 (Excelの特定シートの印刷の向きを調整)](https://devlights.hatenablog.com/entry/2020/02/09/204137)
 - [Goメモ-49 (ゴルーチンとチャネルでProducer/Consumer処理を作る)](https://devlights.hatenablog.com/entry/2020/02/10/035535)
 - [Goメモ-50 (go1.14の新機能をちょこっと試す(インターフェースのオーバーラップ可能))](https://devlights.hatenablog.com/entry/2020/02/12/194604)
+- [Goメモ-51 (XDG Base Directory 仕様の取り扱い (xdgパッケージ))](https://devlights.hatenablog.com/entry/2020/02/16/195443)
 
 ## python
 
