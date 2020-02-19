@@ -735,6 +735,7 @@
 
 ## misc
 
+- [JetBrains Mono (JetBrainsが作った開発者向けフォント)](https://devlights.hatenablog.com/entry/2020/02/20/020618)
 - [Windows Terminal の設定メモ (version 0.9)](https://devlights.hatenablog.com/entry/2020/02/18/161442)
 - [grepの結果から不要なものを除外する](https://devlights.hatenablog.com/entry/2020/02/15/194014)
 - [シェルの標準出力をリダイレクトする](https://devlights.hatenablog.com/entry/2020/01/29/131430)
