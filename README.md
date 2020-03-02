@@ -149,6 +149,9 @@
 - [Goメモ-50 (go1.14の新機能をちょこっと試す(インターフェースのオーバーラップ可能))](https://devlights.hatenablog.com/entry/2020/02/12/194604)
 - [Goメモ-51 (XDG Base Directory 仕様の取り扱い (xdgパッケージ))](https://devlights.hatenablog.com/entry/2020/02/16/195443)
 - [Goメモ-52 (bcryptパッケージを使ってパスワードをハッシュ化)](https://devlights.hatenablog.com/entry/2020/02/19/192844)
+- [Goメモ-53 (チャネル (channel), Goroutines, Tour of Go)](https://devlights.hatenablog.com/entry/2020/03/02/230342)
+- [Goメモ-54 (select, Goroutines, Tour of Go)](https://devlights.hatenablog.com/entry/2020/03/02/235501)
+
 
 ## python
 
