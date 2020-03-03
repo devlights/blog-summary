@@ -151,6 +151,7 @@
 - [Goメモ-52 (bcryptパッケージを使ってパスワードをハッシュ化)](https://devlights.hatenablog.com/entry/2020/02/19/192844)
 - [Goメモ-53 (チャネル (channel), Goroutines, Tour of Go)](https://devlights.hatenablog.com/entry/2020/03/02/230342)
 - [Goメモ-54 (select, Goroutines, Tour of Go)](https://devlights.hatenablog.com/entry/2020/03/02/235501)
+- [Goメモ-55 (sync.Mutex, Goroutines, Tour of Go)](https://devlights.hatenablog.com/entry/2020/03/03/184216)
 
 
 ## python
