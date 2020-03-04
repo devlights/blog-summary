@@ -153,6 +153,8 @@
 - [Goメモ-54 (select, Goroutines, Tour of Go)](https://devlights.hatenablog.com/entry/2020/03/02/235501)
 - [Goメモ-55 (sync.Mutex, Goroutines, Tour of Go)](https://devlights.hatenablog.com/entry/2020/03/03/184216)
 - [Goメモ-56 (Excelシートのページ区切りの先頭にメッセージ入れる)](https://devlights.hatenablog.com/entry/2020/03/04/111227)
+- [Goメモ-57 (Excelシートの画像の上にNo.XXってナンバリングしていく)](https://devlights.hatenablog.com/entry/2020/03/04/181846)
+- [Goメモ-58 (GoLandで変数のシャドウイングを検知するように設定する)](https://devlights.hatenablog.com/entry/2020/03/04/183433)
 
 
 ## python
