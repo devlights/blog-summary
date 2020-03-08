@@ -157,6 +157,7 @@
 - [Goメモ-58 (GoLandで変数のシャドウイングを検知するように設定する)](https://devlights.hatenablog.com/entry/2020/03/04/183433)
 - [Goメモ-59 (現在のメモリ使用量を取得, runtime.MemStats)](https://devlights.hatenablog.com/entry/2020/03/05/130030)
 - [Goメモ-60 (インターフェースをちゃんと実装しているか検証するTips)](https://devlights.hatenablog.com/entry/2020/03/08/020452)
+- [Goメモ-61 (ループ内でdeferする場合のTips)](https://devlights.hatenablog.com/entry/2020/03/08/174905)
 
 
 ## python
