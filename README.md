@@ -159,6 +159,7 @@
 - [Goメモ-60 (インターフェースをちゃんと実装しているか検証するTips)](https://devlights.hatenablog.com/entry/2020/03/08/020452)
 - [Goメモ-61 (ループ内でdeferする場合のTips)](https://devlights.hatenablog.com/entry/2020/03/08/174905)
 - [Goメモ-62 (sync.WaitGroupとerrgroupパッケージ)](https://devlights.hatenablog.com/entry/2020/03/10/112904)
+- [Goメモ-63 (Shift-JISとEUC-JPなファイルを扱う)](https://devlights.hatenablog.com/entry/2020/03/12/183020)
 
 ## python
 
