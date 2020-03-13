@@ -161,6 +161,7 @@
 - [Goメモ-62 (sync.WaitGroupとerrgroupパッケージ)](https://devlights.hatenablog.com/entry/2020/03/10/112904)
 - [Goメモ-63 (Shift-JISとEUC-JPなファイルを扱う)](https://devlights.hatenablog.com/entry/2020/03/12/183020)
 - [Goメモ-64 (*testing.T.Logメソッドの挙動がgo1.13とgo1.14で異なる)](https://devlights.hatenablog.com/entry/2020/03/13/130913)
+- [Goメモ-65 (ゴルーチンと再帰処理の組み合わせメモ)](https://devlights.hatenablog.com/entry/2020/03/13/170202)
 
 ## python
 
