@@ -160,6 +160,7 @@
 - [Goメモ-61 (ループ内でdeferする場合のTips)](https://devlights.hatenablog.com/entry/2020/03/08/174905)
 - [Goメモ-62 (sync.WaitGroupとerrgroupパッケージ)](https://devlights.hatenablog.com/entry/2020/03/10/112904)
 - [Goメモ-63 (Shift-JISとEUC-JPなファイルを扱う)](https://devlights.hatenablog.com/entry/2020/03/12/183020)
+- [Goメモ-64 (*testing.T.Logメソッドの挙動がgo1.13とgo1.14で異なる)](https://devlights.hatenablog.com/entry/2020/03/13/130913)
 
 ## python
 
