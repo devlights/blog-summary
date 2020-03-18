@@ -164,6 +164,7 @@
 - [Goメモ-65 (ゴルーチンと再帰処理の組み合わせメモ)](https://devlights.hatenablog.com/entry/2020/03/13/170202)
 - [Goメモ-66 (どれか一つのチャネルが閉じたら閉じるチャネル, WhenAny)](https://devlights.hatenablog.com/entry/2020/03/17/113522)
 - [Goメモ-67 (複数の全てのチャネルが閉じたら閉じるチャネル, WhenAll)](https://devlights.hatenablog.com/entry/2020/03/18/003135)
+- [Goメモ-68 (型の組み込みについてのメモ, Embedded, Effective-Go)](https://devlights.hatenablog.com/entry/2020/03/18/122905)
 
 ## python
 
