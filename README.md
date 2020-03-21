@@ -167,6 +167,7 @@
 - [Goメモ-68 (型の組み込みについてのメモ, Embedded, Effective-Go)](https://devlights.hatenablog.com/entry/2020/03/18/122905)
 - [Goメモ-69 (指定された値を繰り返すチャネル, Repeat)](https://devlights.hatenablog.com/entry/2020/03/20/203157)
 - [Goメモ-70 (チャネルから指定された個数分取得するチャネル, Take)](https://devlights.hatenablog.com/entry/2020/03/20/205427)
+- [Goメモ-71 (指定されたチャネルのどちらかが閉じたら閉じるチャネル, OrDone)](https://devlights.hatenablog.com/entry/2020/03/21/174220)
 
 ## python
 
