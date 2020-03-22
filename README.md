@@ -169,6 +169,7 @@
 - [Goメモ-70 (チャネルから指定された個数分取得するチャネル, Take)](https://devlights.hatenablog.com/entry/2020/03/20/205427)
 - [Goメモ-71 (指定されたチャネルのどちらかが閉じたら閉じるチャネル, OrDone)](https://devlights.hatenablog.com/entry/2020/03/21/174220)
 - [Goメモ-72 (指定されたチャネルのシーケンスを順に消費していくチャネル, Concat)](https://devlights.hatenablog.com/entry/2020/03/22/232920)
+- [Goメモ-73 (fan-in パターンでデータを集約するチャネル, FanIn)](https://devlights.hatenablog.com/entry/2020/03/23/015027)
 
 ## python
 
