@@ -172,6 +172,7 @@
 - [Goメモ-73 (fan-in パターンでデータを集約するチャネル, FanIn)](https://devlights.hatenablog.com/entry/2020/03/23/015027)
 - [Goメモ-74 (複数のOrDoneチャネルを使って処理, OrDone, FanOut, Workers)](https://devlights.hatenablog.com/entry/2020/03/24/163600)
 - [Goメモ-75 (一つの入力を複製して２つにするチャネル, Tee)](https://devlights.hatenablog.com/entry/2020/03/25/220942)
+- [Goメモ-76 (ループ用のチャネル, Loop, LoopInfinite)](https://devlights.hatenablog.com/entry/2020/03/26/152850)
 
 ## python
 
