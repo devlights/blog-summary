@@ -174,6 +174,7 @@
 - [Goメモ-75 (一つの入力を複製して２つにするチャネル, Tee)](https://devlights.hatenablog.com/entry/2020/03/25/220942)
 - [Goメモ-76 (ループ用のチャネル, Loop, LoopInfinite)](https://devlights.hatenablog.com/entry/2020/03/26/152850)
 - [Goメモ-77 (シーケンスをチャネルにする, ForEach)](https://devlights.hatenablog.com/entry/2020/03/26/172454)
+- [Goメモ-78 (指定したインターバルでデータを出力するチャネル, Interval)](https://devlights.hatenablog.com/entry/2020/03/26/175336)
 
 ## python
 
