@@ -176,6 +176,7 @@
 - [Goメモ-77 (シーケンスをチャネルにする, ForEach)](https://devlights.hatenablog.com/entry/2020/03/26/172454)
 - [Goメモ-78 (指定したインターバルでデータを出力するチャネル, Interval)](https://devlights.hatenablog.com/entry/2020/03/26/175336)
 - [Goメモ-79 (指定されたワーカー数でファンアウトさせる関数, FanOut)](https://devlights.hatenablog.com/entry/2020/03/27/165236)
+- [Goメモ-80 (go test のキャッシュを削除するやり方メモ)](https://devlights.hatenablog.com/entry/2020/03/27/172431)
 
 ## python
 
