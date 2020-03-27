@@ -175,6 +175,7 @@
 - [Goメモ-76 (ループ用のチャネル, Loop, LoopInfinite)](https://devlights.hatenablog.com/entry/2020/03/26/152850)
 - [Goメモ-77 (シーケンスをチャネルにする, ForEach)](https://devlights.hatenablog.com/entry/2020/03/26/172454)
 - [Goメモ-78 (指定したインターバルでデータを出力するチャネル, Interval)](https://devlights.hatenablog.com/entry/2020/03/26/175336)
+- [Goメモ-79 (指定されたワーカー数でファンアウトさせる関数, FanOut)](https://devlights.hatenablog.com/entry/2020/03/27/165236)
 
 ## python
 
