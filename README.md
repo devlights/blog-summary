@@ -178,6 +178,7 @@
 - [Goメモ-79 (指定されたワーカー数でファンアウトさせる関数, FanOut)](https://devlights.hatenablog.com/entry/2020/03/27/165236)
 - [Goメモ-80 (go test のキャッシュを削除するやり方メモ)](https://devlights.hatenablog.com/entry/2020/03/27/172431)
 - [Goメモ-81 (複数のsync.WaitGroupをまとめて管理する型, MergedWaitGroup)](https://devlights.hatenablog.com/entry/2020/03/27/190037)
+- [Goメモ-82 (デバッグ時に表示される文字列表現, GoLand, DebugString)](https://devlights.hatenablog.com/entry/2020/03/28/153328)
 
 ## python
 
