@@ -181,6 +181,7 @@
 - [Goメモ-82 (デバッグ時に表示される文字列表現, GoLand, DebugString)](https://devlights.hatenablog.com/entry/2020/03/28/153328)
 - [Goメモ-83 (チャネルの要素に対してインデックスを付与して返す関数, Enumerate)](https://devlights.hatenablog.com/entry/2020/03/30/112811)
 - [Goメモ-84 (指定した分チャネルからのデータをスキップする関数, Skip,SkipWhile)](https://devlights.hatenablog.com/entry/2020/04/01/234440)
+- [Goメモ-85 (チャネルからのデータをフィルタリングする関数, Filter)](https://devlights.hatenablog.com/entry/2020/04/02/131127)
 
 ## python
 
