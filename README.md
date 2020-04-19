@@ -8,11 +8,11 @@
 
 - [Git](#git)
 - [vim](#vim)
-- [jetbrains](#jetbrains)
 - [VSCode](#vscode)
 - [VisualStudio](#visualstudio)
 - [Go言語メモ](#golang)
 - [Pythonメモ](#python)
+- [System.Threading.Chennelsメモ](#dotnet_channels)
 - [Linq入門記](#linq)
 - [.NETクラスライブラリ探訪](#dotnet_classlibrary)
 - [タスク並列ライブラリ(TPL)入門記](#tpl)
@@ -55,10 +55,6 @@
 - [argdo](https://devlights.hatenablog.com/entry/20060711/1152672004)
 - [モードライン](https://devlights.hatenablog.com/entry/20060708/1153981986)
 - [オムニ(Omni)補完](https://devlights.hatenablog.com/entry/20060611/1150863314)
-
-## jetbrains
-
-- [Rider 2019.3 で T4 テンプレートが正式サポート](https://devlights.hatenablog.com/entry/2019/12/12/123903)
 
 ## vscode
 
@@ -304,6 +300,10 @@
 - [Pythonメモ-114 (Excelの各シートのシェイプの位置を調整するスクリプト)](https://devlights.hatenablog.com/entry/2019/11/15/155830)
 - [Pythonメモ-115 (Excelの特定シートのフッターの値を調整するスクリプト)](https://devlights.hatenablog.com/entry/2019/12/16/171923)
 - [Pythonメモ-116 (Excelの特定シートの印刷の向きを調整するスクリプト)](https://devlights.hatenablog.com/entry/2020/02/04/195007)
+
+## dotnet_channels
+
+- [System.Threading.Channelsのメモ-01 (基本的な使い方)](https://devlights.hatenablog.com/entry/2020/04/20/032712)
 
 ## linq
 
@@ -770,6 +770,7 @@
 
 ## misc
 
+- [Rider 2019.3 で T4 テンプレートが正式サポート](https://devlights.hatenablog.com/entry/2019/12/12/123903)
 - [ChromebookとGitpodでお安く勉強環境を作る](https://devlights.hatenablog.com/entry/2020/03/08/033644)
 - [JetBrains Mono (JetBrainsが作った開発者向けフォント)](https://devlights.hatenablog.com/entry/2020/02/20/020618)
 - [Windows Terminal の設定メモ (version 0.9)](https://devlights.hatenablog.com/entry/2020/02/18/161442)
