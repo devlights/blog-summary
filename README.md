@@ -180,6 +180,7 @@
 - [Goメモ-85 (チャネルからのデータをフィルタリングする関数, Filter)](https://devlights.hatenablog.com/entry/2020/04/02/131127)
 - [Goメモ-86 (チャネルの要素に指定された処理を適用した結果を返す関数, Map)](https://devlights.hatenablog.com/entry/2020/04/05/175832)
 - [Goメモ-87 (２つのスライスを結合する, slice concatenate)](https://devlights.hatenablog.com/entry/2020/04/15/131425)
+- [Goメモ-88 (スライスから配列にコピーする)](https://devlights.hatenablog.com/entry/2020/04/25/031720)
 
 ## python
 
