@@ -772,6 +772,7 @@
 
 ## misc
 
+- [通信メッセージのプロトコルをASCIIアートで出力してくれるコマンド (電文, Protocol, ASCII RFC-like protocol header diagrams)](https://devlights.hatenablog.com/entry/2020/05/18/211331)
 - [bcコマンドで進数変換して表示 (linux, unix)](https://devlights.hatenablog.com/entry/2020/04/25/023830)
 - [Rider 2019.3 で T4 テンプレートが正式サポート](https://devlights.hatenablog.com/entry/2019/12/12/123903)
 - [ChromebookとGitpodでお安く勉強環境を作る](https://devlights.hatenablog.com/entry/2020/03/08/033644)
