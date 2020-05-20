@@ -772,6 +772,7 @@
 
 ## misc
 
+- [Windows Terminal で Powerline を使う](https://devlights.hatenablog.com/entry/2020/05/20/105216)
 - [Windows Terminal の v1.0.1401.0 がリリース (安定版リリース)](https://devlights.hatenablog.com/entry/2020/05/20/103539)
 - [通信メッセージのプロトコルをASCIIアートで出力してくれるコマンド (電文, Protocol, ASCII RFC-like protocol header diagrams)](https://devlights.hatenablog.com/entry/2020/05/18/211331)
 - [bcコマンドで進数変換して表示 (linux, unix)](https://devlights.hatenablog.com/entry/2020/04/25/023830)
