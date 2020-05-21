@@ -772,6 +772,7 @@
 
 ## misc
 
+- [Microsoft PowerToys の PowerToys Run がいい感じ (Windows 10, Alfredチック)](https://devlights.hatenablog.com/entry/2020/05/21/110157)
 - [Microsoft Build 2020 自分用メモ](https://devlights.hatenablog.com/entry/2020/05/20/132855)
 - [Windows Terminal で Powerline を使う](https://devlights.hatenablog.com/entry/2020/05/20/105216)
 - [Windows Terminal の v1.0.1401.0 がリリース (安定版リリース)](https://devlights.hatenablog.com/entry/2020/05/20/103539)
