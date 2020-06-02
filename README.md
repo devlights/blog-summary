@@ -773,6 +773,7 @@
 
 ## misc
 
+- [RedisをWindowsにインストール (WSL)](https://devlights.hatenablog.com/entry/2020/06/02/163938)
 - [Windows Terminal の ショートカットメモ](https://devlights.hatenablog.com/entry/2020/05/26/175913)
 - [Microsoft PowerToys の PowerToys Run がいい感じ (Windows 10, Alfredチック)](https://devlights.hatenablog.com/entry/2020/05/21/110157)
 - [Microsoft Build 2020 自分用メモ](https://devlights.hatenablog.com/entry/2020/05/20/132855)
