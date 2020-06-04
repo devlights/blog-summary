@@ -773,6 +773,7 @@
 
 ## misc
 
+- [windows の バージョン をコマンド打って確認したい (winver)](https://devlights.hatenablog.com/entry/2020/06/04/104824)
 - [RedisをWindowsにインストール (WSL)](https://devlights.hatenablog.com/entry/2020/06/02/163938)
 - [Windows Terminal の ショートカットメモ](https://devlights.hatenablog.com/entry/2020/05/26/175913)
 - [Microsoft PowerToys の PowerToys Run がいい感じ (Windows 10, Alfredチック)](https://devlights.hatenablog.com/entry/2020/05/21/110157)
