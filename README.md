@@ -773,6 +773,7 @@
 
 ## misc
 
+- [誤ってエクスプローラーをタスク終了しちゃったときの復帰方法](https://devlights.hatenablog.com/entry/2020/06/05/153046)
 - [windows の バージョン をコマンド打って確認したい (winver)](https://devlights.hatenablog.com/entry/2020/06/04/104824)
 - [RedisをWindowsにインストール (WSL)](https://devlights.hatenablog.com/entry/2020/06/02/163938)
 - [Windows Terminal の ショートカットメモ](https://devlights.hatenablog.com/entry/2020/05/26/175913)
