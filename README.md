@@ -774,6 +774,7 @@
 
 ## misc
 
+- [Parallels で ubuntu 18.04 LTS いれて日本語IMEとキーボードレイアウトの調整メモ](https://devlights.hatenablog.com/entry/2020/06/09/181146)
 - [誤ってエクスプローラーをタスク終了しちゃったときの復帰方法](https://devlights.hatenablog.com/entry/2020/06/05/153046)
 - [windows の バージョン をコマンド打って確認したい (winver)](https://devlights.hatenablog.com/entry/2020/06/04/104824)
 - [RedisをWindowsにインストール (WSL)](https://devlights.hatenablog.com/entry/2020/06/02/163938)
