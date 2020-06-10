@@ -183,6 +183,7 @@
 - [Goメモ-88 (スライスから配列にコピーする)](https://devlights.hatenablog.com/entry/2020/04/25/031720)
 - [Goメモ-89 (go-cmp の使い方メモ)(比較処理用のライブラリ, Comparer)](https://devlights.hatenablog.com/entry/2020/05/21/113804)
 - [Goメモ-90 (Go の enum と iota の使い方メモ)](https://devlights.hatenablog.com/entry/2020/06/05/190848)
+- [Goメモ-91 (VS Code の Go 拡張機能 がGo公式プロジェクトになった)](https://devlights.hatenablog.com/entry/2020/06/10/170108)
 
 ## python
 
