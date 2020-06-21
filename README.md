@@ -777,6 +777,7 @@
 
 ## misc
 
+- [GitHub Super Linter 触ってみた](https://devlights.hatenablog.com/entry/2020/06/22/032110)
 - [AdoptOpenJDK が Eclipse Foundation に合流](https://devlights.hatenablog.com/entry/2020/06/22/010532)
 - [macOS Catalina から シェル のデフォルトが zsh になったので移行した](https://devlights.hatenablog.com/entry/2020/06/18/232802)
 - [CentOS と Ubuntu のバージョンを確認するやり方メモ](https://devlights.hatenablog.com/entry/2020/06/15/123944)
