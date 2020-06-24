@@ -777,6 +777,7 @@
 
 ## misc
 
+- [WSLのUbuntu 20.04 LTS を起動すると cannot create /var/lib/ubuntu-release-upgrader/release-upgrade-available: Permission denied って出る件](https://devlights.hatenablog.com/entry/2020/06/24/153831)
 - [GitHub Super Linter 触ってみた](https://devlights.hatenablog.com/entry/2020/06/22/032110)
 - [AdoptOpenJDK が Eclipse Foundation に合流](https://devlights.hatenablog.com/entry/2020/06/22/010532)
 - [macOS Catalina から シェル のデフォルトが zsh になったので移行した](https://devlights.hatenablog.com/entry/2020/06/18/232802)
