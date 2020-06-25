@@ -186,6 +186,7 @@
 - [Goメモ-90 (Go の enum と iota の使い方メモ)](https://devlights.hatenablog.com/entry/2020/06/05/190848)
 - [Goメモ-91 (VS Code の Go 拡張機能 がGo公式プロジェクトになった)](https://devlights.hatenablog.com/entry/2020/06/10/170108)
 - [Goメモ-92 (/dev/null のように出力を捨てる io.Writer)(ioutil.Discard)](https://devlights.hatenablog.com/entry/2020/06/16/165750)
+- [Goメモ-93 (go で SSH接続メモ (1))](https://devlights.hatenablog.com/entry/2020/06/25/152421)
 
 ## python
 
