@@ -28,6 +28,7 @@
 
 ## git
 
+- [git で ブランチ移動せずに マージ するやり方](https://devlights.hatenablog.com/entry/2020/06/29/232237)
 - [github で https で毎回ユーザ名とパスワード聞かれないようにする](https://devlights.hatenablog.com/entry/2019/04/25/131432)
 - [Gitpodがめっちゃ便利 (github app, gitpod, vscodeライク, ブラウザでソース編集)](https://devlights.hatenablog.com/entry/2019/04/24/090245)
 - [gitで日本語ファイル名が文字化けするのを直す (git, config, core.quotepath)](https://devlights.hatenablog.com/entry/2019/04/24/084036)
