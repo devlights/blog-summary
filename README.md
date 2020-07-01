@@ -781,6 +781,7 @@
 
 ## misc
 
+- [Windows 10 では Win + Shift + S で画面の一部を切り取ってクリップボードにコピーできる](https://devlights.hatenablog.com/entry/2020/07/01/132400)
 - [cmake で Ignoring CMAKE_OSX_SYSROOT value って出た場合のメモ](https://devlights.hatenablog.com/entry/2020/06/29/015419)
 - [WSLのUbuntu 20.04 LTS を起動すると cannot create /var/lib/ubuntu-release-upgrader/release-upgrade-available: Permission denied って出る件](https://devlights.hatenablog.com/entry/2020/06/24/153831)
 - [GitHub Super Linter 触ってみた](https://devlights.hatenablog.com/entry/2020/06/22/032110)
