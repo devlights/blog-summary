@@ -191,6 +191,7 @@
 - [Goメモ-94 (go で SSH接続メモ (2))](https://devlights.hatenablog.com/entry/2020/06/26/130859)
 - [Goメモ-95 (go で SSH接続メモ (3))](https://devlights.hatenablog.com/entry/2020/06/26/174420)
 - [Goメモ-96 (スライスの要素のクリアについて)(要素削除, メモリ状態をキープ)](https://devlights.hatenablog.com/entry/2020/07/20/020312)
+- [Goメモ-97 (Go 1.15 のリリースノートと翻訳版)](https://devlights.hatenablog.com/entry/2020/07/27/122449)
 
 ## python
 
