@@ -783,6 +783,7 @@
 
 ## misc
 
+- [JetBrainsの日本語技術サポートが開始されたとのこと](https://devlights.hatenablog.com/entry/2020/07/28/160518)
 - [Gitpod で OpenVSX 経由で VSCode の拡張機能がインストールできるようになってる](https://devlights.hatenablog.com/entry/2020/07/25/185225)
 - [chromebook (ASUS C101PA) の Linux で 日本語設定とVSCode のセットアップメモ](https://devlights.hatenablog.com/entry/2020/07/24/035601)
 - [Windows 10 では Win + Shift + S で画面の一部を切り取ってクリップボードにコピーできる](https://devlights.hatenablog.com/entry/2020/07/01/132400)
