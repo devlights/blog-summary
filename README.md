@@ -783,6 +783,7 @@
 
 ## misc
 
+- [chromebookのLinuxターミナルで日本語入力できるようにする (uim-fep)](https://devlights.hatenablog.com/entry/2020/08/06/132503)
 - [WSL側のファイルをエクスプローラーで表示](https://devlights.hatenablog.com/entry/2020/07/29/114429)
 - [chromebookの Linux ターミナル アプリがタブ表示出来るようになっていた](https://devlights.hatenablog.com/entry/2020/07/29/000601)
 - [JetBrainsの日本語技術サポートが開始されたとのこと](https://devlights.hatenablog.com/entry/2020/07/28/160518)
