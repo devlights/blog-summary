@@ -8,6 +8,7 @@
 
 - [Git](#git)
 - [vim](#vim)
+- [chromebook](#chromebook)
 - [VSCode](#vscode)
 - [VisualStudio](#visualstudio)
 - [Go言語メモ](#golang)
@@ -56,6 +57,15 @@
 - [argdo](https://devlights.hatenablog.com/entry/20060711/1152672004)
 - [モードライン](https://devlights.hatenablog.com/entry/20060708/1153981986)
 - [オムニ(Omni)補完](https://devlights.hatenablog.com/entry/20060611/1150863314)
+
+## chromebook
+
+- [Goメモ-13 (chromebookでのgolang環境設定メモ, go1.13.4)](https://devlights.hatenablog.com/entry/2019/11/02/230426)
+- [ChromebookのLinux (ベータ版)のDebian 9 (stretch) を 10 (buster) にアップグレード](https://devlights.hatenablog.com/entry/2019/11/08/142211)
+- [ChromebookとGitpodでお安く勉強環境を作る](https://devlights.hatenablog.com/entry/2020/03/08/033644)
+- [chromebook (ASUS C101PA) の Linux で 日本語設定とVSCode のセットアップメモ](https://devlights.hatenablog.com/entry/2020/07/24/035601)
+- [chromebookの Linux ターミナル アプリがタブ表示出来るようになっていた](https://devlights.hatenablog.com/entry/2020/07/29/000601)
+- [chromebookのLinuxターミナルで日本語入力できるようにする (uim-fep)](https://devlights.hatenablog.com/entry/2020/08/06/132503)
 
 ## vscode
 
