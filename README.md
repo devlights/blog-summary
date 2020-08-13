@@ -168,7 +168,7 @@
 - [Goメモ-61 (ループ内でdeferする場合のTips)](https://devlights.hatenablog.com/entry/2020/03/08/174905)
 - [Goメモ-62 (sync.WaitGroupとerrgroupパッケージ)](https://devlights.hatenablog.com/entry/2020/03/10/112904)
 - [Goメモ-63 (Shift-JISとEUC-JPなファイルを扱う)](https://devlights.hatenablog.com/entry/2020/03/12/183020)
-- [Goメモ-64 (*testing.T.Logメソッドの挙動がgo1.13とgo1.14で異なる)](https://devlights.hatenablog.com/entry/2020/03/13/130913)
+- [Goメモ-64 (testing.T.Logメソッドの挙動がgo1.13とgo1.14で異なる)](https://devlights.hatenablog.com/entry/2020/03/13/130913)
 - [Goメモ-65 (ゴルーチンと再帰処理の組み合わせメモ)](https://devlights.hatenablog.com/entry/2020/03/13/170202)
 - [Goメモ-66 (どれか一つのチャネルが閉じたら閉じるチャネル, WhenAny)](https://devlights.hatenablog.com/entry/2020/03/17/113522)
 - [Goメモ-67 (複数の全てのチャネルが閉じたら閉じるチャネル, WhenAll)](https://devlights.hatenablog.com/entry/2020/03/18/003135)
@@ -202,10 +202,11 @@
 - [Goメモ-95 (go で SSH接続メモ (3))](https://devlights.hatenablog.com/entry/2020/06/26/174420)
 - [Goメモ-96 (スライスの要素のクリアについて)(要素削除, メモリ状態をキープ)](https://devlights.hatenablog.com/entry/2020/07/20/020312)
 - [Goメモ-97 (Go 1.15 のリリースノートと翻訳版)](https://devlights.hatenablog.com/entry/2020/07/27/122449)
+- [Goメモ-98 (Go 1.15 リリース と ついでにchromebook linux の go をアップデート)](https://devlights.hatenablog.com/entry/2020/08/13/174011)
 
 ## python
 
-- [Pythonメモ-00 (マルチバイトを考慮した文字幅を取得)(unicodedata, east_asian_width, multibytes, WF)](http://devlights.hatenablog.com/entry/2017/03/18/180549)
+- [Pythonメモ-00 (マルチバイトを考慮した文字幅を取得)(unicodedata, multibytes, WF)](http://devlights.hatenablog.com/entry/2017/03/18/180549)
 - [Pythonメモ-01 (アスタリクスのみの引数, 後続のキーワード引数のキーワード指定を強制する)](http://devlights.hatenablog.com/entry/2017/04/14/011054)
 - [Pythonメモ-02 (改行コードをsplitしたい場合, splitlinesを使う)](http://devlights.hatenablog.com/entry/2017/05/01/235238)
 - [Pythonメモ-03 (リスト内包表記の中でファイルをopenすることについて)](http://devlights.hatenablog.com/entry/2017/05/02/001954)
