@@ -204,6 +204,7 @@
 - [Goメモ-97 (Go 1.15 のリリースノートと翻訳版)](https://devlights.hatenablog.com/entry/2020/07/27/122449)
 - [Goメモ-98 (Go 1.15 リリース と ついでにchromebook linux の go をアップデート)](https://devlights.hatenablog.com/entry/2020/08/13/174011)
 - [Goメモ-99 (ループ変数をポインタ渡しすると意図せぬ動作になる場合がある)](https://devlights.hatenablog.com/entry/2020/08/14/031953)
+- [Goメモ-100 (省略変数宣言 := と変数スコープ でよくやってしまうミス )](https://devlights.hatenablog.com/entry/2020/08/16/024216)
 
 ## python
 
