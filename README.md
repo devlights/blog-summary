@@ -206,6 +206,7 @@
 - [Goメモ-99 (ループ変数をポインタ渡しすると意図せぬ動作になる場合がある)](https://devlights.hatenablog.com/entry/2020/08/14/031953)
 - [Goメモ-100 (省略変数宣言 := と変数スコープ でよくやってしまうミス )](https://devlights.hatenablog.com/entry/2020/08/16/024216)
 - [Goメモ-101 (ビット操作メモ, ビット演算子)](https://devlights.hatenablog.com/entry/2020/08/17/035813)
+- [Goメモ-102 (Explicit argument indexes, Printfで同じパラメータを使い回す)](https://devlights.hatenablog.com/entry/2020/08/18/014703)
 
 ## python
 
