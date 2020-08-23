@@ -69,6 +69,7 @@
 
 ## vscode
 
+- [VSCode の Hex Editor 拡張機能 (Microsoft 作成の拡張機能)](https://devlights.hatenablog.com/entry/2020/08/21/185114)
 - [VSCode で ドットファイル を開く (macos, dotfiles)](https://devlights.hatenablog.com/entry/2020/06/18/195439)
 - [VSCodeのオススメ拡張機能のリンク (Qiita, vscode, extensions)](https://devlights.hatenablog.com/entry/2019/04/24/144200)
 - [VSCodeのターミナルにCmderを使えるようにする](https://devlights.hatenablog.com/entry/2019/01/08/131826)
@@ -798,6 +799,7 @@
 
 ## misc
 
+- [bashでよく忘れて調べているショートカットキー](https://devlights.hatenablog.com/entry/2020/08/23/171427)
 - [chromebookのLinuxターミナルで日本語入力できるようにする (uim-fep)](https://devlights.hatenablog.com/entry/2020/08/06/132503)
 - [WSL側のファイルをエクスプローラーで表示](https://devlights.hatenablog.com/entry/2020/07/29/114429)
 - [chromebookの Linux ターミナル アプリがタブ表示出来るようになっていた](https://devlights.hatenablog.com/entry/2020/07/29/000601)
