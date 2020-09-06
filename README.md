@@ -804,6 +804,7 @@
 
 ## misc
 
+- [tail -f の代わりに less を使う (tail -f, less +F, もしくは less で開いて F 押す)](https://devlights.hatenablog.com/entry/2020/09/07/010307)
 - [Everything curl (curlについて詳細に書かれたドキュメント, GitBook)](https://devlights.hatenablog.com/entry/2020/09/02/103110)
 - [bashでよく忘れて調べているショートカットキー](https://devlights.hatenablog.com/entry/2020/08/23/171427)
 - [chromebookのLinuxターミナルで日本語入力できるようにする (uim-fep)](https://devlights.hatenablog.com/entry/2020/08/06/132503)
