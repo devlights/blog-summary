@@ -801,6 +801,7 @@
 - [C#のサンプルコードが沢山あるサイト (1000 C# Programs With Example Code and Output)](https://devlights.hatenablog.com/entry/2018/02/22/133515)
 - [セッション跨いで名前付き Mutex を使ったときにうまく動かなかった件 (System.Threading.Mutex, Global Mutex, 所有権)](https://devlights.hatenablog.com/entry/2019/07/10/152601)
 - [Socket エラーコードについての詳細記事 (JetBrains, How Socket Error Codes Depend on Runtime and Operating System)](https://devlights.hatenablog.com/entry/2020/04/28/162600)
+- [.NET 5.0 RC1 がリリース](https://devlights.hatenablog.com/entry/2020/09/15/115142)
 
 ## misc
 
