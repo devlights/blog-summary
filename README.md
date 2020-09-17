@@ -29,6 +29,7 @@
 
 ## git
 
+- [gitのコミット、マージ時のエディタをVSCodeに設定](https://devlights.hatenablog.com/entry/2020/09/17/164957)
 - [git を使って git をインストール (ソースビルド)](https://devlights.hatenablog.com/entry/2020/09/02/010000)
 - [git で ブランチ移動せずに マージ するやり方](https://devlights.hatenablog.com/entry/2020/06/29/232237)
 - [github で https で毎回ユーザ名とパスワード聞かれないようにする](https://devlights.hatenablog.com/entry/2019/04/25/131432)
@@ -70,6 +71,7 @@
 
 ## vscode
 
+- [gitのコミット、マージ時のエディタをVSCodeに設定](https://devlights.hatenablog.com/entry/2020/09/17/164957)
 - [VSCode の Hex Editor 拡張機能 (Microsoft 作成の拡張機能)](https://devlights.hatenablog.com/entry/2020/08/21/185114)
 - [VSCode で ドットファイル を開く (macos, dotfiles)](https://devlights.hatenablog.com/entry/2020/06/18/195439)
 - [VSCodeのオススメ拡張機能のリンク (Qiita, vscode, extensions)](https://devlights.hatenablog.com/entry/2019/04/24/144200)
