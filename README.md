@@ -216,6 +216,7 @@
 - [Goメモ-105 (gRPCでUnixドメインソケットのメモ)](https://devlights.hatenablog.com/entry/2020/08/26/130037)
 - [Goメモ-106 (「プログラミング言語Go完全入門」が公開されている)](https://devlights.hatenablog.com/entry/2020/09/01/091611)
 - [Goメモ-107 (go getで参照しているパッケージを一括更新)](https://devlights.hatenablog.com/entry/2020/09/22/032439)
+- [Goメモ-108 (Protocol Buffers でシリアライズとデシリアライズ)](https://devlights.hatenablog.com/entry/2020/09/22/233819)
 
 ## python
 
