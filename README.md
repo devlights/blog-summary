@@ -810,6 +810,8 @@
 
 ## misc
 
+- [Learn X in Y minutes (いろんなプログラミング言語の特徴とかを載せてくれているサイト)](https://devlights.hatenablog.com/entry/2020/09/25/133403)
+- [Todoistにボード機能が搭載された](https://devlights.hatenablog.com/entry/2020/09/24/190512)
 - [less の環境変数 LESSOPEN で２つ以上のパイプを繋ぐ (nkfとsource-highlight同時指定)](https://devlights.hatenablog.com/entry/2020/09/08/121023)
 - [less コマンドで ソースコード のハイライト表示をする (GNU Source-Highlight, LESSOPEN)](https://devlights.hatenablog.com/entry/2020/09/08/025346)
 - [less コマンドで sjis とか euc-jp なファイルを表示する (LESSOPEN)](https://devlights.hatenablog.com/entry/2020/09/07/125513)
