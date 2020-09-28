@@ -810,6 +810,7 @@
 
 ## misc
 
+- [技術的負債とオープンソース開発 (Technical Debt and Open Source Development)](https://devlights.hatenablog.com/entry/2020/09/28/135530)
 - [Learn X in Y minutes (いろんなプログラミング言語の特徴とかを載せてくれているサイト)](https://devlights.hatenablog.com/entry/2020/09/25/133403)
 - [Todoistにボード機能が搭載された](https://devlights.hatenablog.com/entry/2020/09/24/190512)
 - [less の環境変数 LESSOPEN で２つ以上のパイプを繋ぐ (nkfとsource-highlight同時指定)](https://devlights.hatenablog.com/entry/2020/09/08/121023)
