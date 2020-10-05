@@ -2,6 +2,8 @@
 
 [いろいろ備忘録日記](https://devlights.hatenablog.com/)の各記事をリンクしています。
 
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/devlights/blog-summary)
+
 ---
 
 ## 目次
