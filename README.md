@@ -812,6 +812,7 @@
 
 ## misc
 
+- [gccで各関数が使用しているスタックサイズを出力するオプション](https://devlights.hatenablog.com/entry/2020/10/05/201142)
 - [技術的負債とオープンソース開発 (Technical Debt and Open Source Development)](https://devlights.hatenablog.com/entry/2020/09/28/135530)
 - [Learn X in Y minutes (いろんなプログラミング言語の特徴とかを載せてくれているサイト)](https://devlights.hatenablog.com/entry/2020/09/25/133403)
 - [Todoistにボード機能が搭載された](https://devlights.hatenablog.com/entry/2020/09/24/190512)
