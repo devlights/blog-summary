@@ -220,6 +220,7 @@
 - [Goメモ-107 (go getで参照しているパッケージを一括更新)](https://devlights.hatenablog.com/entry/2020/09/22/032439)
 - [Goメモ-108 (Protocol Buffers でシリアライズとデシリアライズ)](https://devlights.hatenablog.com/entry/2020/09/22/233819)
 - [Goメモ-109 (go test 時に -tags を付けて実行するテストを制御)](https://devlights.hatenablog.com/entry/2020/09/24/011502)
+- [Goメモ-110 (フォーマット書式の %*s について)](https://devlights.hatenablog.com/entry/2020/10/07/113537)
 
 ## python
 
