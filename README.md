@@ -31,6 +31,7 @@
 
 ## git
 
+- [GitpodがGitLabに組み込まれる (Native GitLab Integration, v13.5から)](https://devlights.hatenablog.com/entry/2020/10/09/105033)
 - [Windows の git をコマンドラインでアップデート (update-git-for-windows)](https://devlights.hatenablog.com/entry/2020/10/08/000801)
 - [gitのコミット、マージ時のエディタをVSCodeに設定](https://devlights.hatenablog.com/entry/2020/09/17/164957)
 - [git を使って git をインストール (ソースビルド)](https://devlights.hatenablog.com/entry/2020/09/02/010000)
