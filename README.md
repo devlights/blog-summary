@@ -66,6 +66,7 @@
 
 ## chromebook
 
+- [VSCode version 1.50 で Linux ARM ビルドが追加](https://devlights.hatenablog.com/entry/2020/10/09/160104)
 - [Goメモ-13 (chromebookでのgolang環境設定メモ, go1.13.4)](https://devlights.hatenablog.com/entry/2019/11/02/230426)
 - [ChromebookのLinux (ベータ版)のDebian 9 (stretch) を 10 (buster) にアップグレード](https://devlights.hatenablog.com/entry/2019/11/08/142211)
 - [ChromebookとGitpodでお安く勉強環境を作る](https://devlights.hatenablog.com/entry/2020/03/08/033644)
@@ -75,6 +76,7 @@
 
 ## vscode
 
+- [VSCode version 1.50 で Linux ARM ビルドが追加](https://devlights.hatenablog.com/entry/2020/10/09/160104)
 - [gitのコミット、マージ時のエディタをVSCodeに設定](https://devlights.hatenablog.com/entry/2020/09/17/164957)
 - [VSCode の Hex Editor 拡張機能 (Microsoft 作成の拡張機能)](https://devlights.hatenablog.com/entry/2020/08/21/185114)
 - [VSCode で ドットファイル を開く (macos, dotfiles)](https://devlights.hatenablog.com/entry/2020/06/18/195439)
