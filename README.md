@@ -66,6 +66,7 @@
 
 ## chromebook
 
+- [Chromebook の Linux コンテナ (Crostini) の再起動](https://devlights.hatenablog.com/entry/2020/10/13/095036)
 - [VSCode version 1.50 で Linux ARM ビルドが追加](https://devlights.hatenablog.com/entry/2020/10/09/160104)
 - [Goメモ-13 (chromebookでのgolang環境設定メモ, go1.13.4)](https://devlights.hatenablog.com/entry/2019/11/02/230426)
 - [ChromebookのLinux (ベータ版)のDebian 9 (stretch) を 10 (buster) にアップグレード](https://devlights.hatenablog.com/entry/2019/11/08/142211)
