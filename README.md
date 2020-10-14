@@ -226,6 +226,7 @@
 - [Goメモ-108 (Protocol Buffers でシリアライズとデシリアライズ)](https://devlights.hatenablog.com/entry/2020/09/22/233819)
 - [Goメモ-109 (go test 時に -tags を付けて実行するテストを制御)](https://devlights.hatenablog.com/entry/2020/09/24/011502)
 - [Goメモ-110 (フォーマット書式の %*s について)](https://devlights.hatenablog.com/entry/2020/10/07/113537)
+- [TCPソケットがclose状態の時の挙動についての情報メモ (Writing to a closed, local TCP socket not failing)](https://devlights.hatenablog.com/entry/2020/10/14/134430)
 
 ## python
 
@@ -346,6 +347,7 @@
 - [Pythonメモ-114 (Excelの各シートのシェイプの位置を調整するスクリプト)](https://devlights.hatenablog.com/entry/2019/11/15/155830)
 - [Pythonメモ-115 (Excelの特定シートのフッターの値を調整するスクリプト)](https://devlights.hatenablog.com/entry/2019/12/16/171923)
 - [Pythonメモ-116 (Excelの特定シートの印刷の向きを調整するスクリプト)](https://devlights.hatenablog.com/entry/2020/02/04/195007)
+- [TCPソケットがclose状態の時の挙動についての情報メモ (Writing to a closed, local TCP socket not failing)](https://devlights.hatenablog.com/entry/2020/10/14/134430)
 
 ## dotnet-channels
 
@@ -815,9 +817,11 @@
 - [セッション跨いで名前付き Mutex を使ったときにうまく動かなかった件 (System.Threading.Mutex, Global Mutex, 所有権)](https://devlights.hatenablog.com/entry/2019/07/10/152601)
 - [Socket エラーコードについての詳細記事 (JetBrains, How Socket Error Codes Depend on Runtime and Operating System)](https://devlights.hatenablog.com/entry/2020/04/28/162600)
 - [.NET 5.0 RC1 がリリース](https://devlights.hatenablog.com/entry/2020/09/15/115142)
+- [TCPソケットがclose状態の時の挙動についての情報メモ (Writing to a closed, local TCP socket not failing)](https://devlights.hatenablog.com/entry/2020/10/14/134430)
 
 ## misc
 
+- [TCPソケットがclose状態の時の挙動についての情報メモ (Writing to a closed, local TCP socket not failing)](https://devlights.hatenablog.com/entry/2020/10/14/134430)
 - [gccで各関数が使用しているスタックサイズを出力するオプション](https://devlights.hatenablog.com/entry/2020/10/05/201142)
 - [技術的負債とオープンソース開発 (Technical Debt and Open Source Development)](https://devlights.hatenablog.com/entry/2020/09/28/135530)
 - [Learn X in Y minutes (いろんなプログラミング言語の特徴とかを載せてくれているサイト)](https://devlights.hatenablog.com/entry/2020/09/25/133403)
