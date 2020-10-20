@@ -823,6 +823,7 @@
 
 ## misc
 
+- [wcコマンドでファイルサイズを表示 (linux, コマンドライン)](https://devlights.hatenablog.com/entry/2020/10/20/120114)
 - [TCPソケットがclose状態の時の挙動についての情報メモ (Writing to a closed, local TCP socket not failing)](https://devlights.hatenablog.com/entry/2020/10/14/134430)
 - [gccで各関数が使用しているスタックサイズを出力するオプション](https://devlights.hatenablog.com/entry/2020/10/05/201142)
 - [技術的負債とオープンソース開発 (Technical Debt and Open Source Development)](https://devlights.hatenablog.com/entry/2020/09/28/135530)
