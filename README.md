@@ -114,6 +114,7 @@
 
 ## golang
 
+- [TCPソケットがclose状態の時の挙動についての情報メモ (Writing to a closed, local TCP socket not failing)](https://devlights.hatenablog.com/entry/2020/10/14/134430)
 - [ChromebookのLinux (ベータ版)のDebian 9 (stretch) を 10 (buster) にアップグレード](https://devlights.hatenablog.com/entry/2019/11/08/142211)
 - [go.mod ファイルのGoランタイムのバージョン変更の仕方 (go mod edit)](https://devlights.hatenablog.com/entry/2019/08/15/002307)
 - [go build のちょっとしたクセ (go buildは指定されたディレクトリをビルド対象にする)](https://devlights.hatenablog.com/entry/2019/08/15/053236)
@@ -228,10 +229,11 @@
 - [Goメモ-108 (Protocol Buffers でシリアライズとデシリアライズ)](https://devlights.hatenablog.com/entry/2020/09/22/233819)
 - [Goメモ-109 (go test 時に -tags を付けて実行するテストを制御)](https://devlights.hatenablog.com/entry/2020/09/24/011502)
 - [Goメモ-110 (フォーマット書式の %*s について)](https://devlights.hatenablog.com/entry/2020/10/07/113537)
-- [TCPソケットがclose状態の時の挙動についての情報メモ (Writing to a closed, local TCP socket not failing)](https://devlights.hatenablog.com/entry/2020/10/14/134430)
+- [Goメモ-111 (ビルド時にデバッグ情報とかを消してサイズを小さくする, ldflags, trimpath, upx)](https://devlights.hatenablog.com/entry/2020/10/21/192615)
 
 ## python
 
+- [TCPソケットがclose状態の時の挙動についての情報メモ (Writing to a closed, local TCP socket not failing)](https://devlights.hatenablog.com/entry/2020/10/14/134430)
 - [Pythonメモ-00 (マルチバイトを考慮した文字幅を取得)(unicodedata, multibytes, WF)](https://devlights.hatenablog.com/entry/2017/03/18/180549)
 - [Pythonメモ-01 (アスタリクスのみの引数, 後続のキーワード引数のキーワード指定を強制する)](https://devlights.hatenablog.com/entry/2017/04/14/011054)
 - [Pythonメモ-02 (改行コードをsplitしたい場合, splitlinesを使う)](https://devlights.hatenablog.com/entry/2017/05/01/235238)
@@ -349,7 +351,6 @@
 - [Pythonメモ-114 (Excelの各シートのシェイプの位置を調整するスクリプト)](https://devlights.hatenablog.com/entry/2019/11/15/155830)
 - [Pythonメモ-115 (Excelの特定シートのフッターの値を調整するスクリプト)](https://devlights.hatenablog.com/entry/2019/12/16/171923)
 - [Pythonメモ-116 (Excelの特定シートの印刷の向きを調整するスクリプト)](https://devlights.hatenablog.com/entry/2020/02/04/195007)
-- [TCPソケットがclose状態の時の挙動についての情報メモ (Writing to a closed, local TCP socket not failing)](https://devlights.hatenablog.com/entry/2020/10/14/134430)
 
 ## dotnet-channels
 
