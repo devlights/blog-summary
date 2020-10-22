@@ -230,6 +230,7 @@
 - [Goメモ-109 (go test 時に -tags を付けて実行するテストを制御)](https://devlights.hatenablog.com/entry/2020/09/24/011502)
 - [Goメモ-110 (フォーマット書式の %*s について)](https://devlights.hatenablog.com/entry/2020/10/07/113537)
 - [Goメモ-111 (ビルド時にデバッグ情報とかを消してサイズを小さくする, ldflags, trimpath, upx)](https://devlights.hatenablog.com/entry/2020/10/21/192615)
+- [Goメモ-112 (配下の全パッケージに対してgolint と go vet する)](https://devlights.hatenablog.com/entry/2020/10/22/153526)
 
 ## python
 
