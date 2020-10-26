@@ -232,6 +232,7 @@
 - [Goメモ-110 (フォーマット書式の %*s について)](https://devlights.hatenablog.com/entry/2020/10/07/113537)
 - [Goメモ-111 (ビルド時にデバッグ情報とかを消してサイズを小さくする, ldflags, trimpath, upx)](https://devlights.hatenablog.com/entry/2020/10/21/192615)
 - [Goメモ-112 (配下の全パッケージに対してgolint と go vet する)](https://devlights.hatenablog.com/entry/2020/10/22/153526)
+- [Goメモ-113 (tealeg/xlsx にて1セルに複数行テキストを設定した場合のメモ)](https://devlights.hatenablog.com/entry/2020/10/26/181733)
 
 ## python
 
