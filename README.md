@@ -237,6 +237,7 @@
 - [Goメモ-113 (tealeg/xlsx にて1セルに複数行テキストを設定した場合のメモ)](https://devlights.hatenablog.com/entry/2020/10/26/181733)
 - [Goメモ-114 (WSL1だとVSCodeでGoのデバッグが出来ない)](https://devlights.hatenablog.com/entry/2020/10/27/232027)
 - [Goメモ-115 (VSCode(Gitpod)でGoプログラムのデバッグ時に標準入力がサポートされない？)](https://devlights.hatenablog.com/entry/2020/10/28/125418)
+- [Goメモ-116 (文字列末尾の改行を除去)(strings.TrimRight)](https://devlights.hatenablog.com/entry/2020/10/29/174701)
 
 ## python
 
