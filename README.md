@@ -68,6 +68,7 @@
 
 ## chromebook
 
+- [Chromebook の Linux コンテナ の python3 で venv と pip を使えるようにする](https://devlights.hatenablog.com/entry/2020/11/02/014207)
 - [chromebookのターミナルで貼り付けをする方法](https://devlights.hatenablog.com/entry/2020/10/24/233410)
 - [Chromebook の Linux コンテナ (Crostini) の再起動](https://devlights.hatenablog.com/entry/2020/10/13/095036)
 - [VSCode version 1.50 で Linux ARM ビルドが追加](https://devlights.hatenablog.com/entry/2020/10/09/160104)
