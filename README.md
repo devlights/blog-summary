@@ -239,6 +239,7 @@
 - [Goメモ-114 (WSL1だとVSCodeでGoのデバッグが出来ない)](https://devlights.hatenablog.com/entry/2020/10/27/232027)
 - [Goメモ-115 (VSCode(Gitpod)でGoプログラムのデバッグ時に標準入力がサポートされない？)](https://devlights.hatenablog.com/entry/2020/10/28/125418)
 - [Goメモ-116 (文字列末尾の改行を除去)(strings.TrimRight)](https://devlights.hatenablog.com/entry/2020/10/29/174701)
+- [Goメモ-117 (外部テストパッケージについて)(External Test Package)](https://devlights.hatenablog.com/entry/2020/11/05/003713)
 
 ## python
 
