@@ -832,9 +832,11 @@
 - [Socket エラーコードについての詳細記事 (JetBrains, How Socket Error Codes Depend on Runtime and Operating System)](https://devlights.hatenablog.com/entry/2020/04/28/162600)
 - [.NET 5.0 RC1 がリリース](https://devlights.hatenablog.com/entry/2020/09/15/115142)
 - [TCPソケットがclose状態の時の挙動についての情報メモ (Writing to a closed, local TCP socket not failing)](https://devlights.hatenablog.com/entry/2020/10/14/134430)
+- [.NET 5.0 リリース](https://devlights.hatenablog.com/entry/2020/11/11/130838)
 
 ## misc
 
+- [.NET 5.0 リリース](https://devlights.hatenablog.com/entry/2020/11/11/130838)
 - [linuxでアプリが32ビット版か64ビット版かを判定 (file, od, hexdump)](https://devlights.hatenablog.com/entry/2020/11/10/151736)
 - [Youtubeアプリで動画を上下にスワイプでフルスクリーンの切り替えが可能に](https://devlights.hatenablog.com/entry/2020/11/01/235305)
 - [wcコマンドでファイルサイズを表示 (linux, コマンドライン)](https://devlights.hatenablog.com/entry/2020/10/20/120114)
