@@ -242,6 +242,7 @@
 - [Goメモ-116 (文字列末尾の改行を除去)(strings.TrimRight)](https://devlights.hatenablog.com/entry/2020/10/29/174701)
 - [Goメモ-117 (外部テストパッケージについて)(External Test Package)](https://devlights.hatenablog.com/entry/2020/11/05/003713)
 - [Goメモ-118 (go list でビルド対象ファイルとテストファイルを出力)](https://devlights.hatenablog.com/entry/2020/11/08/184129)
+- [Goメモ-119 (time.Tickとtime.NewTickerの使い分け)](https://devlights.hatenablog.com/entry/2020/11/13/135630)
 
 ## python
 
