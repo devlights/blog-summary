@@ -81,6 +81,7 @@
 
 ## vscode
 
+- [VSCode 1.51 でコミットメッセージの入力履歴が保存されるようになった](https://devlights.hatenablog.com/entry/2020/11/13/114917)
 - [Goメモ-115 (VSCode(Gitpod)でGoプログラムのデバッグ時に標準入力がサポートされない？)](https://devlights.hatenablog.com/entry/2020/10/28/125418)
 - [Goメモ-114 (WSL1だとVSCodeでGoのデバッグが出来ない)](https://devlights.hatenablog.com/entry/2020/10/27/232027)
 - [VSCode version 1.50 で Linux ARM ビルドが追加](https://devlights.hatenablog.com/entry/2020/10/09/160104)
