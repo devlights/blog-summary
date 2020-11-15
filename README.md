@@ -243,6 +243,7 @@
 - [Goメモ-117 (外部テストパッケージについて)(External Test Package)](https://devlights.hatenablog.com/entry/2020/11/05/003713)
 - [Goメモ-118 (go list でビルド対象ファイルとテストファイルを出力)](https://devlights.hatenablog.com/entry/2020/11/08/184129)
 - [Goメモ-119 (time.Tickとtime.NewTickerの使い分け)](https://devlights.hatenablog.com/entry/2020/11/13/135630)
+- [Goメモ-120 (play-with-go.dev)(インタラクティブにGoの勉強が出来るサイト)](https://devlights.hatenablog.com/entry/2020/11/15/230019)
 
 ## python
 
