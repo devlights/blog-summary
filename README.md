@@ -245,6 +245,7 @@
 - [Goメモ-119 (time.Tickとtime.NewTickerの使い分け)](https://devlights.hatenablog.com/entry/2020/11/13/135630)
 - [Goメモ-120 (play-with-go.dev)(インタラクティブにGoの勉強が出来るサイト)](https://devlights.hatenablog.com/entry/2020/11/15/230019)
 - [Goメモ-121 (ゴルーチンの完了検知方法あれこれ)](https://devlights.hatenablog.com/entry/2020/11/16/111352)
+- [Goメモ-122 (別ファイルのExcelシートをコピーしてもってくる)](https://devlights.hatenablog.com/entry/2020/11/17/203819)
 
 ## python
 
