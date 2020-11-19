@@ -841,6 +841,7 @@
 
 ## misc
 
+- [ncコマンドでUDP通信の確認をする](https://devlights.hatenablog.com/entry/2020/11/19/143711)
 - [.NET 5.0 リリース](https://devlights.hatenablog.com/entry/2020/11/11/130838)
 - [linuxでアプリが32ビット版か64ビット版かを判定 (file, od, hexdump)](https://devlights.hatenablog.com/entry/2020/11/10/151736)
 - [Youtubeアプリで動画を上下にスワイプでフルスクリーンの切り替えが可能に](https://devlights.hatenablog.com/entry/2020/11/01/235305)
