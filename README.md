@@ -246,6 +246,7 @@
 - [Goメモ-120 (play-with-go.dev)(インタラクティブにGoの勉強が出来るサイト)](https://devlights.hatenablog.com/entry/2020/11/15/230019)
 - [Goメモ-121 (ゴルーチンの完了検知方法あれこれ)](https://devlights.hatenablog.com/entry/2020/11/16/111352)
 - [Goメモ-122 (別ファイルのExcelシートをコピーしてもってくる)](https://devlights.hatenablog.com/entry/2020/11/17/203819)
+- [Goメモ-123 (selectでのチャネル選択の有効無効を切り替える)](https://devlights.hatenablog.com/entry/2020/11/20/162418)
 
 ## python
 
