@@ -81,6 +81,7 @@
 
 ## vscode
 
+- [Gitpod で .NET 5 の環境を用意して遊んでみる (.NET 5.0, C# 9.0)](https://devlights.hatenablog.com/entry/2020/11/27/140407)
 - [VSCode 1.51 でコミットメッセージの入力履歴が保存されるようになった](https://devlights.hatenablog.com/entry/2020/11/13/114917)
 - [Goメモ-115 (VSCode(Gitpod)でGoプログラムのデバッグ時に標準入力がサポートされない？)](https://devlights.hatenablog.com/entry/2020/10/28/125418)
 - [Goメモ-114 (WSL1だとVSCodeでGoのデバッグが出来ない)](https://devlights.hatenablog.com/entry/2020/10/27/232027)
@@ -839,9 +840,11 @@
 - [.NET 5.0 RC1 がリリース](https://devlights.hatenablog.com/entry/2020/09/15/115142)
 - [TCPソケットがclose状態の時の挙動についての情報メモ (Writing to a closed, local TCP socket not failing)](https://devlights.hatenablog.com/entry/2020/10/14/134430)
 - [.NET 5.0 リリース](https://devlights.hatenablog.com/entry/2020/11/11/130838)
+- [Gitpod で .NET 5 の環境を用意して遊んでみる (.NET 5.0, C# 9.0)](https://devlights.hatenablog.com/entry/2020/11/27/140407)
 
 ## misc
 
+- [Gitpod で .NET 5 の環境を用意して遊んでみる (.NET 5.0, C# 9.0)](https://devlights.hatenablog.com/entry/2020/11/27/140407)
 - [ncコマンドでUDP通信の確認をする](https://devlights.hatenablog.com/entry/2020/11/19/143711)
 - [.NET 5.0 リリース](https://devlights.hatenablog.com/entry/2020/11/11/130838)
 - [linuxでアプリが32ビット版か64ビット版かを判定 (file, od, hexdump)](https://devlights.hatenablog.com/entry/2020/11/10/151736)
