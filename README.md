@@ -9,6 +9,7 @@
 ## 目次
 
 - [Linux](#linux)
+- [Gitpod](#gitpod)
 - [Git](#git)
 - [vim](#vim)
 - [chromebook](#chromebook)
@@ -33,7 +34,6 @@
 ## linux
 
 - [rpmとyumとaptでインストール済みのパッケージ名のみを出力](https://devlights.hatenablog.com/entry/2020/11/30/123719)
-- [Gitpod で .NET 5 の環境を用意して遊んでみる (.NET 5.0, C# 9.0)](https://devlights.hatenablog.com/entry/2020/11/27/140407)
 - [ncコマンドでUDP通信の確認をする](https://devlights.hatenablog.com/entry/2020/11/19/143711)
 - [linuxでアプリが32ビット版か64ビット版かを判定 (file, od, hexdump)](https://devlights.hatenablog.com/entry/2020/11/10/151736)
 - [wcコマンドでファイルサイズを表示 (linux, コマンドライン)](https://devlights.hatenablog.com/entry/2020/10/20/120114)
@@ -52,6 +52,14 @@
 - [ファイルの中身を空にするコマンドあれこれ](https://devlights.hatenablog.com/entry/2020/01/28/143716)
 - [ターミナル上で通算秒を扱う際のコマンドメモ](https://devlights.hatenablog.com/entry/2020/01/24/130524)
 - [ターミナル上でcsvファイルを見る際のコマンドメモ](https://devlights.hatenablog.com/entry/2020/01/21/195308)
+
+## gitpod
+
+- [Gitpod で .NET 5 の環境を用意して遊んでみる (.NET 5.0, C# 9.0)](https://devlights.hatenablog.com/entry/2020/11/27/140407)
+- [GitpodがGitLabに組み込まれる (Native GitLab Integration, v13.5から)](https://devlights.hatenablog.com/entry/2020/10/09/105033)
+- [Gitpodがめっちゃ便利 (github app, gitpod, vscodeライク, ブラウザでソース編集)](https://devlights.hatenablog.com/entry/2019/04/24/090245)
+- [ChromebookとGitpodでお安く勉強環境を作る](https://devlights.hatenablog.com/entry/2020/03/08/033644)
+- [Gitpod で OpenVSX 経由で VSCode の拡張機能がインストールできるようになってる](https://devlights.hatenablog.com/entry/2020/07/25/185225)
 
 ## git
 
