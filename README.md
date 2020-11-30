@@ -33,6 +33,7 @@
 
 ## linux
 
+- [rpmのファイル名からパッケージとかバージョンとかを抽出](https://devlights.hatenablog.com/entry/2020/11/30/181952)
 - [rpmとyumとaptでインストール済みのパッケージ名のみを出力](https://devlights.hatenablog.com/entry/2020/11/30/123719)
 - [ncコマンドでUDP通信の確認をする](https://devlights.hatenablog.com/entry/2020/11/19/143711)
 - [linuxでアプリが32ビット版か64ビット版かを判定 (file, od, hexdump)](https://devlights.hatenablog.com/entry/2020/11/10/151736)
@@ -152,6 +153,7 @@
 
 ## golang
 
+- [rpmのファイル名からパッケージとかバージョンとかを抽出](https://devlights.hatenablog.com/entry/2020/11/30/181952)
 - [TCPソケットがclose状態の時の挙動についての情報メモ (Writing to a closed, local TCP socket not failing)](https://devlights.hatenablog.com/entry/2020/10/14/134430)
 - [ChromebookのLinux (ベータ版)のDebian 9 (stretch) を 10 (buster) にアップグレード](https://devlights.hatenablog.com/entry/2019/11/08/142211)
 - [go.mod ファイルのGoランタイムのバージョン変更の仕方 (go mod edit)](https://devlights.hatenablog.com/entry/2019/08/15/002307)
