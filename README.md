@@ -8,6 +8,7 @@
 
 ## 目次
 
+- [Linux](#linux)
 - [Git](#git)
 - [vim](#vim)
 - [chromebook](#chromebook)
@@ -28,6 +29,29 @@
 - [いろいろTips](#misc)
 
 ---
+
+## linux
+
+- [rpmとyumとaptでインストール済みのパッケージ名のみを出力](https://devlights.hatenablog.com/entry/2020/11/30/123719)
+- [Gitpod で .NET 5 の環境を用意して遊んでみる (.NET 5.0, C# 9.0)](https://devlights.hatenablog.com/entry/2020/11/27/140407)
+- [ncコマンドでUDP通信の確認をする](https://devlights.hatenablog.com/entry/2020/11/19/143711)
+- [linuxでアプリが32ビット版か64ビット版かを判定 (file, od, hexdump)](https://devlights.hatenablog.com/entry/2020/11/10/151736)
+- [wcコマンドでファイルサイズを表示 (linux, コマンドライン)](https://devlights.hatenablog.com/entry/2020/10/20/120114)
+- [gccで各関数が使用しているスタックサイズを出力するオプション](https://devlights.hatenablog.com/entry/2020/10/05/201142)
+- [less の環境変数 LESSOPEN で２つ以上のパイプを繋ぐ (nkfとsource-highlight同時指定)](https://devlights.hatenablog.com/entry/2020/09/08/121023)
+- [less コマンドで ソースコード のハイライト表示をする (GNU Source-Highlight, LESSOPEN)](https://devlights.hatenablog.com/entry/2020/09/08/025346)
+- [less コマンドで sjis とか euc-jp なファイルを表示する (LESSOPEN)](https://devlights.hatenablog.com/entry/2020/09/07/125513)
+- [tail -f の代わりに less を使う (tail -f, less +F, もしくは less で開いて F 押す)](https://devlights.hatenablog.com/entry/2020/09/07/010307)
+- [Everything curl (curlについて詳細に書かれたドキュメント, GitBook)](https://devlights.hatenablog.com/entry/2020/09/02/103110)
+- [bashでよく忘れて調べているショートカットキー](https://devlights.hatenablog.com/entry/2020/08/23/171427)
+- [CentOS と Ubuntu のバージョンを確認するやり方メモ](https://devlights.hatenablog.com/entry/2020/06/15/123944)
+- [Parallels で ubuntu 18.04 LTS いれて日本語IMEとキーボードレイアウトの調整メモ](https://devlights.hatenablog.com/entry/2020/06/09/181146)
+- [bcコマンドで進数変換して表示 (linux, unix)](https://devlights.hatenablog.com/entry/2020/04/25/023830)
+- [grepの結果から不要なものを除外する](https://devlights.hatenablog.com/entry/2020/02/15/194014)
+- [シェルの標準出力をリダイレクトする](https://devlights.hatenablog.com/entry/2020/01/29/131430)
+- [ファイルの中身を空にするコマンドあれこれ](https://devlights.hatenablog.com/entry/2020/01/28/143716)
+- [ターミナル上で通算秒を扱う際のコマンドメモ](https://devlights.hatenablog.com/entry/2020/01/24/130524)
+- [ターミナル上でcsvファイルを見る際のコマンドメモ](https://devlights.hatenablog.com/entry/2020/01/21/195308)
 
 ## git
 
