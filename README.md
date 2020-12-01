@@ -33,6 +33,7 @@
 
 ## linux
 
+- [find と xargs を組み合わせてコマンド実行](https://devlights.hatenablog.com/entry/2020/12/01/193227)
 - [rpmのファイル名からパッケージとかバージョンとかを抽出](https://devlights.hatenablog.com/entry/2020/11/30/181952)
 - [rpmとyumとaptでインストール済みのパッケージ名のみを出力](https://devlights.hatenablog.com/entry/2020/11/30/123719)
 - [ncコマンドでUDP通信の確認をする](https://devlights.hatenablog.com/entry/2020/11/19/143711)
