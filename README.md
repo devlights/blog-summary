@@ -879,6 +879,7 @@
 
 ## misc
 
+- [プログラミング向けフォントを一覧で表示してくれてるサイト (Coding Fonts)](https://devlights.hatenablog.com/entry/2020/12/02/112305)
 - [rpmとyumとaptでインストール済みのパッケージ名のみを出力](https://devlights.hatenablog.com/entry/2020/11/30/123719)
 - [windows 10 では dependency walker じゃなくて dependencies を使う](https://devlights.hatenablog.com/entry/2020/11/27/152028)
 - [Gitpod で .NET 5 の環境を用意して遊んでみる (.NET 5.0, C# 9.0)](https://devlights.hatenablog.com/entry/2020/11/27/140407)
