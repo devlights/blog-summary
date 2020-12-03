@@ -283,6 +283,7 @@
 - [Goメモ-121 (ゴルーチンの完了検知方法あれこれ)](https://devlights.hatenablog.com/entry/2020/11/16/111352)
 - [Goメモ-122 (別ファイルのExcelシートをコピーしてもってくる)](https://devlights.hatenablog.com/entry/2020/11/17/203819)
 - [Goメモ-123 (selectでのチャネル選択の有効無効を切り替える)](https://devlights.hatenablog.com/entry/2020/11/20/162418)
+- [Goメモ-124 (画像ファイルをExcelに挿入する)](https://devlights.hatenablog.com/entry/2020/12/04/004546)
 
 ## python
 
