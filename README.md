@@ -90,6 +90,7 @@
 
 ## vim
 
+- [vimの起動時にエンコーディングを指定して開く](https://devlights.hatenablog.com/entry/2020/12/07/113131)
 - [vimで最短一致で検索 (vim用の正規表現)](https://devlights.hatenablog.com/entry/2019/12/03/202717)
 - [vimの３つのビジュアルモード開始コマンドとoコマンド](https://devlights.hatenablog.com/entry/2019/11/26/012325)
 - [DiffOrigコマンド](https://devlights.hatenablog.com/entry/20080515/p2)
