@@ -66,6 +66,7 @@
 
 ## git
 
+- [Githubにダークモードが追加されてた](https://devlights.hatenablog.com/entry/2020/12/10/102758)
 - [git worktreeで複数ブランチを並行させて作業する](https://devlights.hatenablog.com/entry/2020/10/15/180700)
 - [ブランチ同士の差をコミットで表示 (git log)](https://devlights.hatenablog.com/entry/2020/10/14/190107)
 - [GitpodがGitLabに組み込まれる (Native GitLab Integration, v13.5から)](https://devlights.hatenablog.com/entry/2020/10/09/105033)
@@ -884,6 +885,7 @@
 
 ## misc
 
+- [Githubにダークモードが追加されてた](https://devlights.hatenablog.com/entry/2020/12/10/102758)
 - [プログラミング向けフォントを一覧で表示してくれてるサイト (Coding Fonts)](https://devlights.hatenablog.com/entry/2020/12/02/112305)
 - [rpmとyumとaptでインストール済みのパッケージ名のみを出力](https://devlights.hatenablog.com/entry/2020/11/30/123719)
 - [windows 10 では dependency walker じゃなくて dependencies を使う](https://devlights.hatenablog.com/entry/2020/11/27/152028)
