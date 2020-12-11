@@ -33,6 +33,7 @@
 
 ## linux
 
+- [sshでリモート側のプロトコルとバージョンを調べる](https://devlights.hatenablog.com/entry/2020/12/11/100808)
 - [ncコマンド無しでUDP通信の確認をする (bash)](https://devlights.hatenablog.com/entry/2020/12/07/141328)
 - [find と xargs を組み合わせてコマンド実行](https://devlights.hatenablog.com/entry/2020/12/01/193227)
 - [rpmのファイル名からパッケージとかバージョンとかを抽出](https://devlights.hatenablog.com/entry/2020/11/30/181952)
