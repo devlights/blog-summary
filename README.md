@@ -887,6 +887,7 @@
 
 ## misc
 
+- [Todoistで完了しないタスクを作る (uncompletable task)](https://devlights.hatenablog.com/entry/2020/12/11/225924)
 - [Githubにダークモードが追加されてた](https://devlights.hatenablog.com/entry/2020/12/10/102758)
 - [プログラミング向けフォントを一覧で表示してくれてるサイト (Coding Fonts)](https://devlights.hatenablog.com/entry/2020/12/02/112305)
 - [rpmとyumとaptでインストール済みのパッケージ名のみを出力](https://devlights.hatenablog.com/entry/2020/11/30/123719)
