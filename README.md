@@ -69,6 +69,7 @@
 
 ## git
 
+- [gitで最新のコミットハッシュを取得する (rev-parse)](https://devlights.hatenablog.com/entry/2020/12/16/165245)
 - [Githubにダークモードが追加されてた](https://devlights.hatenablog.com/entry/2020/12/10/102758)
 - [git worktreeで複数ブランチを並行させて作業する](https://devlights.hatenablog.com/entry/2020/10/15/180700)
 - [ブランチ同士の差をコミットで表示 (git log)](https://devlights.hatenablog.com/entry/2020/10/14/190107)
