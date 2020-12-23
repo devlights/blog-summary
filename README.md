@@ -890,6 +890,7 @@
 
 ## misc
 
+- [エクスプローラーのアドレスバーから直行でスタートアップフォルダを開く](https://devlights.hatenablog.com/entry/2020/12/23/102830)
 - [JetBrains Space 公式版リリース (オンプレミスは2020-12-11時点でまだ)](https://devlights.hatenablog.com/entry/2020/12/13/202149)
 - [Todoistで完了しないタスクを作る (uncompletable task)](https://devlights.hatenablog.com/entry/2020/12/11/225924)
 - [Githubにダークモードが追加されてた](https://devlights.hatenablog.com/entry/2020/12/10/102758)
