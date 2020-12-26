@@ -60,6 +60,7 @@
 
 ## gitpod
 
+- [Gitpod で GUI アプリを動作 (gitpod-full-vnc)](https://devlights.hatenablog.com/entry/2020/12/27/004813)
 - [Gitpod に Feature Preview 機能が追加 (rootアクセス, Docker使用, IDE選べる)](https://devlights.hatenablog.com/entry/2020/12/11/130903)
 - [Gitpod で .NET 5 の環境を用意して遊んでみる (.NET 5.0, C# 9.0)](https://devlights.hatenablog.com/entry/2020/11/27/140407)
 - [GitpodがGitLabに組み込まれる (Native GitLab Integration, v13.5から)](https://devlights.hatenablog.com/entry/2020/10/09/105033)
