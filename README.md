@@ -33,6 +33,7 @@
 
 ## linux
 
+- [colコマンドでCR(キャリッジリターン)を除去](https://devlights.hatenablog.com/entry/2021/01/02/223008)
 - [mkdirコマンドで複数のディレクトリを一気に作成](https://devlights.hatenablog.com/entry/2021/01/02/154127)
 - [CentOSとCentOS Streamについてのメモ](https://devlights.hatenablog.com/entry/2020/12/15/113224)
 - [sshでリモート側のプロトコルとバージョンを調べる](https://devlights.hatenablog.com/entry/2020/12/11/100808)
