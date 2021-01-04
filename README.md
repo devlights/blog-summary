@@ -33,6 +33,7 @@
 
 ## linux
 
+- [コマンドヒストリを即消去する (bash)](https://devlights.hatenablog.com/entry/2021/01/04/091729)
 - [CTRL-Dでログアウトするために必要な回数を指定する (bash)](https://devlights.hatenablog.com/entry/2021/01/03/140137)
 - [colコマンドでCR(キャリッジリターン)を除去](https://devlights.hatenablog.com/entry/2021/01/02/223008)
 - [mkdirコマンドで複数のディレクトリを一気に作成](https://devlights.hatenablog.com/entry/2021/01/02/154127)
