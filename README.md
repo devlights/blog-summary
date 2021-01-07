@@ -33,6 +33,7 @@
 
 ## linux
 
+- [sudo で root 以外のユーザでコマンドを実行](https://devlights.hatenablog.com/entry/2021/01/07/232603)
 - [プロセスに適用されている環境変数を調べる](https://devlights.hatenablog.com/entry/2021/01/05/114915)
 - [コマンドヒストリを即消去する (bash)](https://devlights.hatenablog.com/entry/2021/01/04/091729)
 - [CTRL-Dでログアウトするために必要な回数を指定する (bash)](https://devlights.hatenablog.com/entry/2021/01/03/140137)
