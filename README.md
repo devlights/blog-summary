@@ -33,6 +33,7 @@
 
 ## linux
 
+- [Gitpod で Postgresql を勉強する](https://devlights.hatenablog.com/entry/2021/01/10/132401)
 - [sudo で root 以外のユーザでコマンドを実行](https://devlights.hatenablog.com/entry/2021/01/07/232603)
 - [プロセスに適用されている環境変数を調べる](https://devlights.hatenablog.com/entry/2021/01/05/114915)
 - [コマンドヒストリを即消去する (bash)](https://devlights.hatenablog.com/entry/2021/01/04/091729)
