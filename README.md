@@ -33,7 +33,6 @@
 
 ## linux
 
-- [Gitpod で Postgresql を勉強する](https://devlights.hatenablog.com/entry/2021/01/10/132401)
 - [sudo で root 以外のユーザでコマンドを実行](https://devlights.hatenablog.com/entry/2021/01/07/232603)
 - [プロセスに適用されている環境変数を調べる](https://devlights.hatenablog.com/entry/2021/01/05/114915)
 - [コマンドヒストリを即消去する (bash)](https://devlights.hatenablog.com/entry/2021/01/04/091729)
@@ -67,6 +66,7 @@
 
 ## gitpod
 
+- [Gitpod で Postgresql を勉強する](https://devlights.hatenablog.com/entry/2021/01/10/132401)
 - [Gitpod で GUI アプリを動作 (gitpod-full-vnc)](https://devlights.hatenablog.com/entry/2020/12/27/004813)
 - [Gitpod に Feature Preview 機能が追加 (rootアクセス, Docker使用, IDE選べる)](https://devlights.hatenablog.com/entry/2020/12/11/130903)
 - [Gitpod で .NET 5 の環境を用意して遊んでみる (.NET 5.0, C# 9.0)](https://devlights.hatenablog.com/entry/2020/11/27/140407)
