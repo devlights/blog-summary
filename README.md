@@ -900,6 +900,7 @@
 
 ## misc
 
+- [PostgreSQLにてテーブルをTRUNCATEするクエリを出力するクエリ](https://devlights.hatenablog.com/entry/2021/01/15/110921)
 - [タスクバーのアイコンクリック時に管理者権限でアプリを起動 (Win+Rのときも)](https://devlights.hatenablog.com/entry/2021/01/14/132009)
 - [タスクバーに「エクスプローラーの終了」メニュー項目を表示](https://devlights.hatenablog.com/entry/2021/01/13/225145)
 - [エクスプローラーのアドレスバーから直行でスタートアップフォルダを開く](https://devlights.hatenablog.com/entry/2020/12/23/102830)
