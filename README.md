@@ -901,6 +901,7 @@
 
 ## misc
 
+- [vimでカーソル位置の単語をコマンド行に挿入](https://devlights.hatenablog.com/entry/2021/01/18/220042)
 - [Windows10のコンボボックスでマウスホイールをスクロールすると項目の内容が表示されてしまう件](https://devlights.hatenablog.com/entry/2021/01/18/163602)
 - [PostgreSQLにてテーブルをTRUNCATEするクエリを出力するクエリ](https://devlights.hatenablog.com/entry/2021/01/15/110921)
 - [タスクバーのアイコンクリック時に管理者権限でアプリを起動 (Win+Rのときも)](https://devlights.hatenablog.com/entry/2021/01/14/132009)
