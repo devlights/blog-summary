@@ -306,6 +306,7 @@
 - [Goメモ-125 (どれか一つが完了したら完了するコンテキスト, WhenAny)](https://devlights.hatenablog.com/entry/2020/12/09/212329)
 - [Goメモ-126 (全部完了したら完了するコンテキスト, WhenAll)](https://devlights.hatenablog.com/entry/2020/12/10/101711)
 - [Goメモ-127 (データをバッファリングして吐き出すチャネル, Buffer)](https://devlights.hatenablog.com/entry/2020/12/16/114906)
+- [Goメモ-128 (Go 1.16から io/ioutil パッケージが Deprecated な方向になっていく)](https://devlights.hatenablog.com/entry/2021/01/25/231542)
 
 ## python
 
