@@ -33,6 +33,7 @@
 
 ## linux
 
+- [指定した範囲での乱数を出力 (bash)](https://devlights.hatenablog.com/entry/2021/01/31/010745)
 - [シェルスクリプトで複数行のコメントアウト (bash)](https://devlights.hatenablog.com/entry/2021/01/30/212817)
 - [findコマンドで正規表現を使う (bash)](https://devlights.hatenablog.com/entry/2021/01/19/131321)
 - [指定サイズで中身がゼロ(\0)のファイルを作る (bash)](https://devlights.hatenablog.com/entry/2021/01/16/005041)
