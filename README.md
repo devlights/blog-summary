@@ -33,6 +33,7 @@
 
 ## linux
 
+- [シェルスクリプトで複数行のコメントアウト (bash)](https://devlights.hatenablog.com/entry/2021/01/30/212817)
 - [findコマンドで正規表現を使う (bash)](https://devlights.hatenablog.com/entry/2021/01/19/131321)
 - [指定サイズで中身がゼロ(\0)のファイルを作る (bash)](https://devlights.hatenablog.com/entry/2021/01/16/005041)
 - [sudo で root 以外のユーザでコマンドを実行](https://devlights.hatenablog.com/entry/2021/01/07/232603)
