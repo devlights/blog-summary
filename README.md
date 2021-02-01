@@ -33,6 +33,7 @@
 
 ## linux
 
+- [sortコマンドで数値ソートする (bash)](https://devlights.hatenablog.com/entry/2021/02/02/065756)
 - [データを任意のサイズに分割 (bash)](https://devlights.hatenablog.com/entry/2021/02/01/175619)
 - [指定した範囲での乱数を出力 (bash)](https://devlights.hatenablog.com/entry/2021/01/31/010745)
 - [シェルスクリプトで複数行のコメントアウト (bash)](https://devlights.hatenablog.com/entry/2021/01/30/212817)
