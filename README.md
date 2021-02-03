@@ -433,6 +433,7 @@
 - [Pythonメモ-114 (Excelの各シートのシェイプの位置を調整するスクリプト)](https://devlights.hatenablog.com/entry/2019/11/15/155830)
 - [Pythonメモ-115 (Excelの特定シートのフッターの値を調整するスクリプト)](https://devlights.hatenablog.com/entry/2019/12/16/171923)
 - [Pythonメモ-116 (Excelの特定シートの印刷の向きを調整するスクリプト)](https://devlights.hatenablog.com/entry/2020/02/04/195007)
+- [Pythonメモ-117 (Python Development Modeを有効にする)](https://devlights.hatenablog.com/entry/2021/02/03/070000)
 
 ## dotnet-channels
 
