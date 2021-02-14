@@ -33,6 +33,7 @@
 
 ## linux
 
+- [シェルでパイプ繋いで実行したときプログラムは同時に起動されている (bash)](https://devlights.hatenablog.com/entry/2021/02/14/210033)
 - [makeでシェルコマンドの結果を格納 (Shell Function)](https://devlights.hatenablog.com/entry/2021/02/09/102323)
 - [sortコマンドで数値ソートする (bash)](https://devlights.hatenablog.com/entry/2021/02/02/065756)
 - [データを任意のサイズに分割 (bash)](https://devlights.hatenablog.com/entry/2021/02/01/175619)
