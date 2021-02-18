@@ -316,6 +316,7 @@
 - [Goメモ-128 (Go 1.16から io/ioutil パッケージが Deprecated な方向になっていく)](https://devlights.hatenablog.com/entry/2021/01/25/231542)
 - [Goメモ-129 (ファイルのパーミッションを取得)](https://devlights.hatenablog.com/entry/2021/02/07/222814)
 - [Goメモ-130 (Go 1.16 リリース)](https://devlights.hatenablog.com/entry/2021/02/17/135643)
+- [Goメモ-131 (Go 1.16 リリースで気になったところメモ)](https://devlights.hatenablog.com/entry/2021/02/18/113124)
 
 ## python
 
