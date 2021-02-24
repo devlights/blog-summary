@@ -318,6 +318,7 @@
 - [Goメモ-130 (Go 1.16 リリース)](https://devlights.hatenablog.com/entry/2021/02/17/135643)
 - [Goメモ-131 (Go 1.16 リリースで気になったところメモ)](https://devlights.hatenablog.com/entry/2021/02/18/113124)
 - [Goメモ-132 (Go 1.16で追加された signal.NotifyContext())](https://devlights.hatenablog.com/entry/2021/02/20/192945)
+- [Goメモ-133 (PowerShell環境でビルド時にGOOSとGOARCHの指定の仕方)](https://devlights.hatenablog.com/entry/2021/02/24/175340)
 
 ## python
 
