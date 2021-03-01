@@ -86,6 +86,7 @@
 
 ## git
 
+- [git でビルド番号や最新タグ、最新コミットを取得する](https://devlights.hatenablog.com/entry/2021/03/01/214144)
 - [gitで最新のコミットハッシュを取得する (rev-parse)](https://devlights.hatenablog.com/entry/2020/12/16/165245)
 - [Githubにダークモードが追加されてた](https://devlights.hatenablog.com/entry/2020/12/10/102758)
 - [git worktreeで複数ブランチを並行させて作業する](https://devlights.hatenablog.com/entry/2020/10/15/180700)
