@@ -919,6 +919,7 @@
 
 ## misc
 
+- [PowerShellで1コマンドを複数行に分けて書くやり方](https://devlights.hatenablog.com/entry/2021/03/08/222337)
 - [vimでカーソル位置の単語をコマンド行に挿入](https://devlights.hatenablog.com/entry/2021/01/18/220042)
 - [Windows10のコンボボックスでマウスホイールをスクロールすると項目の内容が表示されてしまう件](https://devlights.hatenablog.com/entry/2021/01/18/163602)
 - [PostgreSQLにてテーブルをTRUNCATEするクエリを出力するクエリ](https://devlights.hatenablog.com/entry/2021/01/15/110921)
