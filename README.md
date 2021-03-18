@@ -8,6 +8,7 @@
 
 ## 目次
 
+- [Flutter/Dart](#flutter)
 - [Linux](#linux)
 - [Gitpod](#gitpod)
 - [Git](#git)
@@ -30,6 +31,11 @@
 - [いろいろTips](#misc)
 
 ---
+
+## flutter
+
+- [flutter/dartの勉強にはDartPadもとても便利](https://devlights.hatenablog.com/entry/2021/03/18/135619)
+- [Gitpod で flutter/dart の環境を用意して遊んでみる](https://devlights.hatenablog.com/entry/2021/03/17/173142)
 
 ## linux
 
