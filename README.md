@@ -334,6 +334,7 @@
 - [Goメモ-135 (embedパッケージを使ってバージョン情報などを埋め込み)](https://devlights.hatenablog.com/entry/2021/03/03/131620)
 - [Goメモ-136 (Exampleテストで非同期結果をテストする)](https://devlights.hatenablog.com/entry/2021/03/22/164812)
 - [Goメモ-137 (exec.Command で シェルの展開機能 を利用する)](https://devlights.hatenablog.com/entry/2021/03/30/001935)
+- [Goメモ-138 (staticcheck で警告をコメントで抑制する)](https://devlights.hatenablog.com/entry/2021/03/31/235948)
 
 ## python
 
