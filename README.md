@@ -83,6 +83,7 @@
 
 ## gitpod
 
+- [GitpodのデフォルトのIDEがVSCodeになった](https://devlights.hatenablog.com/entry/2021/04/08/235411)
 - [Gitpod で flutter/dart の環境を用意して遊んでみる](https://devlights.hatenablog.com/entry/2021/03/17/173142)
 - [Gitpod で MySQL を勉強する](https://devlights.hatenablog.com/entry/2021/01/11/031642)
 - [Gitpod で Postgresql を勉強する](https://devlights.hatenablog.com/entry/2021/01/10/132401)
