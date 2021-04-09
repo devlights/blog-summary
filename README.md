@@ -340,6 +340,7 @@
 - [Goメモ-139 (exec.Command で標準出力と標準エラー出力を両方取得)](https://devlights.hatenablog.com/entry/2021/04/05/232239)
 - [Goメモ-140 (exec.Command で標準入力・標準出力・標準エラー出力を全部指定)](https://devlights.hatenablog.com/entry/2021/04/06/163556)
 - [Goメモ-141 (exec.Command で Context 付きでコマンド実行)](https://devlights.hatenablog.com/entry/2021/04/07/114431)
+- [Goメモ-142 (exec.Command で パイプストリーム を使ってコマンド実行)](https://devlights.hatenablog.com/entry/2021/04/09/144558)
 
 ## python
 
