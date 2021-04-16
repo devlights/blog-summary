@@ -39,6 +39,7 @@
 
 ## linux
 
+- [visudo のエディタを nano から vim に変更する](https://devlights.hatenablog.com/entry/2021/04/16/112003)
 - [CentOSの代替候補 AlmaLinux が GA になった](https://devlights.hatenablog.com/entry/2021/04/01/010002)
 - [ファイルが含まれているパッケージを探す (RedHat系、Debian系)](https://devlights.hatenablog.com/entry/2021/03/26/160949)
 - [パスワード入力で入力を取り消したい場合 (Linux)](https://devlights.hatenablog.com/entry/2021/03/16/230112)
