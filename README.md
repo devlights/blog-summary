@@ -937,6 +937,7 @@
 - [.NET 5.0 リリース](https://devlights.hatenablog.com/entry/2020/11/11/130838)
 - [Gitpod で .NET 5 の環境を用意して遊んでみる (.NET 5.0, C# 9.0)](https://devlights.hatenablog.com/entry/2020/11/27/140407)
 - [BinaryFormatterが非推奨として警告されるようになっていた (.NET 5)](https://devlights.hatenablog.com/entry/2021/04/18/225507)
+- [dotnet build 時とかのロゴ表示を抑制 (--nologo -v q)](https://devlights.hatenablog.com/entry/2021/04/19/092456)
 
 ## misc
 
