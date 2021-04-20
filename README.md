@@ -174,6 +174,7 @@
 
 ## visualstudio
 
+- [Visual Studio が バージョン 2022 で遂に 64ビットアプリ になる模様](https://devlights.hatenablog.com/entry/2021/04/20/094124)
 - [VisualStudioでdiffとmergeのツールをBeyond Compareに設定するメモ (TFS, TFVC, VisualStudio, Beyond Compare 4)](https://devlights.hatenablog.com/entry/2017/09/20/152153)
 - [VisualStudio "15" Preview2にてXAMLのEdit Continueが可能に](https://devlights.hatenablog.com/entry/2016/05/16/142755)
 - [PerfTips (VisualStudio 2014 CTP3, 処理速度計測, CPUタイム)](https://devlights.hatenablog.com/entry/2014/08/20/140610)
