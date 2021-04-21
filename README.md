@@ -98,6 +98,7 @@
 
 ## git
 
+- [git で 一つ前のブランチにサクっと切り替えるやり方 (git switch, git checkout)](https://devlights.hatenablog.com/entry/2021/04/21/133825)
 - [git でビルド番号や最新タグ、最新コミットを取得する](https://devlights.hatenablog.com/entry/2021/03/01/214144)
 - [gitで最新のコミットハッシュを取得する (rev-parse)](https://devlights.hatenablog.com/entry/2020/12/16/165245)
 - [Githubにダークモードが追加されてた](https://devlights.hatenablog.com/entry/2020/12/10/102758)
