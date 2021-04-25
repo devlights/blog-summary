@@ -347,6 +347,7 @@
 - [Goメモ-143 (構造体のメンバ定義順によるメモリのパディングについて)](https://devlights.hatenablog.com/entry/2021/04/22/144343)
 - [Goメモ-144 (embed メモ (単独ファイル, 文字列で取得))](https://devlights.hatenablog.com/entry/2021/04/23/003342)
 - [Goメモ-145 (embed メモ (単独ファイル, バイナリで取得))](https://devlights.hatenablog.com/entry/2021/04/23/092726)
+- [Goメモ-146 (embed メモ (単独ファイル, embed.FSで取得))](https://devlights.hatenablog.com/entry/2021/04/25/133406)
 
 ## python
 
