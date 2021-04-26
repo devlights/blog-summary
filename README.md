@@ -39,6 +39,7 @@
 
 ## linux
 
+- [Ubuntu 21.04で拡張セッションを有効にして全画面で接続する (Hyper-V)](https://devlights.hatenablog.com/entry/2021/04/26/163841)
 - [visudo のエディタを nano から vim に変更する](https://devlights.hatenablog.com/entry/2021/04/16/112003)
 - [CentOSの代替候補 AlmaLinux が GA になった](https://devlights.hatenablog.com/entry/2021/04/01/010002)
 - [ファイルが含まれているパッケージを探す (RedHat系、Debian系)](https://devlights.hatenablog.com/entry/2021/03/26/160949)
