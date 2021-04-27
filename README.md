@@ -350,6 +350,7 @@
 - [Goメモ-145 (embed メモ (単独ファイル, バイナリで取得))](https://devlights.hatenablog.com/entry/2021/04/23/092726)
 - [Goメモ-146 (embed メモ (単独ファイル, embed.FSで取得))](https://devlights.hatenablog.com/entry/2021/04/25/133406)
 - [Goメモ-147 (embed メモ (複数ファイル, embed.FSで取得))](https://devlights.hatenablog.com/entry/2021/04/26/004955)
+- [Goメモ-148 (embed メモ (埋め込み対象を絞り込み, embed.FSで取得))](https://devlights.hatenablog.com/entry/2021/04/27/110643)
 
 ## python
 
