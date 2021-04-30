@@ -39,6 +39,7 @@
 
 ## linux
 
+- [ターミナルで突然何も入力出来なくなった場合のTips (linux, stty)](https://devlights.hatenablog.com/entry/2021/04/30/185602)
 - [Ubuntu 21.04で拡張セッションを有効にして全画面で接続する (Hyper-V)](https://devlights.hatenablog.com/entry/2021/04/26/163841)
 - [visudo のエディタを nano から vim に変更する](https://devlights.hatenablog.com/entry/2021/04/16/112003)
 - [CentOSの代替候補 AlmaLinux が GA になった](https://devlights.hatenablog.com/entry/2021/04/01/010002)
