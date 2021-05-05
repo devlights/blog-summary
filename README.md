@@ -953,6 +953,7 @@
 
 ## misc
 
+- [QuickRef.ME (チートシートがいっぱいあるところ, 見やすい)](https://devlights.hatenablog.com/entry/2021/05/05/172625)
 - [PowerShellでWindowsエクスペリエンスインデックスを出力](https://devlights.hatenablog.com/entry/2021/03/15/103516)
 - [PowerShellで1コマンドを複数行に分けて書くやり方](https://devlights.hatenablog.com/entry/2021/03/08/222337)
 - [vimでカーソル位置の単語をコマンド行に挿入](https://devlights.hatenablog.com/entry/2021/01/18/220042)
