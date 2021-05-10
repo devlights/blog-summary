@@ -9,6 +9,7 @@
 ## 目次
 
 - [Flutter/Dart](#flutter)
+- [ShellScript](#shellscript)
 - [Linux](#linux)
 - [Gitpod](#gitpod)
 - [Git](#git)
@@ -36,6 +37,10 @@
 
 - [flutter/dartの勉強にはDartPadもとても便利](https://devlights.hatenablog.com/entry/2021/03/18/135619)
 - [Gitpod で flutter/dart の環境を用意して遊んでみる](https://devlights.hatenablog.com/entry/2021/03/17/173142)
+
+## shellscript
+
+- [シェルスクリプトメモ-01 (ブレース展開, brace expansion)](https://devlights.hatenablog.com/entry/2021/05/10/164817)
 
 ## linux
 
