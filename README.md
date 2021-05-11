@@ -44,6 +44,7 @@
 
 ## linux
 
+- [WSL2とVSCodeで欲しい環境を好きなだけ作る](https://devlights.hatenablog.com/entry/2021/05/11/173126)
 - [ncコマンドでポートが開いてるか確認する (linux, debian, ncat)](https://devlights.hatenablog.com/entry/2021/05/06/070000)
 - [ターミナルで突然何も入力出来なくなった場合のTips (linux, stty)](https://devlights.hatenablog.com/entry/2021/04/30/185602)
 - [Ubuntu 21.04で拡張セッションを有効にして全画面で接続する (Hyper-V)](https://devlights.hatenablog.com/entry/2021/04/26/163841)
@@ -165,6 +166,7 @@
 
 ## vscode
 
+- [WSL2とVSCodeで欲しい環境を好きなだけ作る](https://devlights.hatenablog.com/entry/2021/05/11/173126)
 - [Gitpod で .NET 5 の環境を用意して遊んでみる (.NET 5.0, C# 9.0)](https://devlights.hatenablog.com/entry/2020/11/27/140407)
 - [VSCode 1.51 でコミットメッセージの入力履歴が保存されるようになった](https://devlights.hatenablog.com/entry/2020/11/13/114917)
 - [Goメモ-115 (VSCode(Gitpod)でGoプログラムのデバッグ時に標準入力がサポートされない？)](https://devlights.hatenablog.com/entry/2020/10/28/125418)
@@ -899,6 +901,7 @@
 
 ## csharp
 
+- [WSL2とVSCodeで欲しい環境を好きなだけ作る](https://devlights.hatenablog.com/entry/2021/05/11/173126)
 - [dotnet build 時とかのロゴ表示を抑制 (--nologo -v q)](https://devlights.hatenablog.com/entry/2021/04/19/092456)
 - [BinaryFormatterが非推奨として警告されるようになっていた (.NET 5)](https://devlights.hatenablog.com/entry/2021/04/18/225507)
 - [Gitpod で .NET 5 の環境を用意して遊んでみる (.NET 5.0, C# 9.0)](https://devlights.hatenablog.com/entry/2020/11/27/140407)
