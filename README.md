@@ -107,6 +107,7 @@
 
 ## git
 
+- [git init したらメッセージが表示された (init.defaultBranch, 2.31.1)](https://devlights.hatenablog.com/entry/2021/05/16/125421)
 - [素晴らしいGithubリポジトリ１０選 (Qiita)](https://devlights.hatenablog.com/entry/2021/05/03/103420)
 - [git で 一つ前のブランチにサクっと切り替えるやり方 (git switch, git checkout)](https://devlights.hatenablog.com/entry/2021/04/21/133825)
 - [git でビルド番号や最新タグ、最新コミットを取得する](https://devlights.hatenablog.com/entry/2021/03/01/214144)
