@@ -44,6 +44,7 @@
 
 ## linux
 
+- [pingしたときにタイムスタンプをつけて出力したい (ping, moreutils, ts)](https://devlights.hatenablog.com/entry/2021/05/17/060000)
 - [WSL2とVSCodeで欲しい環境を好きなだけ作る](https://devlights.hatenablog.com/entry/2021/05/11/173126)
 - [ncコマンドでポートが開いてるか確認する (linux, debian, ncat)](https://devlights.hatenablog.com/entry/2021/05/06/070000)
 - [ターミナルで突然何も入力出来なくなった場合のTips (linux, stty)](https://devlights.hatenablog.com/entry/2021/04/30/185602)
