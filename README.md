@@ -965,6 +965,8 @@
 
 ## misc
 
+- [JetBrains Projector を試してみた](https://devlights.hatenablog.com/entry/2021/05/19/135906)
+- [JetBrains Projector v1.0 がリリース (Swing, シンクライアント)](https://devlights.hatenablog.com/entry/2021/05/19/130052)
 - [QuickRef.ME (チートシートがいっぱいあるところ, 見やすい)](https://devlights.hatenablog.com/entry/2021/05/05/172625)
 - [PowerShellでWindowsエクスペリエンスインデックスを出力](https://devlights.hatenablog.com/entry/2021/03/15/103516)
 - [PowerShellで1コマンドを複数行に分けて書くやり方](https://devlights.hatenablog.com/entry/2021/03/08/222337)
