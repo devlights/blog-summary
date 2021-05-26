@@ -8,6 +8,7 @@
 
 ## 目次
 
+- [Java](#java)
 - [Flutter/Dart](#flutter)
 - [ShellScript](#shellscript)
 - [Linux](#linux)
@@ -32,6 +33,10 @@
 - [いろいろTips](#misc)
 
 ---
+
+## java
+
+- [Microsoft Build OpenJDK が正式リリース](https://devlights.hatenablog.com/entry/2021/05/27/010802)
 
 ## flutter
 
