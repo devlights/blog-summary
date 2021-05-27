@@ -970,6 +970,7 @@
 
 ## misc
 
+- [Windows Package Manger (winget) の v1.0 リリース](https://devlights.hatenablog.com/entry/2021/05/27/101950)
 - [JetBrains Projector を試してみた](https://devlights.hatenablog.com/entry/2021/05/19/135906)
 - [JetBrains Projector v1.0 がリリース (Swing, シンクライアント)](https://devlights.hatenablog.com/entry/2021/05/19/130052)
 - [QuickRef.ME (チートシートがいっぱいあるところ, 見やすい)](https://devlights.hatenablog.com/entry/2021/05/05/172625)
