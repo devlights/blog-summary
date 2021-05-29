@@ -8,6 +8,7 @@
 
 ## 目次
 
+- [WSL](#wsl)
 - [Java](#java)
 - [Flutter/Dart](#flutter)
 - [ShellScript](#shellscript)
@@ -33,6 +34,16 @@
 - [いろいろTips](#misc)
 
 ---
+
+## wsl
+
+- [WSL で デフォルトユーザ を変更する方法](https://devlights.hatenablog.com/entry/2021/05/29/070000)
+- [WSL で xsel とか使わずに クリップボード にコピーする方法](https://devlights.hatenablog.com/entry/2021/05/28/100517)
+- [JetBrains Projector を試してみた](https://devlights.hatenablog.com/entry/2021/05/19/135906)
+- [WSL2とVSCodeで欲しい環境を好きなだけ作る](https://devlights.hatenablog.com/entry/2021/05/11/173126)
+- [WSL側のファイルをエクスプローラーで表示](https://devlights.hatenablog.com/entry/2020/07/29/114429)
+- [WSLのUbuntu 20.04 LTS を起動すると cannot create /var/lib/ubuntu-release-upgrader/release-upgrade-available: Permission denied って出る件](https://devlights.hatenablog.com/entry/2020/06/24/153831)
+- [Windows10メモ (WSL(Ubuntu) 初期設定メモ)](https://devlights.hatenablog.com/entry/2020/01/14/132743)
 
 ## java
 
