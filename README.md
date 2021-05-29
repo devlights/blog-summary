@@ -970,6 +970,7 @@
 
 ## misc
 
+- [WSL で デフォルトユーザ を変更する方法](https://devlights.hatenablog.com/entry/2021/05/29/070000)
 - [WSL で xsel とか使わずに クリップボード にコピーする方法](https://devlights.hatenablog.com/entry/2021/05/28/100517)
 - [Windows Package Manger (winget) の v1.0 リリース](https://devlights.hatenablog.com/entry/2021/05/27/101950)
 - [JetBrains Projector を試してみた](https://devlights.hatenablog.com/entry/2021/05/19/135906)
