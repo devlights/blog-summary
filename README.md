@@ -37,6 +37,7 @@
 
 ## wsl
 
+- [WSL上でVSCode起動しようとしたら "cannot create /tmp/remote-wsl-loc.txt: Permission denied" って出る場合について](https://devlights.hatenablog.com/entry/2021/05/31/070000)
 - [WSL で デフォルトユーザ を変更する方法](https://devlights.hatenablog.com/entry/2021/05/29/070000)
 - [WSL で xsel とか使わずに クリップボード にコピーする方法](https://devlights.hatenablog.com/entry/2021/05/28/100517)
 - [JetBrains Projector を試してみた](https://devlights.hatenablog.com/entry/2021/05/19/135906)
