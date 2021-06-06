@@ -383,6 +383,7 @@
 - [Goメモ-148 (embed メモ (埋め込み対象を絞り込み, embed.FSで取得))](https://devlights.hatenablog.com/entry/2021/04/27/110643)
 - [Goメモ-149 (Goでのループの書き方)](https://devlights.hatenablog.com/entry/2021/06/01/070000)
 - [Goメモ-150 (プログラミング言語GoのKindle版が出てた)](https://devlights.hatenablog.com/entry/2021/06/05/151354)
+- [Goメモ-151 (mainパッケージの中でビルドタグ使って複数のmain関数を定義)(+build run)](https://devlights.hatenablog.com/entry/2021/06/06/145610)
 
 ## python
 
