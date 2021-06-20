@@ -387,6 +387,7 @@
 - [Goメモ-151 (mainパッケージの中でビルドタグ使って複数のmain関数を定義)(+build run)](https://devlights.hatenablog.com/entry/2021/06/06/145610)
 - [Goメモ-152 (複数の *exec.Cmd をパイプストリームでつないでコマンド実行する)](https://devlights.hatenablog.com/entry/2021/06/07/130000)
 - [Goメモ-153 (Goでのファイル I/O のやり方まとめ)](https://devlights.hatenablog.com/entry/2021/06/16/014722)
+- [Goメモ-154 (go run したら unsupported VMA range って出た)(Chromebook, ARM64)](https://devlights.hatenablog.com/entry/2021/06/18/093246)
 
 ## python
 
