@@ -48,6 +48,7 @@
 
 ## java
 
+- [Jetbrains IDEA で Java の Properties ファイルが文字化けしてるのを自動で native2ascii するよう設定](https://devlights.hatenablog.com/entry/2021/06/22/180534)
 - [Microsoft Build OpenJDK が正式リリース](https://devlights.hatenablog.com/entry/2021/05/27/010802)
 
 ## flutter
