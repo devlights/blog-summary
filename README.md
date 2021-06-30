@@ -391,6 +391,7 @@
 - [Goメモ-153 (Goでのファイル I/O のやり方まとめ)](https://devlights.hatenablog.com/entry/2021/06/16/014722)
 - [Goメモ-154 (go run したら unsupported VMA range って出た)(Chromebook, ARM64)](https://devlights.hatenablog.com/entry/2021/06/18/093246)
 - [Goメモ-155 (StackOverflow Collectives に Go の Collective がオープン)](https://devlights.hatenablog.com/entry/2021/06/24/210539)
+- [Goメモ-156 (go test で short モード時にスキップするテストを書く)(-short, t.Skip)](https://devlights.hatenablog.com/entry/2021/06/30/143846)
 
 ## python
 
