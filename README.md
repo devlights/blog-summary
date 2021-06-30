@@ -128,6 +128,7 @@
 
 ## git
 
+- [GitHub Copilot (Open AI, AIプログラミング機能, GitHub Codespaces)](https://devlights.hatenablog.com/entry/2021/06/30/133645)
 - [git init したらメッセージが表示された (init.defaultBranch, 2.31.1)](https://devlights.hatenablog.com/entry/2021/05/16/125421)
 - [素晴らしいGithubリポジトリ１０選 (Qiita)](https://devlights.hatenablog.com/entry/2021/05/03/103420)
 - [git で 一つ前のブランチにサクっと切り替えるやり方 (git switch, git checkout)](https://devlights.hatenablog.com/entry/2021/04/21/133825)
