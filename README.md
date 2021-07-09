@@ -189,6 +189,7 @@
 
 ## vscode
 
+- [Github に 「VS Code で 開く」バッチをつける (Remote Repositories Extension)](https://devlights.hatenablog.com/entry/2021/07/09/131820)
 - [WSL2とVSCodeで欲しい環境を好きなだけ作る](https://devlights.hatenablog.com/entry/2021/05/11/173126)
 - [Gitpod で .NET 5 の環境を用意して遊んでみる (.NET 5.0, C# 9.0)](https://devlights.hatenablog.com/entry/2020/11/27/140407)
 - [VSCode 1.51 でコミットメッセージの入力履歴が保存されるようになった](https://devlights.hatenablog.com/entry/2020/11/13/114917)
