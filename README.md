@@ -56,6 +56,7 @@
 - [Flutter doctorで何回やってもAndroid Studioが認識されない](https://devlights.hatenablog.com/entry/2021/06/10/124017)
 - [flutter/dartの勉強にはDartPadもとても便利](https://devlights.hatenablog.com/entry/2021/03/18/135619)
 - [Gitpod で flutter/dart の環境を用意して遊んでみる](https://devlights.hatenablog.com/entry/2021/03/17/173142)
+- [Flutterメモ-00 (Flutter Web で レンダラ が CanvasKit の場合の中華フォント表示について)](https://devlights.hatenablog.com/entry/2021/07/16/010857)
 
 ## shellscript
 
