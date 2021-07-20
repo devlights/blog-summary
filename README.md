@@ -112,6 +112,7 @@
 - [ファイルの中身を空にするコマンドあれこれ](https://devlights.hatenablog.com/entry/2020/01/28/143716)
 - [ターミナル上で通算秒を扱う際のコマンドメモ](https://devlights.hatenablog.com/entry/2020/01/24/130524)
 - [ターミナル上でcsvファイルを見る際のコマンドメモ](https://devlights.hatenablog.com/entry/2020/01/21/195308)
+- [makeで標準入力を受け取って後続処理したい](https://devlights.hatenablog.com/entry/2021/07/20/111905)
 
 ## gitpod
 
