@@ -399,6 +399,7 @@
 - [Goメモ-155 (StackOverflow Collectives に Go の Collective がオープン)](https://devlights.hatenablog.com/entry/2021/06/24/210539)
 - [Goメモ-156 (go test で short モード時にスキップするテストを書く)(-short, t.Skip)](https://devlights.hatenablog.com/entry/2021/06/30/143846)
 - [Goメモ-157 (bytes.Bufferはとても便利)](https://devlights.hatenablog.com/entry/2021/07/24/143548)
+- [Goメモ-158 (base64 エンコードとデコード)](https://devlights.hatenablog.com/entry/2021/07/25/070000)
 
 ## python
 
