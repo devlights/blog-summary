@@ -60,6 +60,7 @@
 - [Flutterメモ-01 (Apple M1でiOSアプリのビルドに失敗する件)(CocoaPods, ffi, Apple M1)](https://devlights.hatenablog.com/entry/2021/07/21/070000)
 - [Flutterメモ-02 (AndroidでYour project path contains non-ASCII charactersでビルド出来ない件)](https://devlights.hatenablog.com/entry/2021/07/22/070000)
 - [Flutterメモ-03 (最小構成でHelloWorld)](https://devlights.hatenablog.com/entry/2021/07/23/070000)
+- [Flutterメモ-04 (StatelessWidget)](https://devlights.hatenablog.com/entry/2021/07/26/070000)
 
 ## shellscript
 
