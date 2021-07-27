@@ -61,6 +61,7 @@
 - [Flutterメモ-02 (AndroidでYour project path contains non-ASCII charactersでビルド出来ない件)](https://devlights.hatenablog.com/entry/2021/07/22/070000)
 - [Flutterメモ-03 (最小構成でHelloWorld)](https://devlights.hatenablog.com/entry/2021/07/23/070000)
 - [Flutterメモ-04 (StatelessWidget)](https://devlights.hatenablog.com/entry/2021/07/26/070000)
+- [Flutterメモ-05 (Androidでネットワーク通信をする場合の注意点)](https://devlights.hatenablog.com/entry/2021/07/27/132253)
 
 ## shellscript
 
