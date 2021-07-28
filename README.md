@@ -62,6 +62,7 @@
 - [Flutterメモ-03 (最小構成でHelloWorld)](https://devlights.hatenablog.com/entry/2021/07/23/070000)
 - [Flutterメモ-04 (StatelessWidget)](https://devlights.hatenablog.com/entry/2021/07/26/070000)
 - [Flutterメモ-05 (Androidでネットワーク通信をする場合の注意点)](https://devlights.hatenablog.com/entry/2021/07/27/132253)
+- [Flutterメモ-06 (StatefulWidget)](https://devlights.hatenablog.com/entry/2021/07/29/020027)
 
 ## shellscript
 
