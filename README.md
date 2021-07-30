@@ -63,6 +63,7 @@
 - [Flutterメモ-04 (StatelessWidget)](https://devlights.hatenablog.com/entry/2021/07/26/070000)
 - [Flutterメモ-05 (Androidでネットワーク通信をする場合の注意点)](https://devlights.hatenablog.com/entry/2021/07/27/132253)
 - [Flutterメモ-06 (StatefulWidget)](https://devlights.hatenablog.com/entry/2021/07/29/020027)
+- [Flutterメモ-07 (VSCodeでフォーマットしたらインデントが変になる)(Trailing commas)](https://devlights.hatenablog.com/entry/2021/07/29/123000)
 
 ## shellscript
 
