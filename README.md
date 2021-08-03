@@ -66,6 +66,7 @@
 - [Flutterメモ-07 (VSCodeでフォーマットしたらインデントが変になる)(Trailing commas)](https://devlights.hatenablog.com/entry/2021/07/29/123000)
 - [Flutterメモ-08 (flutter run した後で p を押すと Debug Paint モードになる)](https://devlights.hatenablog.com/entry/2021/07/30/183834)
 - [Flutterメモ-09 (JetBrains IDEA で Flutter Inspector にエラー表示されている)(JxBrowser)](https://devlights.hatenablog.com/entry/2021/07/31/070000)
+- [Flutterメモ-10 (JetBrains IDEA で Dart SDK の場所を指定)(windows)](https://devlights.hatenablog.com/entry/2021/08/03/111509)
 
 ## shellscript
 
