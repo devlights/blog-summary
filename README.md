@@ -407,6 +407,7 @@
 - [Goメモ-156 (go test で short モード時にスキップするテストを書く)(-short, t.Skip)](https://devlights.hatenablog.com/entry/2021/06/30/143846)
 - [Goメモ-157 (bytes.Bufferはとても便利)](https://devlights.hatenablog.com/entry/2021/07/24/143548)
 - [Goメモ-158 (base64 エンコードとデコード)](https://devlights.hatenablog.com/entry/2021/07/25/070000)
+- [Goメモ-159 (ExcelのシートをPDFに変換)](https://devlights.hatenablog.com/entry/2021/08/09/211927)
 
 ## python
 
