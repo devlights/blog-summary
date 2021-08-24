@@ -68,6 +68,7 @@
 - [Flutterメモ-09 (JetBrains IDEA で Flutter Inspector にエラー表示されている)(JxBrowser)](https://devlights.hatenablog.com/entry/2021/07/31/070000)
 - [Flutterメモ-10 (JetBrains IDEA で Dart SDK の場所を指定)(windows)](https://devlights.hatenablog.com/entry/2021/08/03/111509)
 - [Flutterメモ-11 (InheritedWidgetとValueNotifier)](https://devlights.hatenablog.com/entry/2021/08/15/221759)
+- [Flutterメモ-12 (analysis_options.yamlの設置)(flutter_lint)](https://devlights.hatenablog.com/entry/2021/08/24/181321)
 
 ## shellscript
 
