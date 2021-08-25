@@ -69,6 +69,7 @@
 - [Flutterメモ-10 (JetBrains IDEA で Dart SDK の場所を指定)(windows)](https://devlights.hatenablog.com/entry/2021/08/03/111509)
 - [Flutterメモ-11 (InheritedWidgetとValueNotifier)](https://devlights.hatenablog.com/entry/2021/08/15/221759)
 - [Flutterメモ-12 (analysis_options.yamlの設置)(flutter_lint)](https://devlights.hatenablog.com/entry/2021/08/24/181321)
+- [Flutterメモ-13 (Dartでのanalysis_options.yamlの設置)(pedantic)](https://devlights.hatenablog.com/entry/2021/08/25/070000)
 
 ## shellscript
 
