@@ -412,6 +412,7 @@
 - [Goメモ-157 (bytes.Bufferはとても便利)](https://devlights.hatenablog.com/entry/2021/07/24/143548)
 - [Goメモ-158 (base64 エンコードとデコード)](https://devlights.hatenablog.com/entry/2021/07/25/070000)
 - [Goメモ-159 (ExcelのシートをPDFに変換)](https://devlights.hatenablog.com/entry/2021/08/09/211927)
+- [Goメモ-160 (8ビット グレースケール 画像を作る)](https://devlights.hatenablog.com/entry/2021/08/30/154611)
 
 ## python
 
