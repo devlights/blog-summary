@@ -53,6 +53,7 @@
 
 ## flutter
 
+- [スマホ側で表示してるWebページをリモートデバッグする (Android, iOS)(インスペクタ)](https://devlights.hatenablog.com/entry/2021/09/06/151241)
 - [Flutter doctorで何回やってもAndroid Studioが認識されない](https://devlights.hatenablog.com/entry/2021/06/10/124017)
 - [flutter/dartの勉強にはDartPadもとても便利](https://devlights.hatenablog.com/entry/2021/03/18/135619)
 - [Gitpod で flutter/dart の環境を用意して遊んでみる](https://devlights.hatenablog.com/entry/2021/03/17/173142)
@@ -1017,6 +1018,7 @@
 
 ## misc
 
+- [スマホ側で表示してるWebページをリモートデバッグする (Android, iOS)(インスペクタ)](https://devlights.hatenablog.com/entry/2021/09/06/151241)
 - [ImageMagickを使って 8ビット グレースケール 画像を作る (8bit, Grayscale, 256階調)](https://devlights.hatenablog.com/entry/2021/08/26/153124)
 - [WSL で デフォルトユーザ を変更する方法](https://devlights.hatenablog.com/entry/2021/05/29/070000)
 - [WSL で xsel とか使わずに クリップボード にコピーする方法](https://devlights.hatenablog.com/entry/2021/05/28/100517)
