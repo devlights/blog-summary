@@ -250,6 +250,9 @@
 
 ## golang
 
+- [go-links](https://github.com/devlights/go-links)
+  - 自分用に纏めたGoのリンク集
+
 - [rpmのファイル名からパッケージとかバージョンとかを抽出](https://devlights.hatenablog.com/entry/2020/11/30/181952)
 - [TCPソケットがclose状態の時の挙動についての情報メモ (Writing to a closed, local TCP socket not failing)](https://devlights.hatenablog.com/entry/2020/10/14/134430)
 - [ChromebookのLinux (ベータ版)のDebian 9 (stretch) を 10 (buster) にアップグレード](https://devlights.hatenablog.com/entry/2019/11/08/142211)
@@ -419,6 +422,9 @@
 - [Goメモ-161 (go.mod の 内容を Go 1.17 に調整する)](https://devlights.hatenablog.com/entry/2021/09/02/112354)
 
 ## python
+
+- [python-links](https://github.com/devlights/python-links)
+  - 自分用に纏めたPythonリンク集
 
 - [TCPソケットがclose状態の時の挙動についての情報メモ (Writing to a closed, local TCP socket not failing)](https://devlights.hatenablog.com/entry/2020/10/14/134430)
 - [Pythonメモ-00 (マルチバイトを考慮した文字幅を取得)(unicodedata, multibytes, WF)](https://devlights.hatenablog.com/entry/2017/03/18/180549)
