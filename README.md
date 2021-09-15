@@ -48,6 +48,7 @@
 
 ## java
 
+- [Oracle JDK が 17 からまた無料提供となった (Oracle No-Fee Terms and Conditions, NFTC)](https://devlights.hatenablog.com/entry/2021/09/15/162917)
 - [Jetbrains IDEA で Java の Properties ファイルが文字化けしてるのを自動で native2ascii するよう設定](https://devlights.hatenablog.com/entry/2021/06/22/180534)
 - [Microsoft Build OpenJDK が正式リリース](https://devlights.hatenablog.com/entry/2021/05/27/010802)
 
