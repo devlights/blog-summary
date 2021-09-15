@@ -1026,6 +1026,7 @@
 
 ## misc
 
+- [個人情報テストジェネレーター (ダミー個人情報を作るWebサービス)](https://devlights.hatenablog.com/entry/2021/09/15/184539)
 - [スマホ側で表示してるWebページをリモートデバッグする (Android, iOS)(インスペクタ)](https://devlights.hatenablog.com/entry/2021/09/06/151241)
 - [ImageMagickを使って 8ビット グレースケール 画像を作る (8bit, Grayscale, 256階調)](https://devlights.hatenablog.com/entry/2021/08/26/153124)
 - [WSL で デフォルトユーザ を変更する方法](https://devlights.hatenablog.com/entry/2021/05/29/070000)
