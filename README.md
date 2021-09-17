@@ -75,6 +75,7 @@
 - [Flutterメモ-14 (httpsリクエスト時のCERTIFICATE_VERIFY_FAILEDをバイパスさせる)(開発時）](https://devlights.hatenablog.com/entry/2021/08/27/145704)
 - [Flutterメモ-15 (ボタンをDisable状態にする）](https://devlights.hatenablog.com/entry/2021/09/01/073000)
 - [Flutterメモ-16 (Flutter 2.5 から追加された skeleton テンプレートについて）](https://devlights.hatenablog.com/entry/2021/09/16/073000)
+- [Flutterメモ-17 (Flutter 2.5 についてのリソース）](https://devlights.hatenablog.com/entry/2021/09/16/130000)
 
 ## shellscript
 
@@ -134,6 +135,7 @@
 
 ## gitpod
 
+- [Gitpod で .NET 5 の環境でエラーが出る件 (MSB6004, containerd mount is invalid)](https://devlights.hatenablog.com/entry/2021/09/17/101833)
 - [Gitpod がいつのまにか プライベートリポジトリ に対してFreeで使えるようになってた](https://devlights.hatenablog.com/entry/2021/08/31/140704)
 - [GitpodのデフォルトのIDEがVSCodeになった](https://devlights.hatenablog.com/entry/2021/04/08/235411)
 - [Gitpod で flutter/dart の環境を用意して遊んでみる](https://devlights.hatenablog.com/entry/2021/03/17/173142)
