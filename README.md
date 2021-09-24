@@ -425,6 +425,7 @@
 - [Goメモ-159 (ExcelのシートをPDFに変換)](https://devlights.hatenablog.com/entry/2021/08/09/211927)
 - [Goメモ-160 (8ビット グレースケール 画像を作る)](https://devlights.hatenablog.com/entry/2021/08/30/154611)
 - [Goメモ-161 (go.mod の 内容を Go 1.17 に調整する)](https://devlights.hatenablog.com/entry/2021/09/02/112354)
+- [Goメモ-162 (crypto/tls/generate_cert.go を使ってオレオレ証明書作成)](https://devlights.hatenablog.com/entry/2021/09/24/173154)
 
 ## python
 
