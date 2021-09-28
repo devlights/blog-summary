@@ -77,6 +77,7 @@
 - [Flutterメモ-16 (Flutter 2.5 から追加された skeleton テンプレートについて）](https://devlights.hatenablog.com/entry/2021/09/16/073000)
 - [Flutterメモ-17 (Flutter 2.5 についてのリソース）](https://devlights.hatenablog.com/entry/2021/09/16/130000)
 - [Flutterメモ-18 (VSCodeでPreview Flutter Ui Guidesを有効にする）](https://devlights.hatenablog.com/entry/2021/09/25/070000)
+- [Flutterメモ-19 (web-renderer html で Chromeで見ると文字がぼやける）](https://devlights.hatenablog.com/entry/2021/09/28/070000)
 
 ## shellscript
 
