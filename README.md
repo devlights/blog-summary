@@ -137,6 +137,7 @@
 
 ## gitpod
 
+- [Gitpod 強制的に prebuild を発生させるやり方](https://devlights.hatenablog.com/entry/2021/09/29/073000)
 - [Gitpod で .NET 5 の環境でエラーが出る件 (MSB6004, containerd mount is invalid)](https://devlights.hatenablog.com/entry/2021/09/17/101833)
 - [Gitpod がいつのまにか プライベートリポジトリ に対してFreeで使えるようになってた](https://devlights.hatenablog.com/entry/2021/08/31/140704)
 - [GitpodのデフォルトのIDEがVSCodeになった](https://devlights.hatenablog.com/entry/2021/04/08/235411)
