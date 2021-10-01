@@ -79,6 +79,7 @@
 - [Flutterメモ-18 (VSCodeでPreview Flutter Ui Guidesを有効にする）](https://devlights.hatenablog.com/entry/2021/09/25/070000)
 - [Flutterメモ-19 (web-renderer html で Chromeで見ると文字がぼやける）](https://devlights.hatenablog.com/entry/2021/09/28/070000)
 - [Flutterメモ-20 (CenterウィジェットとColumnウィジェットで中央表示）](https://devlights.hatenablog.com/entry/2021/09/30/172639)
+- [Flutterメモ-21 (CenterウィジェットとRowウィジェットで中央表示）](https://devlights.hatenablog.com/entry/2021/10/01/073000)
 
 ## shellscript
 
