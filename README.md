@@ -558,6 +558,7 @@
 - [Pythonメモ-115 (Excelの特定シートのフッターの値を調整するスクリプト)](https://devlights.hatenablog.com/entry/2019/12/16/171923)
 - [Pythonメモ-116 (Excelの特定シートの印刷の向きを調整するスクリプト)](https://devlights.hatenablog.com/entry/2020/02/04/195007)
 - [Pythonメモ-117 (Python Development Modeを有効にする)](https://devlights.hatenablog.com/entry/2021/02/03/070000)
+- [Pythonメモ-118 (Python 3.10 リリース)](https://devlights.hatenablog.com/entry/2021/10/07/135433)
 
 ## dotnet-channels
 
