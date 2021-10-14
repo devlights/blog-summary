@@ -1044,6 +1044,7 @@
 
 ## misc
 
+- [Wordで改行記号まで選択されないようにする](https://devlights.hatenablog.com/entry/2021/10/14/140523)
 - [IPAより「情報セキュリティ白書 2021」が公開](https://devlights.hatenablog.com/entry/2021/09/27/132253)
 - [個人情報テストジェネレーター (ダミー個人情報を作るWebサービス)](https://devlights.hatenablog.com/entry/2021/09/15/184539)
 - [スマホ側で表示してるWebページをリモートデバッグする (Android, iOS)(インスペクタ)](https://devlights.hatenablog.com/entry/2021/09/06/151241)
