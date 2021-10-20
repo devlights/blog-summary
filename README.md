@@ -223,6 +223,7 @@
 
 ## vscode
 
+- [VSCodeとts-check](https://devlights.hatenablog.com/entry/2021/10/20/124806)
 - [VSCode version 1.60.0 でブラケットの色付け機能がネイティブにサポート](https://devlights.hatenablog.com/entry/2021/09/06/183000)
 - [Github に 「VS Code で 開く」バッチをつける (Remote Repositories Extension)](https://devlights.hatenablog.com/entry/2021/07/09/131820)
 - [WSL2とVSCodeで欲しい環境を好きなだけ作る](https://devlights.hatenablog.com/entry/2021/05/11/173126)
