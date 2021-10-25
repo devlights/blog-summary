@@ -144,6 +144,7 @@
 
 ## gitpod
 
+- [Gitpod で Ansible の環境を用意して遊んでみる](https://devlights.hatenablog.com/entry/2021/10/25/153624)
 - [Gitpod が OpenVSCode Server をアナウンス](https://devlights.hatenablog.com/entry/2021/10/01/114238)
 - [Gitpod 強制的に prebuild を発生させるやり方](https://devlights.hatenablog.com/entry/2021/09/29/073000)
 - [Gitpod で .NET 5 の環境でエラーが出る件 (MSB6004, containerd mount is invalid)](https://devlights.hatenablog.com/entry/2021/09/17/101833)
