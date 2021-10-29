@@ -988,6 +988,7 @@
 
 ## csharp
 
+- [dotnet new コマンドから gitignore ファイルが生成できた](https://devlights.hatenablog.com/entry/2021/10/29/113742)
 - [WSL2とVSCodeで欲しい環境を好きなだけ作る](https://devlights.hatenablog.com/entry/2021/05/11/173126)
 - [dotnet build 時とかのロゴ表示を抑制 (--nologo -v q)](https://devlights.hatenablog.com/entry/2021/04/19/092456)
 - [BinaryFormatterが非推奨として警告されるようになっていた (.NET 5)](https://devlights.hatenablog.com/entry/2021/04/18/225507)
