@@ -146,6 +146,7 @@
 
 ## gitpod
 
+- [Gitpod と Tailscale がパートナーシップを結んだみたい](https://devlights.hatenablog.com/entry/2021/11/01/134954)
 - [Gitpod で Ansible の環境を用意して遊んでみる](https://devlights.hatenablog.com/entry/2021/10/25/153624)
 - [Gitpod が OpenVSCode Server をアナウンス](https://devlights.hatenablog.com/entry/2021/10/01/114238)
 - [Gitpod 強制的に prebuild を発生させるやり方](https://devlights.hatenablog.com/entry/2021/09/29/073000)
