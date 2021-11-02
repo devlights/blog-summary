@@ -443,6 +443,7 @@
 - [Goメモ-161 (go.mod の 内容を Go 1.17 に調整する)](https://devlights.hatenablog.com/entry/2021/09/02/112354)
 - [Goメモ-162 (crypto/tls/generate_cert.go を使ってオレオレ証明書作成)](https://devlights.hatenablog.com/entry/2021/09/24/173154)
 - [Goメモ-163 (非同期パターンがまとまっているリポジトリ)(go-concurrency-patterns)](https://devlights.hatenablog.com/entry/2021/10/08/112921)
+- [Goメモ-164 (SIGQUITを送ってgoroutineのダンプを取る)](https://devlights.hatenablog.com/entry/2021/11/02/073000)
 
 ## python
 
