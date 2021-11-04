@@ -1053,6 +1053,7 @@
 
 ## misc
 
+- [YAMLのリテラルスタイルと折りたたみスタイル (Literal Style, Folded Style)](https://devlights.hatenablog.com/entry/2021/11/04/073000)
 - [Wordで改行記号まで選択されないようにする](https://devlights.hatenablog.com/entry/2021/10/14/140523)
 - [IPAより「情報セキュリティ白書 2021」が公開](https://devlights.hatenablog.com/entry/2021/09/27/132253)
 - [個人情報テストジェネレーター (ダミー個人情報を作るWebサービス)](https://devlights.hatenablog.com/entry/2021/09/15/184539)
