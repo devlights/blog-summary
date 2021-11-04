@@ -227,6 +227,7 @@
 
 ## vscode
 
+- [vscode.dev が ローンチされていた (VSCode の Web版)](https://devlights.hatenablog.com/entry/2021/11/04/153000)
 - [VSCode の 拡張機能 Gradle for Java がリリースされた](https://devlights.hatenablog.com/entry/2021/11/02/130000)
 - [VSCodeとts-check](https://devlights.hatenablog.com/entry/2021/10/20/124806)
 - [VSCode version 1.60.0 でブラケットの色付け機能がネイティブにサポート](https://devlights.hatenablog.com/entry/2021/09/06/183000)
