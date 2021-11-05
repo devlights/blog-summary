@@ -166,6 +166,8 @@
 
 ## git
 
+- [Githubリポジトリからgithub.devを一発で起動](https://devlights.hatenablog.com/entry/2021/11/05/073000
+)
 - [GitHub Copilot (Open AI, AIプログラミング機能, GitHub Codespaces)](https://devlights.hatenablog.com/entry/2021/06/30/133645)
 - [git init したらメッセージが表示された (init.defaultBranch, 2.31.1)](https://devlights.hatenablog.com/entry/2021/05/16/125421)
 - [素晴らしいGithubリポジトリ１０選 (Qiita)](https://devlights.hatenablog.com/entry/2021/05/03/103420)
