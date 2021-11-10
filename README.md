@@ -994,6 +994,7 @@
 
 ## csharp
 
+- [.NET 6 を Docker コンテナで試す (Dockerfile, VSCode)](https://devlights.hatenablog.com/entry/2021/11/10/154155)
 - [.NET 6 と VisualStudio 2022 がリリース (LTS版, C# 10)](https://devlights.hatenablog.com/entry/2021/11/09/134512)
 - [dotnet new コマンドから gitignore ファイルが生成できた](https://devlights.hatenablog.com/entry/2021/10/29/113742)
 - [WSL2とVSCodeで欲しい環境を好きなだけ作る](https://devlights.hatenablog.com/entry/2021/05/11/173126)
