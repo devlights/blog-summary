@@ -37,6 +37,7 @@
 
 ## wsl
 
+- [Docker Desktopを最新版にしたら docker-compose でエラーでるようになった (v4.2.0, unexpected character...)](https://devlights.hatenablog.com/entry/2021/11/16/154340)
 - [Docker+WSL2の環境でVmmemのメモリ量が巨大になるのを制限する](https://devlights.hatenablog.com/entry/2021/10/28/073000)
 - [WSL2 を 再起動するやり方](https://devlights.hatenablog.com/entry/2021/10/27/135350)
 - [WSL上でVSCode起動しようとしたら "cannot create /tmp/remote-wsl-loc.txt: Permission denied" って出る場合について](https://devlights.hatenablog.com/entry/2021/05/31/070000)
