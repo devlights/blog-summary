@@ -14,7 +14,7 @@
 - [ShellScript](#shellscript)
 - [Linux](#linux)
 - [Gitpod](#gitpod)
-- [Git](#git)
+- [GitHub](#github)
 - [vim](#vim)
 - [chromebook](#chromebook)
 - [VSCode](#vscode)
@@ -167,7 +167,7 @@
 - [ChromebookとGitpodでお安く勉強環境を作る](https://devlights.hatenablog.com/entry/2020/03/08/033644)
 - [Gitpod で OpenVSX 経由で VSCode の拡張機能がインストールできるようになってる](https://devlights.hatenablog.com/entry/2020/07/25/185225)
 
-## git
+## github
 
 - [Githubリポジトリからgithub.devを一発で起動](https://devlights.hatenablog.com/entry/2021/11/05/073000
 )
