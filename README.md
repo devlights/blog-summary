@@ -149,6 +149,7 @@
 
 ## gitpod
 
+- [Gitpod で .NET 6 の環境でエラーが出る件](https://devlights.hatenablog.com/entry/2021/11/23/073000)
 - [Gitpod と Tailscale がパートナーシップを結んだみたい](https://devlights.hatenablog.com/entry/2021/11/01/134954)
 - [Gitpod で Ansible の環境を用意して遊んでみる](https://devlights.hatenablog.com/entry/2021/10/25/153624)
 - [Gitpod が OpenVSCode Server をアナウンス](https://devlights.hatenablog.com/entry/2021/10/01/114238)
