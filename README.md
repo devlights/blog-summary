@@ -37,6 +37,7 @@
 
 ## wsl-docker
 
+- [docker container run でユーザIDとグループIDを指定する (docker container run, --user)](https://devlights.hatenablog.com/entry/2021/11/25/080000)
 - [紙芝居 Kubernetes (めっちゃ分かりやすい)](https://devlights.hatenablog.com/entry/2021/11/18/134543)
 - [Docker Desktopを最新版にしたら docker-compose でエラーでるようになった (v4.2.0, unexpected character...)](https://devlights.hatenablog.com/entry/2021/11/16/154340)
 - [Docker+WSL2の環境でVmmemのメモリ量が巨大になるのを制限する](https://devlights.hatenablog.com/entry/2021/10/28/073000)
