@@ -37,6 +37,7 @@
 
 ## wsl-docker
 
+- [daemon.jsonでDockerエンジンのオプション指定 (/etc/docker, insecure-registries)](https://devlights.hatenablog.com/entry/2021/11/30/010150)
 - [docker container run でユーザIDとグループIDを指定する (docker container run, --user)](https://devlights.hatenablog.com/entry/2021/11/25/080000)
 - [紙芝居 Kubernetes (めっちゃ分かりやすい)](https://devlights.hatenablog.com/entry/2021/11/18/134543)
 - [Docker Desktopを最新版にしたら docker-compose でエラーでるようになった (v4.2.0, unexpected character...)](https://devlights.hatenablog.com/entry/2021/11/16/154340)
