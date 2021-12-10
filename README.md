@@ -37,6 +37,7 @@
 
 ## wsl-docker
 
+- [DockerHubのオフィシャルイメージのDockerfile](https://devlights.hatenablog.com/entry/2021/12/09/073000)
 - [BuiltKitを有効にする方法 (Docker 18.09以降, Docker Build の拡張)](https://devlights.hatenablog.com/entry/2021/12/07/070000)
 - [WSL2でAlpine Linuxの環境を作る](https://devlights.hatenablog.com/entry/2021/12/03/141033)
 - [daemon.jsonでDockerエンジンのオプション指定 (/etc/docker, insecure-registries)](https://devlights.hatenablog.com/entry/2021/11/30/010150)
