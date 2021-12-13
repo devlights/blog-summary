@@ -102,6 +102,7 @@
 
 ## linux
 
+- [batコマンド (cat コマンドのクローン, gitとも連携できる)](https://devlights.hatenablog.com/entry/2021/12/13/073000)
 - [シェルスクリプトの実行ユーザがrootかどうかをチェック (bash, id -u)](https://devlights.hatenablog.com/entry/2021/11/24/140000)
 - [grepの結果で行ではなくヒットした部分のみを出力 (-o, --only-matching)](https://devlights.hatenablog.com/entry/2021/11/22/005606)
 - [catコマンドのちょっとしたTips](https://devlights.hatenablog.com/entry/2021/05/19/070000)
