@@ -1070,6 +1070,7 @@
 
 ## misc
 
+- [Tailwind CSS v3.0 リリース](https://devlights.hatenablog.com/entry/2021/12/14/073000)
 - [7-Zip がメジャーバージョンアップ (v21)](https://devlights.hatenablog.com/entry/2021/11/26/175924)
 - [YAMLのリテラルスタイルと折りたたみスタイル (Literal Style, Folded Style)](https://devlights.hatenablog.com/entry/2021/11/04/073000)
 - [Wordで改行記号まで選択されないようにする](https://devlights.hatenablog.com/entry/2021/10/14/140523)
