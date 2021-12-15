@@ -37,6 +37,7 @@
 
 ## wsl-docker
 
+- [WSL2 with Alpine Linux で WSL Integrationを使えるようにする (alpine-pkg-glibc)](https://devlights.hatenablog.com/entry/2021/12/15/073000)
 - [DockerHubのオフィシャルイメージのDockerfile](https://devlights.hatenablog.com/entry/2021/12/09/073000)
 - [BuiltKitを有効にする方法 (Docker 18.09以降, Docker Build の拡張)](https://devlights.hatenablog.com/entry/2021/12/07/070000)
 - [WSL2でAlpine Linuxの環境を作る](https://devlights.hatenablog.com/entry/2021/12/03/141033)
@@ -460,6 +461,7 @@
 - [Goメモ-162 (crypto/tls/generate_cert.go を使ってオレオレ証明書作成)](https://devlights.hatenablog.com/entry/2021/09/24/173154)
 - [Goメモ-163 (非同期パターンがまとまっているリポジトリ)(go-concurrency-patterns)](https://devlights.hatenablog.com/entry/2021/10/08/112921)
 - [Goメモ-164 (SIGQUITを送ってgoroutineのダンプを取る)](https://devlights.hatenablog.com/entry/2021/11/02/073000)
+- [Goメモ-165 (Go 1.18 Beta1 がリリース)](https://devlights.hatenablog.com/entry/2021/12/15/141759)
 
 ## python
 
