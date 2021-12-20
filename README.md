@@ -244,6 +244,7 @@
 
 ## vscode
 
+- [コマンド実行結果をVSCodeで受けて表示 (stdin, pipe](https://devlights.hatenablog.com/entry/2021/12/20/073000)
 - [vscode.dev が ローンチされていた (VSCode の Web版)](https://devlights.hatenablog.com/entry/2021/11/04/153000)
 - [VSCode の 拡張機能 Gradle for Java がリリースされた](https://devlights.hatenablog.com/entry/2021/11/02/130000)
 - [VSCodeとts-check](https://devlights.hatenablog.com/entry/2021/10/20/124806)
