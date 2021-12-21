@@ -37,6 +37,7 @@
 
 ## wsl-docker
 
+- [マルチステージビルドとDistrolessイメージで小さなイメージを作る](https://devlights.hatenablog.com/entry/2021/12/21/073000)
 - [Dockerfileでヒアドキュメントの利用 (syntax, docker/dockerfile:1-labs)](https://devlights.hatenablog.com/entry/2021/12/17/073000)
 - [WSL2 with Alpine Linux で WSL Integrationを使えるようにする (alpine-pkg-glibc)](https://devlights.hatenablog.com/entry/2021/12/15/073000)
 - [DockerHubのオフィシャルイメージのDockerfile](https://devlights.hatenablog.com/entry/2021/12/09/073000)
