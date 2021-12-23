@@ -216,6 +216,7 @@
 
 ## vim
 
+- [vimrcの設定を無視して起動する (-u NONE, -N)](https://devlights.hatenablog.com/entry/2021/12/23/073000)
 - [vimでバイナリファイルを編集する](https://devlights.hatenablog.com/entry/2021/03/26/153954)
 - [現場でvim慣れていない人が知っておくと便利なTips](https://devlights.hatenablog.com/entry/2021/01/28/235613)
 - [vimの起動時にエンコーディングを指定して開く](https://devlights.hatenablog.com/entry/2020/12/07/113131)
@@ -1076,6 +1077,7 @@
 
 ## misc
 
+- [PSReadLineでEmacsキーバインドを使えるようにする](https://devlights.hatenablog.com/entry/2021/12/22/073000)
 - [Tailwind CSS v3.0 リリース](https://devlights.hatenablog.com/entry/2021/12/14/073000)
 - [7-Zip がメジャーバージョンアップ (v21)](https://devlights.hatenablog.com/entry/2021/11/26/175924)
 - [YAMLのリテラルスタイルと折りたたみスタイル (Literal Style, Folded Style)](https://devlights.hatenablog.com/entry/2021/11/04/073000)
