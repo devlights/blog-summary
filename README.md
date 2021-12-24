@@ -468,6 +468,7 @@
 - [Goメモ-163 (非同期パターンがまとまっているリポジトリ)(go-concurrency-patterns)](https://devlights.hatenablog.com/entry/2021/10/08/112921)
 - [Goメモ-164 (SIGQUITを送ってgoroutineのダンプを取る)](https://devlights.hatenablog.com/entry/2021/11/02/073000)
 - [Goメモ-165 (Go 1.18 Beta1 がリリース)](https://devlights.hatenablog.com/entry/2021/12/15/141759)
+- [Goメモ-166 (stringsとbytesパッケージにCut関数が追加, Go 1.18)](https://devlights.hatenablog.com/entry/2021/12/24/171219)
 
 ## python
 
