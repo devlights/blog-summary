@@ -99,6 +99,7 @@
 - [Flutterメモ-21 (CenterウィジェットとRowウィジェットで中央表示）](https://devlights.hatenablog.com/entry/2021/10/01/073000)
 - [Flutterメモ-22 (Flutter 2.5で追加されたshowMaterialBannerメソッドを試す）](https://devlights.hatenablog.com/entry/2021/10/05/184426)
 - [Flutterメモ-23 (ウィジェットの表示・非表示を切り替え）](https://devlights.hatenablog.com/entry/2021/10/15/172311)
+- [Flutterメモ-24 (Flutter 2.8 がリリース）](https://devlights.hatenablog.com/entry/2021/12/27/073000)
 
 ## shellscript
 
@@ -1080,6 +1081,8 @@
 
 ## misc
 
+- [DeepLの公式Chrome拡張機能が出た](https://devlights.hatenablog.com/entry/2021/12/28/124355)
+- [Tailwind CSS Cheat Sheet (チートシート)](https://devlights.hatenablog.com/entry/2021/12/28/073000)
 - [PSReadLineでEmacsキーバインドを使えるようにする](https://devlights.hatenablog.com/entry/2021/12/22/073000)
 - [Tailwind CSS v3.0 リリース](https://devlights.hatenablog.com/entry/2021/12/14/073000)
 - [7-Zip がメジャーバージョンアップ (v21)](https://devlights.hatenablog.com/entry/2021/11/26/175924)
