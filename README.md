@@ -471,6 +471,7 @@
 - [Goメモ-165 (Go 1.18 Beta1 がリリース)](https://devlights.hatenablog.com/entry/2021/12/15/141759)
 - [Goメモ-166 (stringsとbytesパッケージにCut関数が追加, Go 1.18)](https://devlights.hatenablog.com/entry/2021/12/24/171219)
 - [Goメモ-167 (テストとカバレッジとベンチマークとプロファイルのやり方)](https://devlights.hatenablog.com/entry/2021/12/28/130000)
+- [Goメモ-168 (ビットフラグ)](https://devlights.hatenablog.com/entry/2021/12/29/130000)
 
 ## python
 
@@ -1081,6 +1082,7 @@
 
 ## misc
 
+- [GCPの各サービスの１分説明動画](https://devlights.hatenablog.com/entry/2021/12/29/073000)
 - [DeepLの公式Chrome拡張機能が出た](https://devlights.hatenablog.com/entry/2021/12/28/124355)
 - [Tailwind CSS Cheat Sheet (チートシート)](https://devlights.hatenablog.com/entry/2021/12/28/073000)
 - [PSReadLineでEmacsキーバインドを使えるようにする](https://devlights.hatenablog.com/entry/2021/12/22/073000)
