@@ -218,6 +218,7 @@
 
 ## vim
 
+- [vimでダイグラフを使って文字を入力（合字)](https://devlights.hatenablog.com/entry/2022/01/05/154042)
 - [vimrcの設定を無視して起動する (-u NONE, -N)](https://devlights.hatenablog.com/entry/2021/12/23/073000)
 - [vimでバイナリファイルを編集する](https://devlights.hatenablog.com/entry/2021/03/26/153954)
 - [現場でvim慣れていない人が知っておくと便利なTips](https://devlights.hatenablog.com/entry/2021/01/28/235613)
