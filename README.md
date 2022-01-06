@@ -473,6 +473,7 @@
 - [Goメモ-166 (stringsとbytesパッケージにCut関数が追加, Go 1.18)](https://devlights.hatenablog.com/entry/2021/12/24/171219)
 - [Goメモ-167 (テストとカバレッジとベンチマークとプロファイルのやり方)](https://devlights.hatenablog.com/entry/2021/12/28/130000)
 - [Goメモ-168 (ビットフラグ)](https://devlights.hatenablog.com/entry/2021/12/29/130000)
+- [Goメモ-169 (HelloWorldで遊ぶ)(同期、非同期)](https://devlights.hatenablog.com/entry/2022/01/06/155452)
 
 ## python
 
