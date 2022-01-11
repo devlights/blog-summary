@@ -475,6 +475,7 @@
 - [Goメモ-168 (ビットフラグ)](https://devlights.hatenablog.com/entry/2021/12/29/130000)
 - [Goメモ-169 (HelloWorldで遊ぶ)(同期、非同期)](https://devlights.hatenablog.com/entry/2022/01/06/155452)
 - [Goメモ-170 (循環リスト)(container/ring, 直近N件分だけ保持していたい)](https://devlights.hatenablog.com/entry/2022/01/07/160300)
+- [Goメモ-171 (logパッケージのprefixの出力位置をメッセージの前にしたい)](https://devlights.hatenablog.com/entry/2022/01/11/073000)
 
 ## python
 
