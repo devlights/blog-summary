@@ -477,6 +477,7 @@
 - [Goメモ-170 (循環リスト)(container/ring, 直近N件分だけ保持していたい)](https://devlights.hatenablog.com/entry/2022/01/07/160300)
 - [Goメモ-171 (logパッケージのprefixの出力位置をメッセージの前にしたい)](https://devlights.hatenablog.com/entry/2022/01/11/073000)
 - [Goメモ-172 (encoding/hexパッケージ)](https://devlights.hatenablog.com/entry/2022/01/12/073000)
+- [Goメモ-173 (ローカルタイムゾーンを変更)(TZ, time.Local)](https://devlights.hatenablog.com/entry/2022/01/13/073000)
 
 ## python
 
