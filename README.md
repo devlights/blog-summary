@@ -218,6 +218,7 @@
 
 ## vim
 
+-[vimでパーミッションが無いファイルをsudoとteeで保存](https://devlights.hatenablog.com/entry/2022/01/14/073000)
 - [vimでダイグラフを使って文字を入力（合字)](https://devlights.hatenablog.com/entry/2022/01/05/154042)
 - [vimrcの設定を無視して起動する (-u NONE, -N)](https://devlights.hatenablog.com/entry/2021/12/23/073000)
 - [vimでバイナリファイルを編集する](https://devlights.hatenablog.com/entry/2021/03/26/153954)
@@ -478,7 +479,6 @@
 - [Goメモ-171 (logパッケージのprefixの出力位置をメッセージの前にしたい)](https://devlights.hatenablog.com/entry/2022/01/11/073000)
 - [Goメモ-172 (encoding/hexパッケージ)](https://devlights.hatenablog.com/entry/2022/01/12/073000)
 - [Goメモ-173 (ローカルタイムゾーンを変更)(TZ, time.Local)](https://devlights.hatenablog.com/entry/2022/01/13/073000)
--[vimでパーミッションが無いファイルをsudoとteeで保存](https://devlights.hatenablog.com/entry/2022/01/14/073000)
 
 ## python
 
