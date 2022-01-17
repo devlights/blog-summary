@@ -479,6 +479,7 @@
 - [Goメモ-171 (logパッケージのprefixの出力位置をメッセージの前にしたい)](https://devlights.hatenablog.com/entry/2022/01/11/073000)
 - [Goメモ-172 (encoding/hexパッケージ)](https://devlights.hatenablog.com/entry/2022/01/12/073000)
 - [Goメモ-173 (ローカルタイムゾーンを変更)(TZ, time.Local)](https://devlights.hatenablog.com/entry/2022/01/13/073000)
+- [Goメモ-174 (sync.Mutexのサンプル)](https://devlights.hatenablog.com/entry/2022/01/17/073000)
 
 ## python
 
@@ -1089,6 +1090,7 @@
 
 ## misc
 
+- [JavaScript 25年の年表をJetBrainsが作成して公開](https://devlights.hatenablog.com/entry/2022/01/17/132054)
 - [GCPの各サービスの１分説明動画](https://devlights.hatenablog.com/entry/2021/12/29/073000)
 - [DeepLの公式Chrome拡張機能が出た](https://devlights.hatenablog.com/entry/2021/12/28/124355)
 - [Tailwind CSS Cheat Sheet (チートシート)](https://devlights.hatenablog.com/entry/2021/12/28/073000)
