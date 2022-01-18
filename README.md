@@ -218,6 +218,7 @@
 
 ## vim
 
+- [vim の3種類のビジュアルモード (v, V, Ctrl-v)](https://devlights.hatenablog.com/entry/2022/01/18/073000)
 -[vimでパーミッションが無いファイルをsudoとteeで保存](https://devlights.hatenablog.com/entry/2022/01/14/073000)
 - [vimでダイグラフを使って文字を入力（合字)](https://devlights.hatenablog.com/entry/2022/01/05/154042)
 - [vimrcの設定を無視して起動する (-u NONE, -N)](https://devlights.hatenablog.com/entry/2021/12/23/073000)
