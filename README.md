@@ -218,6 +218,7 @@
 
 ## vim
 
+- [vim のビジュアルモードで使える o コマンド（端点移動）](https://devlights.hatenablog.com/entry/2022/01/19/073000)
 - [vim の3種類のビジュアルモード (v, V, Ctrl-v)](https://devlights.hatenablog.com/entry/2022/01/18/073000)
 -[vimでパーミッションが無いファイルをsudoとteeで保存](https://devlights.hatenablog.com/entry/2022/01/14/073000)
 - [vimでダイグラフを使って文字を入力（合字)](https://devlights.hatenablog.com/entry/2022/01/05/154042)
