@@ -218,9 +218,10 @@
 
 ## vim
 
+- [vim のビジュアルモードと選択モード (Select-mode)](https://devlights.hatenablog.com/entry/2022/01/20/073000)
 - [vim のビジュアルモードで使える o コマンド（端点移動）](https://devlights.hatenablog.com/entry/2022/01/19/073000)
 - [vim の3種類のビジュアルモード (v, V, Ctrl-v)](https://devlights.hatenablog.com/entry/2022/01/18/073000)
--[vimでパーミッションが無いファイルをsudoとteeで保存](https://devlights.hatenablog.com/entry/2022/01/14/073000)
+- [vimでパーミッションが無いファイルをsudoとteeで保存](https://devlights.hatenablog.com/entry/2022/01/14/073000)
 - [vimでダイグラフを使って文字を入力（合字)](https://devlights.hatenablog.com/entry/2022/01/05/154042)
 - [vimrcの設定を無視して起動する (-u NONE, -N)](https://devlights.hatenablog.com/entry/2021/12/23/073000)
 - [vimでバイナリファイルを編集する](https://devlights.hatenablog.com/entry/2021/03/26/153954)
