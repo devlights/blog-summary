@@ -37,6 +37,7 @@
 
 ## wsl-docker
 
+- [HomebrewをインストールするDockerfileのサンプル](https://devlights.hatenablog.com/entry/2022/01/24/073000)
 - [コンテナが属するネットワークを動的に変更する (docker network connect/disconnect)](https://devlights.hatenablog.com/entry/2021/12/24/073000)
 - [マルチステージビルドとDistrolessイメージで小さなイメージを作る](https://devlights.hatenablog.com/entry/2021/12/21/073000)
 - [Dockerfileでヒアドキュメントの利用 (syntax, docker/dockerfile:1-labs)](https://devlights.hatenablog.com/entry/2021/12/17/073000)
