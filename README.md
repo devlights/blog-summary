@@ -485,6 +485,7 @@
 - [Goメモ-172 (encoding/hexパッケージ)](https://devlights.hatenablog.com/entry/2022/01/12/073000)
 - [Goメモ-173 (ローカルタイムゾーンを変更)(TZ, time.Local)](https://devlights.hatenablog.com/entry/2022/01/13/073000)
 - [Goメモ-174 (sync.Mutexのサンプル)](https://devlights.hatenablog.com/entry/2022/01/17/073000)
+- [Goメモ-175 (N個のチャネルのどれかから値を取得)(reflect.Select, SelectCase)](https://devlights.hatenablog.com/entry/2022/01/25/073000)
 
 ## python
 
