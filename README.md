@@ -306,6 +306,7 @@
 - [go-links](https://github.com/devlights/go-links)
   - 自分用に纏めたGoのリンク集
 
+- [CUIで動くファイラ LF (Terminal file manager)](https://devlights.hatenablog.com/entry/2022/01/21/073000)
 - [rpmのファイル名からパッケージとかバージョンとかを抽出](https://devlights.hatenablog.com/entry/2020/11/30/181952)
 - [TCPソケットがclose状態の時の挙動についての情報メモ (Writing to a closed, local TCP socket not failing)](https://devlights.hatenablog.com/entry/2020/10/14/134430)
 - [ChromebookのLinux (ベータ版)のDebian 9 (stretch) を 10 (buster) にアップグレード](https://devlights.hatenablog.com/entry/2019/11/08/142211)
@@ -1097,6 +1098,7 @@
 
 ## misc
 
+- [フリーで読めるプログラミング資料をリストアップしてくれているリポジトリ (free-programming-books, ja)](https://devlights.hatenablog.com/entry/2022/01/27/073000)
 - [CUIで動くファイラ LF (Terminal file manager)](https://devlights.hatenablog.com/entry/2022/01/21/073000)
 - [JavaScript 25年の年表をJetBrainsが作成して公開](https://devlights.hatenablog.com/entry/2022/01/17/132054)
 - [GCPの各サービスの１分説明動画](https://devlights.hatenablog.com/entry/2021/12/29/073000)
