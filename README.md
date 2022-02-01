@@ -1100,6 +1100,7 @@
 
 ## misc
 
+- [PowerToys と DevToys (Windows, 便利ツール, 十徳ナイフ)](https://devlights.hatenablog.com/entry/2022/02/01/143224)
 - [フリーで読めるプログラミング資料をリストアップしてくれているリポジトリ (free-programming-books, ja)](https://devlights.hatenablog.com/entry/2022/01/27/073000)
 - [CUIで動くファイラ LF (Terminal file manager)](https://devlights.hatenablog.com/entry/2022/01/21/073000)
 - [JavaScript 25年の年表をJetBrainsが作成して公開](https://devlights.hatenablog.com/entry/2022/01/17/132054)
