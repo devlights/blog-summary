@@ -221,6 +221,7 @@
 
 ## vim
 
+- [vimで挿入モード(insert mode)時に貼り付けをするコマンド](https://devlights.hatenablog.com/entry/2022/02/07/073000)
 - [findコマンドの結果をvimでまとめて開く](https://devlights.hatenablog.com/entry/2022/01/22/073000)
 - [vim のビジュアルモードと選択モード (Select-mode)](https://devlights.hatenablog.com/entry/2022/01/20/073000)
 - [vim のビジュアルモードで使える o コマンド（端点移動）](https://devlights.hatenablog.com/entry/2022/01/19/073000)
