@@ -258,6 +258,7 @@
 
 ## vscode
 
+- [VSCodeでUntitledなファイルのデフォルト言語を設定する (default language)](https://devlights.hatenablog.com/entry/2022/02/08/073000)
 - [VSCode で 「scoop で入れた pwsh」 をターミナルプロファイルに追加する](https://devlights.hatenablog.com/entry/2022/01/26/073000)
 - [コマンド実行結果をVSCodeで受けて表示 (stdin, pipe](https://devlights.hatenablog.com/entry/2021/12/20/073000)
 - [vscode.dev が ローンチされていた (VSCode の Web版)](https://devlights.hatenablog.com/entry/2021/11/04/153000)
