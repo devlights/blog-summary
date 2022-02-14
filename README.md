@@ -221,6 +221,8 @@
 
 ## vim
 
+- [プログラミング時に便利なvimのビジュアルモードコマンド (I, A, X, c)](https://devlights.hatenablog.com/entry/2022/02/14/073000)
+- [プログラミング時に便利なvimの選択モーション (i\{, i\(, i\[, i\", it)](https://devlights.hatenablog.com/entry/2022/02/11/073000)
 - [vimで挿入モード(insert mode)時に貼り付けをするコマンド](https://devlights.hatenablog.com/entry/2022/02/07/073000)
 - [findコマンドの結果をvimでまとめて開く](https://devlights.hatenablog.com/entry/2022/01/22/073000)
 - [vim のビジュアルモードと選択モード (Select-mode)](https://devlights.hatenablog.com/entry/2022/01/20/073000)
