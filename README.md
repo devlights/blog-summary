@@ -312,6 +312,7 @@
 - [go-links](https://github.com/devlights/go-links)
   - 自分用に纏めたGoのリンク集
 
+- [Goで作られたタスクランナー (makeの代わりに, go-task/task, Taskfile.yml)](https://devlights.hatenablog.com/entry/2022/02/15/073000)
 - [CUIで動くファイラ LF (Terminal file manager)](https://devlights.hatenablog.com/entry/2022/01/21/073000)
 - [rpmのファイル名からパッケージとかバージョンとかを抽出](https://devlights.hatenablog.com/entry/2020/11/30/181952)
 - [TCPソケットがclose状態の時の挙動についての情報メモ (Writing to a closed, local TCP socket not failing)](https://devlights.hatenablog.com/entry/2020/10/14/134430)
@@ -1107,6 +1108,7 @@
 
 ## misc
 
+- [GithubのマークダウンでMermaidがサポートされた (ダイアグラム)](https://devlights.hatenablog.com/entry/2022/02/15/101346)
 - [PowerToys と DevToys (Windows, 便利ツール, 十徳ナイフ)](https://devlights.hatenablog.com/entry/2022/02/01/143224)
 - [フリーで読めるプログラミング資料をリストアップしてくれているリポジトリ (free-programming-books, ja)](https://devlights.hatenablog.com/entry/2022/01/27/073000)
 - [CUIで動くファイラ LF (Terminal file manager)](https://devlights.hatenablog.com/entry/2022/01/21/073000)
