@@ -221,6 +221,7 @@
 
 ## vim
 
+- [vimのコマンドラインモードで一気に編集する (vim, command line mode, range)](https://devlights.hatenablog.com/entry/2022/02/16/073000)
 - [プログラミング時に便利なvimのビジュアルモードコマンド (I, A, X, c)](https://devlights.hatenablog.com/entry/2022/02/14/073000)
 - [プログラミング時に便利なvimの選択モーション (i\{, i\(, i\[, i\", it)](https://devlights.hatenablog.com/entry/2022/02/11/073000)
 - [vimで挿入モード(insert mode)時に貼り付けをするコマンド](https://devlights.hatenablog.com/entry/2022/02/07/073000)
