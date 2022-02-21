@@ -221,6 +221,7 @@
 
 ## vim
 
+- [vimでファイルの最後から始める (option, +)](https://devlights.hatenablog.com/entry/2022/02/21/073000)
 - [vimのコマンドラインモードで一気に編集する (vim, command line mode, range)](https://devlights.hatenablog.com/entry/2022/02/16/073000)
 - [プログラミング時に便利なvimのビジュアルモードコマンド (I, A, X, c)](https://devlights.hatenablog.com/entry/2022/02/14/073000)
 - [プログラミング時に便利なvimの選択モーション (i\{, i\(, i\[, i\", it)](https://devlights.hatenablog.com/entry/2022/02/11/073000)
