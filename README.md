@@ -221,6 +221,7 @@
 
 ## vim
 
+- [vimで論理行と表示行を区別して移動する (hjkl, gh/gj/gk/gl)](https://devlights.hatenablog.com/entry/2022/02/28/073000)
 - [vimで開きたいファイルをvimに探してもらうようにする (:set path, :find)](https://devlights.hatenablog.com/entry/2022/02/24/073000)
 - [vimでアクティブファイルのディレクトリを使って別のファイルを開く (%:h)](https://devlights.hatenablog.com/entry/2022/02/23/194609)
 - [vimでファイルの最後から始める (option, +)](https://devlights.hatenablog.com/entry/2022/02/21/073000)
