@@ -221,6 +221,7 @@
 
 ## vim
 
+- [vimで直前の挿入位置に移動する `^ と gi は何気に便利](https://devlights.hatenablog.com/entry/2022/03/02/073000)
 - [vimで直前のジャンプ位置に移動する `` は何気に便利 (jump-motions)](https://devlights.hatenablog.com/entry/2022/03/01/073000)
 - [vimで論理行と表示行を区別して移動する (hjkl, gh/gj/gk/gl)](https://devlights.hatenablog.com/entry/2022/02/28/073000)
 - [vimで開きたいファイルをvimに探してもらうようにする (:set path, :find)](https://devlights.hatenablog.com/entry/2022/02/24/073000)
