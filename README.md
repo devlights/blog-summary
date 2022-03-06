@@ -1119,6 +1119,7 @@
 
 ## misc
 
+- [IP Messengerに商用版が登場](https://devlights.hatenablog.com/entry/2022/03/07/073000)
 - [GithubのマークダウンでMermaidがサポートされた (ダイアグラム)](https://devlights.hatenablog.com/entry/2022/02/15/101346)
 - [PowerToys と DevToys (Windows, 便利ツール, 十徳ナイフ)](https://devlights.hatenablog.com/entry/2022/02/01/143224)
 - [フリーで読めるプログラミング資料をリストアップしてくれているリポジトリ (free-programming-books, ja)](https://devlights.hatenablog.com/entry/2022/01/27/073000)
