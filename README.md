@@ -980,7 +980,7 @@
 - [WCF And Android (CodeProject, JSON, REST, google-json)](https://devlights.hatenablog.com/entry/20120406/p1)
 - [WCF 4.5のリソース (MSDN, .NET 4.5, Multiple authentication support, Automatic HTTPS endpoint, BasicHttpsBinding, UDP transport support, WebSocket support)](https://devlights.hatenablog.com/entry/20120413/p4)
 
-## ADO.NET入門記
+## adonet
 
 - [ADO.NET入門記-001 (コネクションの確立及び解放)](https://devlights.hatenablog.com/entry/20070812/p1)
 - [ADO.NET入門記-002 (ConnectionStringSettingsを用いて接続文字列を取得)](https://devlights.hatenablog.com/entry/20070812/p2)
