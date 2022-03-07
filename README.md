@@ -508,6 +508,7 @@
 - [Goメモ-177 (リリース前の機能も含めて最新のGoを試す)(gotip, gccない環境でインストール)](https://devlights.hatenablog.com/entry/2022/02/01/073000)
 - [Goメモ-178 (go test で使うテストデータは testdata ディレクトリに置く)](https://devlights.hatenablog.com/entry/2022/02/22/073000)
 - [Goメモ-179 (スタックトレースを取得するやり方メモ)](https://devlights.hatenablog.com/entry/2022/02/25/073000)
+- [Goメモ-180 (Goの歴史についてまとめてあるサイト) (golang.design, Go: A Documentary)](https://devlights.hatenablog.com/entry/2022/03/08/073000)
 
 ## python
 
