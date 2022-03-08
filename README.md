@@ -509,6 +509,7 @@
 - [Goメモ-178 (go test で使うテストデータは testdata ディレクトリに置く)](https://devlights.hatenablog.com/entry/2022/02/22/073000)
 - [Goメモ-179 (スタックトレースを取得するやり方メモ)](https://devlights.hatenablog.com/entry/2022/02/25/073000)
 - [Goメモ-180 (Goの歴史についてまとめてあるサイト) (golang.design, Go: A Documentary)](https://devlights.hatenablog.com/entry/2022/03/08/073000)
+- [Goメモ-181 (Effective Goに「今後更新する予定はありません (There are no plans to update it)」の補足が追加されている)](https://devlights.hatenablog.com/entry/2022/03/09/073000)
 
 ## python
 
