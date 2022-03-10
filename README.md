@@ -221,6 +221,7 @@
 
 ## vim
 
+- [vimで c,C s,S を使って編集を楽にする](https://devlights.hatenablog.com/entry/2022/03/10/073000)
 - [vimのヤンクレジスタ ("0) について (ヤンクした内容を保持するレジスタ)](https://devlights.hatenablog.com/entry/2022/03/04/073000)
 - [vimのブラックホールレジスタ ("_) について (何も残らないレジスタ)](https://devlights.hatenablog.com/entry/2022/03/03/073000)
 - [vimで直前の挿入位置に移動する `^ と gi は何気に便利](https://devlights.hatenablog.com/entry/2022/03/02/073000)
