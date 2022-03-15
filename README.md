@@ -513,6 +513,7 @@
 - [Goメモ-180 (Goの歴史についてまとめてあるサイト) (golang.design, Go: A Documentary)](https://devlights.hatenablog.com/entry/2022/03/08/073000)
 - [Goメモ-181 (Effective Goに「今後更新する予定はありません (There are no plans to update it)」の補足が追加されている)](https://devlights.hatenablog.com/entry/2022/03/09/073000)
 - [Goメモ-182 (Goの情報が沢山公開されているサイト)](https://devlights.hatenablog.com/entry/2022/03/14/073000)
+- [Goメモ-183 (Goで実行時に型を知るためのやり方メモ)](https://devlights.hatenablog.com/entry/2022/03/16/073000)
 
 ## python
 
