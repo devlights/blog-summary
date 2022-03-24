@@ -165,6 +165,7 @@
 
 ## gitpod
 
+- [Gitpod で Incremental Prebuilds を有効にする (beta機能)](https://devlights.hatenablog.com/entry/2022/03/24/073000)
 - [Gitpod の Dashboard からサクッとワークスペースを開始できるようになった](https://devlights.hatenablog.com/entry/2022/03/15/073000)
 - [GitpodにてJetBrainsの各種IDEが選択可能になってる (beta版)](https://devlights.hatenablog.com/entry/2021/12/16/073000)
 - [Gitpod で .NET 6 の環境でエラーが出る件](https://devlights.hatenablog.com/entry/2021/11/23/073000)
