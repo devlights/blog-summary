@@ -519,6 +519,7 @@
 - [Goメモ-184 (Goで http GET と POST のリクエストの発行)](https://devlights.hatenablog.com/entry/2022/03/17/073000)
 - [Goメモ-185 (Go 1.18 リリース)(Generics, Fuzzing, Workspaces mode)](https://devlights.hatenablog.com/entry/2022/03/21/073000)
 - [Goメモ-186 (forループで２つの変数を定義して使う)](https://devlights.hatenablog.com/entry/2022/03/23/073000)
+- [Goメモ-187 (os.Mkdir() などで指定するパーミッションについて)(os.ModePerm, 0777)](https://devlights.hatenablog.com/entry/2022/03/25/073000)
 
 ## python
 
