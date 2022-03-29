@@ -109,6 +109,7 @@
 
 ## linux
 
+- [Linuxで大きなテキストファイルをサクッと作るやり方](https://devlights.hatenablog.com/entry/2022/03/29/073000)
 - [標準出力と標準エラー出力にリダイレクトしながら出力をターミナルに表示 (bash, tee, process substitution)](https://devlights.hatenablog.com/entry/2022/02/04/073000)
 - [batコマンド (cat コマンドのクローン, gitとも連携できる)](https://devlights.hatenablog.com/entry/2021/12/13/073000)
 - [シェルスクリプトの実行ユーザがrootかどうかをチェック (bash, id -u)](https://devlights.hatenablog.com/entry/2021/11/24/140000)
