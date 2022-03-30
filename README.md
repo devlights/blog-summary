@@ -1134,6 +1134,7 @@
 
 ## misc
 
+- [正規表現を視覚化して表示してくれるサービス (regex-vis)](https://devlights.hatenablog.com/entry/2022/03/31/073000)
 - [udev-gothic (フォント, JetBrains Mono + BIZ UDゴシック)](https://devlights.hatenablog.com/entry/2022/03/25/131444)
 - [Sysinternals Process Explorer でタスクマネージャを置換した後に元に戻す方法](https://devlights.hatenablog.com/entry/2022/03/11/073000)
 - [IP Messengerに商用版が登場](https://devlights.hatenablog.com/entry/2022/03/07/073000)
