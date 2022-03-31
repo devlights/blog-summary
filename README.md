@@ -62,6 +62,7 @@
 
 ## java
 
+- [Spring Core に RCE できる 脆弱性 (0-day Vulnerability, リモートコード実行, Spring4Shell, JDK 9以降)](https://devlights.hatenablog.com/entry/2022/03/31/131429)
 - [SpringBootを使ったマイクロサービスの記事 ( spring-boot-microservices-series )](https://devlights.hatenablog.com/entry/2021/12/06/070000)
 - [Oracle JDK が 17 からまた無料提供となった (Oracle No-Fee Terms and Conditions, NFTC)](https://devlights.hatenablog.com/entry/2021/09/15/162917)
 - [Jetbrains IDEA で Java の Properties ファイルが文字化けしてるのを自動で native2ascii するよう設定](https://devlights.hatenablog.com/entry/2021/06/22/180534)
