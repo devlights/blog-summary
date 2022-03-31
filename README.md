@@ -37,6 +37,7 @@
 
 ## wsl-docker
 
+- [DockerでNode.jsベースのイメージをビルドしようとしたら「error:0308010C・・・」って出た](https://devlights.hatenablog.com/entry/2022/04/01/073000)
 - [HomebrewをインストールするDockerfileのサンプル](https://devlights.hatenablog.com/entry/2022/01/24/073000)
 - [コンテナが属するネットワークを動的に変更する (docker network connect/disconnect)](https://devlights.hatenablog.com/entry/2021/12/24/073000)
 - [マルチステージビルドとDistrolessイメージで小さなイメージを作る](https://devlights.hatenablog.com/entry/2021/12/21/073000)
