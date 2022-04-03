@@ -525,6 +525,7 @@
 - [Goメモ-187 (os.Mkdir() などで指定するパーミッションについて)(os.ModePerm, 0777)](https://devlights.hatenablog.com/entry/2022/03/25/073000)
 - [Goメモ-188 (go.mod の バージョンを go 1.18 に変更する)](https://devlights.hatenablog.com/entry/2022/03/28/073000)
 - [Goメモ-189 (GoでJavaVMみたいにSIGQUITでスレッドダンプを採取できるようにする)](https://devlights.hatenablog.com/entry/2022/03/30/073000)
+- [Goメモ-190 (Scanner を使った処理でのパフォーマンスTips)](https://devlights.hatenablog.com/entry/2022/04/04/073000)
 
 ## python
 
