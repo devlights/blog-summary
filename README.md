@@ -527,6 +527,7 @@
 - [Goメモ-189 (GoでJavaVMみたいにSIGQUITでスレッドダンプを採取できるようにする)](https://devlights.hatenablog.com/entry/2022/03/30/073000)
 - [Goメモ-190 (Scanner を使った処理でのパフォーマンスTips)](https://devlights.hatenablog.com/entry/2022/04/04/073000)
 - [Goメモ-191 (strconvパッケージ Tips)(ParseInt の第３引数 bitSize について)](https://devlights.hatenablog.com/entry/2022/04/05/073000)
+- [Goメモ-192 (strconvパッケージ Tips)(ParseInt の第２引数 base について)](https://devlights.hatenablog.com/entry/2022/04/06/073000)
 
 ## python
 
