@@ -531,6 +531,7 @@
 - [Goメモ-193 (strconvパッケージ Tips)(16進数文字列から10進数へ変換)](https://devlights.hatenablog.com/entry/2022/04/07/073000)
 - [Goメモ-194 (strconvパッケージ Tips)(2進数文字列から10進数へ変換)](https://devlights.hatenablog.com/entry/2022/04/08/073000)
 - [Goメモ-195 (strconvパッケージ Tips)(16進数文字列から2進数文字列へ変換)](https://devlights.hatenablog.com/entry/2022/04/11/073000)
+- [Goメモ-196 (strconvパッケージ Tips)(2進数文字列から16進数文字列へ変換)](https://devlights.hatenablog.com/entry/2022/04/12/073000)
 
 ## python
 
