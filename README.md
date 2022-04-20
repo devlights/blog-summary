@@ -194,8 +194,8 @@
 
 ## github
 
-- [Githubリポジトリからgithub.devを一発で起動](https://devlights.hatenablog.com/entry/2021/11/05/073000
-)
+- [git pull した後にファイルの日付をコミット時のものに変更する](https://devlights.hatenablog.com/entry/2022/04/20/073000)
+- [Githubリポジトリからgithub.devを一発で起動](https://devlights.hatenablog.com/entry/2021/11/05/073000)
 - [GitHub Copilot (Open AI, AIプログラミング機能, GitHub Codespaces)](https://devlights.hatenablog.com/entry/2021/06/30/133645)
 - [git init したらメッセージが表示された (init.defaultBranch, 2.31.1)](https://devlights.hatenablog.com/entry/2021/05/16/125421)
 - [素晴らしいGithubリポジトリ１０選 (Qiita)](https://devlights.hatenablog.com/entry/2021/05/03/103420)
@@ -331,6 +331,7 @@
 - [go-links](https://github.com/devlights/go-links)
   - 自分用に纏めたGoのリンク集
 
+- [git pull した後にファイルの日付をコミット時のものに変更する](https://devlights.hatenablog.com/entry/2022/04/20/073000)
 - [Goで作られたタスクランナー (makeの代わりに, go-task/task, Taskfile.yml)](https://devlights.hatenablog.com/entry/2022/02/15/073000)
 - [CUIで動くファイラ LF (Terminal file manager)](https://devlights.hatenablog.com/entry/2022/01/21/073000)
 - [rpmのファイル名からパッケージとかバージョンとかを抽出](https://devlights.hatenablog.com/entry/2020/11/30/181952)
@@ -1146,6 +1147,7 @@
 
 ## misc
 
+- [Lexical (Web テキストUIコンポーネント, Meta)](https://devlights.hatenablog.com/entry/2022/04/19/073000)
 - [JSON Hero (JSONの中身を見やすくしてくれるWebアプリ)](https://devlights.hatenablog.com/entry/2022/04/18/073000)
 - [正規表現を視覚化して表示してくれるサービス (regex-vis)](https://devlights.hatenablog.com/entry/2022/03/31/073000)
 - [udev-gothic (フォント, JetBrains Mono + BIZ UDゴシック)](https://devlights.hatenablog.com/entry/2022/03/25/131444)
