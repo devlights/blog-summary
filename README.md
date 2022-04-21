@@ -536,6 +536,7 @@
 - [Goメモ-194 (strconvパッケージ Tips)(2進数文字列から10進数へ変換)](https://devlights.hatenablog.com/entry/2022/04/08/073000)
 - [Goメモ-195 (strconvパッケージ Tips)(16進数文字列から2進数文字列へ変換)](https://devlights.hatenablog.com/entry/2022/04/11/073000)
 - [Goメモ-196 (strconvパッケージ Tips)(2進数文字列から16進数文字列へ変換)](https://devlights.hatenablog.com/entry/2022/04/12/073000)
+- [Goメモ-197 (*exec.Cmd 実行時に追加の環境変数を渡す)](https://devlights.hatenablog.com/entry/2022/04/21/073000)
 
 ## python
 
