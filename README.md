@@ -537,6 +537,8 @@
 - [Goメモ-195 (strconvパッケージ Tips)(16進数文字列から2進数文字列へ変換)](https://devlights.hatenablog.com/entry/2022/04/11/073000)
 - [Goメモ-196 (strconvパッケージ Tips)(2進数文字列から16進数文字列へ変換)](https://devlights.hatenablog.com/entry/2022/04/12/073000)
 - [Goメモ-197 (*exec.Cmd 実行時に追加の環境変数を渡す)](https://devlights.hatenablog.com/entry/2022/04/21/073000)
+- [Goメモ-198 (*exec.Cmd 実行時にワーキングディレクトリを指定する)](https://devlights.hatenablog.com/entry/2022/04/22/073000)
+- [Goメモ-199 (*exec.Cmd 実行時にコマンドの引数指定にスライスを使う)](https://devlights.hatenablog.com/entry/2022/04/25/073000)
 
 ## python
 
