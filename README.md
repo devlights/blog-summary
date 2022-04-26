@@ -539,6 +539,7 @@
 - [Goメモ-197 (*exec.Cmd 実行時に追加の環境変数を渡す)](https://devlights.hatenablog.com/entry/2022/04/21/073000)
 - [Goメモ-198 (*exec.Cmd 実行時にワーキングディレクトリを指定する)](https://devlights.hatenablog.com/entry/2022/04/22/073000)
 - [Goメモ-199 (*exec.Cmd 実行時にコマンドの引数指定にスライスを使う)](https://devlights.hatenablog.com/entry/2022/04/25/073000)
+- [Goメモ-200 (static linkedなバイナリを作る)(os/user, net, 静的リンク)](https://devlights.hatenablog.com/entry/2022/04/26/073000)
 
 ## python
 
