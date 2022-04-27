@@ -11,7 +11,7 @@
 - [WSL,Docker](#wsl-docker)
 - [Java](#java)
 - [Flutter/Dart](#flutter)
-- [ShellScript](#shellscript)
+- [Shell (Bash,PowerShell)](#shell)
 - [Linux](#linux)
 - [Gitpod](#gitpod)
 - [GitHub](#github)
@@ -105,9 +105,15 @@
 - [Flutterメモ-24 (Flutter 2.8 がリリース）](https://devlights.hatenablog.com/entry/2021/12/27/073000)
 - [Flutterメモ-25 (Flutter 2.10 がリリース, Flutter for Windows）](https://devlights.hatenablog.com/entry/2022/02/04/113931)
 
-## shellscript
+## shell
 
 - [Powershell で複数ファイルを指定して削除したいときのやり方](https://devlights.hatenablog.com/entry/2022/04/27/073000)
+- [VSCode で 「scoop で入れた pwsh」 をターミナルプロファイルに追加する](https://devlights.hatenablog.com/entry/2022/01/26/073000)
+- [PowerShellでWindowsエクスペリエンスインデックスを出力](https://devlights.hatenablog.com/entry/2021/03/15/103516)
+- [PowerShellで1コマンドを複数行に分けて書くやり方](https://devlights.hatenablog.com/entry/2021/03/08/222337)
+- [Goメモ-133 (PowerShell環境でビルド時にGOOSとGOARCHの指定の仕方)](https://devlights.hatenablog.com/entry/2021/02/24/175340)
+
+- [PowerShell入門記-001 (事始め）](https://devlights.hatenablog.com/entry/20090204/p1)
 
 - [シェルスクリプトメモ-01 (ブレース展開, brace expansion)](https://devlights.hatenablog.com/entry/2021/05/10/164817)
 
