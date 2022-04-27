@@ -107,6 +107,8 @@
 
 ## shellscript
 
+- [Powershell で複数ファイルを指定して削除したいときのやり方](https://devlights.hatenablog.com/entry/2022/04/27/073000)
+
 - [シェルスクリプトメモ-01 (ブレース展開, brace expansion)](https://devlights.hatenablog.com/entry/2021/05/10/164817)
 
 ## linux
@@ -1151,6 +1153,7 @@
 
 ## misc
 
+- [Powershell で複数ファイルを指定して削除したいときのやり方](https://devlights.hatenablog.com/entry/2022/04/27/073000)
 - [Lexical (Web テキストUIコンポーネント, Meta)](https://devlights.hatenablog.com/entry/2022/04/19/073000)
 - [JSON Hero (JSONの中身を見やすくしてくれるWebアプリ)](https://devlights.hatenablog.com/entry/2022/04/18/073000)
 - [正規表現を視覚化して表示してくれるサービス (regex-vis)](https://devlights.hatenablog.com/entry/2022/03/31/073000)
