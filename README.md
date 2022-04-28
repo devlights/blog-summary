@@ -119,6 +119,7 @@
 
 ## linux
 
+- [treeコマンドが存在しない場合でも似た出力を行うやり方](https://devlights.hatenablog.com/entry/2022/04/28/073000)
 - [Bashの補完で大文字小文字を無視するように設定](https://devlights.hatenablog.com/entry/2022/04/13/073000)
 - [Linuxで大きなテキストファイルをサクッと作るやり方](https://devlights.hatenablog.com/entry/2022/03/29/073000)
 - [標準出力と標準エラー出力にリダイレクトしながら出力をターミナルに表示 (bash, tee, process substitution)](https://devlights.hatenablog.com/entry/2022/02/04/073000)
