@@ -119,6 +119,7 @@
 
 ## linux
 
+- [makeで特定のディレクトリの下にあるMakefileを移動せずに実行する (-C, --directory)](https://devlights.hatenablog.com/entry/2022/05/11/073000)
 - [treeコマンドが存在しない場合でも似た出力を行うやり方](https://devlights.hatenablog.com/entry/2022/04/28/073000)
 - [Bashの補完で大文字小文字を無視するように設定](https://devlights.hatenablog.com/entry/2022/04/13/073000)
 - [Linuxで大きなテキストファイルをサクッと作るやり方](https://devlights.hatenablog.com/entry/2022/03/29/073000)
