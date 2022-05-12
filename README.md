@@ -182,6 +182,7 @@
 
 ## gitpod
 
+- [Gitpod と JetBrains Gateway が連携するようになった](https://devlights.hatenablog.com/entry/2022/05/13/073000)
 - [GitpodのワークスペースにSSHで一発で接続できるようになった](https://devlights.hatenablog.com/entry/2022/05/09/073000)
 - [Gitpod が Gitpod Installer をリリース](https://devlights.hatenablog.com/entry/2022/04/14/073000)
 - [Gitpod で Incremental Prebuilds を有効にする (beta機能)](https://devlights.hatenablog.com/entry/2022/03/24/073000)
