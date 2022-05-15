@@ -294,6 +294,7 @@
 
 ## vscode
 
+- [VSCode の ver.1.67 でマークダウン編集時にShift+ドロップでリンク自動生成してくれるようなった](https://devlights.hatenablog.com/entry/2022/05/16/073000)
 - [VSCodeからExcelファイルとかを開く (拡張機能, open)](https://devlights.hatenablog.com/entry/2022/05/10/073000)
 - [VSCodeでUntitledなファイルのデフォルト言語を設定する (default language)](https://devlights.hatenablog.com/entry/2022/02/08/073000)
 - [VSCode で 「scoop で入れた pwsh」 をターミナルプロファイルに追加する](https://devlights.hatenablog.com/entry/2022/01/26/073000)
