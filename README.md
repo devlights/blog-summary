@@ -182,6 +182,7 @@
 
 ## gitpod
 
+- [Gitpod の Chrome 拡張機能が jihulab.com へのアクセスをいきなり求めてきた](https://devlights.hatenablog.com/entry/2022/05/17/233947)
 - [Gitpod と JetBrains Gateway が連携するようになった](https://devlights.hatenablog.com/entry/2022/05/13/073000)
 - [GitpodのワークスペースにSSHで一発で接続できるようになった](https://devlights.hatenablog.com/entry/2022/05/09/073000)
 - [Gitpod が Gitpod Installer をリリース](https://devlights.hatenablog.com/entry/2022/04/14/073000)
@@ -558,6 +559,7 @@
 - [Goメモ-199 (*exec.Cmd 実行時にコマンドの引数指定にスライスを使う)](https://devlights.hatenablog.com/entry/2022/04/25/073000)
 - [Goメモ-200 (static linkedなバイナリを作る)(os/user, net, 静的リンク)](https://devlights.hatenablog.com/entry/2022/04/26/073000)
 - [Goメモ-201 (無償で読めるGoの電子書籍 (softchris/golang-book))](https://devlights.hatenablog.com/entry/2022/05/17/073000)
+- [Goメモ-202 (type alias と defined type の違い)](https://devlights.hatenablog.com/entry/2022/05/18/073000)
 
 ## python
 
