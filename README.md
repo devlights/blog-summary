@@ -244,6 +244,7 @@
 
 ## vim
 
+- [vim で :terminal を垂直分割して表示したい場合](https://devlights.hatenablog.com/entry/2022/05/19/073000)
 - [vimの入力補完で便利なもの](https://devlights.hatenablog.com/entry/2022/04/15/073000)
 - [vimで 挿入モード で使えるTips](https://devlights.hatenablog.com/entry/2022/03/18/073000)
 - [vimで c,C s,S を使って編集を楽にする](https://devlights.hatenablog.com/entry/2022/03/10/073000)
