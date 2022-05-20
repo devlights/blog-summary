@@ -561,6 +561,7 @@
 - [Goメモ-200 (static linkedなバイナリを作る)(os/user, net, 静的リンク)](https://devlights.hatenablog.com/entry/2022/04/26/073000)
 - [Goメモ-201 (無償で読めるGoの電子書籍 (softchris/golang-book))](https://devlights.hatenablog.com/entry/2022/05/17/073000)
 - [Goメモ-202 (type alias と defined type の違い)](https://devlights.hatenablog.com/entry/2022/05/18/073000)
+- [Goメモ-203 (Goで非同期処理する際のガイドブック的な資料, go-concurrency-guide)](https://devlights.hatenablog.com/entry/2022/05/20/073000)
 
 ## python
 
