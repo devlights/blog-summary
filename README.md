@@ -563,6 +563,7 @@
 - [Goメモ-202 (type alias と defined type の違い)](https://devlights.hatenablog.com/entry/2022/05/18/073000)
 - [Goメモ-203 (Goで非同期処理する際のガイドブック的な資料, go-concurrency-guide)](https://devlights.hatenablog.com/entry/2022/05/20/073000)
 - [Goメモ-204 (windowsでexe実行時にコマンドプロンプトが出ないようにビルド, windowsgui)](https://devlights.hatenablog.com/entry/2022/05/23/073000)
+- [Goメモ-205 (ジェネリクスを使うとき・使わないときの指針)](https://devlights.hatenablog.com/entry/2022/05/24/073000)
 
 ## python
 
