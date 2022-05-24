@@ -564,6 +564,7 @@
 - [Goメモ-203 (Goで非同期処理する際のガイドブック的な資料, go-concurrency-guide)](https://devlights.hatenablog.com/entry/2022/05/20/073000)
 - [Goメモ-204 (windowsでexe実行時にコマンドプロンプトが出ないようにビルド, windowsgui)](https://devlights.hatenablog.com/entry/2022/05/23/073000)
 - [Goメモ-205 (ジェネリクスを使うとき・使わないときの指針)](https://devlights.hatenablog.com/entry/2022/05/24/073000)
+- [Goメモ-206 (sliceにデータを追加する際のパフォーマンス比較について)](https://devlights.hatenablog.com/entry/2022/05/25/073000)
 
 ## python
 
