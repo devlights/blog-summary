@@ -1176,6 +1176,7 @@
 
 ## misc
 
+- [Microsoft Build 2022 の気になった記事](https://devlights.hatenablog.com/entry/2022/05/26/073000)
 - [Powershell で複数ファイルを指定して削除したいときのやり方](https://devlights.hatenablog.com/entry/2022/04/27/073000)
 - [Lexical (Web テキストUIコンポーネント, Meta)](https://devlights.hatenablog.com/entry/2022/04/19/073000)
 - [JSON Hero (JSONの中身を見やすくしてくれるWebアプリ)](https://devlights.hatenablog.com/entry/2022/04/18/073000)
