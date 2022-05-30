@@ -567,6 +567,7 @@
 - [Goメモ-205 (ジェネリクスを使うとき・使わないときの指針)](https://devlights.hatenablog.com/entry/2022/05/24/073000)
 - [Goメモ-206 (sliceにデータを追加する際のパフォーマンス比較について)](https://devlights.hatenablog.com/entry/2022/05/25/073000)
 - [Goメモ-207 (sliceの3つ目のインデックスパラメータの使い方)](https://devlights.hatenablog.com/entry/2022/05/30/073000)
+- [Goメモ-208 (golang.org/x/exp/constraints)(Go 1.18 リリース時には含まれなかった制約型)](https://devlights.hatenablog.com/entry/2022/05/31/073000)
 
 ## python
 
