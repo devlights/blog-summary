@@ -570,6 +570,7 @@
 - [Goメモ-208 (golang.org/x/exp/constraints)(Go 1.18 リリース時には含まれなかった制約型)](https://devlights.hatenablog.com/entry/2022/05/31/073000)
 - [Goメモ-209 (golang.org/x/exp/slices)(Go 1.18 リリース時には含まれなかった汎用スライス処理)](https://devlights.hatenablog.com/entry/2022/06/01/073000)
 - [Goメモ-210 (golang.org/x/exp/maps)(Go 1.18 リリース時には含まれなかった汎用マップ処理)](https://devlights.hatenablog.com/entry/2022/06/02/073000)
+- [Goメモ-211 (The Go Programming Language and Environment)(Goの作者５人による寄贈記事)](https://devlights.hatenablog.com/entry/2022/06/06/073000)
 
 ## python
 
