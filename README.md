@@ -245,6 +245,7 @@
 
 ## vim
 
+- [vimで検索時にキャプチャせずにカッコを使う](https://devlights.hatenablog.com/entry/2022/06/08/073000)
 - [vim で :terminal を垂直分割して表示したい場合](https://devlights.hatenablog.com/entry/2022/05/19/073000)
 - [vimの入力補完で便利なもの](https://devlights.hatenablog.com/entry/2022/04/15/073000)
 - [vimで 挿入モード で使えるTips](https://devlights.hatenablog.com/entry/2022/03/18/073000)
@@ -571,6 +572,7 @@
 - [Goメモ-209 (golang.org/x/exp/slices)(Go 1.18 リリース時には含まれなかった汎用スライス処理)](https://devlights.hatenablog.com/entry/2022/06/01/073000)
 - [Goメモ-210 (golang.org/x/exp/maps)(Go 1.18 リリース時には含まれなかった汎用マップ処理)](https://devlights.hatenablog.com/entry/2022/06/02/073000)
 - [Goメモ-211 (The Go Programming Language and Environment)(Goの作者５人による寄贈記事)](https://devlights.hatenablog.com/entry/2022/06/06/073000)
+- [Goメモ-212 (log.Fatalとlog.Panicの違い)](https://devlights.hatenablog.com/entry/2022/06/07/073000)
 
 ## python
 
