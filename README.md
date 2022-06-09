@@ -245,6 +245,7 @@
 
 ## vim
 
+- [vimで very magic検索 (\v) を使って検索](https://devlights.hatenablog.com/entry/2022/06/09/073000)
 - [vimで検索時にキャプチャせずにカッコを使う](https://devlights.hatenablog.com/entry/2022/06/08/073000)
 - [vim で :terminal を垂直分割して表示したい場合](https://devlights.hatenablog.com/entry/2022/05/19/073000)
 - [vimの入力補完で便利なもの](https://devlights.hatenablog.com/entry/2022/04/15/073000)
