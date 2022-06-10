@@ -574,6 +574,7 @@
 - [Goメモ-210 (golang.org/x/exp/maps)(Go 1.18 リリース時には含まれなかった汎用マップ処理)](https://devlights.hatenablog.com/entry/2022/06/02/073000)
 - [Goメモ-211 (The Go Programming Language and Environment)(Goの作者５人による寄贈記事)](https://devlights.hatenablog.com/entry/2022/06/06/073000)
 - [Goメモ-212 (log.Fatalとlog.Panicの違い)](https://devlights.hatenablog.com/entry/2022/06/07/073000)
+- [Goメモ-213 (runtime.Goschedについて)(yield, 実行権の放棄)](https://devlights.hatenablog.com/entry/2022/06/10/073000)
 
 ## python
 
