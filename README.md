@@ -1187,6 +1187,7 @@
 
 ## misc
 
+- [Dragonfly (Redis互換でio_uringを使うインメモリデータストア)](https://devlights.hatenablog.com/entry/2022/06/15/073000)
 - [Windowsで手軽にgifを作れるツール (ScreenToGif)](https://devlights.hatenablog.com/entry/2022/06/14/073000)
 - [Cypress公式のラーニングコースプログラム (Real World Testing with Cypress)](https://devlights.hatenablog.com/entry/2022/06/03/073000)
 - [Microsoft Build 2022 の気になった記事](https://devlights.hatenablog.com/entry/2022/05/26/073000)
