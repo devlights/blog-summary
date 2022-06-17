@@ -185,6 +185,7 @@
 
 ## gitpod
 
+- [Github codespaces が Prebuild に対応 (Prebuilding codespaces is generally available)](https://devlights.hatenablog.com/entry/2022/06/17/073000)
 - [Gitpod の Chrome 拡張機能が jihulab.com へのアクセスをいきなり求めてきた](https://devlights.hatenablog.com/entry/2022/05/17/233947)
 - [Gitpod と JetBrains Gateway が連携するようになった](https://devlights.hatenablog.com/entry/2022/05/13/073000)
 - [GitpodのワークスペースにSSHで一発で接続できるようになった](https://devlights.hatenablog.com/entry/2022/05/09/073000)
@@ -213,6 +214,7 @@
 
 ## github
 
+- [Github codespaces が Prebuild に対応 (Prebuilding codespaces is generally available)](https://devlights.hatenablog.com/entry/2022/06/17/073000)
 - [git pull した後にファイルの日付をコミット時のものに変更する](https://devlights.hatenablog.com/entry/2022/04/20/073000)
 - [Githubリポジトリからgithub.devを一発で起動](https://devlights.hatenablog.com/entry/2021/11/05/073000)
 - [GitHub Copilot (Open AI, AIプログラミング機能, GitHub Codespaces)](https://devlights.hatenablog.com/entry/2021/06/30/133645)
