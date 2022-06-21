@@ -579,6 +579,7 @@
 - [Goメモ-211 (The Go Programming Language and Environment)(Goの作者５人による寄贈記事)](https://devlights.hatenablog.com/entry/2022/06/06/073000)
 - [Goメモ-212 (log.Fatalとlog.Panicの違い)](https://devlights.hatenablog.com/entry/2022/06/07/073000)
 - [Goメモ-213 (runtime.Goschedについて)(yield, 実行権の放棄)](https://devlights.hatenablog.com/entry/2022/06/10/073000)
+- [Goメモ-214 (archive/zip を使ったZipファイル生成サンプル)](https://devlights.hatenablog.com/entry/2022/06/21/073000)
 
 ## python
 
