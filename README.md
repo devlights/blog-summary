@@ -1199,6 +1199,7 @@
 
 ## misc
 
+- [iOS Safari で window.innerWidthとinnerHeight が微妙にずれる (縦横の向きを切り替えたとき）](https://devlights.hatenablog.com/entry/2022/07/05/073000)
 - [SQLite 3.39 リリース (RIGHT OUTER JOIN, FULL OUTER JOIN サポート)](https://devlights.hatenablog.com/entry/2022/06/30/073000)
 - [SQLcl (Oracle SQL Developer Command Line, SQL*Plusのモダンな版)](https://devlights.hatenablog.com/entry/2022/06/20/073000)
 - [Dragonfly (Redis互換でio_uringを使うインメモリデータストア)](https://devlights.hatenablog.com/entry/2022/06/15/073000)
