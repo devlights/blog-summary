@@ -249,6 +249,7 @@
 
 ## vim
 
+- [vim 直近の検索パターンを使って置換処理](https://devlights.hatenablog.com/entry/2022/07/06/073000)
 - [vimで同じパターンを使って前方検索と後方検索を切り替え](https://devlights.hatenablog.com/entry/2022/07/01/073000)
 - [vimで検索マッチ数を表示する](https://devlights.hatenablog.com/entry/2022/06/29/073000)
 - [vimで very magic検索 (\v) を使って検索](https://devlights.hatenablog.com/entry/2022/06/09/073000)
