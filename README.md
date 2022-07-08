@@ -361,6 +361,7 @@
 - [go-links](https://github.com/devlights/go-links)
   - 自分用に纏めたGoのリンク集
 
+- [gocloc (Goで作られた cloc クローン)](https://devlights.hatenablog.com/entry/2022/07/08/073000)
 - [git pull した後にファイルの日付をコミット時のものに変更する](https://devlights.hatenablog.com/entry/2022/04/20/073000)
 - [Goで作られたタスクランナー (makeの代わりに, go-task/task, Taskfile.yml)](https://devlights.hatenablog.com/entry/2022/02/15/073000)
 - [CUIで動くファイラ LF (Terminal file manager)](https://devlights.hatenablog.com/entry/2022/01/21/073000)
