@@ -215,6 +215,7 @@
 
 ## github
 
+- [git difftool で１ファイルずつじゃなくてまとめて差分を確認する (-d, --dir-diff)](https://devlights.hatenablog.com/entry/2022/07/13/073000)
 - [Github codespaces が Prebuild に対応 (Prebuilding codespaces is generally available)](https://devlights.hatenablog.com/entry/2022/06/17/073000)
 - [git pull した後にファイルの日付をコミット時のものに変更する](https://devlights.hatenablog.com/entry/2022/04/20/073000)
 - [Githubリポジトリからgithub.devを一発で起動](https://devlights.hatenablog.com/entry/2021/11/05/073000)
