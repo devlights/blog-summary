@@ -186,6 +186,7 @@
 
 ## gitpod
 
+- [gitpod-io/template-flutter を使って gitpod で flutter の環境を作る](https://devlights.hatenablog.com/entry/2022/07/14/073000)
 - [Github codespaces が Prebuild に対応 (Prebuilding codespaces is generally available)](https://devlights.hatenablog.com/entry/2022/06/17/073000)
 - [Gitpod の Chrome 拡張機能が jihulab.com へのアクセスをいきなり求めてきた](https://devlights.hatenablog.com/entry/2022/05/17/233947)
 - [Gitpod と JetBrains Gateway が連携するようになった](https://devlights.hatenablog.com/entry/2022/05/13/073000)
