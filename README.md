@@ -596,6 +596,7 @@
 - [Goメモ-220 (標準ライブラリのpluginパッケージで簡易プラグイン処理)](https://devlights.hatenablog.com/entry/2022/07/04/073000)
 - [Goメモ-221 (構造体のタグ情報(Struct Tag)を取得)](https://devlights.hatenablog.com/entry/2022/07/11/073000)
 - [Goメモ-222 (Goが対応している GOOS/GOARCH の組み合わせを出力)](https://devlights.hatenablog.com/entry/2022/07/19/110007)
+- [Goメモ-223 (bufio.Scanner で カスタムな bufio.SplitFunc を利用するやり方)](https://devlights.hatenablog.com/entry/2022/07/20/073000)
 
 ## python
 
