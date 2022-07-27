@@ -600,6 +600,7 @@
 - [Goメモ-224 (スライスはスレッドセーフではない)](https://devlights.hatenablog.com/entry/2022/07/21/073000)
 - [Goメモ-225 (ジェネリックなビットフラグ処理)](https://devlights.hatenablog.com/entry/2022/07/22/073000)
 - [Goメモ-226 (http.ListenAndServeで起動したサーバをシャットダウンする)](https://devlights.hatenablog.com/entry/2022/07/26/073000)
+- [Goメモ-227 (URLクエリからパラメータを取得)(Go Collective)](https://devlights.hatenablog.com/entry/2022/07/27/073000)
 
 ## python
 
