@@ -602,6 +602,7 @@
 - [Goメモ-226 (http.ListenAndServeで起動したサーバをシャットダウンする)](https://devlights.hatenablog.com/entry/2022/07/26/073000)
 - [Goメモ-227 (URLクエリからパラメータを取得)(Go Collective)](https://devlights.hatenablog.com/entry/2022/07/27/073000)
 - [Goメモ-228 (効率的に文字列を結合する)(Go Collective)](https://devlights.hatenablog.com/entry/2022/07/28/073000)
+- [Goメモ-229 (マップはスレッドセーフではない)](https://devlights.hatenablog.com/entry/2022/07/29/073000)
 
 ## python
 
