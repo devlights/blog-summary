@@ -1215,6 +1215,7 @@
 
 ## misc
 
+- [forfilesコマンド（windowsでN日前のファイルを探す）](https://devlights.hatenablog.com/entry/2022/08/01/073000)
 - [マイクロソフトがソフトウェアの部品表（SBOM）を自動生成するツールを公開 (sbom-tool)](https://devlights.hatenablog.com/entry/2022/07/25/073000)
 - [iOS Safari で window.innerWidthとinnerHeight が微妙にずれる (縦横の向きを切り替えたとき）](https://devlights.hatenablog.com/entry/2022/07/05/073000)
 - [SQLite 3.39 リリース (RIGHT OUTER JOIN, FULL OUTER JOIN サポート)](https://devlights.hatenablog.com/entry/2022/06/30/073000)
