@@ -605,6 +605,7 @@
 - [Goメモ-229 (マップはスレッドセーフではない)](https://devlights.hatenablog.com/entry/2022/07/29/073000)
 - [Goメモ-230 (メモリコピー無しで []byte から string へ変換する)(unsafe)](https://devlights.hatenablog.com/entry/2022/08/02/073000)
 - [Goメモ-231 (メモリコピー無しで string から []byte へ変換する)(unsafe)](https://devlights.hatenablog.com/entry/2022/08/03/073000)
+- [Goメモ-232 (xmlのMarshal/Unmarshalで入れ子の要素を指定)](https://devlights.hatenablog.com/entry/2022/08/04/073000)
 
 ## python
 
