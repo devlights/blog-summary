@@ -606,6 +606,7 @@
 - [Goメモ-230 (メモリコピー無しで []byte から string へ変換する)(unsafe)](https://devlights.hatenablog.com/entry/2022/08/02/073000)
 - [Goメモ-231 (メモリコピー無しで string から []byte へ変換する)(unsafe)](https://devlights.hatenablog.com/entry/2022/08/03/073000)
 - [Goメモ-232 (xmlのMarshal/Unmarshalで入れ子の要素を指定)](https://devlights.hatenablog.com/entry/2022/08/04/073000)
+- [Goメモ-233 (ライブラリの利用可能バージョンを表示)(go list -m -versions)](https://devlights.hatenablog.com/entry/2022/08/05/073000)
 
 ## python
 
