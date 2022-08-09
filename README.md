@@ -125,7 +125,7 @@
 
 - [grepコマンド チートシート (Grep cheatsheet)](https://devlights.hatenablog.com/entry/2022/06/16/073000)
 - [Makefile内でプロセスを起動して後からそのプロセスをkillするやり方](https://devlights.hatenablog.com/entry/2022/05/27/073000)
-- [makeでコマンド実行中にエラーが出ても処理を継続するやり方 (--keep-going, || :)](https://devlights.hatenablog.com/entry/2022/05/12/073000)
+- [makeでコマンド実行中にエラーが出ても処理を継続するやり方](https://devlights.hatenablog.com/entry/2022/05/12/073000)
 - [makeで特定のディレクトリの下にあるMakefileを移動せずに実行する (-C, --directory)](https://devlights.hatenablog.com/entry/2022/05/11/073000)
 - [treeコマンドが存在しない場合でも似た出力を行うやり方](https://devlights.hatenablog.com/entry/2022/04/28/073000)
 - [Bashの補完で大文字小文字を無視するように設定](https://devlights.hatenablog.com/entry/2022/04/13/073000)
