@@ -610,6 +610,7 @@
 - [Goメモ-233 (ライブラリの利用可能バージョンを表示)(go list -m -versions)](https://devlights.hatenablog.com/entry/2022/08/05/073000)
 - [Goメモ-234 (カバレッジの結果をHTMLで出力)(coverprofile, go tool cover)](https://devlights.hatenablog.com/entry/2022/08/08/073000)
 - [Goメモ-235 (ランダムでテストの実行)(go test, shuffle)](https://devlights.hatenablog.com/entry/2022/08/09/073000)
+- [Goメモ-236 (指定回数分テストを実行)(go test, count)](https://devlights.hatenablog.com/entry/2022/08/10/073000)
 
 ## python
 
