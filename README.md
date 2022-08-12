@@ -611,6 +611,7 @@
 - [Goメモ-234 (カバレッジの結果をHTMLで出力)(coverprofile, go tool cover)](https://devlights.hatenablog.com/entry/2022/08/08/073000)
 - [Goメモ-235 (ランダムでテストの実行)(go test, shuffle)](https://devlights.hatenablog.com/entry/2022/08/09/073000)
 - [Goメモ-236 (指定回数分テストを実行)(go test, count)](https://devlights.hatenablog.com/entry/2022/08/10/073000)
+- [Goメモ-237 (別プロセスにシグナルを送る)(os.FindProcess, /proc)](https://devlights.hatenablog.com/entry/2022/08/12/073000)
 
 ## python
 
