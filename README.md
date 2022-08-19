@@ -1228,6 +1228,7 @@
 
 ## misc
 
+- [windowsのnetstatでポートを利用しているPIDを出力](https://devlights.hatenablog.com/entry/2022/08/19/073000)
 - [forfilesコマンド（windowsでN日前のファイルを探す）](https://devlights.hatenablog.com/entry/2022/08/01/073000)
 - [マイクロソフトがソフトウェアの部品表（SBOM）を自動生成するツールを公開 (sbom-tool)](https://devlights.hatenablog.com/entry/2022/07/25/073000)
 - [iOS Safari で window.innerWidthとinnerHeight が微妙にずれる (縦横の向きを切り替えたとき）](https://devlights.hatenablog.com/entry/2022/07/05/073000)
