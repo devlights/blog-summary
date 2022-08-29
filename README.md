@@ -1231,6 +1231,7 @@
 
 ## misc
 
+- [Xamarinは 2024-05-01 でサポート終了 (Xamarin support will end on May 1, 2024)](https://devlights.hatenablog.com/entry/2022/08/29/073000)
 - [Postgres playground (WASM化したPostgreSQL, ブラウザで操作できる)](https://devlights.hatenablog.com/entry/2022/08/26/073000)
 - [scoopで入れたjavaのバージョンを切り替え](https://devlights.hatenablog.com/entry/2022/08/23/073000)
 - [windowsのnetstatでポートを利用しているPIDを出力](https://devlights.hatenablog.com/entry/2022/08/19/073000)
