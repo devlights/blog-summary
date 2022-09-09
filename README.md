@@ -1238,6 +1238,7 @@
 
 ## misc
 
+- [ハーバード大学のコンピュータサイエンス講座 CS50 が日本語化されて無償公開](https://devlights.hatenablog.com/entry/2022/09/09/073000)
 - [今後 Heroku の無料プランが廃止になるとのこと](https://devlights.hatenablog.com/entry/2022/08/30/073000)
 - [Xamarinは 2024-05-01 でサポート終了 (Xamarin support will end on May 1, 2024)](https://devlights.hatenablog.com/entry/2022/08/29/073000)
 - [Postgres playground (WASM化したPostgreSQL, ブラウザで操作できる)](https://devlights.hatenablog.com/entry/2022/08/26/073000)
