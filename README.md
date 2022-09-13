@@ -627,6 +627,7 @@
 - [Goメモ-248 (crypto/aesで暗号化と復号)(CBC, Cipher Block Chaining Mode)](https://devlights.hatenablog.com/entry/2022/09/07/073000)
 - [Goメモ-249 (特定のGOOS,GOARCHで標準ライブラリをpre buildする)](https://devlights.hatenablog.com/entry/2022/09/08/073000)
 - [Goメモ-250 (特定の値がスライスに含まれているかを判定)(slices.Contains)](https://devlights.hatenablog.com/entry/2022/09/12/073000)
+- [Goメモ-251 (チャネルの内容をスライスにする)(chans.Slice, chans.SliceContext)](https://devlights.hatenablog.com/entry/2022/09/13/073000)
 
 ## python
 
