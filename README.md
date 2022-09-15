@@ -21,6 +21,7 @@
 - [VisualStudio](#visualstudio)
 - [Go言語メモ](#golang)
 - [Pythonメモ](#python)
+- [dotnetメモ](#dotnet)
 - [System.Threading.Chennelsメモ](#dotnet-channels)
 - [Linq入門記](#linq)
 - [.NETクラスライブラリ探訪](#dotnet-classlibrary)
@@ -759,6 +760,10 @@
 - [Pythonメモ-119 (venvのpython バージョンを更新)(--clear, --upgrade)](https://devlights.hatenablog.com/entry/2021/10/11/131813)
 - [Pythonメモ-120 (f-stringで = を付与して出力)(python3.8, デバッグ用, )](https://devlights.hatenablog.com/entry/2021/10/12/073000)
 - [Pythonメモ-121 (mypy の 使い方ガイド, The Comprehensive Guide to mypy)](https://devlights.hatenablog.com/entry/2022/07/15/073000)
+
+## dotnet
+
+- [.NET 7 に Dockerコンテナイメージ を直接生成する機能が追加される](https://devlights.hatenablog.com/entry/2022/09/15/073000)
 
 ## dotnet-channels
 
