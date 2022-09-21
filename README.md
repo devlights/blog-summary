@@ -1247,6 +1247,7 @@
 
 ## misc
 
+- [マイクロソフトのドキュメントサイトのドメインが変更 (docs から learn へ)](https://devlights.hatenablog.com/entry/2022/09/21/073000)
 - [ES2022 の リソース (ECMAScript)](https://devlights.hatenablog.com/entry/2022/09/16/073000)
 - [2000記事目に到達](https://devlights.hatenablog.com/entry/2022/09/13/102854)
 - [ハーバード大学のコンピュータサイエンス講座 CS50 が日本語化されて無償公開](https://devlights.hatenablog.com/entry/2022/09/09/073000)
