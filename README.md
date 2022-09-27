@@ -256,6 +256,7 @@
 
 ## vim
 
+- [最後に実行した置換を全行に適用する (:s, g&)](https://devlights.hatenablog.com/entry/2022/09/27/073000)
 - [vim 9.0 がリリース](https://devlights.hatenablog.com/entry/2022/07/07/073000)
 - [vim 直近の検索パターンを使って置換処理](https://devlights.hatenablog.com/entry/2022/07/06/073000)
 - [vimで同じパターンを使って前方検索と後方検索を切り替え](https://devlights.hatenablog.com/entry/2022/07/01/073000)
