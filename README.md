@@ -1250,6 +1250,7 @@
 
 ## misc
 
+- [各言語のリリースノートについて (バージョン, 歴史, 追加機能)](https://devlights.hatenablog.com/entry/2022/09/29/073000)
 - [PWAについてのリソース (WWDC22, Safari, iOS/iPadOSも来年にプッシュ通知をサポート予定）](https://devlights.hatenablog.com/entry/2022/09/22/073000)
 - [マイクロソフトのドキュメントサイトのドメインが変更 (docs から learn へ)](https://devlights.hatenablog.com/entry/2022/09/21/073000)
 - [ES2022 の リソース (ECMAScript)](https://devlights.hatenablog.com/entry/2022/09/16/073000)
