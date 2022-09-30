@@ -114,6 +114,7 @@
 
 ## shell
 
+- [Powershell で & でジョブ実行](https://devlights.hatenablog.com/entry/2022/09/30/073000)
 - [Powershell で複数ファイルを指定して削除したいときのやり方](https://devlights.hatenablog.com/entry/2022/04/27/073000)
 - [VSCode で 「scoop で入れた pwsh」 をターミナルプロファイルに追加する](https://devlights.hatenablog.com/entry/2022/01/26/073000)
 - [PowerShellでWindowsエクスペリエンスインデックスを出力](https://devlights.hatenablog.com/entry/2021/03/15/103516)
