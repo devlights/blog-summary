@@ -257,6 +257,7 @@
 
 ## vim
 
+- [vimでソースコードを貼り付けた際に変なインデントが入らないように貼り付け (set paste, set nopaste)](https://devlights.hatenablog.com/entry/2022/10/05/073000)
 - [最後に実行した置換を全行に適用する (:s, g&)](https://devlights.hatenablog.com/entry/2022/09/27/073000)
 - [vim 9.0 がリリース](https://devlights.hatenablog.com/entry/2022/07/07/073000)
 - [vim 直近の検索パターンを使って置換処理](https://devlights.hatenablog.com/entry/2022/07/06/073000)
