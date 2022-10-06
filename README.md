@@ -64,6 +64,7 @@
 
 ## java
 
+- [Jakarta EE 10がリリース](https://devlights.hatenablog.com/entry/2022/10/06/073000)
 - [Java 19 がリリース (LTSではない)](https://devlights.hatenablog.com/entry/2022/09/26/073000)
 - [Javaでディレクトリを再帰的に削除するやり方](https://devlights.hatenablog.com/entry/2022/07/12/073000)
 - [Java の 1.0 から 18 までの歴史 (Java history from Java 1.0 to Java 18)](https://devlights.hatenablog.com/entry/2022/06/13/073000)
