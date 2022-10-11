@@ -638,6 +638,7 @@
 - [Goメモ-253 (go tool trace コマンドを使って実行トレースを見る)(runtime/trace)](https://devlights.hatenablog.com/entry/2022/09/20/073000)
 - [Goメモ-254 (go tool pprof でインタラクティブモードに入らずに結果を出力)](https://devlights.hatenablog.com/entry/2022/10/03/073000)
 - [Goメモ-255 (Stackoverflow の Go Collective が閉鎖された)](https://devlights.hatenablog.com/entry/2022/10/04/073000)
+- [Goメモ-256 (fmt.Scan, fmt.Scanfのメモ)](https://devlights.hatenablog.com/entry/2022/10/11/073000)
 
 ## python
 
