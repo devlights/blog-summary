@@ -1257,6 +1257,7 @@
 
 ## misc
 
+- [JetBrains Fleet が パブリックプレビュー になった](https://devlights.hatenablog.com/entry/2022/10/13/073000)
 - [Wireshark 4.0 リリース](https://devlights.hatenablog.com/entry/2022/10/07/073000)
 - [各言語のリリースノートについて (バージョン, 歴史, 追加機能)](https://devlights.hatenablog.com/entry/2022/09/29/073000)
 - [PWAについてのリソース (WWDC22, Safari, iOS/iPadOSも来年にプッシュ通知をサポート予定）](https://devlights.hatenablog.com/entry/2022/09/22/073000)
