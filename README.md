@@ -222,6 +222,7 @@
 
 ## github
 
+- [gitでローカルの状態をリモートに合わせる (git reset --hard, 一致させる, 片方に合わせる)](https://devlights.hatenablog.com/entry/2022/10/17/073000)
 - [git difftool で１ファイルずつじゃなくてまとめて差分を確認する (-d, --dir-diff)](https://devlights.hatenablog.com/entry/2022/07/13/073000)
 - [Github codespaces が Prebuild に対応 (Prebuilding codespaces is generally available)](https://devlights.hatenablog.com/entry/2022/06/17/073000)
 - [git pull した後にファイルの日付をコミット時のものに変更する](https://devlights.hatenablog.com/entry/2022/04/20/073000)
