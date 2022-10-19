@@ -641,6 +641,7 @@
 - [Goメモ-255 (Stackoverflow の Go Collective が閉鎖された)](https://devlights.hatenablog.com/entry/2022/10/04/073000)
 - [Goメモ-256 (fmt.Scan, fmt.Scanfのメモ)](https://devlights.hatenablog.com/entry/2022/10/11/073000)
 - [Goメモ-257 (複数のmain関数を共存させる)(go:build ignore)](https://devlights.hatenablog.com/entry/2022/10/14/073000)
+- [Goメモ-258 (Non UTF-8 なXMLデータをデコード)(CharsetReader, Shift_JIS)](https://devlights.hatenablog.com/entry/2022/10/19/073000)
 
 ## python
 
