@@ -64,6 +64,7 @@
 
 ## java
 
+- [Java SE Subscription Enterprise Performance Pack (パフォーマンスパック, java8のままでjava17の性能向上を得る, EPP)](https://devlights.hatenablog.com/entry/2022/10/20/073000)
 - [Jakarta EE 10がリリース](https://devlights.hatenablog.com/entry/2022/10/06/073000)
 - [Java 19 がリリース (LTSではない)](https://devlights.hatenablog.com/entry/2022/09/26/073000)
 - [Javaでディレクトリを再帰的に削除するやり方](https://devlights.hatenablog.com/entry/2022/07/12/073000)
