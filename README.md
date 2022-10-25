@@ -645,6 +645,7 @@
 - [Goメモ-258 (Non UTF-8 なXMLデータをデコード)(CharsetReader, Shift_JIS)](https://devlights.hatenablog.com/entry/2022/10/19/073000)
 - [Goメモ-259 (The Go Handbook)(freeCodeCamp, チュートリアル)](https://devlights.hatenablog.com/entry/2022/10/21/073000)
 - [Goメモ-260 (go.modのモジュール名を変更)(go mod edit -module)](https://devlights.hatenablog.com/entry/2022/10/24/073000)
+- [Goメモ-261 (go install 時に一時的に別の場所にインストールする)](https://devlights.hatenablog.com/entry/2022/10/25/073000)
 
 ## python
 
