@@ -647,6 +647,7 @@
 - [Goメモ-260 (go.modのモジュール名を変更)(go mod edit -module)](https://devlights.hatenablog.com/entry/2022/10/24/073000)
 - [Goメモ-261 (go install 時に一時的に別の場所にインストールする)](https://devlights.hatenablog.com/entry/2022/10/25/073000)
 - [Goメモ-262 (Wailsメモ-01 インストール)](https://devlights.hatenablog.com/entry/2022/10/26/073000)
+- [Goメモ-263 (Wailsメモ-02 Gitpodで動く環境を構築)](https://devlights.hatenablog.com/entry/2022/10/27/073000)
 
 ## python
 
