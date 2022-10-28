@@ -780,6 +780,7 @@
 - [Pythonメモ-120 (f-stringで = を付与して出力)(python3.8, デバッグ用, )](https://devlights.hatenablog.com/entry/2021/10/12/073000)
 - [Pythonメモ-121 (mypy の 使い方ガイド, The Comprehensive Guide to mypy)](https://devlights.hatenablog.com/entry/2022/07/15/073000)
 - [Pythonメモ-122 (NiceGUI)](https://devlights.hatenablog.com/entry/2022/10/12/073000)
+- [Pythonメモ-123 (Python 3.11 リリース)](https://devlights.hatenablog.com/entry/2022/10/28/073000)
 
 ## dotnet
 
