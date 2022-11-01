@@ -129,6 +129,7 @@
 
 ## linux
 
+- [特定のPIDの実メモリ上の使用サイズ(RSS)を表示するスクリプト (bash)](https://devlights.hatenablog.com/entry/2022/11/01/073000)
 - [grepコマンド チートシート (Grep cheatsheet)](https://devlights.hatenablog.com/entry/2022/06/16/073000)
 - [Makefile内でプロセスを起動して後からそのプロセスをkillするやり方](https://devlights.hatenablog.com/entry/2022/05/27/073000)
 - [makeでコマンド実行中にエラーが出ても処理を継続するやり方](https://devlights.hatenablog.com/entry/2022/05/12/073000)
