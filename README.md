@@ -114,6 +114,7 @@
 - [Flutterメモ-27 (Flutter 3 リリース, macOS/Linux デスクトップが stable に）](https://devlights.hatenablog.com/entry/2022/05/12/093528)
 - [Flutterメモ-28 (100個以上のFlutter/DartのTips集)(100+ Flutter & Dart Tips)](https://devlights.hatenablog.com/entry/2022/09/01/073000)
 - [Flutterメモ-29 (Impeller についてのリソース)](https://devlights.hatenablog.com/entry/2022/11/02/073000)
+- [Flutterメモ-30 (dart の REPL)(interactive)](https://devlights.hatenablog.com/entry/2022/11/04/073000)
 
 ## shell
 
