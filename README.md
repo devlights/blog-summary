@@ -653,6 +653,7 @@
 - [Goメモ-262 (Wailsメモ-01 インストール)](https://devlights.hatenablog.com/entry/2022/10/26/073000)
 - [Goメモ-263 (Wailsメモ-02 Gitpodで動く環境を構築)](https://devlights.hatenablog.com/entry/2022/10/27/073000)
 - [Goメモ-264 (シグナルを無視する)(signal.Ignore)](https://devlights.hatenablog.com/entry/2022/11/07/073000)
+- [Goメモ-265 (シグナル通知設定をリセットする)(signal.Reset)](https://devlights.hatenablog.com/entry/2022/11/08/073000)
 
 ## python
 
