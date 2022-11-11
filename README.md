@@ -115,6 +115,7 @@
 - [Flutterメモ-28 (100個以上のFlutter/DartのTips集)(100+ Flutter & Dart Tips)](https://devlights.hatenablog.com/entry/2022/09/01/073000)
 - [Flutterメモ-29 (Impeller についてのリソース)](https://devlights.hatenablog.com/entry/2022/11/02/073000)
 - [Flutterメモ-30 (dart の REPL)(interactive)](https://devlights.hatenablog.com/entry/2022/11/04/073000)
+- [Flutterメモ-31 (チャートを表示できるパッケージ)(charts_painter)](https://devlights.hatenablog.com/entry/2022/11/11/073000)
 
 ## shell
 
