@@ -657,6 +657,7 @@
 - [Goメモ-265 (シグナル通知設定をリセットする)(signal.Reset)](https://devlights.hatenablog.com/entry/2022/11/08/073000)
 - [Goメモ-266 (TOMLファイルを読み込み)(toml, Unmarshal)](https://devlights.hatenablog.com/entry/2022/11/09/073000)
 - [Goメモ-267 (TOMLファイルを書き出し)(toml, Marshal)](https://devlights.hatenablog.com/entry/2022/11/10/073000)
+- [Goメモ-268 (Thirteen Years of Go)(本家ブログ)](https://devlights.hatenablog.com/entry/2022/11/14/073000)
 
 ## python
 
