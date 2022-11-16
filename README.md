@@ -132,6 +132,7 @@
 
 ## linux
 
+- [物理CPU、CPUのコア数、論理CPU数を取得](https://devlights.hatenablog.com/entry/2022/11/16/073000)
 - [特定のPIDの実メモリ上の使用サイズ(RSS)を表示するスクリプト (bash)](https://devlights.hatenablog.com/entry/2022/11/01/073000)
 - [grepコマンド チートシート (Grep cheatsheet)](https://devlights.hatenablog.com/entry/2022/06/16/073000)
 - [Makefile内でプロセスを起動して後からそのプロセスをkillするやり方](https://devlights.hatenablog.com/entry/2022/05/27/073000)
