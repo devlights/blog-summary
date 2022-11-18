@@ -667,6 +667,7 @@
 - [python-links](https://github.com/devlights/python-links)
   - 自分用に纏めたPythonリンク集
 
+- [Python.NET 3.0.0 がリリースされてた (pythonnet, 最新は3.0.1)](https://devlights.hatenablog.com/entry/2022/11/18/073000)
 - [Think Python 第２版 日本語版](https://devlights.hatenablog.com/entry/2022/09/28/073000)
 - [IPython 8.0 がリリースされてた (8.0.1)](https://devlights.hatenablog.com/entry/2022/02/02/073000)
 - [TCPソケットがclose状態の時の挙動についての情報メモ (Writing to a closed, local TCP socket not failing)](https://devlights.hatenablog.com/entry/2020/10/14/134430)
