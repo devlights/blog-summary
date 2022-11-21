@@ -661,6 +661,7 @@
 - [Goメモ-267 (TOMLファイルを書き出し)(toml, Marshal)](https://devlights.hatenablog.com/entry/2022/11/10/073000)
 - [Goメモ-268 (Thirteen Years of Go)(本家ブログ)](https://devlights.hatenablog.com/entry/2022/11/14/073000)
 - [Goメモ-269 (Goのテンプレート機能を使ってBLOGページを作成)(GoLand Blog)](https://devlights.hatenablog.com/entry/2022/11/17/073000)
+- [Goメモ-270 (runtime.Caller()とruntime.Callers()のちょっとした違い)](https://devlights.hatenablog.com/entry/2022/11/21/073000)
 
 ## python
 
