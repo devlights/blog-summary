@@ -268,6 +268,7 @@
 
 ## vim
 
+- [vim-easymotion](https://devlights.hatenablog.com/entry/2022/12/05/073000)
 - [netrwのcコマンドがいつのまにかcdコマンドに変わっていた](https://devlights.hatenablog.com/entry/2022/11/30/073000)
 - [50 Useful Vim Commands (VimTricks)](https://devlights.hatenablog.com/entry/2022/10/31/073000)
 - [vimでソースコードを貼り付けた際に変なインデントが入らないように貼り付け (set paste, set nopaste)](https://devlights.hatenablog.com/entry/2022/10/05/073000)
