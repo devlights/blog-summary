@@ -671,6 +671,7 @@
 - [Goメモ-273 (ゴルーチンリークが発生するパターン (3))(処理結果によって送信側がいなくなり、受信側が放棄されてしまう)](https://devlights.hatenablog.com/entry/2022/11/25/073000)
 - [Goメモ-274 (ファイルが読み込み・書き込み・実行可能かどうかを判定)](https://devlights.hatenablog.com/entry/2022/12/01/073000)
 - [Goメモ-275 (ファイルが読み込み・書き込み・実行可能かどうかを判定(2))](https://devlights.hatenablog.com/entry/2022/12/02/073000)
+- [Goメモ-276 (TCPで通信するサンプル)](https://devlights.hatenablog.com/entry/2022/12/06/073000)
 
 ## python
 
