@@ -19,6 +19,7 @@
 - [chromebook](#chromebook)
 - [VSCode](#vscode)
 - [VisualStudio](#visualstudio)
+- [Task(go-task)メモ](#go-task)
 - [Go言語メモ](#golang)
 - [Pythonメモ](#python)
 - [dotnetメモ](#dotnet)
@@ -380,6 +381,10 @@
 - [VisualStudioでのアドインの作り方 (@IT)](https://devlights.hatenablog.com/entry/20090330/p1)
 - [VisualStudioで良く使うショートカットコマンド](https://devlights.hatenablog.com/entry/20080912/p1)
 - [セットアッププロジェクトにて前のバージョンを削除してから新バージョンをインストールする(VisualStudio, Setup, msi)](https://devlights.hatenablog.com/entry/20080228/p1)
+
+## go-task
+
+- [Task (go-task) メモ-01 (インストール)](https://devlights.hatenablog.com/entry/2022/12/07/073000)
 
 ## golang
 
