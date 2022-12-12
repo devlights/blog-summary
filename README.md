@@ -386,6 +386,7 @@
 
 - [Task (go-task) メモ-01 (インストール)](https://devlights.hatenablog.com/entry/2022/12/07/073000)
 - [Task (go-task) メモ-02 (タスクファイル, Taskfile.yml)](https://devlights.hatenablog.com/entry/2022/12/09/073000)
+- [Task (go-task) メモ-03 (Windowsでbashの記法が使える)](https://devlights.hatenablog.com/entry/2022/12/12/073000)
 
 ## golang
 
