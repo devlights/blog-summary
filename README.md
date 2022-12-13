@@ -1300,6 +1300,7 @@
 
 ## misc
 
+- [OWASP Cheat Sheet Series (OWASP チートシート, Mass Assignment)](https://devlights.hatenablog.com/entry/2022/12/13/073000)
 - [PostgreSQL 15 リリース](https://devlights.hatenablog.com/entry/2022/10/18/073000)
 - [JetBrains Fleet が パブリックプレビュー になった](https://devlights.hatenablog.com/entry/2022/10/13/073000)
 - [Wireshark 4.0 リリース](https://devlights.hatenablog.com/entry/2022/10/07/073000)
