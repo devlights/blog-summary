@@ -1133,6 +1133,7 @@
 - [DevExpress奮闘記-127 (v14.2のリリース前情報メモ)](https://devlights.hatenablog.com/entry/2014/11/27/215239)
 - [DevExpress奮闘記-128 (CodeRushのテンプレート展開キーを変更, SpaceからTabへ)](https://devlights.hatenablog.com/entry/2015/03/10/163032)
 - [DevExpress奮闘記-129 (v15.2でダイアグラムコントロールが追加される (Diagram Control, WinForms, WPF, Visio inspired Diagram Control))](https://devlights.hatenablog.com/entry/2015/11/12/170310)
+- [DevExpress奮闘記-130 (DevExpressのCodeRushがいつの間にか無料利用できるようになってた (free-of-charge))](https://devlights.hatenablog.com/entry/2022/12/15/073000)
 - [番外編．CsvEditor for BIP (BIP, 帳票ツール, CSV編集ツール, XtraGrid, XtraVerticalGrid, XtraBars)](https://devlights.hatenablog.com/entry/20101106/p1)
 
 ## wcf
