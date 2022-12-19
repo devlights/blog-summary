@@ -681,6 +681,7 @@
 - [Goメモ-276 (TCPで通信するサンプル)](https://devlights.hatenablog.com/entry/2022/12/06/073000)
 - [Goメモ-277 (スライスから配列へ変換する)(Go 1.17以降のやり方)](https://devlights.hatenablog.com/entry/2022/12/08/073000)
 - [Goメモ-278 (GoogleのGoスタイルガイド)](https://devlights.hatenablog.com/entry/2022/12/14/073000)
+- [Goメモ-279 (Functional Option Patternのメモ)](https://devlights.hatenablog.com/entry/2022/12/19/073000)
 
 ## python
 
