@@ -685,6 +685,7 @@
 - [Goメモ-277 (スライスから配列へ変換する)(Go 1.17以降のやり方)](https://devlights.hatenablog.com/entry/2022/12/08/073000)
 - [Goメモ-278 (GoogleのGoスタイルガイド)](https://devlights.hatenablog.com/entry/2022/12/14/073000)
 - [Goメモ-279 (Functional Option Patternのメモ)](https://devlights.hatenablog.com/entry/2022/12/19/073000)
+- [Goメモ-280 (go vet にシャドウイング検知してくれるshadowを入れて使う)](https://devlights.hatenablog.com/entry/2022/12/27/073000)
 
 ## python
 
