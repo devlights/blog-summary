@@ -687,6 +687,7 @@
 - [Goメモ-279 (Functional Option Patternのメモ)](https://devlights.hatenablog.com/entry/2022/12/19/073000)
 - [Goメモ-280 (go vet にシャドウイング検知してくれるshadowを入れて使う)](https://devlights.hatenablog.com/entry/2022/12/27/073000)
 - [Goメモ-281 (net.JoinHostPortを使ってアドレスを作る)](https://devlights.hatenablog.com/entry/2023/01/11/073000)
+- [Goメモ-282 (net.SplitHostPortを使ってアドレスからホストとポートに分割)](https://devlights.hatenablog.com/entry/2023/01/12/073000)
 
 ## python
 
