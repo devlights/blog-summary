@@ -201,6 +201,7 @@
 
 ## gitpod
 
+- [Gitpod でワークスペースを開くたびに自分のdotfilesを適用する](https://devlights.hatenablog.com/entry/2023/01/18/073000)
 - [Gitpod のプランの形式が hours から credits の形に変わっていた](https://devlights.hatenablog.com/entry/2023/01/13/073000)
 - [gitpod で Go 1.19 のイメージを使う](https://devlights.hatenablog.com/entry/2022/08/09/120457)
 - [gitpod-io/template-flutter を使って gitpod で flutter の環境を作る](https://devlights.hatenablog.com/entry/2022/07/14/073000)
