@@ -135,6 +135,7 @@
 
 ## linux
 
+- [一時的にCtrl-CでSIGINTを飛ばさないように設定する (stty)](https://devlights.hatenablog.com/entry/2023/01/19/073000)
 - [ttyd (ブラウザ経由でターミナルを共有)(C port of GoTTY with CJK and IME support)](https://devlights.hatenablog.com/entry/2022/12/22/073000)
 - [物理CPU、CPUのコア数、論理CPU数を取得](https://devlights.hatenablog.com/entry/2022/11/16/073000)
 - [特定のPIDの実メモリ上の使用サイズ(RSS)を表示するスクリプト (bash)](https://devlights.hatenablog.com/entry/2022/11/01/073000)
