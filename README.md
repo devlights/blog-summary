@@ -694,6 +694,8 @@
 - [Goメモ-281 (net.JoinHostPortを使ってアドレスを作る)](https://devlights.hatenablog.com/entry/2023/01/11/073000)
 - [Goメモ-282 (net.SplitHostPortを使ってアドレスからホストとポートに分割)](https://devlights.hatenablog.com/entry/2023/01/12/073000)
 - [Goメモ-283 (net.LookupPortを使ってサービスに対応するポート番号を取得)](https://devlights.hatenablog.com/entry/2023/01/16/073000)
+- [Goメモ-284 (net.Dialでcontext.Contextを渡してタイムアウト付きで接続する)](https://devlights.hatenablog.com/entry/2023/01/23/073000)
+- [Goメモ-285 (BackLogを指定した状態のnet.Listenerを作る)](https://devlights.hatenablog.com/entry/2023/01/24/073000)
 
 ## python
 
