@@ -1317,6 +1317,7 @@
 
 ## misc
 
+- [The Zen of Zig (pythonとGoも)](https://devlights.hatenablog.com/entry/2023/01/26/073000)
 - [SQL Server の IDENTITY 列の値をリセット](https://devlights.hatenablog.com/entry/2023/01/25/073000)
 - [chromeのメモリサーバー機能をONにする (chrome://flags, high efficiency mode)](https://devlights.hatenablog.com/entry/2023/01/10/073000)
 - [JetBrainsの全製品の2022.3アップデートの内容 (DataGripにRedisサポートが追加)](https://devlights.hatenablog.com/entry/2022/12/28/073000)
