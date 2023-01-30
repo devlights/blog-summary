@@ -395,6 +395,7 @@
 - [Task (go-task) メモ-04 (hello world)](https://devlights.hatenablog.com/entry/2022/12/20/073000)
 - [Task (go-task) メモ-05 (実行方法)](https://devlights.hatenablog.com/entry/2022/12/21/073000)
 - [Task (go-task) メモ-06 (コマンドラインオプション)](https://devlights.hatenablog.com/entry/2023/01/17/073000)
+- [Task (go-task) メモ-07 (defaultタスク)](https://devlights.hatenablog.com/entry/2023/01/30/073000)
 
 ## golang
 
