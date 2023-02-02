@@ -120,6 +120,8 @@
 - [Flutterメモ-29 (Impeller についてのリソース)](https://devlights.hatenablog.com/entry/2022/11/02/073000)
 - [Flutterメモ-30 (dart の REPL)(interactive)](https://devlights.hatenablog.com/entry/2022/11/04/073000)
 - [Flutterメモ-31 (チャートを表示できるパッケージ)(charts_painter)](https://devlights.hatenablog.com/entry/2022/11/11/073000)
+- [Flutterメモ-32 (Flutter 3.7 がリリース)](https://devlights.hatenablog.com/entry/2023/01/31/073000)
+- [Flutterメモ-33 (wsl2 + systemd で Flutter が snap からインストール出来るようになった)](https://devlights.hatenablog.com/entry/2023/02/01/073000)
 
 ## shell
 
@@ -698,6 +700,7 @@
 - [Goメモ-284 (net.Dialでcontext.Contextを渡してタイムアウト付きで接続する)](https://devlights.hatenablog.com/entry/2023/01/23/073000)
 - [Goメモ-285 (BackLogを指定した状態のnet.Listenerを作る)](https://devlights.hatenablog.com/entry/2023/01/24/073000)
 - [Goメモ-286 (context.WithCancelとtime.AfterFuncでタイムアウト処理)](https://devlights.hatenablog.com/entry/2023/01/27/073000)
+- [Goメモ-287 (goアプリが使っているシステムコールを見てみる (strace))](https://devlights.hatenablog.com/entry/2023/02/02/073000)
 
 ## python
 
