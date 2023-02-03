@@ -701,6 +701,7 @@
 - [Goメモ-285 (BackLogを指定した状態のnet.Listenerを作る)](https://devlights.hatenablog.com/entry/2023/01/24/073000)
 - [Goメモ-286 (context.WithCancelとtime.AfterFuncでタイムアウト処理)](https://devlights.hatenablog.com/entry/2023/01/27/073000)
 - [Goメモ-287 (goアプリが使っているシステムコールを見てみる (strace))](https://devlights.hatenablog.com/entry/2023/02/02/073000)
+- [Goメモ-288 (goアプリが使っているシステムコールを見てみる2 (バッファリング))](https://devlights.hatenablog.com/entry/2023/02/03/073000)
 
 ## python
 
