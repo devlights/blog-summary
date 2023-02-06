@@ -1323,6 +1323,7 @@
 
 ## misc
 
+- [JetBrains DataGrip で Cannot connect to a database because of SSLHandshakeException って出る件](https://devlights.hatenablog.com/entry/2023/02/06/073000)
 - [The Zen of Zig (pythonとGoも)](https://devlights.hatenablog.com/entry/2023/01/26/073000)
 - [SQL Server の IDENTITY 列の値をリセット](https://devlights.hatenablog.com/entry/2023/01/25/073000)
 - [chromeのメモリサーバー機能をONにする (chrome://flags, high efficiency mode)](https://devlights.hatenablog.com/entry/2023/01/10/073000)
