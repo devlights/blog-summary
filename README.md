@@ -702,6 +702,7 @@
 - [Goメモ-286 (context.WithCancelとtime.AfterFuncでタイムアウト処理)](https://devlights.hatenablog.com/entry/2023/01/27/073000)
 - [Goメモ-287 (goアプリが使っているシステムコールを見てみる (strace))](https://devlights.hatenablog.com/entry/2023/02/02/073000)
 - [Goメモ-288 (goアプリが使っているシステムコールを見てみる2 (バッファリング))](https://devlights.hatenablog.com/entry/2023/02/03/073000)
+- [Goメモ-289 (Go 1.20 リリース)](https://devlights.hatenablog.com/entry/2023/02/07/073000)
 
 ## python
 
