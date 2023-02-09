@@ -704,6 +704,7 @@
 - [Goメモ-287 (goアプリが使っているシステムコールを見てみる (strace))](https://devlights.hatenablog.com/entry/2023/02/02/073000)
 - [Goメモ-288 (goアプリが使っているシステムコールを見てみる2 (バッファリング))](https://devlights.hatenablog.com/entry/2023/02/03/073000)
 - [Goメモ-289 (Go 1.20 リリース)](https://devlights.hatenablog.com/entry/2023/02/07/073000)
+- [Goメモ-290 (ソケットに SO_REUSEPORT を設定してListenerを起動)(net.ListenConfig)](https://devlights.hatenablog.com/entry/2023/02/09/073000)
 
 ## python
 
