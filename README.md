@@ -399,6 +399,7 @@
 - [Task (go-task) メモ-06 (コマンドラインオプション)](https://devlights.hatenablog.com/entry/2023/01/17/073000)
 - [Task (go-task) メモ-07 (defaultタスク)](https://devlights.hatenablog.com/entry/2023/01/30/073000)
 - [Task (go-task) メモ-08 (環境変数)](https://devlights.hatenablog.com/entry/2023/02/08/073000)
+- [Task (go-task) メモ-09 (.envファイル, dotenv)](https://devlights.hatenablog.com/entry/2023/02/10/073000)
 
 ## golang
 
