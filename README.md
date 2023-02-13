@@ -2,8 +2,6 @@
 
 [いろいろ備忘録日記](https://devlights.hatenablog.com/)の各記事をリンクしています。
 
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/devlights/blog-summary)
-
 ---
 
 ## 目次
@@ -400,6 +398,7 @@
 - [Task (go-task) メモ-07 (defaultタスク)](https://devlights.hatenablog.com/entry/2023/01/30/073000)
 - [Task (go-task) メモ-08 (環境変数)](https://devlights.hatenablog.com/entry/2023/02/08/073000)
 - [Task (go-task) メモ-09 (.envファイル, dotenv)](https://devlights.hatenablog.com/entry/2023/02/10/073000)
+- [Task (go-task) メモ-10 (他のタスクファイルのinclude)](https://devlights.hatenablog.com/entry/2023/02/13/073000)
 
 ## golang
 
