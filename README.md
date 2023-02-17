@@ -401,6 +401,7 @@
 - [Task (go-task) メモ-10 (他のタスクファイルのinclude)](https://devlights.hatenablog.com/entry/2023/02/13/073000)
 - [Task (go-task) メモ-11 (カラー出力をオフにする)](https://devlights.hatenablog.com/entry/2023/02/14/073000)
 - [Task (go-task) メモ-12 (コマンド行を出力しないようにする, silent)](https://devlights.hatenablog.com/entry/2023/02/15/073000)
+- [Task (go-task) メモ-13 (OS毎にタスクファイルを切り替える)](https://devlights.hatenablog.com/entry/2023/02/17/073000)
 
 ## golang
 
