@@ -404,6 +404,7 @@
 - [Task (go-task) メモ-12 (コマンド行を出力しないようにする, silent)](https://devlights.hatenablog.com/entry/2023/02/15/073000)
 - [Task (go-task) メモ-13 (OS毎にタスクファイルを切り替える)](https://devlights.hatenablog.com/entry/2023/02/17/073000)
 - [Task (go-task) メモ-14 (変数, vars)](https://devlights.hatenablog.com/entry/2023/02/21/073000)
+- [Task (go-task) メモ-15 (コマンドライン引数, CLI_ARGS)](https://devlights.hatenablog.com/entry/2023/02/22/073000)
 
 ## golang
 
