@@ -1333,6 +1333,7 @@
 
 ## misc
 
+- [Homebrew v4.0 がリリース](https://devlights.hatenablog.com/entry/2023/02/27/073000)
 - [Docusaurus 2.0 がいつの間にかリリースされていた (現在 2.3.1)](https://devlights.hatenablog.com/entry/2023/02/16/073000)
 - [JetBrains DataGrip で Cannot connect to a database because of SSLHandshakeException って出る件](https://devlights.hatenablog.com/entry/2023/02/06/073000)
 - [The Zen of Zig (pythonとGoも)](https://devlights.hatenablog.com/entry/2023/01/26/073000)
