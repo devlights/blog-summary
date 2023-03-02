@@ -714,6 +714,7 @@
 - [Goメモ-289 (Go 1.20 リリース)](https://devlights.hatenablog.com/entry/2023/02/07/073000)
 - [Goメモ-290 (ソケットに SO_REUSEPORT を設定してListenerを起動)(net.ListenConfig)](https://devlights.hatenablog.com/entry/2023/02/09/073000)
 - [Goメモ-291 (Excelの特定範囲のRangeを画像にして出力)](https://devlights.hatenablog.com/entry/2023/03/01/073000)
+- [Goメモ-292 (Excelの各シートの内容を画像にして出力)](https://devlights.hatenablog.com/entry/2023/03/02/073000)
 
 ## python
 
