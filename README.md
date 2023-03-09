@@ -718,6 +718,7 @@
 - [Goメモ-293 (errors.Joinで複数のエラーをまとめる)(Go 1.20)](https://devlights.hatenablog.com/entry/2023/03/06/073000)
 - [Goメモ-294 (strings.TrimRight と strings.TrimSuffix のちょっとした違い)](https://devlights.hatenablog.com/entry/2023/03/07/073000)
 - [Goメモ-295 (一つのYAMLファイル内に複数ドキュメントある場合のデコード)](https://devlights.hatenablog.com/entry/2023/03/08/073000)
+- [Goメモ-296 (Go の for range ループのちょっとしたクセ)(イテレーション中の要素増減時の挙動)](https://devlights.hatenablog.com/entry/2023/03/09/073000)
 
 ## python
 
