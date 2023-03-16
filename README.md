@@ -137,6 +137,7 @@
 
 ## linux
 
+- [ブレース展開を使ってファイルを一気に作成 (bash, brace expansion)](https://devlights.hatenablog.com/entry/2023/03/16/073000)
 - [Bashで '**' の展開をONにする (globstar)](https://devlights.hatenablog.com/entry/2023/02/20/073000)
 - [一時的にCtrl-CでSIGINTを飛ばさないように設定する (stty)](https://devlights.hatenablog.com/entry/2023/01/19/073000)
 - [ttyd (ブラウザ経由でターミナルを共有)(C port of GoTTY with CJK and IME support)](https://devlights.hatenablog.com/entry/2022/12/22/073000)
