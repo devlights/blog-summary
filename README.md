@@ -279,6 +279,7 @@
 
 ## vim
 
+- [AstroNvim (nvimをIDEみたいにするプラグイン集)](https://devlights.hatenablog.com/entry/2023/03/20/073000)
 - [vim-easymotion](https://devlights.hatenablog.com/entry/2022/12/05/073000)
 - [netrwのcコマンドがいつのまにかcdコマンドに変わっていた](https://devlights.hatenablog.com/entry/2022/11/30/073000)
 - [50 Useful Vim Commands (VimTricks)](https://devlights.hatenablog.com/entry/2022/10/31/073000)
