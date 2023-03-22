@@ -725,6 +725,7 @@
 - [Goメモ-296 (Go の for range ループのちょっとしたクセ)(イテレーション中の要素増減時の挙動)](https://devlights.hatenablog.com/entry/2023/03/09/073000)
 - [Goメモ-297 (bytesパッケージにCutPrefix,CutSuffixが追加)(Go 1.20)](https://devlights.hatenablog.com/entry/2023/03/13/073000)
 - [Goメモ-298 (Excelの各シートへのリンクをTOCシートとして追加)](https://devlights.hatenablog.com/entry/2023/03/14/073000)
+- [Goメモ-299 (Intel CPUで int を使って 剰余演算 をすると速度が遅くなる??)(reddit)](https://devlights.hatenablog.com/entry/2023/03/22/073000)
 
 ## python
 
