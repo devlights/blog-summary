@@ -1347,6 +1347,7 @@
 
 ## misc
 
+- [Tabby (モダンな感じのターミナルソフト)(クロスプラットフォーム)](https://devlights.hatenablog.com/entry/2023/03/23/073000)
 - [xc (Markdown ベースで書けるタスクランナー)](https://devlights.hatenablog.com/entry/2023/03/10/073000)
 - [Homebrew v4.0 がリリース](https://devlights.hatenablog.com/entry/2023/02/27/073000)
 - [Docusaurus 2.0 がいつの間にかリリースされていた (現在 2.3.1)](https://devlights.hatenablog.com/entry/2023/02/16/073000)
