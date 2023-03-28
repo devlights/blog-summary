@@ -1349,6 +1349,7 @@
 
 ## misc
 
+- [Google Cloud の仮想マシンでVMの一時停止と再開が出来るようになった](https://devlights.hatenablog.com/entry/2023/03/29/073000)
 - [ueli (Windowsで使えるAlfredみたいなランチャー)](https://devlights.hatenablog.com/entry/2023/03/24/073000)
 - [Tabby (モダンな感じのターミナルソフト)(クロスプラットフォーム)](https://devlights.hatenablog.com/entry/2023/03/23/073000)
 - [xc (Markdown ベースで書けるタスクランナー)](https://devlights.hatenablog.com/entry/2023/03/10/073000)
