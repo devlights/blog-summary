@@ -727,6 +727,7 @@
 - [Goメモ-298 (Excelの各シートへのリンクをTOCシートとして追加)](https://devlights.hatenablog.com/entry/2023/03/14/073000)
 - [Goメモ-299 (Intel CPUで int を使って 剰余演算 をすると速度が遅くなる??)(reddit)](https://devlights.hatenablog.com/entry/2023/03/22/073000)
 - [Goメモ-300 (バイナリを構造体にパック・アンパック)](https://devlights.hatenablog.com/entry/2023/03/27/073000)
+- [Goメモ-301 (内閣府が提供している国民の祝日CSVファイルで遊ぶ)](https://devlights.hatenablog.com/entry/2023/03/28/073000)
 
 ## python
 
