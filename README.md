@@ -1349,6 +1349,7 @@
 
 ## misc
 
+- [gdbgui (gdbをブラウザで操作)](https://devlights.hatenablog.com/entry/2023/03/30/073000)
 - [Google Cloud の仮想マシンでVMの一時停止と再開が出来るようになった](https://devlights.hatenablog.com/entry/2023/03/29/073000)
 - [ueli (Windowsで使えるAlfredみたいなランチャー)](https://devlights.hatenablog.com/entry/2023/03/24/073000)
 - [Tabby (モダンな感じのターミナルソフト)(クロスプラットフォーム)](https://devlights.hatenablog.com/entry/2023/03/23/073000)
