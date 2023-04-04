@@ -730,6 +730,7 @@
 - [Goメモ-301 (内閣府が提供している国民の祝日CSVファイルで遊ぶ)](https://devlights.hatenablog.com/entry/2023/03/28/073000)
 - [Goメモ-302 (fmt.Errorfで複数のエラーをまとめる)(Go 1.20)](https://devlights.hatenablog.com/entry/2023/04/03/073000)
 - [Goメモ-303 (syscallパッケージはdeprecated扱いだった)](https://devlights.hatenablog.com/entry/2023/04/04/073000)
+- [Goメモ-304 (time.Timeをいろいろなタイムゾーンに変換)](https://devlights.hatenablog.com/entry/2023/04/05/073000)
 
 ## python
 
