@@ -730,6 +730,7 @@
 - [Goメモ-302 (fmt.Errorfで複数のエラーをまとめる)(Go 1.20)](https://devlights.hatenablog.com/entry/2023/04/03/073000)
 - [Goメモ-303 (syscallパッケージはdeprecated扱いだった)](https://devlights.hatenablog.com/entry/2023/04/04/073000)
 - [Goメモ-304 (time.Timeをいろいろなタイムゾーンに変換)](https://devlights.hatenablog.com/entry/2023/04/05/073000)
+- [Goメモ-305 (Go1.20からtime.{DateTime,DateOnly,TimeOnly}が追加された)](https://devlights.hatenablog.com/entry/2023/04/06/073000)
 
 ## python
 
