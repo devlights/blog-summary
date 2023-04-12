@@ -241,6 +241,7 @@
 
 ## github
 
+- [GitHubのリポジトリからSBOMを出力できるようになった](https://devlights.hatenablog.com/entry/2023/04/12/073000)
 - [GitHub Codespaces が 2コアで月60時間、4コアで月30時間、8コアで月15時間 まで無料提供](https://devlights.hatenablog.com/entry/2022/11/15/073000)
 - [gitでローカルの状態をリモートに合わせる (git reset --hard, 一致させる, 片方に合わせる)](https://devlights.hatenablog.com/entry/2022/10/17/073000)
 - [git difftool で１ファイルずつじゃなくてまとめて差分を確認する (-d, --dir-diff)](https://devlights.hatenablog.com/entry/2022/07/13/073000)
