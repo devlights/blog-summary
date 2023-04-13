@@ -734,6 +734,7 @@
 - [Goメモ-304 (time.Timeをいろいろなタイムゾーンに変換)](https://devlights.hatenablog.com/entry/2023/04/05/073000)
 - [Goメモ-305 (Go1.20からtime.{DateTime,DateOnly,TimeOnly}が追加された)](https://devlights.hatenablog.com/entry/2023/04/06/073000)
 - [Goメモ-306 (go-packetメモ-01)(ネットワークインターフェースを表示)](https://devlights.hatenablog.com/entry/2023/04/10/073000)
+- [Goメモ-307 (go-packetメモ-02)(流れるパケットをキャプチャする)(OpenLive)](https://devlights.hatenablog.com/entry/2023/04/13/073000)
 
 ## python
 
