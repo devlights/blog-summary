@@ -207,6 +207,7 @@
 
 ## gitpod
 
+- [Gitpod の gpコマンドにvalidateサブコマンドが追加（experimental, rebuildサブコマンドは無くなった)](https://devlights.hatenablog.com/entry/2023/04/14/073000)
 - [Gitpod の gpコマンドにrebuildサブコマンドが追加（experimental)](https://devlights.hatenablog.com/entry/2023/02/28/073000)
 - [Gitpod でワークスペースを開くたびに自分のdotfilesを適用する](https://devlights.hatenablog.com/entry/2023/01/18/073000)
 - [Gitpod のプランの形式が hours から credits の形に変わっていた](https://devlights.hatenablog.com/entry/2023/01/13/073000)
