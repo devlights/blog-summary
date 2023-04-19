@@ -738,6 +738,7 @@
 - [Goメモ-306 (go-packetメモ-01)(ネットワークインターフェースを表示)](https://devlights.hatenablog.com/entry/2023/04/10/073000)
 - [Goメモ-307 (go-packetメモ-02)(流れるパケットをキャプチャする)(OpenLive)](https://devlights.hatenablog.com/entry/2023/04/13/073000)
 - [Goメモ-308 (go-packetメモ-03)(pcapファイルを読み込み)(OpenOffline)](https://devlights.hatenablog.com/entry/2023/04/17/073000)
+- [Goメモ-309 (go-packetメモ-04)(BPFフィルタを設定)(SetBPFFilter)](https://devlights.hatenablog.com/entry/2023/04/19/073000)
 
 ## python
 
