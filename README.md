@@ -207,6 +207,7 @@
 
 ## gitpod
 
+- [Gitpod の gpコマンドのちょっと便利なサブコマンド達](https://devlights.hatenablog.com/entry/2023/04/20/073000)
 - [Gitpod の gpコマンドにvalidateサブコマンドが追加（experimental, rebuildサブコマンドは無くなった)](https://devlights.hatenablog.com/entry/2023/04/14/073000)
 - [Gitpod の gpコマンドにrebuildサブコマンドが追加（experimental)](https://devlights.hatenablog.com/entry/2023/02/28/073000)
 - [Gitpod でワークスペースを開くたびに自分のdotfilesを適用する](https://devlights.hatenablog.com/entry/2023/01/18/073000)
@@ -739,6 +740,7 @@
 - [Goメモ-307 (go-packetメモ-02)(流れるパケットをキャプチャする)(OpenLive)](https://devlights.hatenablog.com/entry/2023/04/13/073000)
 - [Goメモ-308 (go-packetメモ-03)(pcapファイルを読み込み)(OpenOffline)](https://devlights.hatenablog.com/entry/2023/04/17/073000)
 - [Goメモ-309 (go-packetメモ-04)(BPFフィルタを設定)(SetBPFFilter)](https://devlights.hatenablog.com/entry/2023/04/19/073000)
+- [Goメモ-310 (go-packetメモ-05)(*pcap.Packetの中身を表示)](https://devlights.hatenablog.com/entry/2023/04/21/073000)
 
 ## python
 
