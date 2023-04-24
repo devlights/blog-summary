@@ -741,6 +741,7 @@
 - [Goメモ-308 (go-packetメモ-03)(pcapファイルを読み込み)(OpenOffline)](https://devlights.hatenablog.com/entry/2023/04/17/073000)
 - [Goメモ-309 (go-packetメモ-04)(BPFフィルタを設定)(SetBPFFilter)](https://devlights.hatenablog.com/entry/2023/04/19/073000)
 - [Goメモ-310 (go-packetメモ-05)(*pcap.Packetの中身を表示)](https://devlights.hatenablog.com/entry/2023/04/21/073000)
+- [Goメモ-311 (go-packetメモ-06)(*layers.Ethernetの情報を表示)](https://devlights.hatenablog.com/entry/2023/04/24/073000)
 
 ## python
 
