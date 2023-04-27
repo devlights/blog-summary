@@ -1364,6 +1364,7 @@
 
 ## misc
 
+- [ChatGPTの履歴データが取得できるみたい](https://devlights.hatenablog.com/entry/2023/04/27/073000)
 - [Google Authenticator (Google 認証システム) がアカウント同期に対応](https://devlights.hatenablog.com/entry/2023/04/26/073000)
 - [AlloyDB Omni (Google Cloud AlloyDBのオンプレミス版、テクニカルプレビュー)](https://devlights.hatenablog.com/entry/2023/04/07/073000)
 - [JetBrains DataGrip で CSV(TSV) 形式でカラム付きでコピーしたい場合のやり方](https://devlights.hatenablog.com/entry/2023/03/31/073000)
