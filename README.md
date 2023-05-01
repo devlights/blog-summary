@@ -743,6 +743,7 @@
 - [Goメモ-310 (go-packetメモ-05)(*pcap.Packetの中身を表示)](https://devlights.hatenablog.com/entry/2023/04/21/073000)
 - [Goメモ-311 (go-packetメモ-06)(*layers.Ethernetの情報を表示)](https://devlights.hatenablog.com/entry/2023/04/24/073000)
 - [Goメモ-312 (go-packetメモ-07)(*layers.ARPの情報を表示)](https://devlights.hatenablog.com/entry/2023/04/25/073000)
+- [Goメモ-313 (go-packetメモ-08)(*layers.ICMPv4の情報を表示)](https://devlights.hatenablog.com/entry/2023/05/01/073000)
 
 ## python
 
