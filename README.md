@@ -1366,6 +1366,7 @@
 
 ## misc
 
+- [SQLite3 をコマンドラインで利用する場合に設定しておいた方が良いもの](https://devlights.hatenablog.com/entry/2023/05/08/073000)
 - [ChatGPTの履歴データが取得できるみたい](https://devlights.hatenablog.com/entry/2023/04/27/073000)
 - [Google Authenticator (Google 認証システム) がアカウント同期に対応](https://devlights.hatenablog.com/entry/2023/04/26/073000)
 - [AlloyDB Omni (Google Cloud AlloyDBのオンプレミス版、テクニカルプレビュー)](https://devlights.hatenablog.com/entry/2023/04/07/073000)
