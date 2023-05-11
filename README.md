@@ -1366,6 +1366,7 @@
 
 ## misc
 
+- [Deno KVが発表 (Deno, KVストア, SQLite3内包するようになった, v1.32)](https://devlights.hatenablog.com/entry/2023/05/11/073000)
 - [SQLite3のデータベースをダンプする](https://devlights.hatenablog.com/entry/2023/05/10/073000)
 - [SQLite3 をコマンドラインで利用する場合に設定しておいた方が良いもの (起動時にパラメータで指定)](https://devlights.hatenablog.com/entry/2023/05/09/073000)
 - [SQLite3 をコマンドラインで利用する場合に設定しておいた方が良いもの](https://devlights.hatenablog.com/entry/2023/05/08/073000)
