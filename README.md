@@ -747,6 +747,7 @@
 - [Goメモ-313 (go-packetメモ-08)(*layers.ICMPv4の情報を表示)](https://devlights.hatenablog.com/entry/2023/05/01/073000)
 - [Goメモ-314 (go-packetメモ-09)(*layers.IPv4の情報を表示)](https://devlights.hatenablog.com/entry/2023/05/02/073000)
 - [Goメモ-315 (go-packetメモ-10)(*layers.TCPの情報を表示)](https://devlights.hatenablog.com/entry/2023/05/12/073000)
+- [Goメモ-316 (go-packetメモ-11)(*layers.UDPの情報を表示)](https://devlights.hatenablog.com/entry/2023/05/17/073000)
 
 ## python
 
