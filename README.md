@@ -750,6 +750,7 @@
 - [Goメモ-315 (go-packetメモ-10)(*layers.TCPの情報を表示)](https://devlights.hatenablog.com/entry/2023/05/12/073000)
 - [Goメモ-316 (go-packetメモ-11)(*layers.UDPの情報を表示)](https://devlights.hatenablog.com/entry/2023/05/17/073000)
 - [Goメモ-317 (go-packetメモ-12)(アプリケーションレイヤーの情報を表示)](https://devlights.hatenablog.com/entry/2023/05/19/073000)
+- [Goメモ-318 (ファイルを書き込んだ後にSyncしてClose)](https://devlights.hatenablog.com/entry/2023/05/24/073000)
 
 ## python
 
