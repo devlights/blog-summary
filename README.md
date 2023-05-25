@@ -1373,6 +1373,7 @@
 
 ## misc
 
+- [BingがChatGPTのデフォルト検索エンジンになる](https://devlights.hatenablog.com/entry/2023/05/25/073000)
 - [Codon (high-performance Python compiler, MITが発表)](https://devlights.hatenablog.com/entry/2023/05/22/073000)
 - [ChatGPT PlusにWebブラウジングとプラグイン機能が追加された（まだベータ版扱い）](https://devlights.hatenablog.com/entry/2023/05/18/073000)
 - [Windows10のバージョンは22H2が最終バージョンで2025-10-14でサポート終了](https://devlights.hatenablog.com/entry/2023/05/15/073000)
