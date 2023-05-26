@@ -751,6 +751,7 @@
 - [Goメモ-316 (go-packetメモ-11)(*layers.UDPの情報を表示)](https://devlights.hatenablog.com/entry/2023/05/17/073000)
 - [Goメモ-317 (go-packetメモ-12)(アプリケーションレイヤーの情報を表示)](https://devlights.hatenablog.com/entry/2023/05/19/073000)
 - [Goメモ-318 (ファイルを書き込んだ後にSyncしてClose)](https://devlights.hatenablog.com/entry/2023/05/24/073000)
+- [Goメモ-319 (Go 1.21 で slices, maps パッケージが追加される)](https://devlights.hatenablog.com/entry/2023/05/26/073000)
 
 ## python
 
