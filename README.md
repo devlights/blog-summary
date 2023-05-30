@@ -753,6 +753,7 @@
 - [Goメモ-318 (ファイルを書き込んだ後にSyncしてClose)](https://devlights.hatenablog.com/entry/2023/05/24/073000)
 - [Goメモ-319 (Go 1.21 で slices, maps パッケージが追加される)](https://devlights.hatenablog.com/entry/2023/05/26/073000)
 - [Goメモ-320 (Go 1.21 で clear ビルドイン関数が追加される)](https://devlights.hatenablog.com/entry/2023/05/29/073000)
+- [Goメモ-321 (go-packetメモ-13)(HTTPの情報を表示)](https://devlights.hatenablog.com/entry/2023/05/30/073000)
 
 ## python
 
