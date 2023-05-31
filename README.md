@@ -137,6 +137,7 @@
 
 ## linux
 
+- [ポート番号からプロセスを探す (linux, lsof)](https://devlights.hatenablog.com/entry/2023/05/31/073000)
 - [シェル変数のPWDとOLDPWD](https://devlights.hatenablog.com/entry/2023/05/23/073000)
 - [指定コマンドをN秒間だけ起動して終了させる (linux, timeout)](https://devlights.hatenablog.com/entry/2023/04/11/073000)
 - [連番が付いているファイルをsortコマンドでいい感じにソート (-V, --version-sort)](https://devlights.hatenablog.com/entry/2023/03/17/073000)
