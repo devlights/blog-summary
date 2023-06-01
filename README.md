@@ -1377,6 +1377,7 @@
 
 ## misc
 
+- [「分散トランザクション マネージャ (MSDTC) のネットワーク アクセスは 無効になっています」というエラーが出た](https://devlights.hatenablog.com/entry/2023/06/01/073000)
 - [BingがChatGPTのデフォルト検索エンジンになる](https://devlights.hatenablog.com/entry/2023/05/25/073000)
 - [Codon (high-performance Python compiler, MITが発表)](https://devlights.hatenablog.com/entry/2023/05/22/073000)
 - [ChatGPT PlusにWebブラウジングとプラグイン機能が追加された（まだベータ版扱い）](https://devlights.hatenablog.com/entry/2023/05/18/073000)
