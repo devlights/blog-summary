@@ -137,6 +137,7 @@
 
 ## linux
 
+- [ファイルを開いているプロセスを探す (linux, fuser)](https://devlights.hatenablog.com/entry/2023/06/05/073000)
 - [ポート番号からプロセスを探す(2) (linux, fuser)](https://devlights.hatenablog.com/entry/2023/06/02/073000)
 - [ポート番号からプロセスを探す (linux, lsof)](https://devlights.hatenablog.com/entry/2023/05/31/073000)
 - [シェル変数のPWDとOLDPWD](https://devlights.hatenablog.com/entry/2023/05/23/073000)
