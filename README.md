@@ -760,6 +760,7 @@
 - [Goメモ-321 (go-packetメモ-13)(HTTPの情報を表示)](https://devlights.hatenablog.com/entry/2023/05/30/073000)
 - [Goメモ-322 (Goのメモリ管理についての資料)(Go Conference 2023)](https://devlights.hatenablog.com/entry/2023/06/07/073000)
 - [Goメモ-323 (go-packetメモ-14)(DNSの情報を表示)](https://devlights.hatenablog.com/entry/2023/06/08/073000)
+- [Goメモ-324 (go-packetメモ-15)(DNSSECの情報を表示)](https://devlights.hatenablog.com/entry/2023/06/09/073000)
 
 ## python
 
