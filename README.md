@@ -137,6 +137,7 @@
 
 ## linux
 
+- [Debian 12 (bookworm) がリリース (bullseyeはoldstableに)](https://devlights.hatenablog.com/entry/2023/06/14/073000)
 - [ファイルを開いているプロセスを探してkillする (linux, fuser, -k)](https://devlights.hatenablog.com/entry/2023/06/06/073000)
 - [ファイルを開いているプロセスを探す (linux, fuser)](https://devlights.hatenablog.com/entry/2023/06/05/073000)
 - [ポート番号からプロセスを探す(2) (linux, fuser)](https://devlights.hatenablog.com/entry/2023/06/02/073000)
