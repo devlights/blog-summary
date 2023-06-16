@@ -354,6 +354,7 @@
 
 ## vscode
 
+- [C# Dev Kit (VisualStudio Code, プレビューリリース)](https://devlights.hatenablog.com/entry/2023/06/16/073000)
 - [VSCode の ver.1.67 でマークダウン編集時にShift+ドロップでリンク自動生成してくれるようなった](https://devlights.hatenablog.com/entry/2022/05/16/073000)
 - [VSCodeからExcelファイルとかを開く (拡張機能, open)](https://devlights.hatenablog.com/entry/2022/05/10/073000)
 - [VSCodeでUntitledなファイルのデフォルト言語を設定する (default language)](https://devlights.hatenablog.com/entry/2022/02/08/073000)
