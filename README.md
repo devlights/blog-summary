@@ -137,6 +137,7 @@
 
 ## linux
 
+- [簡易的なソース行数を調べたいとき (linux, find, xargs, wc, awk)](https://devlights.hatenablog.com/entry/2023/06/19/073000)
 - [Debian 12 (bookworm) がリリース (bullseyeはoldstableに)](https://devlights.hatenablog.com/entry/2023/06/14/073000)
 - [ファイルを開いているプロセスを探してkillする (linux, fuser, -k)](https://devlights.hatenablog.com/entry/2023/06/06/073000)
 - [ファイルを開いているプロセスを探す (linux, fuser)](https://devlights.hatenablog.com/entry/2023/06/05/073000)
