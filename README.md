@@ -905,6 +905,7 @@
 
 ## dotnet
 
+- [Xamarinは2024-05-01にサポート終了となる模様](https://devlights.hatenablog.com/entry/2023/06/22/073000)
 - [.NETインストールスクリプトを使ってSDKをインストール](https://devlights.hatenablog.com/entry/2023/06/20/073000)
 - [.NET 7 に Dockerコンテナイメージ を直接生成する機能が追加される](https://devlights.hatenablog.com/entry/2022/09/15/073000)
 
