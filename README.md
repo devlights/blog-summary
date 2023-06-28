@@ -1330,6 +1330,7 @@
 
 ## csharp
 
+- [dotnet (.net framework) でキープアライブプローブを送信する (Windows, Linux, Keep Alive Probe)](https://devlights.hatenablog.com/entry/2023/06/28/073000)
 - [.NET 6 を Docker コンテナで試す (Dockerfile, VSCode)](https://devlights.hatenablog.com/entry/2021/11/10/154155)
 - [.NET 6 と VisualStudio 2022 がリリース (LTS版, C# 10)](https://devlights.hatenablog.com/entry/2021/11/09/134512)
 - [dotnet new コマンドから gitignore ファイルが生成できた](https://devlights.hatenablog.com/entry/2021/10/29/113742)
