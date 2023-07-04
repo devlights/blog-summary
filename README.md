@@ -138,6 +138,7 @@
 
 ## linux
 
+- [OracleがLinuxカーネルのパラメータチューニングを自動で行うためのツールを公開 (bpftune)](https://devlights.hatenablog.com/entry/2023/07/04/073000)
 - [nohupコマンド (端末セッションから切断されてもプログラムを実行し続ける)](https://devlights.hatenablog.com/entry/2023/07/03/073000)
 - [bcコマンドで2進数を進数変換して表示](https://devlights.hatenablog.com/entry/2023/06/27/073000)
 - [xxdコマンドで16進数と2進数出力する](https://devlights.hatenablog.com/entry/2023/06/23/073000)
