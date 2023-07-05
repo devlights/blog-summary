@@ -774,6 +774,7 @@
 - [Goメモ-325 (IBM Open Enterprise SDK for Go 1.20)](https://devlights.hatenablog.com/entry/2023/06/12/073000)
 - [Goメモ-326 (バイトスライスを１バイトずつスペースを空けて出力)](https://devlights.hatenablog.com/entry/2023/06/29/073000)
 - [Goメモ-327 (Go でキープアライブプローブを送信する (Windows, Linux, Keep Alive Probe))](https://devlights.hatenablog.com/entry/2023/06/30/073000)
+- [Goメモ-328 (Go 1.22 で予定されているfor-eachループのループ変数に関する挙動変更を試す)(gotip, GOEXPERIMENT, loopvar)](https://devlights.hatenablog.com/entry/2023/07/05/073000)
 
 ## python
 
