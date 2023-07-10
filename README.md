@@ -433,6 +433,7 @@
 - [Task (go-task) メモ-17 (task --initの挙動がv3.23.0で変わってた)(yamlからymlに)](https://devlights.hatenablog.com/entry/2023/04/18/073000)
 - [Task (go-task) メモ-18 (内部タスク)(internal task)](https://devlights.hatenablog.com/entry/2023/07/06/073000)
 - [Task (go-task) メモ-19 (単一コマンドの場合はタスクにcmdだけで実行できる)(single command task)](https://devlights.hatenablog.com/entry/2023/07/07/073000)
+- [Task (go-task) メモ-20 (実行前に確認プロンプトを表示)(prompt, v3.26以降)](https://devlights.hatenablog.com/entry/2023/07/10/073000)
 
 ## golang
 
