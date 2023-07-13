@@ -138,6 +138,7 @@
 
 ## linux
 
+- [man hier (ファイルシステム階層(FSH)のマニュアル)(hier, file-hierarchy)](https://devlights.hatenablog.com/entry/2023/07/12/073000)
 - [OracleがLinuxカーネルのパラメータチューニングを自動で行うためのツールを公開 (bpftune)](https://devlights.hatenablog.com/entry/2023/07/04/073000)
 - [nohupコマンド (端末セッションから切断されてもプログラムを実行し続ける)](https://devlights.hatenablog.com/entry/2023/07/03/073000)
 - [bcコマンドで2進数を進数変換して表示](https://devlights.hatenablog.com/entry/2023/06/27/073000)
@@ -434,6 +435,7 @@
 - [Task (go-task) メモ-18 (内部タスク)(internal task)](https://devlights.hatenablog.com/entry/2023/07/06/073000)
 - [Task (go-task) メモ-19 (単一コマンドの場合はタスクにcmdだけで実行できる)(single command task)](https://devlights.hatenablog.com/entry/2023/07/07/073000)
 - [Task (go-task) メモ-20 (実行前に確認プロンプトを表示)(prompt, v3.26以降)](https://devlights.hatenablog.com/entry/2023/07/10/073000)
+- [Task (go-task) メモ-21 (dry-runモード)](https://devlights.hatenablog.com/entry/2023/07/11/073000)
 
 ## golang
 
