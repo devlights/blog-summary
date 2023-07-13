@@ -1405,6 +1405,7 @@
 
 ## misc
 
+- [GraalVMが全機能無償で使えるようになった (GraalVM Free Terms and Conditions (GFTC) license)](https://devlights.hatenablog.com/entry/2023/07/13/073000)
 - [プログラミング用フォントの見た目を並べて確認 (Choosing the Best Coding Font for Programming, RealPython)](https://devlights.hatenablog.com/entry/2023/06/13/073000)
 - [「分散トランザクション マネージャ (MSDTC) のネットワーク アクセスは 無効になっています」というエラーが出た](https://devlights.hatenablog.com/entry/2023/06/01/073000)
 - [BingがChatGPTのデフォルト検索エンジンになる](https://devlights.hatenablog.com/entry/2023/05/25/073000)
