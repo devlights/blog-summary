@@ -436,6 +436,7 @@
 - [Task (go-task) メモ-19 (単一コマンドの場合はタスクにcmdだけで実行できる)(single command task)](https://devlights.hatenablog.com/entry/2023/07/07/073000)
 - [Task (go-task) メモ-20 (実行前に確認プロンプトを表示)(prompt, v3.26以降)](https://devlights.hatenablog.com/entry/2023/07/10/073000)
 - [Task (go-task) メモ-21 (dry-runモード)](https://devlights.hatenablog.com/entry/2023/07/11/073000)
+- [Task (go-task) メモ-22 (preconditions, 事前条件)](https://devlights.hatenablog.com/entry/2023/07/20/073000)
 
 ## golang
 
