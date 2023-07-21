@@ -138,6 +138,7 @@
 
 ## linux
 
+- [ls -l の結果からファイルサイズだけ抜き出したい](https://devlights.hatenablog.com/entry/2023/07/21/073000)
 - [man hier (ファイルシステム階層(FSH)のマニュアル)(hier, file-hierarchy)](https://devlights.hatenablog.com/entry/2023/07/12/073000)
 - [OracleがLinuxカーネルのパラメータチューニングを自動で行うためのツールを公開 (bpftune)](https://devlights.hatenablog.com/entry/2023/07/04/073000)
 - [nohupコマンド (端末セッションから切断されてもプログラムを実行し続ける)](https://devlights.hatenablog.com/entry/2023/07/03/073000)
