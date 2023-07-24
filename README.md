@@ -784,6 +784,7 @@
 - [Goメモ-328 (Go 1.22 で予定されているfor-eachループのループ変数に関する挙動変更を試す)(gotip, GOEXPERIMENT, loopvar)](https://devlights.hatenablog.com/entry/2023/07/05/073000)
 - [Goメモ-329 (浮動小数点の計算順序)(Goに限った話ではない)](https://devlights.hatenablog.com/entry/2023/07/18/073000)
 - [Goメモ-330 (新しいKEN_ALL (utf_all.csv) で遊ぶ)](https://devlights.hatenablog.com/entry/2023/07/19/073000)
+- [Goメモ-331 (go install したものを最新にする)](https://devlights.hatenablog.com/entry/2023/07/24/073000)
 
 ## python
 
