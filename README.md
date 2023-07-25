@@ -1410,6 +1410,7 @@
 
 ## misc
 
+- [teaというパッケージマネージャ (teaxyz/cli)](https://devlights.hatenablog.com/entry/2023/07/25/073000)
 - [KEN_ALL.csvが変わった（UTF-8に、複数レコード分割がなくなった）](https://devlights.hatenablog.com/entry/2023/07/14/073000)
 - [GraalVMが全機能無償で使えるようになった (GraalVM Free Terms and Conditions (GFTC) license)](https://devlights.hatenablog.com/entry/2023/07/13/073000)
 - [プログラミング用フォントの見た目を並べて確認 (Choosing the Best Coding Font for Programming, RealPython)](https://devlights.hatenablog.com/entry/2023/06/13/073000)
