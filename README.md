@@ -786,6 +786,7 @@
 - [Goメモ-330 (新しいKEN_ALL (utf_all.csv) で遊ぶ)](https://devlights.hatenablog.com/entry/2023/07/19/073000)
 - [Goメモ-331 (go install したものを最新にする)](https://devlights.hatenablog.com/entry/2023/07/24/073000)
 - [Goメモ-332 (go-packetメモ-16)(FTPの情報を表示)](https://devlights.hatenablog.com/entry/2023/07/26/073000)
+- [Goメモ-333 (Go 1.21 リリースノート)](https://devlights.hatenablog.com/entry/2023/07/27/073000)
 
 ## python
 
