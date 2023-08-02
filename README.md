@@ -789,6 +789,7 @@
 - [Goメモ-332 (go-packetメモ-16)(FTPの情報を表示)](https://devlights.hatenablog.com/entry/2023/07/26/073000)
 - [Goメモ-333 (Go 1.21 リリースノート)](https://devlights.hatenablog.com/entry/2023/07/27/073000)
 - [Goメモ-334 (uber-go/nilaway)(nilの可能性をチェックしてくれる静的解析ツール)(うまく動かなかった・・）](https://devlights.hatenablog.com/entry/2023/07/31/073000)
+- [Goメモ-335 (uber-go/nilaway)(nilの可能性をチェックしてくれる静的解析ツール)(動いた）](https://devlights.hatenablog.com/entry/2023/08/02/073000)
 
 ## python
 
