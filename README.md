@@ -1415,6 +1415,7 @@
 
 ## misc
 
+- [HHKBを使い始めるときに覚えておきたいショートカットキー 30選 (HHKB Life)](https://devlights.hatenablog.com/entry/2023/08/03/073000)
 - [Chat-GPT の Code Interpreter についてのメモ](https://devlights.hatenablog.com/entry/2023/07/28/073000)
 - [teaというパッケージマネージャ (teaxyz/cli)](https://devlights.hatenablog.com/entry/2023/07/25/073000)
 - [KEN_ALL.csvが変わった（UTF-8に、複数レコード分割がなくなった）](https://devlights.hatenablog.com/entry/2023/07/14/073000)
