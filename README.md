@@ -1416,6 +1416,7 @@
 
 ## misc
 
+- [ビギナーが学ぶべき 570 のストーリー (570 Stories To Learn About Beginners)(hackernoon)](https://devlights.hatenablog.com/entry/2023/08/08/073000)
 - [Excalidraw (バーチャルホワイトボード)](https://devlights.hatenablog.com/entry/2023/08/07/073000)
 - [HHKBを使い始めるときに覚えておきたいショートカットキー 30選 (HHKB Life)](https://devlights.hatenablog.com/entry/2023/08/03/073000)
 - [Chat-GPT の Code Interpreter についてのメモ](https://devlights.hatenablog.com/entry/2023/07/28/073000)
