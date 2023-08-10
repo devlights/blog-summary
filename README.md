@@ -300,6 +300,7 @@
 
 ## vim
 
+- [Windowsで右クリックに「Vimで開く」を追加 (レジストリ)](https://devlights.hatenablog.com/entry/2023/08/10/073000)
 - [AstroNvim (nvimをIDEみたいにするプラグイン集)](https://devlights.hatenablog.com/entry/2023/03/20/073000)
 - [vim-easymotion](https://devlights.hatenablog.com/entry/2022/12/05/073000)
 - [netrwのcコマンドがいつのまにかcdコマンドに変わっていた](https://devlights.hatenablog.com/entry/2022/11/30/073000)
