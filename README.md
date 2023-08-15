@@ -351,6 +351,7 @@
 
 ## chromebook
 
+- [chromebookでショートカット一覧を表示するキーボードショートカット](https://devlights.hatenablog.com/entry/2023/08/15/073000)
 - [Chromeでブックマークバーにフォーカスを当てるショートカット](https://devlights.hatenablog.com/entry/2021/01/11/190529)
 - [Chromebook の Linux コンテナ の python3 で venv と pip を使えるようにする](https://devlights.hatenablog.com/entry/2020/11/02/014207)
 - [chromebookのターミナルで貼り付けをする方法](https://devlights.hatenablog.com/entry/2020/10/24/233410)
