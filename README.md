@@ -138,6 +138,7 @@
 
 ## linux
 
+- [CPUの論理プロセッサの数を調べる (Linux, lscpu)](https://devlights.hatenablog.com/entry/2023/08/16/073000)
 - [現在のディレクトリ直下のディレクトリのみ表示](https://devlights.hatenablog.com/entry/2023/08/01/073000)
 - [ls -l の結果からファイルサイズだけ抜き出したい](https://devlights.hatenablog.com/entry/2023/07/21/073000)
 - [man hier (ファイルシステム階層(FSH)のマニュアル)(hier, file-hierarchy)](https://devlights.hatenablog.com/entry/2023/07/12/073000)
