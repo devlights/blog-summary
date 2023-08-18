@@ -444,6 +444,7 @@
 - [Task (go-task) メモ-21 (dry-runモード)](https://devlights.hatenablog.com/entry/2023/07/11/073000)
 - [Task (go-task) メモ-22 (preconditions, 事前条件)](https://devlights.hatenablog.com/entry/2023/07/20/073000)
 - [Task (go-task) メモ-23 (loop over static list, ループ機能, 静的なリストをループ)](https://devlights.hatenablog.com/entry/2023/08/17/073000)
+- [Task (go-task) メモ-24 (loop over task's source, ループ機能, タスクソースをループ)](https://devlights.hatenablog.com/entry/2023/08/18/073000)
 
 ## golang
 
