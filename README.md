@@ -447,6 +447,7 @@
 - [Task (go-task) メモ-24 (loop over task's source, ループ機能, タスクソースをループ)](https://devlights.hatenablog.com/entry/2023/08/18/073000)
 - [Task (go-task) メモ-25 (loop over variables, ループ機能, 変数の値をループ)](https://devlights.hatenablog.com/entry/2023/08/21/073000)
 - [Task (go-task) メモ-26 (renaming variable, ループ機能, ループ変数の名前を変更)](https://devlights.hatenablog.com/entry/2023/08/22/073000)
+- [Task (go-task) メモ-27 (loop over task, ループ機能, ループ内で別タスクを呼び出し)](https://devlights.hatenablog.com/entry/2023/08/23/073000)
 
 ## golang
 
