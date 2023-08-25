@@ -301,6 +301,7 @@
 
 ## vim
 
+- [vim で ビープ音 を鳴らないようにする](https://devlights.hatenablog.com/entry/2023/08/25/073000)
 - [vim で tail -f みたいに変更があれば自動で再読み込みさせる](https://devlights.hatenablog.com/entry/2023/08/24/073000)
 - [Windowsで右クリックに「Vimで開く」を追加 (レジストリ)](https://devlights.hatenablog.com/entry/2023/08/10/073000)
 - [AstroNvim (nvimをIDEみたいにするプラグイン集)](https://devlights.hatenablog.com/entry/2023/03/20/073000)
