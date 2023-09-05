@@ -303,6 +303,7 @@
 
 ## vim
 
+- [vim で 直前のビジュアルモードでの選択状態を復元 (gv)](https://devlights.hatenablog.com/entry/2023/09/05/073000)
 - [vim で 検索のハイライト（強調表示） を消す](https://devlights.hatenablog.com/entry/2023/09/01/073000)
 - [vim で 普通のエディタ の Ctrl+a, Ctrl+c (全選択してコピー) と同じことしたい](https://devlights.hatenablog.com/entry/2023/08/28/073000)
 - [vim で ビープ音 を鳴らないようにする](https://devlights.hatenablog.com/entry/2023/08/25/073000)
