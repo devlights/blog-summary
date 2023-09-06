@@ -808,6 +808,7 @@
 - [Goメモ-335 (uber-go/nilaway)(nilの可能性をチェックしてくれる静的解析ツール)(動いた）](https://devlights.hatenablog.com/entry/2023/08/02/073000)
 - [Goメモ-336 (append()の特殊な仕様)(append([]byte, string...))](https://devlights.hatenablog.com/entry/2023/08/04/073000)
 - [Goメモ-337 (Go 1.21 リリース)](https://devlights.hatenablog.com/entry/2023/08/14/073000)
+- [Goメモ-338 ([]byteに対して文字列を追加するやり方の速度比較)(fmt.Sprintf, fmt.Appenf, 直接append)](https://devlights.hatenablog.com/entry/2023/09/06/073000)
 
 ## python
 
