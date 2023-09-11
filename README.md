@@ -36,6 +36,7 @@
 
 ## wsl-docker
 
+- [Linux (WSL) の環境に Google Chrome をインストール](https://devlights.hatenablog.com/entry/2023/09/11/073000)
 - [Windowsターミナルは wt で起動できる](https://devlights.hatenablog.com/entry/2023/06/26/073000)
 - [WSLでdevboxを使う](https://devlights.hatenablog.com/entry/2023/03/15/073000)
 - [WSLでGUIアプリとsystemdが使えるようになっていた](https://devlights.hatenablog.com/entry/2023/01/20/073000)
