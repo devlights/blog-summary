@@ -5,6 +5,7 @@
 
 ## 目次
 
+- [javascript](#javascript)
 - [WSL,Docker](#wsl-docker)
 - [Java](#java)
 - [Flutter/Dart](#flutter)
@@ -33,6 +34,10 @@
 - [いろいろTips](#misc)
 
 ---
+
+## javascript
+
+- [bun 1.0 がリリース](https://devlights.hatenablog.com/entry/2023/09/13/073000)
 
 ## wsl-docker
 
