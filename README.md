@@ -1445,6 +1445,7 @@
 
 ## misc
 
+- [RustRover (JetBrainsのRust 用 IDE, EAP)](https://devlights.hatenablog.com/entry/2023/09/18/073000)
 - [Scoop使い方まとめ（自分用）](https://devlights.hatenablog.com/entry/2023/09/04/073000)
 - [SQLiteにBEGIN CONCURRENT（複数クライアントからの同時書き込み）が実装されるみたい](https://devlights.hatenablog.com/entry/2023/08/31/073000)
 - [ビギナーが学ぶべき 570 のストーリー (570 Stories To Learn About Beginners)(hackernoon)](https://devlights.hatenablog.com/entry/2023/08/08/073000)
