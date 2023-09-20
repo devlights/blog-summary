@@ -821,6 +821,7 @@
 - [Goメモ-338 ([]byteに対して文字列を追加するやり方の速度比較)(fmt.Sprintf, fmt.Appenf, 直接append)](https://devlights.hatenablog.com/entry/2023/09/06/073000)
 - [Goメモ-339 (Gorilla web toolkitがアーカイブ状態から復帰していた)(gorilla/muxとか)](https://devlights.hatenablog.com/entry/2023/09/15/073000)
 - [Goメモ-340 (ExcelのワークブックをPDFにしたい)(excel2pdf)](https://devlights.hatenablog.com/entry/2023/09/19/073000)
+- [Goメモ-341 (WordファイルをPDFにしたい)(word2pdf)](https://devlights.hatenablog.com/entry/2023/09/20/073000)
 
 ## python
 
