@@ -41,6 +41,7 @@
 
 ## wsl-docker
 
+- [WSL 2.0.0 がプレリリースされた (autoMemoryReclaim, sparseVhd)](https://devlights.hatenablog.com/entry/2023/09/22/073000)
 - [Linux (WSL) の環境に Google Chrome をインストール](https://devlights.hatenablog.com/entry/2023/09/11/073000)
 - [Windowsターミナルは wt で起動できる](https://devlights.hatenablog.com/entry/2023/06/26/073000)
 - [WSLでdevboxを使う](https://devlights.hatenablog.com/entry/2023/03/15/073000)
