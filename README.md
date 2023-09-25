@@ -1448,6 +1448,7 @@
 
 ## misc
 
+- [DataGripで古い SQL Server に接続する際に「TLSv1 was negotiated. Please update server and client to use TLSv1.2 at minimum.」って出たときの対処方法](https://devlights.hatenablog.com/entry/2023/09/25/073000)
 - [RustRover (JetBrainsのRust 用 IDE, EAP)](https://devlights.hatenablog.com/entry/2023/09/18/073000)
 - [Scoop使い方まとめ（自分用）](https://devlights.hatenablog.com/entry/2023/09/04/073000)
 - [SQLiteにBEGIN CONCURRENT（複数クライアントからの同時書き込み）が実装されるみたい](https://devlights.hatenablog.com/entry/2023/08/31/073000)
