@@ -466,6 +466,7 @@
 - [Task (go-task) メモ-27 (loop over task, ループ機能, ループ内で別タスクを呼び出し)](https://devlights.hatenablog.com/entry/2023/08/23/073000)
 - [Task (go-task) メモ-28 (不要なビルドを行わないようにする, Prevent unnecessary work)](https://devlights.hatenablog.com/entry/2023/09/07/073000)
 - [Task (go-task) メモ-29 (Windows上でコマンドを実行する場合のやり方)](https://devlights.hatenablog.com/entry/2023/09/14/073000)
+- [Task (go-task) メモ-30 (グローバル タスクファイル)(-g, --global)](https://devlights.hatenablog.com/entry/2023/09/26/073000)
 
 ## golang
 
