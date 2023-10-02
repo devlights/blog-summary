@@ -826,6 +826,7 @@
 - [Goメモ-339 (Gorilla web toolkitがアーカイブ状態から復帰していた)(gorilla/muxとか)](https://devlights.hatenablog.com/entry/2023/09/15/073000)
 - [Goメモ-340 (ExcelのワークブックをPDFにしたい)(excel2pdf)](https://devlights.hatenablog.com/entry/2023/09/19/073000)
 - [Goメモ-341 (WordファイルをPDFにしたい)(word2pdf)](https://devlights.hatenablog.com/entry/2023/09/20/073000)
+- [Goメモ-342 (Go では nil 同士を比較しても同じにならない場合がある)(Nil isn't equal to Nil)](https://devlights.hatenablog.com/entry/2023/10/02/073000)
 
 ## python
 
