@@ -369,6 +369,7 @@
 
 ## chromebook
 
+- [Chromebookの自動ソフトウェア更新の期間が１０年に伸びた](https://devlights.hatenablog.com/entry/2023/10/05/073000)
 - [chromebookでショートカット一覧を表示するキーボードショートカット](https://devlights.hatenablog.com/entry/2023/08/15/073000)
 - [Chromeでブックマークバーにフォーカスを当てるショートカット](https://devlights.hatenablog.com/entry/2021/01/11/190529)
 - [Chromebook の Linux コンテナ の python3 で venv と pip を使えるようにする](https://devlights.hatenablog.com/entry/2020/11/02/014207)
