@@ -829,6 +829,7 @@
 - [Goメモ-341 (WordファイルをPDFにしたい)(word2pdf)](https://devlights.hatenablog.com/entry/2023/09/20/073000)
 - [Goメモ-342 (Go では nil 同士を比較しても同じにならない場合がある)(Nil isn't equal to Nil)](https://devlights.hatenablog.com/entry/2023/10/02/073000)
 - [Goメモ-343 (UTF-8の各文字が何バイトであるのかを判定する)](https://devlights.hatenablog.com/entry/2023/10/03/073000)
+- [Goメモ-344 (CodeSandboxにてGoがサポートされてた）](https://devlights.hatenablog.com/entry/2023/10/06/073000)
 
 ## python
 
