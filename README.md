@@ -965,6 +965,7 @@
 - [Pythonメモ-122 (NiceGUI)](https://devlights.hatenablog.com/entry/2022/10/12/073000)
 - [Pythonメモ-123 (Python 3.11 リリース)](https://devlights.hatenablog.com/entry/2022/10/28/073000)
 - [Codon (high-performance Python compiler, MITが発表)](https://devlights.hatenablog.com/entry/2023/05/22/073000)
+- [Pythonメモ-124 (Python 3.12 リリース)](https://devlights.hatenablog.com/entry/2023/10/10/073000)
 
 ## dotnet
 
