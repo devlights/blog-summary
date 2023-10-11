@@ -312,6 +312,7 @@
 
 ## vim
 
+- [直近の置換を同じパターンとフラグで繰り返す (:&&)](https://devlights.hatenablog.com/entry/2023/10/11/073000)
 - [findの結果を引数にして vim を開きたい](https://devlights.hatenablog.com/entry/2023/09/12/073000)
 - [vim で 直前のビジュアルモードでの選択状態を復元 (gv)](https://devlights.hatenablog.com/entry/2023/09/05/073000)
 - [vim で 検索のハイライト（強調表示） を消す](https://devlights.hatenablog.com/entry/2023/09/01/073000)
