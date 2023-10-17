@@ -970,6 +970,7 @@
 - [Pythonメモ-123 (Python 3.11 リリース)](https://devlights.hatenablog.com/entry/2022/10/28/073000)
 - [Codon (high-performance Python compiler, MITが発表)](https://devlights.hatenablog.com/entry/2023/05/22/073000)
 - [Pythonメモ-124 (Python 3.12 リリース)](https://devlights.hatenablog.com/entry/2023/10/10/073000)
+- [Pythonメモ-125 (a=a+bとa+=bは同じ結果にはならない時もある)(list, \_\_add\_\_, \_\_iadd\_\_)](https://devlights.hatenablog.com/entry/2023/10/17/073000)
 
 ## dotnet
 
