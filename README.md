@@ -1462,6 +1462,7 @@
 
 ## misc
 
+- [Tera Term 5.0 がリリース (rsa-sha2対応, 内部がUnicode化された)](https://devlights.hatenablog.com/entry/2023/10/19/073000)
 - [Gboard 帽バージョン（Google, ネタ, 毎年恒例)](https://devlights.hatenablog.com/entry/2023/10/04/073000)
 - [BudouX (Google, 軽量な分かち書き器, Chrome 119から)](https://devlights.hatenablog.com/entry/2023/09/28/073000)
 - [DataGripで古い SQL Server に接続する際に「TLSv1 was negotiated. Please update server and client to use TLSv1.2 at minimum.」って出たときの対処方法](https://devlights.hatenablog.com/entry/2023/09/25/073000)
