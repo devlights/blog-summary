@@ -314,6 +314,7 @@
 
 ## vim
 
+- [vim-plugで不要になったプラグインを削除したい](https://devlights.hatenablog.com/entry/2023/10/24/073000)
 - [:colderと:cnewerでquickfixリストを行き来する](https://devlights.hatenablog.com/entry/2023/10/13/073000)
 - [最後に検索を行ったパターンを挿入 (i_CTRL-R + /)](https://devlights.hatenablog.com/entry/2023/10/12/073000)
 - [直近の置換を同じパターンとフラグで繰り返す (:&&)](https://devlights.hatenablog.com/entry/2023/10/11/073000)
