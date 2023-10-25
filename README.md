@@ -837,6 +837,7 @@
 - [Goメモ-342 (Go では nil 同士を比較しても同じにならない場合がある)(Nil isn't equal to Nil)](https://devlights.hatenablog.com/entry/2023/10/02/073000)
 - [Goメモ-343 (UTF-8の各文字が何バイトであるのかを判定する)](https://devlights.hatenablog.com/entry/2023/10/03/073000)
 - [Goメモ-344 (CodeSandboxにてGoがサポートされてた）](https://devlights.hatenablog.com/entry/2023/10/06/073000)
+- [Goメモ-345 (Go 1.22で http.ServeMux にパターンマッチング機能が追加される）(gotip, net/http)](https://devlights.hatenablog.com/entry/2023/10/25/073000)
 
 ## python
 
