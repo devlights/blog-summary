@@ -145,6 +145,7 @@
 
 ## linux
 
+- [catした内容の特定範囲だけ表示する (cat, sed)](https://devlights.hatenablog.com/entry/2023/10/26/073000)
 - [Atuinで上矢印キーの動きだけ元に戻す](https://devlights.hatenablog.com/entry/2023/10/23/073000)
 - [Atuin (Magical Shell History, シェルの履歴管理を便利にしてくれる)](https://devlights.hatenablog.com/entry/2023/10/20/073000)
 - [特定のCPUコアでプログラムを実行する (linux, taskset)](https://devlights.hatenablog.com/entry/2023/09/29/073000)
