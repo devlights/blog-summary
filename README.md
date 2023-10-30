@@ -392,6 +392,7 @@
 
 ## vscode
 
+- [VSCodeをフォークして作られているAIコードエディタ (Cursor)](https://devlights.hatenablog.com/entry/2023/10/30/073000)
 - [VSCodeの C# 向け拡張機能 「C# Dev Kit」が一般提供されてた](https://devlights.hatenablog.com/entry/2023/10/16/073000)
 - [便利なのに個人的によく忘れるvscodeの編集コマンド](https://devlights.hatenablog.com/entry/2023/06/21/073000)
 - [C# Dev Kit (VisualStudio Code, プレビューリリース)](https://devlights.hatenablog.com/entry/2023/06/16/073000)
