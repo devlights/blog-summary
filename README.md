@@ -145,6 +145,7 @@
 
 ## linux
 
+- [AppImageという形式のファイル (linux)](https://devlights.hatenablog.com/entry/2023/10/31/073000)
 - [catした内容の特定範囲だけ表示する (cat, sed)](https://devlights.hatenablog.com/entry/2023/10/26/073000)
 - [Atuinで上矢印キーの動きだけ元に戻す](https://devlights.hatenablog.com/entry/2023/10/23/073000)
 - [Atuin (Magical Shell History, シェルの履歴管理を便利にしてくれる)](https://devlights.hatenablog.com/entry/2023/10/20/073000)
@@ -841,6 +842,7 @@
 - [Goメモ-344 (CodeSandboxにてGoがサポートされてた）](https://devlights.hatenablog.com/entry/2023/10/06/073000)
 - [Goメモ-345 (Go 1.22で http.ServeMux にパターンマッチング機能が追加される）(gotip, net/http)](https://devlights.hatenablog.com/entry/2023/10/25/073000)
 - [Goメモ-346 (awesome-slog)(slogパッケージのカスタムハンドラへのリンク集)](https://devlights.hatenablog.com/entry/2023/10/27/073000)
+- [Goメモ-347 (plush)(JSPライクな書き方が出来るテンプレートエンジン)](https://devlights.hatenablog.com/entry/2023/11/01/073000)
 
 ## python
 
