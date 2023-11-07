@@ -981,6 +981,7 @@
 - [Pythonメモ-124 (Python 3.12 リリース)](https://devlights.hatenablog.com/entry/2023/10/10/073000)
 - [Pythonメモ-125 (a=a+bとa+=bは同じ結果にはならない時もある)(list, \_\_add\_\_, \_\_iadd\_\_)](https://devlights.hatenablog.com/entry/2023/10/17/073000)
 - [Pythonメモ-126 (bpython)(REPL, シンタックスハイライト, 補完)](https://devlights.hatenablog.com/entry/2023/10/18/073000)
+- [Pythonメモ-127 (pyarmor)(pythonのコードを難読化)](https://devlights.hatenablog.com/entry/2023/11/06/073000)
 
 ## dotnet
 
@@ -1471,6 +1472,7 @@
 
 ## misc
 
+- [OpenAI DevDay](https://devlights.hatenablog.com/entry/2023/11/07/073000)
 - [Tera Term 5.0 がリリース (rsa-sha2対応, 内部がUnicode化された)](https://devlights.hatenablog.com/entry/2023/10/19/073000)
 - [Gboard 帽バージョン（Google, ネタ, 毎年恒例)](https://devlights.hatenablog.com/entry/2023/10/04/073000)
 - [BudouX (Google, 軽量な分かち書き器, Chrome 119から)](https://devlights.hatenablog.com/entry/2023/09/28/073000)
