@@ -1474,6 +1474,7 @@
 
 ## misc
 
+- [方眼DIFF (Excelファイルを比較してくれるツール)](https://devlights.hatenablog.com/entry/2023/11/10/073000)
 - [OpenAI DevDay](https://devlights.hatenablog.com/entry/2023/11/07/073000)
 - [Tera Term 5.0 がリリース (rsa-sha2対応, 内部がUnicode化された)](https://devlights.hatenablog.com/entry/2023/10/19/073000)
 - [Gboard 帽バージョン（Google, ネタ, 毎年恒例)](https://devlights.hatenablog.com/entry/2023/10/04/073000)
