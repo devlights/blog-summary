@@ -1474,6 +1474,7 @@
 
 ## misc
 
+- [グレープシティがメシウスに社名変更](https://devlights.hatenablog.com/entry/2023/11/13/073000)
 - [方眼DIFF (Excelファイルを比較してくれるツール)](https://devlights.hatenablog.com/entry/2023/11/10/073000)
 - [OpenAI DevDay](https://devlights.hatenablog.com/entry/2023/11/07/073000)
 - [Tera Term 5.0 がリリース (rsa-sha2対応, 内部がUnicode化された)](https://devlights.hatenablog.com/entry/2023/10/19/073000)
