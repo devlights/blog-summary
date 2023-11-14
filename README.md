@@ -845,6 +845,8 @@
 - [Goメモ-347 (plush)(JSPライクな書き方が出来るテンプレートエンジン)](https://devlights.hatenablog.com/entry/2023/11/01/073000)
 - [Goメモ-348 (シングルトンパターン)(design-pattern, singleton)](https://devlights.hatenablog.com/entry/2023/11/02/073000)
 - [Goメモ-349 (math/bigを使って丸め誤差が出ないように計算する)](https://devlights.hatenablog.com/entry/2023/11/08/073000)
+- [Goメモ-350 (github.com/shopspring/decimalを使って計算)](https://devlights.hatenablog.com/entry/2023/11/09/073000)
+- [Goメモ-351 (sync.OnceFunc)(go 1.21から追加)](https://devlights.hatenablog.com/entry/2023/11/14/073000)
 
 ## python
 
