@@ -316,6 +316,7 @@
 
 ## vim
 
+- [Vim Bootstrap (vimrcを出力してくれるサービス)](https://devlights.hatenablog.com/entry/2023/11/15/073000)
 - [vim-plugで不要になったプラグインを削除したい](https://devlights.hatenablog.com/entry/2023/10/24/073000)
 - [:colderと:cnewerでquickfixリストを行き来する](https://devlights.hatenablog.com/entry/2023/10/13/073000)
 - [最後に検索を行ったパターンを挿入 (i_CTRL-R + /)](https://devlights.hatenablog.com/entry/2023/10/12/073000)
