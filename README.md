@@ -848,6 +848,7 @@
 - [Goメモ-349 (math/bigを使って丸め誤差が出ないように計算する)](https://devlights.hatenablog.com/entry/2023/11/08/073000)
 - [Goメモ-350 (github.com/shopspring/decimalを使って計算)](https://devlights.hatenablog.com/entry/2023/11/09/073000)
 - [Goメモ-351 (sync.OnceFunc)(go 1.21から追加)](https://devlights.hatenablog.com/entry/2023/11/14/073000)
+- [Goメモ-352 (sync.OnceValue)(go 1.21から追加)](https://devlights.hatenablog.com/entry/2023/11/16/073000)
 
 ## python
 
