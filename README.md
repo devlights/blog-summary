@@ -850,6 +850,7 @@
 - [Goメモ-351 (sync.OnceFunc)(go 1.21から追加)](https://devlights.hatenablog.com/entry/2023/11/14/073000)
 - [Goメモ-352 (sync.OnceValue)(go 1.21から追加)](https://devlights.hatenablog.com/entry/2023/11/16/073000)
 - [Goメモ-353 (sync.OnceValues)(go 1.21から追加)](https://devlights.hatenablog.com/entry/2023/11/17/073000)
+- [Goメモ-354 (Fourteen Years of Go)(Goは14歳になった)](https://devlights.hatenablog.com/entry/2023/11/20/073000)
 
 ## python
 
