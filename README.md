@@ -1480,6 +1480,7 @@
 
 ## misc
 
+- [Deno KVがセルフホスト可能に](https://devlights.hatenablog.com/entry/2023/11/24/073000)
 - [opensslを使ってランダムなバイト列を生成 (openssl rand)](https://devlights.hatenablog.com/entry/2023/11/22/073000)
 - [sqlite3にて結果をマークダウンで出力 (.mode markdown)](https://devlights.hatenablog.com/entry/2023/11/21/073000)
 - [グレープシティがメシウスに社名変更](https://devlights.hatenablog.com/entry/2023/11/13/073000)
