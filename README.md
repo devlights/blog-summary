@@ -1481,6 +1481,7 @@
 
 ## misc
 
+- [Monaspace (フォント, Githubが公開)](https://devlights.hatenablog.com/entry/2023/11/28/073000)
 - [Deno KVがセルフホスト可能に](https://devlights.hatenablog.com/entry/2023/11/24/073000)
 - [opensslを使ってランダムなバイト列を生成 (openssl rand)](https://devlights.hatenablog.com/entry/2023/11/22/073000)
 - [sqlite3にて結果をマークダウンで出力 (.mode markdown)](https://devlights.hatenablog.com/entry/2023/11/21/073000)
