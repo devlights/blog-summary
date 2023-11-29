@@ -1416,6 +1416,7 @@
 
 ## csharp
 
+- [Windows FormsのProgressBarの進みがちょっとだけ遅れる](https://devlights.hatenablog.com/entry/2023/11/29/073000)
 - [dotnet (.net framework) でキープアライブプローブを送信する (Windows, Linux, Keep Alive Probe)](https://devlights.hatenablog.com/entry/2023/06/28/073000)
 - [.NET 6 を Docker コンテナで試す (Dockerfile, VSCode)](https://devlights.hatenablog.com/entry/2021/11/10/154155)
 - [.NET 6 と VisualStudio 2022 がリリース (LTS版, C# 10)](https://devlights.hatenablog.com/entry/2021/11/09/134512)
