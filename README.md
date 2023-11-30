@@ -852,6 +852,7 @@
 - [Goメモ-353 (sync.OnceValues)(go 1.21から追加)](https://devlights.hatenablog.com/entry/2023/11/17/073000)
 - [Goメモ-354 (Fourteen Years of Go)(Goは14歳になった)](https://devlights.hatenablog.com/entry/2023/11/20/073000)
 - [Goメモ-355 (メソッド値とメソッド式)(method value, method expression)](https://devlights.hatenablog.com/entry/2023/11/27/073000)
+- [Goメモ-356 (Go側からsoファイルを作成してPythonとCで利用)(c-shared)](https://devlights.hatenablog.com/entry/2023/11/30/073000)
 
 ## python
 
