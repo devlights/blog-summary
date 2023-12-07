@@ -857,6 +857,7 @@
 - [Goメモ-358 (fmt.Stringerとfmt.GoStringer)(%v, %+v, %#v, %s)](https://devlights.hatenablog.com/entry/2023/12/04/073000)
 - [Goメモ-359 (翌月の日付を求める)](https://devlights.hatenablog.com/entry/2023/12/05/073000)
 - [Goメモ-360 (月の日数を求める)](https://devlights.hatenablog.com/entry/2023/12/06/073000)
+- [Goメモ-361 (オブジェクトをプーリングして再利用)(sync.Pool)](https://devlights.hatenablog.com/entry/2023/12/07/073000)
 
 ## python
 
