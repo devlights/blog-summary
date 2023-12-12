@@ -860,6 +860,7 @@
 - [Goメモ-359 (翌月の日付を求める)](https://devlights.hatenablog.com/entry/2023/12/05/073000)
 - [Goメモ-360 (月の日数を求める)](https://devlights.hatenablog.com/entry/2023/12/06/073000)
 - [Goメモ-361 (オブジェクトをプーリングして再利用)(sync.Pool)](https://devlights.hatenablog.com/entry/2023/12/07/073000)
+- [Goメモ-362 (文字列とバイト列のクローン)(strings.Clone, bytes.Clone)](https://devlights.hatenablog.com/entry/2023/12/12/073000)
 
 ## python
 
