@@ -863,6 +863,7 @@
 - [Goメモ-360 (月の日数を求める)](https://devlights.hatenablog.com/entry/2023/12/06/073000)
 - [Goメモ-361 (オブジェクトをプーリングして再利用)(sync.Pool)](https://devlights.hatenablog.com/entry/2023/12/07/073000)
 - [Goメモ-362 (文字列とバイト列のクローン)(strings.Clone, bytes.Clone)](https://devlights.hatenablog.com/entry/2023/12/12/073000)
+- [Goメモ-363 (VCSのリビジョン情報をランタイム時に取得)(runtime/debug.BuildInfo, vcs.revision)](https://devlights.hatenablog.com/entry/2023/12/20/073000)
 
 ## python
 
@@ -1494,6 +1495,7 @@
 
 ## misc
 
+- [7-ZIPで解凍する際に指定する e と x の違い](https://devlights.hatenablog.com/entry/2023/12/19/073000)
 - [JetBrains AI サービスがリリース (GitHub Copilot, Cursor)](https://devlights.hatenablog.com/entry/2023/12/13/073000)
 - [Monaspace (フォント, Githubが公開)](https://devlights.hatenablog.com/entry/2023/11/28/073000)
 - [Deno KVがセルフホスト可能に](https://devlights.hatenablog.com/entry/2023/11/24/073000)
