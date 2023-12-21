@@ -133,6 +133,7 @@
 
 ## shell
 
+- [とほほさんのPowerShell入門](https://devlights.hatenablog.com/entry/2023/12/21/073000)
 - [Powershell で & でジョブ実行](https://devlights.hatenablog.com/entry/2022/09/30/073000)
 - [Powershell で複数ファイルを指定して削除したいときのやり方](https://devlights.hatenablog.com/entry/2022/04/27/073000)
 - [VSCode で 「scoop で入れた pwsh」 をターミナルプロファイルに追加する](https://devlights.hatenablog.com/entry/2022/01/26/073000)
