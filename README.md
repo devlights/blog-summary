@@ -1496,6 +1496,7 @@
 
 ## misc
 
+- [OSS観光名所](https://devlights.hatenablog.com/entry/2023/12/22/073000)
 - [7-ZIPで解凍する際に指定する e と x の違い](https://devlights.hatenablog.com/entry/2023/12/19/073000)
 - [JetBrains AI サービスがリリース (GitHub Copilot, Cursor)](https://devlights.hatenablog.com/entry/2023/12/13/073000)
 - [Monaspace (フォント, Githubが公開)](https://devlights.hatenablog.com/entry/2023/11/28/073000)
