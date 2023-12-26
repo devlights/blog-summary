@@ -241,6 +241,7 @@
 
 ## gitpod
 
+- [gitpodコマンドがリリース (Gitpod CLI, ローカル, ワークスペース作成など)](https://devlights.hatenablog.com/entry/2023/12/26/073000)
 - [Gitpod のエディタに ブラウザ上でターミナル が選べるようになった (Browser Terminal)](https://devlights.hatenablog.com/entry/2023/09/08/073000)
 - [Gitpod の gpコマンドのちょっと便利なサブコマンド達](https://devlights.hatenablog.com/entry/2023/04/20/073000)
 - [Gitpod の gpコマンドにvalidateサブコマンドが追加（experimental, rebuildサブコマンドは無くなった)](https://devlights.hatenablog.com/entry/2023/04/14/073000)
