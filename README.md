@@ -5,6 +5,7 @@
 
 ## 目次
 
+- [deno](#deno)
 - [javascript](#javascript)
 - [WSL,Docker](#wsl-docker)
 - [Java](#java)
@@ -34,6 +35,10 @@
 - [いろいろTips](#misc)
 
 ---
+
+## deno
+
+- [Deno 1.39 がリリース](https://devlights.hatenablog.com/entry/2023/12/27/073000)
 
 ## javascript
 
