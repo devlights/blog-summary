@@ -871,6 +871,7 @@
 - [Goメモ-361 (オブジェクトをプーリングして再利用)(sync.Pool)](https://devlights.hatenablog.com/entry/2023/12/07/073000)
 - [Goメモ-362 (文字列とバイト列のクローン)(strings.Clone, bytes.Clone)](https://devlights.hatenablog.com/entry/2023/12/12/073000)
 - [Goメモ-363 (VCSのリビジョン情報をランタイム時に取得)(runtime/debug.BuildInfo, vcs.revision)](https://devlights.hatenablog.com/entry/2023/12/20/073000)
+- [Goメモ-364 (*sql.Rowsから[]map[string]anyに変換)](https://devlights.hatenablog.com/entry/2023/12/28/073000)
 
 ## python
 
