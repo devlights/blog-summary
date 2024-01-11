@@ -5,6 +5,7 @@
 
 ## 目次
 
+- [Nushell](#nushell)
 - [deno](#deno)
 - [javascript](#javascript)
 - [WSL,Docker](#wsl-docker)
@@ -35,6 +36,10 @@
 - [いろいろTips](#misc)
 
 ---
+
+## nushell
+
+- [Nushell (Rust, PowerShellちっく, pipelines)](https://devlights.hatenablog.com/entry/2024/01/11/073000)
 
 ## deno
 
