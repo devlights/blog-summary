@@ -41,6 +41,7 @@
 
 - [Nushell (Rust, PowerShellちっく, pipelines)](https://devlights.hatenablog.com/entry/2024/01/11/073000)
 - [Nushellメモ-01 (参考情報たち)](https://devlights.hatenablog.com/entry/2024/01/12/073000)
+- [Nushellメモ-02 (gitコマンドを使うときにブランチ名を補完したい)](https://devlights.hatenablog.com/entry/2024/01/15/073000)
 
 
 ## deno
