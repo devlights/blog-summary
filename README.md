@@ -882,6 +882,7 @@
 - [Goメモ-364 (*sql.Rowsから[]map[string]anyに変換)](https://devlights.hatenablog.com/entry/2023/12/28/073000)
 - [Goメモ-365 (gops)(google/gops, Goのプロセスを一覧表示)](https://devlights.hatenablog.com/entry/2024/01/09/073000)
 - [Goメモ-366 (ドットインポート)(dot import)](https://devlights.hatenablog.com/entry/2024/01/10/073000)
+- [Goメモ-367 (Go 1.22: Interactive release notes, リリースノート)](https://devlights.hatenablog.com/entry/2024/01/16/073000)
 
 ## python
 
