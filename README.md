@@ -1514,6 +1514,7 @@
 
 ## misc
 
+- [JetBrains社の 2023年度 開発者エコシステムアンケート (C#のトレンド)](https://devlights.hatenablog.com/entry/2024/01/17/073000)
 - [画像ファイルについての情報](https://devlights.hatenablog.com/entry/2023/12/25/073000)
 - [OSS観光名所](https://devlights.hatenablog.com/entry/2023/12/22/073000)
 - [7-ZIPで解凍する際に指定する e と x の違い](https://devlights.hatenablog.com/entry/2023/12/19/073000)
