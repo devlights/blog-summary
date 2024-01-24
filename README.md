@@ -889,6 +889,7 @@
 - [Goメモ-369 (まだリリースされていない最新版の標準ライブラリのドキュメントを見る)(gotip, master)](https://devlights.hatenablog.com/entry/2024/01/19/073000)
 - [Goメモ-370 (Go 1.22 にて reflect.TypeFor が追加)](https://devlights.hatenablog.com/entry/2024/01/22/073000)
 - [Goメモ-371 (Go 1.22 にて slices.Concat が追加)](https://devlights.hatenablog.com/entry/2024/01/23/073000)
+- [Goメモ-372 (INIファイルを操作)(go-ini)](https://devlights.hatenablog.com/entry/2024/01/24/073000)
 
 ## python
 
