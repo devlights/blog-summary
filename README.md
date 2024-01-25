@@ -1521,6 +1521,7 @@
 
 ## misc
 
+- [difftastic (構文に基づいてファイルを比較するdiff, Rust)](https://devlights.hatenablog.com/entry/2024/01/25/073000)
 - [JetBrains社の 2023年度 開発者エコシステムアンケート (C#のトレンド)](https://devlights.hatenablog.com/entry/2024/01/17/073000)
 - [画像ファイルについての情報](https://devlights.hatenablog.com/entry/2023/12/25/073000)
 - [OSS観光名所](https://devlights.hatenablog.com/entry/2023/12/22/073000)
