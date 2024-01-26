@@ -1521,6 +1521,7 @@
 
 ## misc
 
+- [asciinema (ターミナルセッションを記録したり共有したり出来るCLIツール)](https://devlights.hatenablog.com/entry/2024/01/26/073000)
 - [difftastic (構文に基づいてファイルを比較するdiff, Rust)](https://devlights.hatenablog.com/entry/2024/01/25/073000)
 - [JetBrains社の 2023年度 開発者エコシステムアンケート (C#のトレンド)](https://devlights.hatenablog.com/entry/2024/01/17/073000)
 - [画像ファイルについての情報](https://devlights.hatenablog.com/entry/2023/12/25/073000)
