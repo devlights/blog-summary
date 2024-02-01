@@ -1524,6 +1524,7 @@
 
 ## misc
 
+- [clocの使い方メモ (特定言語のみ, 除外ディレクトリ設定, csv出力, tsv出力, markdown出力)](https://devlights.hatenablog.com/entry/2024/02/01/073000)
 - [asciinema (ターミナルセッションを記録したり共有したり出来るCLIツール)](https://devlights.hatenablog.com/entry/2024/01/26/073000)
 - [difftastic (構文に基づいてファイルを比較するdiff, Rust)](https://devlights.hatenablog.com/entry/2024/01/25/073000)
 - [JetBrains社の 2023年度 開発者エコシステムアンケート (C#のトレンド)](https://devlights.hatenablog.com/entry/2024/01/17/073000)
