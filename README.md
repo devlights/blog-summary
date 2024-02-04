@@ -893,6 +893,7 @@
 - [Goメモ-372 (INIファイルを操作)(go-ini)](https://devlights.hatenablog.com/entry/2024/01/24/073000)
 - [Goメモ-373 (Go 1.20 から %w を複数指定できるようになってた)(Wrapping multiple errors)](https://devlights.hatenablog.com/entry/2024/01/30/073000)
 - [Goメモ-374 (goimports を全goファイルに実施したい)](https://devlights.hatenablog.com/entry/2024/01/31/073000)
+- [Goメモ-375 (golang.org/x/tools/cmd/deadcodeを使ってデッドコードを調べる)](https://devlights.hatenablog.com/entry/2024/02/02/073000)
 
 ## python
 
