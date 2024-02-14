@@ -897,6 +897,7 @@
 - [Goメモ-374 (goimports を全goファイルに実施したい)](https://devlights.hatenablog.com/entry/2024/01/31/073000)
 - [Goメモ-375 (golang.org/x/tools/cmd/deadcodeを使ってデッドコードを調べる)](https://devlights.hatenablog.com/entry/2024/02/02/073000)
 - [Goメモ-376 (JSONのデコード時に不明なフィールドがある場合エラーとする)(DisallowUnknownFields)](https://devlights.hatenablog.com/entry/2024/02/05/073000)
+- [Goメモ-377 (Go 1.22 リリース)](https://devlights.hatenablog.com/entry/2024/02/14/073000)
 
 ## python
 
