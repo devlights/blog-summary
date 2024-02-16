@@ -1038,6 +1038,7 @@
 - [Pythonメモ-125 (a=a+bとa+=bは同じ結果にはならない時もある)(list, \_\_add\_\_, \_\_iadd\_\_)](https://devlights.hatenablog.com/entry/2023/10/17/073000)
 - [Pythonメモ-126 (bpython)(REPL, シンタックスハイライト, 補完)](https://devlights.hatenablog.com/entry/2023/10/18/073000)
 - [Pythonメモ-127 (pyarmor)(pythonのコードを難読化)](https://devlights.hatenablog.com/entry/2023/11/06/073000)
+- [Pythonメモ-128 (pipx)(自動でvenv環境つくってインストールしてくれる)](https://devlights.hatenablog.com/entry/2024/02/16/073000)
 
 ## dotnet
 
