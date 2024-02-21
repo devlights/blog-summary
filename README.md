@@ -149,6 +149,7 @@
 - [Flutterメモ-33 (wsl2 + systemd で Flutter が snap からインストール出来るようになった)](https://devlights.hatenablog.com/entry/2023/02/01/073000)
 - [Flutterメモ-34 (Flutter 3.10リリース)](https://devlights.hatenablog.com/entry/2023/05/16/073000)
 - [Flutterメモ-35 (有用なパッケージのリストがあるところ)(flutter-awesome, flutter-gems)](https://devlights.hatenablog.com/entry/2023/12/15/073000)
+- [Flutterメモ-36 (Flutter 3.19, Dart 3.3 リリース)](https://devlights.hatenablog.com/entry/2024/02/22/073000)
 
 ## shell
 
