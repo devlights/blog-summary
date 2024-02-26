@@ -1535,6 +1535,7 @@
 
 ## misc
 
+- [Avalonia UIが .NET Foundationから脱退](https://devlights.hatenablog.com/entry/2024/02/26/073000)
 - [Superlist (Wunderlistの後継, Flutter)](https://devlights.hatenablog.com/entry/2024/02/20/073000)
 - [OpenGFW (中国のグレートファイアウォールをオープンソースで実装)](https://devlights.hatenablog.com/entry/2024/02/13/073000)
 - [PowerShellで実行するシンプルなポート解放確認スクリプト](https://devlights.hatenablog.com/entry/2024/02/08/073000)
