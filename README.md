@@ -1535,6 +1535,7 @@
 
 ## misc
 
+- [LPI-JapanのLinuxサーバー構築標準教科書がバージョンアップ](https://devlights.hatenablog.com/entry/2024/02/28/073000)
 - [浮動小数点を扱う場合の情報 (Microsoft Japan Visual Studio Support Team Blog)](https://devlights.hatenablog.com/entry/2024/02/27/073000)
 - [Avalonia UIが .NET Foundationから脱退](https://devlights.hatenablog.com/entry/2024/02/26/073000)
 - [Superlist (Wunderlistの後継, Flutter)](https://devlights.hatenablog.com/entry/2024/02/20/073000)
