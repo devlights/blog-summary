@@ -904,6 +904,7 @@
 - [Goメモ-376 (JSONのデコード時に不明なフィールドがある場合エラーとする)(DisallowUnknownFields)](https://devlights.hatenablog.com/entry/2024/02/05/073000)
 - [Goメモ-377 (Go 1.22 リリース)](https://devlights.hatenablog.com/entry/2024/02/14/073000)
 - [Goメモ-378 (garble, 難読化ツール)](https://devlights.hatenablog.com/entry/2024/02/21/073000)
+- [Goメモ-379 (otter, ハイパフォーマンスなキャッシュライブラリ)](https://devlights.hatenablog.com/entry/2024/03/04/073000)
 
 ## python
 
