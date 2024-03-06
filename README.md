@@ -906,6 +906,7 @@
 - [Goメモ-378 (garble, 難読化ツール)](https://devlights.hatenablog.com/entry/2024/02/21/073000)
 - [Goメモ-379 (otter, ハイパフォーマンスなキャッシュライブラリ)](https://devlights.hatenablog.com/entry/2024/03/04/073000)
 - [Goメモ-380 (構造体をそのままバイナリで出力したい)(binary.Write/Read)](https://devlights.hatenablog.com/entry/2024/03/05/073000)
+- [Goメモ-381 (パスワード付きZIPファイルを作成・解凍)](https://devlights.hatenablog.com/entry/2024/03/06/073000)
 
 ## python
 
