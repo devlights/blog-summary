@@ -1541,6 +1541,7 @@
 
 ## misc
 
+- [Chromeでキャッシュ消去とハード再読み込み（ハードリロード）する](https://devlights.hatenablog.com/entry/2024/03/11/073000)
 - [LPI-JapanのLinuxサーバー構築標準教科書がバージョンアップ](https://devlights.hatenablog.com/entry/2024/02/28/073000)
 - [浮動小数点を扱う場合の情報 (Microsoft Japan Visual Studio Support Team Blog)](https://devlights.hatenablog.com/entry/2024/02/27/073000)
 - [Avalonia UIが .NET Foundationから脱退](https://devlights.hatenablog.com/entry/2024/02/26/073000)
