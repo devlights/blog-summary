@@ -907,6 +907,8 @@
 - [Goメモ-379 (otter, ハイパフォーマンスなキャッシュライブラリ)](https://devlights.hatenablog.com/entry/2024/03/04/073000)
 - [Goメモ-380 (構造体をそのままバイナリで出力したい)(binary.Write/Read)](https://devlights.hatenablog.com/entry/2024/03/05/073000)
 - [Goメモ-381 (パスワード付きZIPファイルを作成・解凍)](https://devlights.hatenablog.com/entry/2024/03/06/073000)
+- [Goメモ-382 (C言語のようにバイト配列を構造体にキャスト)](https://devlights.hatenablog.com/entry/2024/03/07/073000)
+- [Goメモ-383 (前後の空白文字をトリミング)(strings.TrimSpace)](https://devlights.hatenablog.com/entry/2024/03/13/073000)
 
 ## python
 
