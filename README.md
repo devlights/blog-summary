@@ -150,6 +150,7 @@
 - [Flutterメモ-34 (Flutter 3.10リリース)](https://devlights.hatenablog.com/entry/2023/05/16/073000)
 - [Flutterメモ-35 (有用なパッケージのリストがあるところ)(flutter-awesome, flutter-gems)](https://devlights.hatenablog.com/entry/2023/12/15/073000)
 - [Flutterメモ-36 (Flutter 3.19, Dart 3.3 リリース)](https://devlights.hatenablog.com/entry/2024/02/22/073000)
+- [Flutterメモ-37 (flutter create で出力されるmain.dartのコメントを一気に除去する)](https://devlights.hatenablog.com/entry/2024/03/15/073000)
 
 ## shell
 
