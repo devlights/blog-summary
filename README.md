@@ -912,6 +912,7 @@
 - [Goメモ-383 (前後の空白文字をトリミング)(strings.TrimSpace)](https://devlights.hatenablog.com/entry/2024/03/13/073000)
 - [Goメモ-384 (Future/Promiseパターン)](https://devlights.hatenablog.com/entry/2024/03/14/073000)
 - [Goメモ-385 (Gio UI)(Cross-Platform GUI for Go)](https://devlights.hatenablog.com/entry/2024/03/18/073000)
+- [Goメモ-386 (環境変数周りのメモ-1)(os.Environ, 一括取得)](https://devlights.hatenablog.com/entry/2024/03/19/073000)
 
 ## python
 
