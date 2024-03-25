@@ -915,6 +915,7 @@
 - [Goメモ-386 (環境変数周りのメモ-1)(os.Environ, 一括取得)](https://devlights.hatenablog.com/entry/2024/03/19/073000)
 - [Goメモ-387 (環境変数周りのメモ-2)(os.GetEnv, 指定した環境変数の値を取得)](https://devlights.hatenablog.com/entry/2024/03/21/073000)
 - [Goメモ-388 (環境変数周りのメモ-3)(os.LookupEnv, 指定された環境変数の値を取得, 存在判定)](https://devlights.hatenablog.com/entry/2024/03/22/073000)
+- [Goメモ-389 (環境変数周りのメモ-4)(os.ExpandEnv, 文字列中の ${var} または $var を置換)](https://devlights.hatenablog.com/entry/2024/03/25/073000)
 
 ## python
 
