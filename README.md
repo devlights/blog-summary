@@ -918,6 +918,7 @@
 - [Goメモ-389 (環境変数周りのメモ-4)(os.ExpandEnv, 文字列中の ${var} または $var を置換)](https://devlights.hatenablog.com/entry/2024/03/25/073000)
 - [Goメモ-390 (環境変数周りのメモ-5)(os.Expand, マッピング関数に基づいて文字列の${var}または$varを置換)](https://devlights.hatenablog.com/entry/2024/03/26/073000)
 - [Goメモ-391 (環境変数周りのメモ-6)(os.Setenv, 現在のプロセス内で環境変数を設定)](https://devlights.hatenablog.com/entry/2024/03/27/073000)
+- [Goメモ-392 (環境変数周りのメモ-7)(os.Unsetenv, 現在のプロセス内で特定環境変数のクリア)](https://devlights.hatenablog.com/entry/2024/03/28/073000)
 
 ## python
 
