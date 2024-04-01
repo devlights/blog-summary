@@ -1062,6 +1062,7 @@
 - [Pythonメモ-128 (pipx)(自動でvenv環境つくってインストールしてくれる)](https://devlights.hatenablog.com/entry/2024/02/16/073000)
 - [Pythonメモ-129 (toolong)(リッチなtail -f, tl)](https://devlights.hatenablog.com/entry/2024/02/19/073000)
 - [Pythonメモ-130 (将来のCPythonにてGILがオプショナルになる)](https://devlights.hatenablog.com/entry/2024/03/08/073000)
+- [Pythonメモ-131 (bython)(Python with braces, ブレース付きのpython)](https://devlights.hatenablog.com/entry/2024/04/01/073000)
 
 ## dotnet
 
