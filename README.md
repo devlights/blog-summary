@@ -920,6 +920,7 @@
 - [Goメモ-391 (環境変数周りのメモ-6)(os.Setenv, 現在のプロセス内で環境変数を設定)](https://devlights.hatenablog.com/entry/2024/03/27/073000)
 - [Goメモ-392 (環境変数周りのメモ-7)(os.Unsetenv, 現在のプロセス内で特定環境変数のクリア)](https://devlights.hatenablog.com/entry/2024/03/28/073000)
 - [Goメモ-393 (環境変数周りのメモ-8)(os.Clearenv, 現在のプロセス内での全環境変数のクリア)](https://devlights.hatenablog.com/entry/2024/03/29/073000)
+- [Goメモ-394 (flag.FlagSetを使ってサブコマンドを実装)](https://devlights.hatenablog.com/entry/2024/04/02/073000)
 
 ## python
 
