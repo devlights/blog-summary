@@ -1559,6 +1559,7 @@
 
 ## misc
 
+- [gccの定義済みdefineを列挙 (gcc -dM -xc -E)](https://devlights.hatenablog.com/entry/2024/04/08/073000)
 - [ChatGPTでメッセージが送信出来ない件（反応しない、チャットが送信できない)](https://devlights.hatenablog.com/entry/2024/03/12/073000)
 - [Chromeでキャッシュ消去とハード再読み込み（ハードリロード）する](https://devlights.hatenablog.com/entry/2024/03/11/073000)
 - [LPI-JapanのLinuxサーバー構築標準教科書がバージョンアップ](https://devlights.hatenablog.com/entry/2024/02/28/073000)
