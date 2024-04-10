@@ -1559,6 +1559,7 @@
 
 ## misc
 
+- [C言語でちょっとしたサンプルつくるときのMakefile](https://devlights.hatenablog.com/entry/2024/04/10/073000)
 - [Bun 1.1 リリース (Windows版が提供された, Bun Shell)](https://devlights.hatenablog.com/entry/2024/04/09/073000)
 - [gccの定義済みdefineを列挙 (gcc -dM -xc -E)](https://devlights.hatenablog.com/entry/2024/04/08/073000)
 - [ChatGPTでメッセージが送信出来ない件（反応しない、チャットが送信できない)](https://devlights.hatenablog.com/entry/2024/03/12/073000)
