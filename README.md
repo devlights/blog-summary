@@ -926,6 +926,7 @@
 - [Goメモ-397 (現在実行中のプロセスのpidと名前を取得したい)](https://devlights.hatenablog.com/entry/2024/04/04/073000)
 - [Goメモ-398 (On the Go)(Youtubeの公式Go言語チャネルの短い動画集)](https://devlights.hatenablog.com/entry/2024/04/11/073000)
 - [Goメモ-399 (io.MultiWriterで複数の出力を一括で行う)](https://devlights.hatenablog.com/entry/2024/04/12/073000)
+- [Goメモ-400 (Range-Over Functions)(Go 1.22ではまだexperiment扱い, rangefunc)](https://devlights.hatenablog.com/entry/2024/04/15/073000)
 
 ## python
 
