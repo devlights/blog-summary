@@ -511,6 +511,7 @@
 - [Task (go-task) メモ-30 (グローバル タスクファイル)(-g, --global)](https://devlights.hatenablog.com/entry/2023/09/26/073000)
 - [Task (go-task) メモ-31 (インタラクティブなCLIアプリを起動する場合)(--interactive)](https://devlights.hatenablog.com/entry/2023/09/27/073000)
 - [Task (go-task) メモ-32 (リモートのタスクファイルを取り込んで実行)(remote-taskfile, 実験的機能)](https://devlights.hatenablog.com/entry/2023/12/14/073000_1)
+- [Task (go-task) メモ-33 (プラットフォームごとに実行するタスクを分岐)](https://devlights.hatenablog.com/entry/2024/04/17/073000)
 
 ## golang
 
