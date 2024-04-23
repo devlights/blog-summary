@@ -931,6 +931,8 @@
 - [Goメモ-400 (Range-Over Functions)(Go 1.22ではまだexperiment扱い, rangefunc)](https://devlights.hatenablog.com/entry/2024/04/15/073000)
 - [Goメモ-401 (ビットフィールドを楽に読み取りたい)(nokute78/go-bit)](https://devlights.hatenablog.com/entry/2024/04/16/073000)
 - [Goメモ-402 (複数のio.Readerを一括で読み込み)(io.MultiReader)](https://devlights.hatenablog.com/entry/2024/04/19/073000)
+- [Goメモ-403 (ミリ秒を表示)(time.Format)](https://devlights.hatenablog.com/entry/2024/04/22/073000)
+- [Goメモ-404 (キャンセル可能なスリープ処理)(time.Sleep, time.Ticker)](https://devlights.hatenablog.com/entry/2024/04/23/073000)
 
 ## python
 
