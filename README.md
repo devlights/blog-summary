@@ -1568,6 +1568,7 @@
 
 ## misc
 
+- [gcovとlcovとgenhtmlを使ってC言語のプログラムのカバレッジを計測してHTMLレポート出力](https://devlights.hatenablog.com/entry/2024/04/24/073000)
 - [C言語でちょっとしたサンプルつくるときのMakefile](https://devlights.hatenablog.com/entry/2024/04/10/073000)
 - [Bun 1.1 リリース (Windows版が提供された, Bun Shell)](https://devlights.hatenablog.com/entry/2024/04/09/073000)
 - [gccの定義済みdefineを列挙 (gcc -dM -xc -E)](https://devlights.hatenablog.com/entry/2024/04/08/073000)
