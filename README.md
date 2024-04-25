@@ -933,6 +933,7 @@
 - [Goメモ-402 (複数のio.Readerを一括で読み込み)(io.MultiReader)](https://devlights.hatenablog.com/entry/2024/04/19/073000)
 - [Goメモ-403 (ミリ秒を表示)(time.Format)](https://devlights.hatenablog.com/entry/2024/04/22/073000)
 - [Goメモ-404 (キャンセル可能なスリープ処理)(time.Sleep, time.Ticker)](https://devlights.hatenablog.com/entry/2024/04/23/073000)
+- [Goメモ-405 (構造体のパディングを可視化)(go-tools/cmd/structlayout)](https://devlights.hatenablog.com/entry/2024/04/25/073000)
 
 ## python
 
