@@ -1569,6 +1569,7 @@
 
 ## misc
 
+- [V言語 (The V Programming Language)](https://devlights.hatenablog.com/entry/2024/04/26/073000)
 - [gcovとlcovとgenhtmlを使ってC言語のプログラムのカバレッジを計測してHTMLレポート出力](https://devlights.hatenablog.com/entry/2024/04/24/073000)
 - [C言語でちょっとしたサンプルつくるときのMakefile](https://devlights.hatenablog.com/entry/2024/04/10/073000)
 - [Bun 1.1 リリース (Windows版が提供された, Bun Shell)](https://devlights.hatenablog.com/entry/2024/04/09/073000)
