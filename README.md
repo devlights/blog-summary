@@ -168,6 +168,7 @@
 
 ## linux
 
+- [Ubuntux 24.04 リリース (LTS)](https://devlights.hatenablog.com/entry/2024/05/01/073000)
 - [manコマンド終了時に画面クリアされないようにする (MANPAGER)](https://devlights.hatenablog.com/entry/2023/12/11/073000)
 - [lessコマンド終了時に画面クリアされないようにする (-X)](https://devlights.hatenablog.com/entry/2023/12/08/073000)
 - [AppImageという形式のファイル (linux)](https://devlights.hatenablog.com/entry/2023/10/31/073000)
