@@ -1570,6 +1570,7 @@
 
 ## misc
 
+- [Nix入門 (Zennで公開されている無償書籍)](https://devlights.hatenablog.com/entry/2024/05/02/073000)
 - [psqlで出力を縦にする \(\x\)](https://devlights.hatenablog.com/entry/2024/04/30/073000)
 - [V言語 \(The V Programming Language\)](https://devlights.hatenablog.com/entry/2024/04/26/073000)
 - [gcovとlcovとgenhtmlを使ってC言語のプログラムのカバレッジを計測してHTMLレポート出力](https://devlights.hatenablog.com/entry/2024/04/24/073000)
