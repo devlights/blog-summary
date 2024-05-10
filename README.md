@@ -938,6 +938,7 @@
 - [Goメモ-406 (最初のゼロ値ではない値を返す)(cmp.Or, go 1.22で追加)](https://devlights.hatenablog.com/entry/2024/05/07/073000)
 - [Goメモ-407 (cmp.Or, cmp.Compareを用いて複合キーのソート処理を実装)](https://devlights.hatenablog.com/entry/2024/05/08/073000)
 - [Goメモ-408 (書式表示で指定ビット桁を表示)(fmt, %0Nb)](https://devlights.hatenablog.com/entry/2024/05/09/073000)
+- [Goメモ-409 (teeコマンドのように読み出しながら別のストリームに書き込む)(io.TeeReader)](https://devlights.hatenablog.com/entry/2024/05/10/073000)
 
 ## python
 
