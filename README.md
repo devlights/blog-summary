@@ -939,6 +939,7 @@
 - [Goメモ-407 (cmp.Or, cmp.Compareを用いて複合キーのソート処理を実装)](https://devlights.hatenablog.com/entry/2024/05/08/073000)
 - [Goメモ-408 (書式表示で指定ビット桁を表示)(fmt, %0Nb)](https://devlights.hatenablog.com/entry/2024/05/09/073000)
 - [Goメモ-409 (teeコマンドのように読み出しながら別のストリームに書き込む)(io.TeeReader)](https://devlights.hatenablog.com/entry/2024/05/10/073000)
+- [Goメモ-410 (指定したサイズ分だけ読み出す)(io.LimitReader)](https://devlights.hatenablog.com/entry/2024/05/13/073000)
 
 ## python
 
