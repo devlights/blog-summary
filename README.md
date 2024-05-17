@@ -1578,6 +1578,7 @@
 
 ## misc
 
+- [Cascadia Code フォントがアップデート (2404.23)](https://devlights.hatenablog.com/entry/2024/05/17/073000)
 - [Nix入門 (Zennで公開されている無償書籍)](https://devlights.hatenablog.com/entry/2024/05/02/073000)
 - [psqlで出力を縦にする \(\x\)](https://devlights.hatenablog.com/entry/2024/04/30/073000)
 - [V言語 \(The V Programming Language\)](https://devlights.hatenablog.com/entry/2024/04/26/073000)
