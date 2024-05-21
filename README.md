@@ -944,6 +944,7 @@
 - [Goメモ-411 (指定した範囲のデータだけ読み出す)(io.SectionReader)](https://devlights.hatenablog.com/entry/2024/05/14/073000)
 - [Goメモ-412 (指定したオフセットから書き込む)(io.OffsetWriter)](https://devlights.hatenablog.com/entry/2024/05/15/073000)
 - [Goメモ-413 (既存関数を置き換え)(go:linkname, コンパイラディレクティブ)](https://devlights.hatenablog.com/entry/2024/05/16/073000)
+- [Goメモ-414 (重複した呼び出しを抑制したい)(x/sync/singleflightパッケージ)](https://devlights.hatenablog.com/entry/2024/05/21/073000)
 
 ## python
 
