@@ -1580,6 +1580,7 @@
 
 ## misc
 
+- [Catppuccinテーマ (VSCode, Vim, Windows Terminal, Google Chrome)](https://devlights.hatenablog.com/entry/2024/05/23/073000)
 - [Markwhen (markdownでガントチャートとかカレンダーとか)](https://devlights.hatenablog.com/entry/2024/05/22/073000)
 - [Cascadia Code フォントがアップデート (2404.23)](https://devlights.hatenablog.com/entry/2024/05/17/073000)
 - [Nix入門 (Zennで公開されている無償書籍)](https://devlights.hatenablog.com/entry/2024/05/02/073000)
