@@ -947,6 +947,7 @@
 - [Goメモ-414 (重複した呼び出しを抑制したい)(x/sync/singleflightパッケージ)](https://devlights.hatenablog.com/entry/2024/05/21/073000)
 - [Goメモ-415 (ヒープメモリの統計情報を取得, runtime/metrics)](https://devlights.hatenablog.com/entry/2024/05/24/073000)
 - [Goメモ-416 (CPUの統計情報を取得, runtime/metrics)](https://devlights.hatenablog.com/entry/2024/05/27/073000)
+- [Goメモ-417 (スケジューラの統計情報を取得, runtime/metrics)](https://devlights.hatenablog.com/entry/2024/05/28/073000)
 
 ## python
 
