@@ -1584,6 +1584,7 @@
 
 ## misc
 
+- [JetbrainsがRust向けIDEのRustRoverをリリース (個人の非商用利用は無償)](https://devlights.hatenablog.com/entry/2024/05/30/073000)
 - [Catppuccinテーマ (VSCode, Vim, Windows Terminal, Google Chrome)](https://devlights.hatenablog.com/entry/2024/05/23/073000)
 - [Markwhen (markdownでガントチャートとかカレンダーとか)](https://devlights.hatenablog.com/entry/2024/05/22/073000)
 - [Cascadia Code フォントがアップデート (2404.23)](https://devlights.hatenablog.com/entry/2024/05/17/073000)
