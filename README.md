@@ -950,6 +950,7 @@
 - [Goメモ-417 (スケジューラの統計情報を取得, runtime/metrics)](https://devlights.hatenablog.com/entry/2024/05/28/073000)
 - [Goメモ-418 (Goでコンパイルしたバイナリのサイズを分析, go-size-analyzer)](https://devlights.hatenablog.com/entry/2024/05/29/073000)
 - [Goメモ-419 (staticcheckのSA6002について)(sync.Pool, スライス, ポインタ)](https://devlights.hatenablog.com/entry/2024/06/04/073000)
+- [Goメモ-420 (time.ParseDuration)(同じ時間単位は合計される)](https://devlights.hatenablog.com/entry/2024/06/05/073000)
 
 ## python
 
