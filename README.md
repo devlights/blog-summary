@@ -345,6 +345,7 @@
 
 ## vim
 
+- [vimの設定ファイルを開く (myvimrc, mygvimrc)](https://devlights.hatenablog.com/entry/2024/06/06/073000)
 - [Vim Bootstrap (vimrcを出力してくれるサービス)](https://devlights.hatenablog.com/entry/2023/11/15/073000)
 - [vim-plugで不要になったプラグインを削除したい](https://devlights.hatenablog.com/entry/2023/10/24/073000)
 - [:colderと:cnewerでquickfixリストを行き来する](https://devlights.hatenablog.com/entry/2023/10/13/073000)
