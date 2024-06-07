@@ -952,6 +952,7 @@
 - [Goメモ-418 (Goでコンパイルしたバイナリのサイズを分析, go-size-analyzer)](https://devlights.hatenablog.com/entry/2024/05/29/073000)
 - [Goメモ-419 (staticcheckのSA6002について)(sync.Pool, スライス, ポインタ)](https://devlights.hatenablog.com/entry/2024/06/04/073000)
 - [Goメモ-420 (time.ParseDuration)(同じ時間単位は合計される)](https://devlights.hatenablog.com/entry/2024/06/05/073000)
+- [Goメモ-421 (テストで一時ディレクトリを使いたい)(t.TempDir)](https://devlights.hatenablog.com/entry/2024/06/07/073000)
 
 ## python
 
