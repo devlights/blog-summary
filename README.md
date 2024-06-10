@@ -953,6 +953,7 @@
 - [Goメモ-419 (staticcheckのSA6002について)(sync.Pool, スライス, ポインタ)](https://devlights.hatenablog.com/entry/2024/06/04/073000)
 - [Goメモ-420 (time.ParseDuration)(同じ時間単位は合計される)](https://devlights.hatenablog.com/entry/2024/06/05/073000)
 - [Goメモ-421 (テストで一時ディレクトリを使いたい)(t.TempDir)](https://devlights.hatenablog.com/entry/2024/06/07/073000)
+- [Goメモ-422 (filepath.Walkとfilepath.WalkDirの処理速度の違い)](https://devlights.hatenablog.com/entry/2024/06/10/073000)
 
 ## python
 
