@@ -1590,6 +1590,7 @@
 
 ## misc
 
+- [OpenAIから公式のdotnetライブラリがリリース](https://devlights.hatenablog.com/entry/2024/06/12/073000)
 - [Jetbrainsがテスト自動化用IDEのAquaをリリース (個人の非商用利用は無償)](https://devlights.hatenablog.com/entry/2024/06/03/073000)
 - [myCompiler (いろいろな言語のプレイグラウンドが試せるサイト)](https://devlights.hatenablog.com/entry/2024/05/31/073000)
 - [JetbrainsがRust向けIDEのRustRoverをリリース (個人の非商用利用は無償)](https://devlights.hatenablog.com/entry/2024/05/30/073000)
