@@ -956,6 +956,7 @@
 - [Goメモ-421 (テストで一時ディレクトリを使いたい)(t.TempDir)](https://devlights.hatenablog.com/entry/2024/06/07/073000)
 - [Goメモ-422 (filepath.Walkとfilepath.WalkDirの処理速度の違い)](https://devlights.hatenablog.com/entry/2024/06/10/073000)
 - [Goメモ-423 (spinnerメモ)(01)](https://devlights.hatenablog.com/entry/2024/06/13/073000)
+- [Goメモ-424 (spinnerメモ)(02)](https://devlights.hatenablog.com/entry/2024/06/14/073000)
 
 ## python
 
