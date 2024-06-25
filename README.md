@@ -962,6 +962,7 @@
 - [Goメモ-426 (spinnerメモ)(04)](https://devlights.hatenablog.com/entry/2024/06/18/073000)
 - [Goメモ-427 (spinnerメモ)(05)](https://devlights.hatenablog.com/entry/2024/06/19/073000)
 - [Goメモ-428 (flaggyメモ)(01)](https://devlights.hatenablog.com/entry/2024/06/24/073000)
+- [Goメモ-429 (flaggyメモ)(02)](https://devlights.hatenablog.com/entry/2024/06/25/073000)
 
 ## python
 
