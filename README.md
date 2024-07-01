@@ -1601,6 +1601,7 @@
 
 ## misc
 
+- [sysinternals ProcessMonitor が メジャーバージョンアップしてた](https://devlights.hatenablog.com/entry/2024/07/01/073000)
 - [htmx 2.0.0 がリリースされた](https://devlights.hatenablog.com/entry/2024/06/28/073000)
 - [XPipe (モダンなシェル接続ハブとリモートファイルマネージャ)]()
 - [OpenAIから公式のdotnetライブラリがリリース](https://devlights.hatenablog.com/entry/2024/06/12/073000)
