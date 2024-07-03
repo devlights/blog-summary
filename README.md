@@ -1601,6 +1601,7 @@
 
 ## misc
 
+- [scoopで特定のアプリのバージョンをホールドするやり方](https://devlights.hatenablog.com/entry/2024/07/03/073000)
 - [draw.ioの公式Officeアドイン (draw.io add-in for Microsoft Office products (Word, Excel and Powerpoint))](https://devlights.hatenablog.com/entry/2024/07/02/073000)
 - [sysinternals ProcessMonitor が メジャーバージョンアップしてた](https://devlights.hatenablog.com/entry/2024/07/01/073000)
 - [htmx 2.0.0 がリリースされた](https://devlights.hatenablog.com/entry/2024/06/28/073000)
