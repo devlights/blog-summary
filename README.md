@@ -970,6 +970,7 @@
 - [Goメモ-432 (envメモ)(02.required)](https://devlights.hatenablog.com/entry/2024/07/05/073000)
 - [Goメモ-433 (envメモ)(03.all-fields-required)](https://devlights.hatenablog.com/entry/2024/07/08/073000)
 - [Goメモ-434 (envメモ)(04.use-fieldname-by-default)](https://devlights.hatenablog.com/entry/2024/07/09/073000)
+- [Goメモ-435 (envメモ)(05.default-value)](https://devlights.hatenablog.com/entry/2024/07/10/063000)
 
 ## python
 
