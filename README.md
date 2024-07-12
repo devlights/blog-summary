@@ -972,6 +972,7 @@
 - [Goメモ-434 (envメモ)(04.use-fieldname-by-default)](https://devlights.hatenablog.com/entry/2024/07/09/073000)
 - [Goメモ-435 (envメモ)(05.default-value)](https://devlights.hatenablog.com/entry/2024/07/10/063000)
 - [Goメモ-436 (envメモ)(06.value-separator)](https://devlights.hatenablog.com/entry/2024/07/11/073000)
+- [Goメモ-437 (envメモ)(07.expand)](https://devlights.hatenablog.com/entry/2024/07/12/073000)
 
 ## python
 
