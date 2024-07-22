@@ -1612,6 +1612,7 @@
 
 ## misc
 
+- [dotenvx (dotenvの作者が作った better dotenv)](https://devlights.hatenablog.com/entry/2024/07/22/073000)
 - [scoopで特定のアプリのバージョンをホールドするやり方](https://devlights.hatenablog.com/entry/2024/07/03/073000)
 - [draw.ioの公式Officeアドイン (draw.io add-in for Microsoft Office products (Word, Excel and Powerpoint))](https://devlights.hatenablog.com/entry/2024/07/02/073000)
 - [sysinternals ProcessMonitor が メジャーバージョンアップしてた](https://devlights.hatenablog.com/entry/2024/07/01/073000)
