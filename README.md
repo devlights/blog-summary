@@ -977,6 +977,7 @@
 - [Goメモ-437 (envメモ)(07.expand)](https://devlights.hatenablog.com/entry/2024/07/12/073000)
 - [Goメモ-438 (envメモ)(08.not-empty)](https://devlights.hatenablog.com/entry/2024/07/16/073000)
 - [Goメモ-439 (envメモ)(09.from-file)](https://devlights.hatenablog.com/entry/2024/07/17/073000)
+- [Goメモ-440 (Buffer.AvailableBuffer)(Go 1.21で追加)](https://devlights.hatenablog.com/entry/2024/07/23/073000)
 
 ## python
 
