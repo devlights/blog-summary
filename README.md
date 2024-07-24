@@ -20,20 +20,20 @@
 - [vscode](#vscode)
 - [visualstudio](#visualstudio)
 - [go-task](#go-task)
-- [golang](#golang)
-- [python](#python)
-- [dotnet](#dotnet)
-- [dotnet-channels](#dotnet-channels)
-- [linq](#linq)
-- [dotnet-classlibrary](#dotnet-classlibrary)
-- [tpl](#tpl)
-- [devexpress](#devexpress)
-- [wcf](#wcf)
-- [adonet](#adonet)
-- [datagridview](#datagridview)
-- [ibatismybatis](#ibatismybatis)
-- [csharp](#csharp)
-- [misc](#misc)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
 
 <!-- /TOC -->
 
@@ -522,6 +522,7 @@
 - [Task (go-task) メモ-32 (リモートのタスクファイルを取り込んで実行)(remote-taskfile, 実験的機能)](https://devlights.hatenablog.com/entry/2023/12/14/073000_1)
 - [Task (go-task) メモ-33 (プラットフォームごとに実行するタスクを分岐)](https://devlights.hatenablog.com/entry/2024/04/17/073000)
 - [Task (go-task) メモ-34 (依存タスク実行をループ処理)(Looping over dependencies)](https://devlights.hatenablog.com/entry/2024/04/18/073000)
+- [Task (go-task) メモ-35 (v3.38で追加された特殊変数)(CLI_SILENT, CLI_VERBOSE)](https://devlights.hatenablog.com/entry/2024/07/24/073000)
 
 ## golang
 
