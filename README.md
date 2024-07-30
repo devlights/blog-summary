@@ -982,6 +982,7 @@
 - [Goメモ-441 (godotenvメモ)(01)](https://devlights.hatenablog.com/entry/2024/07/25/073000)
 - [Goメモ-442 (godotenvメモ)(02)](https://devlights.hatenablog.com/entry/2024/07/26/073000)
 - [Goメモ-443 (godotenvメモ)(03)](https://devlights.hatenablog.com/entry/2024/07/29/073000)
+- [Goメモ-444 (godotenvメモ)(04)](https://devlights.hatenablog.com/entry/2024/07/30/073000)
 
 ## python
 
