@@ -988,6 +988,7 @@
 - [Goメモ-447 (mkfifoメモ)(1)(create)](https://devlights.hatenablog.com/entry/2024/08/02/073000)
 - [Goメモ-448 (mkfifoメモ)(2)(read)](https://devlights.hatenablog.com/entry/2024/08/05/073000)
 - [Goメモ-449 (mkfifoメモ)(3)(write)](https://devlights.hatenablog.com/entry/2024/08/06/073000)
+- [Goメモ-450 (mkfifoメモ)(4)(read-nonblocking)](https://devlights.hatenablog.com/entry/2024/08/07/073000)
 
 ## python
 
