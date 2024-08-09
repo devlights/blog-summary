@@ -172,6 +172,7 @@
 
 ## linux
 
+- [gzipの出力からcrc32を取得する (crc32コマンドが入っていないときなど）](https://devlights.hatenablog.com/entry/2024/08/09/073000)
 - [grepでヒットした行の前後N行](https://devlights.hatenablog.com/entry/2024/07/19/073000)
 - [シェルにて単語削除のショートカットキー (bash, ctrl-w, alt-d)](https://devlights.hatenablog.com/entry/2024/06/21/073000)
 - [Ubuntux 24.04 リリース (LTS)](https://devlights.hatenablog.com/entry/2024/05/01/073000)
