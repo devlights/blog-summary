@@ -991,6 +991,7 @@
 - [Goメモ-449 (mkfifoメモ)(3)(write)](https://devlights.hatenablog.com/entry/2024/08/06/073000)
 - [Goメモ-450 (mkfifoメモ)(4)(read-nonblocking)](https://devlights.hatenablog.com/entry/2024/08/07/073000)
 - [Goメモ-451 (mkfifoメモ)(5)(write-nonblocking)](https://devlights.hatenablog.com/entry/2024/08/08/073000)
+- [Goメモ-452 (バージョンごとの新機能)](https://devlights.hatenablog.com/entry/2024/08/14/073000)
 
 ## python
 
@@ -1626,6 +1627,7 @@
 
 ## misc
 
+- [7zip (7z) の出力をサイレントにしたい](https://devlights.hatenablog.com/entry/2024/08/13/073000)
 - [dotenvx (dotenvの作者が作った better dotenv)](https://devlights.hatenablog.com/entry/2024/07/22/073000)
 - [scoopで特定のアプリのバージョンをホールドするやり方](https://devlights.hatenablog.com/entry/2024/07/03/073000)
 - [draw.ioの公式Officeアドイン (draw.io add-in for Microsoft Office products (Word, Excel and Powerpoint))](https://devlights.hatenablog.com/entry/2024/07/02/073000)
