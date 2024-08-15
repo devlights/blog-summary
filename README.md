@@ -992,6 +992,7 @@
 - [Goメモ-450 (mkfifoメモ)(4)(read-nonblocking)](https://devlights.hatenablog.com/entry/2024/08/07/073000)
 - [Goメモ-451 (mkfifoメモ)(5)(write-nonblocking)](https://devlights.hatenablog.com/entry/2024/08/08/073000)
 - [Goメモ-452 (バージョンごとの新機能)](https://devlights.hatenablog.com/entry/2024/08/14/073000)
+- [Goメモ-453 (Go 1.23 リリース)(参考情報リンク)](https://devlights.hatenablog.com/entry/2024/08/15/073000)
 
 ## python
 
