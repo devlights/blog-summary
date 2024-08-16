@@ -524,6 +524,7 @@
 - [Task (go-task) メモ-33 (プラットフォームごとに実行するタスクを分岐)](https://devlights.hatenablog.com/entry/2024/04/17/073000)
 - [Task (go-task) メモ-34 (依存タスク実行をループ処理)(Looping over dependencies)](https://devlights.hatenablog.com/entry/2024/04/18/073000)
 - [Task (go-task) メモ-35 (v3.38で追加された特殊変数)(CLI_SILENT, CLI_VERBOSE)](https://devlights.hatenablog.com/entry/2024/07/24/073000)
+- [Task (go-task) メモ-36 (パスの結合)(joinPath)](https://devlights.hatenablog.com/entry/2024/08/16/073000)
 
 ## golang
 
