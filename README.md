@@ -1629,6 +1629,7 @@
 
 ## misc
 
+- [Windows Terminal上でNushellを使うとプロンプトがチカチカ（blink) する件](https://devlights.hatenablog.com/entry/2024/08/19/073000)
 - [7zip (7z) の出力をサイレントにしたい](https://devlights.hatenablog.com/entry/2024/08/13/073000)
 - [dotenvx (dotenvの作者が作った better dotenv)](https://devlights.hatenablog.com/entry/2024/07/22/073000)
 - [scoopで特定のアプリのバージョンをホールドするやり方](https://devlights.hatenablog.com/entry/2024/07/03/073000)
