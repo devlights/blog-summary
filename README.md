@@ -996,6 +996,7 @@
 - [Goメモ-453 (Go 1.23 リリース)(参考情報リンク)](https://devlights.hatenablog.com/entry/2024/08/15/073000)
 - [Goメモ-454 (flagパッケージ再入門)(01-FlagSet)](https://devlights.hatenablog.com/entry/2024/08/20/073000)
 - [Goメモ-455 (flagパッケージ再入門)(02-Var)](https://devlights.hatenablog.com/entry/2024/08/21/073000)
+- [Goメモ-456 (flagパッケージ再入門)(03-Duration)](https://devlights.hatenablog.com/entry/2024/08/22/073000)
 
 ## python
 
