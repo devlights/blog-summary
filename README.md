@@ -1000,6 +1000,7 @@
 - [Goメモ-457 (flagパッケージ再入門)(04-Func)](https://devlights.hatenablog.com/entry/2024/08/23/073000)
 - [Goメモ-458 (flagパッケージ再入門)(05-TextVar)](https://devlights.hatenablog.com/entry/2024/08/26/073000)
 - [Goメモ-459 (flagパッケージ再入門)(06-NArgs)](https://devlights.hatenablog.com/entry/2024/08/27/073000)
+- [Goメモ-460 (flagパッケージ再入門)(07-Subcommand)](https://devlights.hatenablog.com/entry/2024/08/28/073000)
 
 ## python
 
