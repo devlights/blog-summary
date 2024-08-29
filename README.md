@@ -153,6 +153,7 @@
 - [Flutterメモ-37 (flutter create で出力されるmain.dartのコメントを一気に除去する)](https://devlights.hatenablog.com/entry/2024/03/15/073000)
 - [Flutterメモ-38 (Flutter 3.22, Dart 3.4 リリース)](https://devlights.hatenablog.com/entry/2024/05/20/073000)
 - [Flutterメモ-39 (waterbus, FlutterベースのOSSなビデオ会議アプリ)](https://devlights.hatenablog.com/entry/2024/06/11/073000)
+- [Flutterメモ-40 (dart pub unpack)(Dart 3.4で追加)](https://devlights.hatenablog.com/entry/2024/08/29/073000)
 
 ## shell
 
