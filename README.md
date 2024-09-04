@@ -1005,6 +1005,7 @@
 - [Goメモ-461 (golang.org/x/sys/unixを使ってソケット通信)(01-基本パターン)](https://devlights.hatenablog.com/entry/2024/08/30/073000)
 - [Goメモ-462 (golang.org/x/sys/unixを使ってソケット通信)(02-正規解放(Graceful Shutdown, Orderly Release))](https://devlights.hatenablog.com/entry/2024/09/02/073000)
 - [Goメモ-463 (golang.org/x/sys/unixを使ってソケット通信)(03-ノンブロッキング)](https://devlights.hatenablog.com/entry/2024/09/03/073000)
+- [Goメモ-464 (iotestパッケージのメモ)(01-TestReader)](https://devlights.hatenablog.com/entry/2024/09/04/073000)
 
 ## python
 
