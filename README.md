@@ -309,6 +309,7 @@
 
 ## github
 
+- [gitでリポジトリのディレクトリ外からコマンドを実行する (-C オプション)](https://devlights.hatenablog.com/entry/2024/09/09/073000)
 - [大きなリポジトリをサクッと git clone したいときのTips (--branch, --single-branch, --depth)](https://devlights.hatenablog.com/entry/2024/02/29/073000)
 - [git で とても長いパス を扱いたい場合 (Windows, 260文字以上, core.longpaths)](https://devlights.hatenablog.com/entry/2023/08/30/073000)
 - [GitHub CodespacesのCPUとRAMが少し良くなった (Codespaces gives you a free upgrade)](https://devlights.hatenablog.com/entry/2023/08/09/073000)
