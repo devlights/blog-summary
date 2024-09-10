@@ -1010,6 +1010,7 @@
 - [Goメモ-464 (iotestパッケージのメモ)(01-TestReader)](https://devlights.hatenablog.com/entry/2024/09/04/073000)
 - [Goメモ-465 (iotestパッケージのメモ)(02-ErrReader)](https://devlights.hatenablog.com/entry/2024/09/05/073000)
 - [Goメモ-466 (iotestパッケージのメモ)(03-TimeoutReader)](https://devlights.hatenablog.com/entry/2024/09/06/073000)
+- [Goメモ-467 (git log --author="$GIT_USER_NAME" --format="%H %ai" の結果を集計してCUIグラフ表示)(git-calc-worktime)](https://devlights.hatenablog.com/entry/2024/09/10/073000)
 
 ## python
 
