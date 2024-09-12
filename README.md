@@ -173,6 +173,7 @@
 
 ## linux
 
+- [Makefileにヘルプ機能をつける](https://devlights.hatenablog.com/entry/2024/09/12/073000)
 - [findコマンドで特定の条件に合致するものを除外対象にする ( -prune )](https://devlights.hatenablog.com/entry/2024/09/11/073000)
 - [findコマンドで論理和（OR）で条件指定する ( -o )](https://devlights.hatenablog.com/entry/2024/09/10/073000_1)
 - [gzipの出力からcrc32を取得する (crc32コマンドが入っていないときなど）](https://devlights.hatenablog.com/entry/2024/08/09/073000)
