@@ -1015,6 +1015,7 @@
 - [Goメモ-467 (git log --author="$GIT_USER_NAME" --format="%H %ai" の結果を集計してCUIグラフ表示)(git-calc-worktime)](https://devlights.hatenablog.com/entry/2024/09/10/073000)
 - [Goメモ-468 (docファイルをdocxファイルに変換する)](https://devlights.hatenablog.com/entry/2024/09/13/073000)
 - [Goメモ-469 (複数のdocxファイルをマージする)](https://devlights.hatenablog.com/entry/2024/09/17/073000)
+- [Goメモ-470 (標準入力からデータが渡ってきているかチェック)](https://devlights.hatenablog.com/entry/2024/09/18/073000)
 
 ## python
 
