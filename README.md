@@ -1017,6 +1017,7 @@
 - [Goメモ-469 (複数のdocxファイルをマージする)](https://devlights.hatenablog.com/entry/2024/09/17/073000)
 - [Goメモ-470 (標準入力からデータが渡ってきているかチェック)](https://devlights.hatenablog.com/entry/2024/09/18/073000)
 - [Goメモ-471 (複数のdocxファイルをGREPする)](https://devlights.hatenablog.com/entry/2024/09/19/073000)
+- [Goメモ-472 (複数のxlsxファイルをGREPする)](https://devlights.hatenablog.com/entry/2024/09/20/073000)
 
 ## python
 
