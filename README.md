@@ -1019,6 +1019,7 @@
 - [Goメモ-471 (複数のdocxファイルをGREPする)](https://devlights.hatenablog.com/entry/2024/09/19/073000)
 - [Goメモ-472 (複数のxlsxファイルをGREPする)](https://devlights.hatenablog.com/entry/2024/09/20/073000)
 - [Goメモ-473 (xlsファイルをxlsxファイルに変換する)](https://devlights.hatenablog.com/entry/2024/09/24/073000)
+- [Goメモ-474 (gitignore.ioのAPIを利用して .gitignore ファイルを出力)](https://devlights.hatenablog.com/entry/2024/09/25/073000)
 
 ## python
 
