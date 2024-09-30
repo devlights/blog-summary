@@ -1021,6 +1021,8 @@
 - [Goメモ-473 (xlsファイルをxlsxファイルに変換する)](https://devlights.hatenablog.com/entry/2024/09/24/073000)
 - [Goメモ-474 (gitignore.ioのAPIを利用して .gitignore ファイルを出力)](https://devlights.hatenablog.com/entry/2024/09/25/073000)
 - [Goメモ-475 (キャンセル可能なreader)(cancelreader)](https://devlights.hatenablog.com/entry/2024/09/26/073000)
+- [Goメモ-476 (ドキュメントコメントを扱う)(go/doc/commentパッケージ)](https://devlights.hatenablog.com/entry/2024/09/27/073000)
+- [Goメモ-477 (slogメモ-01)(基本的な使い方)](https://devlights.hatenablog.com/entry/2024/09/30/073000)
 
 ## python
 
