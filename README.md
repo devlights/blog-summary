@@ -1023,6 +1023,7 @@
 - [Goメモ-475 (キャンセル可能なreader)(cancelreader)](https://devlights.hatenablog.com/entry/2024/09/26/073000)
 - [Goメモ-476 (ドキュメントコメントを扱う)(go/doc/commentパッケージ)](https://devlights.hatenablog.com/entry/2024/09/27/073000)
 - [Goメモ-477 (slogメモ-01)(基本的な使い方)](https://devlights.hatenablog.com/entry/2024/09/30/073000)
+- [Goメモ-478 (slogメモ-02)(構造化ログの出力)](https://devlights.hatenablog.com/entry/2024/10/01/073000)
 
 ## python
 
