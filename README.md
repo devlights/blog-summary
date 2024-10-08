@@ -1027,6 +1027,7 @@
 - [Goメモ-479 (slogメモ-03)(デフォルトロガー)](https://devlights.hatenablog.com/entry/2024/10/02/073000)
 - [Goメモ-480 (slogメモ-04)(従来のlogパッケージとの連携)](https://devlights.hatenablog.com/entry/2024/10/03/073000)
 - [Goメモ-481 (etree)(PythonのElementTreeに似たXML操作ライブラリ)](https://devlights.hatenablog.com/entry/2024/10/04/073000)
+- [Goメモ-482 (slogメモ-05)(テキスト形式のログ)](https://devlights.hatenablog.com/entry/2024/10/08/073000)
 
 ## python
 
@@ -1662,6 +1663,7 @@
 
 ## misc
 
+- [PostgreSQL 17 がリリース (増分バックアップのネイティブ対応など)](https://devlights.hatenablog.com/entry/2024/10/07/073000)
 - [Windows Terminal上でNushellを使うとプロンプトがチカチカ（blink) する件](https://devlights.hatenablog.com/entry/2024/08/19/073000)
 - [7zip (7z) の出力をサイレントにしたい](https://devlights.hatenablog.com/entry/2024/08/13/073000)
 - [dotenvx (dotenvの作者が作った better dotenv)](https://devlights.hatenablog.com/entry/2024/07/22/073000)
