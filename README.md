@@ -1028,6 +1028,7 @@
 - [Goメモ-480 (slogメモ-04)(従来のlogパッケージとの連携)](https://devlights.hatenablog.com/entry/2024/10/03/073000)
 - [Goメモ-481 (etree)(PythonのElementTreeに似たXML操作ライブラリ)](https://devlights.hatenablog.com/entry/2024/10/04/073000)
 - [Goメモ-482 (slogメモ-05)(テキスト形式のログ)](https://devlights.hatenablog.com/entry/2024/10/08/073000)
+- [Goメモ-483 (slogメモ-06)(JSON形式のログ)](https://devlights.hatenablog.com/entry/2024/10/09/073000)
 
 ## python
 
