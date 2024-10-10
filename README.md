@@ -44,6 +44,7 @@
 - [Nushell (Rust, PowerShellちっく, pipelines)](https://devlights.hatenablog.com/entry/2024/01/11/073000)
 - [Nushellメモ-01 (参考情報たち)](https://devlights.hatenablog.com/entry/2024/01/12/073000)
 - [Nushellメモ-02 (gitコマンドを使うときにブランチ名を補完したい)](https://devlights.hatenablog.com/entry/2024/01/15/073000)
+- [Nushellメモ-03 (外部コマンドの結果をリダイレクト)](https://devlights.hatenablog.com/entry/2024/10/10/073000)
 
 
 ## deno
@@ -1029,6 +1030,7 @@
 - [Goメモ-481 (etree)(PythonのElementTreeに似たXML操作ライブラリ)](https://devlights.hatenablog.com/entry/2024/10/04/073000)
 - [Goメモ-482 (slogメモ-05)(テキスト形式のログ)](https://devlights.hatenablog.com/entry/2024/10/08/073000)
 - [Goメモ-483 (slogメモ-06)(JSON形式のログ)](https://devlights.hatenablog.com/entry/2024/10/09/073000)
+- [Goメモ-484 (slogメモ-07)(動的にログレベルを変更)](https://devlights.hatenablog.com/entry/2024/10/10/073000_1)
 
 ## python
 
