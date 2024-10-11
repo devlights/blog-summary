@@ -1031,6 +1031,7 @@
 - [Goメモ-482 (slogメモ-05)(テキスト形式のログ)](https://devlights.hatenablog.com/entry/2024/10/08/073000)
 - [Goメモ-483 (slogメモ-06)(JSON形式のログ)](https://devlights.hatenablog.com/entry/2024/10/09/073000)
 - [Goメモ-484 (slogメモ-07)(動的にログレベルを変更)](https://devlights.hatenablog.com/entry/2024/10/10/073000_1)
+- [Goメモ-485 (slogメモ-08)(グループ (1))](https://devlights.hatenablog.com/entry/2024/10/11/073000)
 
 ## python
 
