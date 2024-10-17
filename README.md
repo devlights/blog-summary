@@ -1034,6 +1034,7 @@
 - [Goメモ-484 (slogメモ-07)(動的にログレベルを変更)](https://devlights.hatenablog.com/entry/2024/10/10/073000_1)
 - [Goメモ-485 (slogメモ-08)(グループ (1))](https://devlights.hatenablog.com/entry/2024/10/11/073000)
 - [Goメモ-486 (slogメモ-09)(グループ (2))](https://devlights.hatenablog.com/entry/2024/10/15/073000)
+- [Goメモ-487 (slogメモ-10)(機密情報などのマスキング)](https://devlights.hatenablog.com/entry/2024/10/17/073000)
 
 ## python
 
