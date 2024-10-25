@@ -1038,6 +1038,7 @@
 - [Goメモ-488 (slogメモ-11)(カスタムログレベル)](https://devlights.hatenablog.com/entry/2024/10/18/073000)
 - [Goメモ-489 (通貨型を扱いたい)(bojanz/currency)](https://devlights.hatenablog.com/entry/2024/10/21/073000)
 - [Goメモ-490 (slogメモ-12)(context.Contextとの連携)](https://devlights.hatenablog.com/entry/2024/10/23/073000)
+- [Goメモ-491 (slogメモ-13)(io.Writerとの連携)](https://devlights.hatenablog.com/entry/2024/10/25/073000)
 
 ## python
 
