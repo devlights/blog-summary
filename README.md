@@ -1040,6 +1040,7 @@
 - [Goメモ-490 (slogメモ-12)(context.Contextとの連携)](https://devlights.hatenablog.com/entry/2024/10/23/073000)
 - [Goメモ-491 (slogメモ-13)(io.Writerとの連携)](https://devlights.hatenablog.com/entry/2024/10/25/073000)
 - [Goメモ-492 (プロセスの結果コードを扱う)(exec.Command, exec.ExitError.ExitCode)](https://devlights.hatenablog.com/entry/2024/10/28/073000)
+- [Goメモ-493 (slogメモ-14)(カスタムログハンドラの作成 (1))](https://devlights.hatenablog.com/entry/2024/10/29/073000)
 
 ## python
 
