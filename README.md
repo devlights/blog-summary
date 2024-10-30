@@ -1610,6 +1610,7 @@
 
 ## csharp
 
+- [C# 13の新機能についてのメモ (Lockオブジェクトなど)](https://devlights.hatenablog.com/entry/2024/10/30/073000)
 - [Windows FormsのProgressBarの進みがちょっとだけ遅れる](https://devlights.hatenablog.com/entry/2023/11/29/073000)
 - [dotnet (.net framework) でキープアライブプローブを送信する (Windows, Linux, Keep Alive Probe)](https://devlights.hatenablog.com/entry/2023/06/28/073000)
 - [.NET 6 を Docker コンテナで試す (Dockerfile, VSCode)](https://devlights.hatenablog.com/entry/2021/11/10/154155)
