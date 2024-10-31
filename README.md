@@ -1677,6 +1677,7 @@
 
 ## misc
 
+- [Java 23 と Project Amber (void mainだけで良くなった)](https://devlights.hatenablog.com/entry/2024/10/31/073000)
 - [Windowsのタスクマネージャにて更新を一時停止させる](https://devlights.hatenablog.com/entry/2024/10/24/073000)
 - [PostgreSQL 17 がリリース (増分バックアップのネイティブ対応など)](https://devlights.hatenablog.com/entry/2024/10/07/073000)
 - [Windows Terminal上でNushellを使うとプロンプトがチカチカ（blink) する件](https://devlights.hatenablog.com/entry/2024/08/19/073000)
