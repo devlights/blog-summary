@@ -1042,6 +1042,7 @@
 - [Goメモ-492 (プロセスの結果コードを扱う)(exec.Command, exec.ExitError.ExitCode)](https://devlights.hatenablog.com/entry/2024/10/28/073000)
 - [Goメモ-493 (slogメモ-14)(カスタムログハンドラの作成 (1))](https://devlights.hatenablog.com/entry/2024/10/29/073000)
 - [Goメモ-494 (scc)(clocに似たステップカウンタ, すごく速い)](https://devlights.hatenablog.com/entry/2024/11/01/073000)
+- [Goメモ-495 (シンプルなビットベクタ)(BitVector)](https://devlights.hatenablog.com/entry/2024/11/05/073000)
 
 ## python
 
