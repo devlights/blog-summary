@@ -1044,6 +1044,7 @@
 - [Goメモ-494 (scc)(clocに似たステップカウンタ, すごく速い)](https://devlights.hatenablog.com/entry/2024/11/01/073000)
 - [Goメモ-495 (シンプルなビットベクタ)(BitVector)](https://devlights.hatenablog.com/entry/2024/11/05/073000)
 - [Goメモ-496 (mutex.TryLock)(ロック取得をノンブロッキングに)](https://devlights.hatenablog.com/entry/2024/11/06/073000)
+- [Goメモ-497 (RWMutex.TryLock/TryRLock)(ロック取得をノンブロッキングに)](https://devlights.hatenablog.com/entry/2024/11/07/073000)
 
 ## python
 
