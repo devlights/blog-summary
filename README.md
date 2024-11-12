@@ -1047,6 +1047,7 @@
 - [Goメモ-497 (RWMutex.TryLock/TryRLock)(ロック取得をノンブロッキングに)](https://devlights.hatenablog.com/entry/2024/11/07/073000)
 - [Goメモ-498 (シンプルなラッチ)(CountdownLatch, CountdownEvent)](https://devlights.hatenablog.com/entry/2024/11/08/073000)
 - [Goメモ-499 (シンプルなゲート)(Gate, カウント１のラッチ)](https://devlights.hatenablog.com/entry/2024/11/11/073000)
+- [Goメモ-500 (シンプルな循環式バリア)(CyclicBarrier)](https://devlights.hatenablog.com/entry/2024/11/12/073000)
 
 ## python
 
