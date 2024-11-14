@@ -1191,6 +1191,7 @@
 - [Pythonメモ-129 (toolong)(リッチなtail -f, tl)](https://devlights.hatenablog.com/entry/2024/02/19/073000)
 - [Pythonメモ-130 (将来のCPythonにてGILがオプショナルになる)](https://devlights.hatenablog.com/entry/2024/03/08/073000)
 - [Pythonメモ-131 (bython)(Python with braces, ブレース付きのpython)](https://devlights.hatenablog.com/entry/2024/04/01/073000)
+- [Pythonメモ-132 (marimo)(リアクティブに動作するPython notebook)](https://devlights.hatenablog.com/entry/2024/11/14/073000)
 
 ## dotnet
 
