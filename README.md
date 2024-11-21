@@ -1051,6 +1051,7 @@
 - [Goメモ-502 (cgoメモ-01)(cgoヘッダ)](https://devlights.hatenablog.com/entry/2024/11/15/073000)
 - [Goメモ-503 (noCopy)(構造体, 値コピー防止のためのテクニック)](https://devlights.hatenablog.com/entry/2024/11/19/073000)
 - [Goメモ-504 (チャネルについての有用な情報)(Go101)](https://devlights.hatenablog.com/entry/2024/11/20/073000)
+- [Goメモ-505 (sync.Condのメモ)(Producer-Consumer-Watcher)](https://devlights.hatenablog.com/entry/2024/11/21/073000)
 
 ## python
 
