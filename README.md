@@ -1054,6 +1054,7 @@
 - [Goメモ-505 (sync.Condのメモ)(Producer-Consumer-Watcher)](https://devlights.hatenablog.com/entry/2024/11/21/073000)
 - [Goメモ-506 (cgoメモ-02)(cgoヘッダ)](https://devlights.hatenablog.com/entry/2024/11/22/073000)
 - [Goメモ-507 (cgoメモ-03)(C.int)](https://devlights.hatenablog.com/entry/2024/11/25/073000)
+- [Goメモ-508 (cgoメモ-04)(C言語の構造体)](https://devlights.hatenablog.com/entry/2024/11/26/073000)
 
 ## python
 
