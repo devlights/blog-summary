@@ -1055,6 +1055,7 @@
 - [Goメモ-506 (cgoメモ-02)(cgoヘッダ)](https://devlights.hatenablog.com/entry/2024/11/22/073000)
 - [Goメモ-507 (cgoメモ-03)(C.int)](https://devlights.hatenablog.com/entry/2024/11/25/073000)
 - [Goメモ-508 (cgoメモ-04)(C言語の構造体)](https://devlights.hatenablog.com/entry/2024/11/26/073000)
+- [Goメモ-509 (cgoメモ-05)(C.CString)(Cの文字列)](https://devlights.hatenablog.com/entry/2024/11/27/073000)
 
 ## python
 
