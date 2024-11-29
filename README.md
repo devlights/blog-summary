@@ -1057,6 +1057,7 @@
 - [Goメモ-508 (cgoメモ-04)(C言語の構造体)](https://devlights.hatenablog.com/entry/2024/11/26/073000)
 - [Goメモ-509 (cgoメモ-05)(C.CString)(Cの文字列)](https://devlights.hatenablog.com/entry/2024/11/27/073000)
 - [Goメモ-510 (cgoメモ-06)(C.GoString)(Cの文字列をGoの文字列へ)](https://devlights.hatenablog.com/entry/2024/11/28/073000)
+- [Goメモ-511 (cgoメモ-07)(C.CBytes)([]byteをCのバイト列に)](https://devlights.hatenablog.com/entry/2024/11/29/073000)
 
 ## python
 
