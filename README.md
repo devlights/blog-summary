@@ -357,6 +357,7 @@
 
 ## vim
 
+- [vimで行連結の２つのやり方 (行連結時にスペースを付与するか否か)(j, gJ)](https://devlights.hatenablog.com/entry/2024/12/03/073000)
 - [vimでカーソル下のワードでmanページを開く (K, <Leader>K, ftplugin/man.vim, タグジャンプ)](https://devlights.hatenablog.com/entry/2024/10/16/073000)
 - [vimでiniファイルのfiletype](https://devlights.hatenablog.com/entry/2024/07/18/073000)
 - [vimの設定ファイルを開く (myvimrc, mygvimrc)](https://devlights.hatenablog.com/entry/2024/06/06/073000)
