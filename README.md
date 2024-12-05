@@ -57,6 +57,7 @@
 
 ## wsl-docker
 
+- [WSLにRed Hat Enterprise Linux (RHEL) が追加される](https://devlights.hatenablog.com/entry/2024/12/05/073000)
 - [WSLでホスト名を変更したい](https://devlights.hatenablog.com/entry/2024/02/15/073000)
 - [WSLでインストールしたディストリビューションの名前を変更する](https://devlights.hatenablog.com/entry/2024/02/09/073000)
 - [WSLgでxfce4-terminal入れてEUC-JPな環境でも日本語見えるようにする](https://devlights.hatenablog.com/entry/2024/02/07/073000)
