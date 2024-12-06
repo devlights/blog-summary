@@ -46,6 +46,7 @@
 - [Nushellメモ-02 (gitコマンドを使うときにブランチ名を補完したい)](https://devlights.hatenablog.com/entry/2024/01/15/073000)
 - [Nushellメモ-03 (外部コマンドの結果をリダイレクト)](https://devlights.hatenablog.com/entry/2024/10/10/073000)
 - [Nushellメモ-04 (Nushellでサブシェル実行)](https://devlights.hatenablog.com/entry/2024/10/22/073000)
+- [Nushellメモ-05 (設定をデフォルトに戻す)(config reset)](https://devlights.hatenablog.com/entry/2024/12/06/073000)
 
 ## deno
 
