@@ -1064,6 +1064,7 @@
 - [Goメモ-512 (cgoメモ-08)(C.GoBytes)(Cのバイト列をGoの[]byteへ)](https://devlights.hatenablog.com/entry/2024/12/02/073000)
 - [Goメモ-513 (連続する空白文字を１つとして扱ってSplitしたい)(strings.Fields)](https://devlights.hatenablog.com/entry/2024/12/04/073000)
 - [Goメモ-514 (cgoメモ-09)(C.GoStringN)(C.GoStringのサイズ指定版)](https://devlights.hatenablog.com/entry/2024/12/09/073000)
+- [Goメモ-515 (cgoメモ-10)([]byteを(void *)へ変換)](https://devlights.hatenablog.com/entry/2024/12/10/073000)
 
 ## python
 
