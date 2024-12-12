@@ -1066,6 +1066,7 @@
 - [Goメモ-514 (cgoメモ-09)(C.GoStringN)(C.GoStringのサイズ指定版)](https://devlights.hatenablog.com/entry/2024/12/09/073000)
 - [Goメモ-515 (cgoメモ-10)([]byteを(void *)へ変換)](https://devlights.hatenablog.com/entry/2024/12/10/073000)
 - [Goメモ-516 (cgoメモ-11)([]byteを(char *)へ変換)](https://devlights.hatenablog.com/entry/2024/12/11/073000)
+- [Goメモ-517 (What's coming in Go 1.24)](https://devlights.hatenablog.com/entry/2024/12/12/073000)
 
 ## python
 
