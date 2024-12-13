@@ -176,6 +176,7 @@
 
 ## linux
 
+- [SSHで接続した後でどこから接続してきているのかを確認する ($SSH_CONNECTION)](https://devlights.hatenablog.com/entry/2024/12/13/073000)
 - [Makefileにヘルプ機能をつける](https://devlights.hatenablog.com/entry/2024/09/12/073000)
 - [findコマンドで特定の条件に合致するものを除外対象にする ( -prune )](https://devlights.hatenablog.com/entry/2024/09/11/073000)
 - [findコマンドで論理和（OR）で条件指定する ( -o )](https://devlights.hatenablog.com/entry/2024/09/10/073000_1)
