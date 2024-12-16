@@ -1215,6 +1215,7 @@
 
 ## dotnet
 
+- [.NET 9 で WinForms に Control.InvokeAsync が追加 (Form.ShowAsync, TaskDialog.ShowDialogAsync は Experimental)](https://devlights.hatenablog.com/entry/2024/12/16/073000)
 - [Xamarinは2024-05-01にサポート終了となる模様](https://devlights.hatenablog.com/entry/2023/06/22/073000)
 - [.NETインストールスクリプトを使ってSDKをインストール](https://devlights.hatenablog.com/entry/2023/06/20/073000)
 - [.NET 7 に Dockerコンテナイメージ を直接生成する機能が追加される](https://devlights.hatenablog.com/entry/2022/09/15/073000)
@@ -1638,6 +1639,7 @@
 
 ## csharp
 
+- [.NET 9 で WinForms に Control.InvokeAsync が追加 (Form.ShowAsync, TaskDialog.ShowDialogAsync は Experimental)](https://devlights.hatenablog.com/entry/2024/12/16/073000)
 - [C# 13の新機能についてのメモ (Lockオブジェクトなど)](https://devlights.hatenablog.com/entry/2024/10/30/073000)
 - [Windows FormsのProgressBarの進みがちょっとだけ遅れる](https://devlights.hatenablog.com/entry/2023/11/29/073000)
 - [dotnet (.net framework) でキープアライブプローブを送信する (Windows, Linux, Keep Alive Probe)](https://devlights.hatenablog.com/entry/2023/06/28/073000)
