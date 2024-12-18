@@ -1068,6 +1068,8 @@
 - [Goメモ-515 (cgoメモ-10)([]byteを(void *)へ変換)](https://devlights.hatenablog.com/entry/2024/12/10/073000)
 - [Goメモ-516 (cgoメモ-11)([]byteを(char *)へ変換)](https://devlights.hatenablog.com/entry/2024/12/11/073000)
 - [Goメモ-517 (What's coming in Go 1.24)](https://devlights.hatenablog.com/entry/2024/12/12/073000)
+- [Goメモ-518 (cgoメモ-12)(Cのmallocをcgo経由で呼び出し)](https://devlights.hatenablog.com/entry/2024/12/17/073000)
+- [Goメモ-519 (cgoメモ-13)(ポインタ演算)](https://devlights.hatenablog.com/entry/2024/12/18/073000)
 
 ## python
 
