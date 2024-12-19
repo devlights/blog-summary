@@ -1070,6 +1070,7 @@
 - [Goメモ-517 (What's coming in Go 1.24)](https://devlights.hatenablog.com/entry/2024/12/12/073000)
 - [Goメモ-518 (cgoメモ-12)(Cのmallocをcgo経由で呼び出し)](https://devlights.hatenablog.com/entry/2024/12/17/073000)
 - [Goメモ-519 (cgoメモ-13)(ポインタ演算)](https://devlights.hatenablog.com/entry/2024/12/18/073000)
+- [Goメモ-520 (cgoメモ-14)(Goの関数をCの世界に公開 (export))](https://devlights.hatenablog.com/entry/2024/12/19/073000)
 
 ## python
 
