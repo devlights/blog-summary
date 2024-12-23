@@ -1072,6 +1072,7 @@
 - [Goメモ-519 (cgoメモ-13)(ポインタ演算)](https://devlights.hatenablog.com/entry/2024/12/18/073000)
 - [Goメモ-520 (cgoメモ-14)(Goの関数をCの世界に公開 (export))](https://devlights.hatenablog.com/entry/2024/12/19/073000)
 - [Goメモ-521 (csv.ReuseRecord)(レコードを再利用して処理するよう指示)](https://devlights.hatenablog.com/entry/2024/12/20/073000)
+- [Goメモ-522 (cgoメモ-15)(Goでsoファイルを作成してC言語から呼び出し)](https://devlights.hatenablog.com/entry/2024/12/23/073000)
 
 ## python
 
