@@ -1073,6 +1073,7 @@
 - [Goメモ-520 (cgoメモ-14)(Goの関数をCの世界に公開 (export))](https://devlights.hatenablog.com/entry/2024/12/19/073000)
 - [Goメモ-521 (csv.ReuseRecord)(レコードを再利用して処理するよう指示)](https://devlights.hatenablog.com/entry/2024/12/20/073000)
 - [Goメモ-522 (cgoメモ-15)(Goでsoファイルを作成してC言語から呼び出し)](https://devlights.hatenablog.com/entry/2024/12/23/073000)
+- [Goメモ-523 (ファイル名から拡張子を除きたい)(strings.TrimSuffix, filepath.Ext)](https://devlights.hatenablog.com/entry/2024/12/24/073000)
 
 ## python
 
