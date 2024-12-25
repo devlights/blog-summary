@@ -1074,6 +1074,7 @@
 - [Goメモ-521 (csv.ReuseRecord)(レコードを再利用して処理するよう指示)](https://devlights.hatenablog.com/entry/2024/12/20/073000)
 - [Goメモ-522 (cgoメモ-15)(Goでsoファイルを作成してC言語から呼び出し)](https://devlights.hatenablog.com/entry/2024/12/23/073000)
 - [Goメモ-523 (ファイル名から拡張子を除きたい)(strings.TrimSuffix, filepath.Ext)](https://devlights.hatenablog.com/entry/2024/12/24/073000)
+- [Goメモ-524 (encoding/gobを使って簡易ディープコピー処理)](https://devlights.hatenablog.com/entry/2024/12/25/073000)
 
 ## python
 
