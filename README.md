@@ -1075,6 +1075,8 @@
 - [Goメモ-522 (cgoメモ-15)(Goでsoファイルを作成してC言語から呼び出し)](https://devlights.hatenablog.com/entry/2024/12/23/073000)
 - [Goメモ-523 (ファイル名から拡張子を除きたい)(strings.TrimSuffix, filepath.Ext)](https://devlights.hatenablog.com/entry/2024/12/24/073000)
 - [Goメモ-524 (encoding/gobを使って簡易ディープコピー処理)](https://devlights.hatenablog.com/entry/2024/12/25/073000)
+- [Goメモ-525 (cgoメモ-16)(C側にて関数ポインタを引数に要求する関数にGo側で定義した関数を設定)](https://devlights.hatenablog.com/entry/2024/12/26/073000)
+- [Goメモ-526 (cgoメモ-17)(cgoとdlopen関数を使って既存ライブラリの呼び出しをフックする)](https://devlights.hatenablog.com/entry/2024/12/27/073000)
 
 ## python
 
