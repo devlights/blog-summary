@@ -1080,6 +1080,7 @@
 - [Goメモ-525 (cgoメモ-16)(C側にて関数ポインタを引数に要求する関数にGo側で定義した関数を設定)](https://devlights.hatenablog.com/entry/2024/12/26/073000)
 - [Goメモ-526 (cgoメモ-17)(cgoとdlopen関数を使って既存ライブラリの呼び出しをフックする)](https://devlights.hatenablog.com/entry/2024/12/27/073000)
 - [Goメモ-527 (cgoメモ-18)(cgoを利用している場合のinit関数について)](https://devlights.hatenablog.com/entry/2025/01/08/073000)
+- [Goメモ-528 (cgoメモ-19)(cgoを利用して作成したsoファイル経由でのinit関数の呼び出し)](https://devlights.hatenablog.com/entry/2025/01/09/073000)
 
 ## python
 
