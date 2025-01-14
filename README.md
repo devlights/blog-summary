@@ -1082,6 +1082,7 @@
 - [Goメモ-527 (cgoメモ-18)(cgoを利用している場合のinit関数について)](https://devlights.hatenablog.com/entry/2025/01/08/073000)
 - [Goメモ-528 (cgoメモ-19)(cgoを利用して作成したsoファイル経由でのinit関数の呼び出し)](https://devlights.hatenablog.com/entry/2025/01/09/073000)
 - [Goメモ-529 (cgoメモ-20)(C言語のNULLをcgoから渡す)](https://devlights.hatenablog.com/entry/2025/01/10/073000)
+- [Goメモ-530 (cgoメモ-21)(CGOヘッダーで指定出来るCFLAGS, LDFLAGS)](https://devlights.hatenablog.com/entry/2025/01/14/073000)
 
 ## python
 
