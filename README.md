@@ -157,6 +157,7 @@
 - [Flutterメモ-38 (Flutter 3.22, Dart 3.4 リリース)](https://devlights.hatenablog.com/entry/2024/05/20/073000)
 - [Flutterメモ-39 (waterbus, FlutterベースのOSSなビデオ会議アプリ)](https://devlights.hatenablog.com/entry/2024/06/11/073000)
 - [Flutterメモ-40 (dart pub unpack)(Dart 3.4で追加)](https://devlights.hatenablog.com/entry/2024/08/29/073000)
+- [Flutterメモ-41 (shelf)(Dart公式が提供しているDartのWebフレームワーク)](https://devlights.hatenablog.com/entry/2025/01/17/073000)
 
 ## shell
 
