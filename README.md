@@ -1727,6 +1727,7 @@
 
 ## misc
 
+- [ExcelとWordで知っておるとちょっと便利なショートカットキー](https://devlights.hatenablog.com/entry/2025/01/23/073000)
 - [コピペできるHTMLスニペットまとめ (CodePen)](https://devlights.hatenablog.com/entry/2025/01/22/073000)
 - [SQLite3の設定ファイル (.sqliterc)](https://devlights.hatenablog.com/entry/2024/11/18/073000)
 - [Java 23 と Project Amber (void mainだけで良くなった, まだプレビュー段階)](https://devlights.hatenablog.com/entry/2024/10/31/073000)
