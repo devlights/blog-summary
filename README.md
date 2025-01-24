@@ -177,6 +177,7 @@
 
 ## linux
 
+- [clibs/clib (C言語向けのパッケージマネージャ)](https://devlights.hatenablog.com/entry/2025/01/24/073000)
 - [Makefileでデフォルトのゴールを設定 (.DEFAULT_GOAL)](https://devlights.hatenablog.com/entry/2025/01/20/073000)
 - [catコマンドでタブを可視化 (-T, -t)](https://devlights.hatenablog.com/entry/2025/01/07/073000)
 - [SSHで接続した後でどこから接続してきているのかを確認する ($SSH_CONNECTION)](https://devlights.hatenablog.com/entry/2024/12/13/073000)
@@ -1727,6 +1728,7 @@
 
 ## misc
 
+- [clibs/clib (C言語向けのパッケージマネージャ)](https://devlights.hatenablog.com/entry/2025/01/24/073000)
 - [ExcelとWordで知っておるとちょっと便利なショートカットキー](https://devlights.hatenablog.com/entry/2025/01/23/073000)
 - [コピペできるHTMLスニペットまとめ (CodePen)](https://devlights.hatenablog.com/entry/2025/01/22/073000)
 - [SQLite3の設定ファイル (.sqliterc)](https://devlights.hatenablog.com/entry/2024/11/18/073000)
