@@ -1089,6 +1089,7 @@
 - [Goメモ-531 (cgoメモ-22)(CGOで利用するコンパイラを変更する)](https://devlights.hatenablog.com/entry/2025/01/15/073000)
 - [Goメモ-532 (cgoメモ-23)(CGOヘッダで使えるSRCDIR変数)](https://devlights.hatenablog.com/entry/2025/01/16/073000)
 - [Goメモ-533 (Go 1.24 interactive tour)](https://devlights.hatenablog.com/entry/2025/01/21/073000)
+- [Goメモ-534 (cgoメモ-24)(C側の構造体にて固定要素数の文字配列をGo側で文字列に変換)](https://devlights.hatenablog.com/entry/2025/01/27/073000)
 
 ## python
 
