@@ -542,6 +542,7 @@
 - [Task (go-task) メモ-35 (v3.38で追加された特殊変数)(CLI_SILENT, CLI_VERBOSE)](https://devlights.hatenablog.com/entry/2024/07/24/073000)
 - [Task (go-task) メモ-36 (パスの結合)(joinPath)](https://devlights.hatenablog.com/entry/2024/08/16/073000)
 - [Task (go-task) メモ-37 (TASK_DIR変数)(v3.41.0から追加)](https://devlights.hatenablog.com/entry/2025/01/28/073000)
+- [Task (go-task) メモ-38 (CHECKSUM変数, TIMESTAMP変数)(v3.41.0から追加)](https://devlights.hatenablog.com/entry/2025/01/29/073000)
 
 ## golang
 
