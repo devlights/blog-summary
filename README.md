@@ -1094,6 +1094,7 @@
 - [Goメモ-534 (cgoメモ-24)(C側の構造体にて固定要素数の文字配列をGo側で文字列に変換)](https://devlights.hatenablog.com/entry/2025/01/27/073000)
 - [Goメモ-535 (cgoメモ-25)(cgo.Handleを用いてCとGoの間で値をやり取りする)](https://devlights.hatenablog.com/entry/2025/01/30/073000)
 - [Goメモ-536 (cgoメモ-26)(C側の構造体をGo側で利用する)](https://devlights.hatenablog.com/entry/2025/01/31/073000)
+- [Goメモ-537 (cgoメモ-27)(Go側でCの構造体のサイズを知る方法)](https://devlights.hatenablog.com/entry/2025/02/03/073000)
 
 ## python
 
