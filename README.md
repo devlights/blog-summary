@@ -1736,6 +1736,7 @@
 
 ## misc
 
+- [zig-book (プログラミング言語 zig の本)](https://devlights.hatenablog.com/entry/2025/02/06/073000)
 - [clibs/clib (C言語向けのパッケージマネージャ)](https://devlights.hatenablog.com/entry/2025/01/24/073000)
 - [ExcelとWordで知っておるとちょっと便利なショートカットキー](https://devlights.hatenablog.com/entry/2025/01/23/073000)
 - [コピペできるHTMLスニペットまとめ (CodePen)](https://devlights.hatenablog.com/entry/2025/01/22/073000)
