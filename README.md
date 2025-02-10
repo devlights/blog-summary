@@ -1097,6 +1097,7 @@
 - [Goメモ-536 (cgoメモ-26)(C側の構造体をGo側で利用する)](https://devlights.hatenablog.com/entry/2025/01/31/073000)
 - [Goメモ-537 (cgoメモ-27)(Go側でCの構造体のサイズを知る方法)](https://devlights.hatenablog.com/entry/2025/02/03/073000)
 - [Goメモ-538 (Goのランタイムバージョンを取得)(runtime.Version, debug.BuildInfo.GoVersion)](https://devlights.hatenablog.com/entry/2025/02/04/073000)
+- [Goメモ-539 (cgoメモ-28)(Go側でCの文字列リスト(**char)を扱う)](https://devlights.hatenablog.com/entry/2025/02/10/073000)
 
 ## python
 
