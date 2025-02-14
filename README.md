@@ -182,6 +182,7 @@
 
 ## linux
 
+- [/dev/tcp と /dev/udp (bash)](https://devlights.hatenablog.com/entry/2025/02/14/073000)
 - [gdbでTUIモードに入るコマンド (ctrl+x,1)](https://devlights.hatenablog.com/entry/2025/02/12/073000)
 - [bashで現在日時を取得 (dateコマンド)](https://devlights.hatenablog.com/entry/2025/02/05/073000)
 - [clibs/clib (C言語向けのパッケージマネージャ)](https://devlights.hatenablog.com/entry/2025/01/24/073000)
