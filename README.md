@@ -1110,6 +1110,7 @@
 - [Goメモ-540 (Go 1.24 リリース)(参考情報リンク)](https://devlights.hatenablog.com/entry/2025/02/18/073000)
 - [Goメモ-541 (bytes.Lines)(Go 1.24で追加された関数)](https://devlights.hatenablog.com/entry/2025/02/20/073000)
 - [Goメモ-542 (strings.Lines)(Go 1.24で追加された関数)](https://devlights.hatenablog.com/entry/2025/02/21/073000)
+- [Goメモ-543 (Generic Type Alias)(Go 1.24で追加された仕様)](https://devlights.hatenablog.com/entry/2025/02/25/073000)
 
 ## python
 
