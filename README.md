@@ -1115,6 +1115,7 @@
 - [Goメモ-543 (Generic Type Alias)(Go 1.24で追加された仕様)](https://devlights.hatenablog.com/entry/2025/02/25/073000)
 - [Goメモ-544 (go getに-toolオプションが追加)(Tool dependencies)](https://devlights.hatenablog.com/entry/2025/02/26/073000)
 - [Goメモ-545 (go mod tidy -diff)(変更差分を出力, Go 1.19で追加)](https://devlights.hatenablog.com/entry/2025/02/28/073000)
+- [Goメモ-546 (slogメモ-15)(Go 1.24でslog.DiscardHandlerが追加)](https://devlights.hatenablog.com/entry/2025/03/04/073000)
 
 ## python
 
