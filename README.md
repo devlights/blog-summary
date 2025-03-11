@@ -1119,6 +1119,7 @@
 - [Goメモ-547 (testing.B.Loop())(Go 1.24で追加, 新しいベンチーマークのループ判定)](https://devlights.hatenablog.com/entry/2025/03/05/073000)
 - [Goメモ-548 (GoでTCP通信切断時にRSTを送信)(SO_LINGER, TCPConn.SetLinger)](https://devlights.hatenablog.com/entry/2025/03/06/073000)
 - [Goメモ-549 (*bytes.Bufferをio.ReadWriteCloserに変換)](https://devlights.hatenablog.com/entry/2025/03/10/073000)
+- [Goメモ-550 (net/textproto)(テキストベースのプロトコル実装のためのライブラリ)](https://devlights.hatenablog.com/entry/2025/03/11/073000)
 
 ## python
 
