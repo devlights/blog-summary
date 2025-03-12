@@ -1120,6 +1120,7 @@
 - [Goメモ-548 (GoでTCP通信切断時にRSTを送信)(SO_LINGER, TCPConn.SetLinger)](https://devlights.hatenablog.com/entry/2025/03/06/073000)
 - [Goメモ-549 (*bytes.Bufferをio.ReadWriteCloserに変換)](https://devlights.hatenablog.com/entry/2025/03/10/073000)
 - [Goメモ-550 (net/textproto)(テキストベースのプロトコル実装のためのライブラリ)](https://devlights.hatenablog.com/entry/2025/03/11/073000)
+- [Goメモ-551 (net/textproto)(パイプラインを使って順序保証しながらバッチ処理)](https://devlights.hatenablog.com/entry/2025/03/12/073000)
 
 ## python
 
