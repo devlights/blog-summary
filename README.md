@@ -184,6 +184,7 @@
 
 ## linux
 
+- [パイプで標準出力と標準エラー出力の両方を次のコマンドに渡す (|&, 2>&1 |, bash 4.0以降)](https://devlights.hatenablog.com/entry/2025/03/13/073000)
 - [pidof コマンド (PIDを取得)](https://devlights.hatenablog.com/entry/2025/02/17/073000)
 - [/dev/tcp と /dev/udp (bash)](https://devlights.hatenablog.com/entry/2025/02/14/073000)
 - [gdbでTUIモードに入るコマンド (ctrl+x,1)](https://devlights.hatenablog.com/entry/2025/02/12/073000)
