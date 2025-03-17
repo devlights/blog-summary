@@ -1123,6 +1123,7 @@
 - [Goメモ-550 (net/textproto)(テキストベースのプロトコル実装のためのライブラリ)](https://devlights.hatenablog.com/entry/2025/03/11/073000)
 - [Goメモ-551 (net/textproto)(パイプラインを使って順序保証しながらバッチ処理)](https://devlights.hatenablog.com/entry/2025/03/12/073000)
 - [Goメモ-552 (パニック時の出力をヒューマンフレンドリーにしてくれるライブラリ)(maruel/panicparse)](https://devlights.hatenablog.com/entry/2025/03/14/073000)
+- [Goメモ-553 (GOTRACEBACKの設定値をプログラムで設定)(runtime/debug.SetTraceback)](https://devlights.hatenablog.com/entry/2025/03/17/073000)
 
 ## python
 
