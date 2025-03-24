@@ -1766,6 +1766,7 @@
 
 ## misc
 
+- [Hyperfine (sharkdp/hyperfine)(ベンチマーク, rust)](https://devlights.hatenablog.com/entry/2025/03/24/073000)
 - [OneCommanderでドラッグ時間の許容閾値を調整 (DragCancellationThresholdMs)](https://devlights.hatenablog.com/entry/2025/03/07/073000)
 - [OneCommander (Windows, ファイルマネージャ, WPF)](https://devlights.hatenablog.com/entry/2025/02/07/073000)
 - [zig-book (プログラミング言語 zig の本)](https://devlights.hatenablog.com/entry/2025/02/06/073000)
