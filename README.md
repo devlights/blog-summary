@@ -1127,6 +1127,7 @@
 - [Goメモ-553 (GOTRACEBACKの設定値をプログラムで設定)(runtime/debug.SetTraceback)](https://devlights.hatenablog.com/entry/2025/03/17/073000)
 - [Goメモ-554 (net/rpc)(RPC通信の処理を作りやすくするライブラリ)](https://devlights.hatenablog.com/entry/2025/03/18/073000)
 - [Goメモ-555 (weak)(弱参照, Go 1.24で追加)](https://devlights.hatenablog.com/entry/2025/03/19/073000)
+- [Goメモ-556 (チャネルの送受信部分のみのベンチマーク)](https://devlights.hatenablog.com/entry/2025/03/25/073000)
 
 ## python
 
