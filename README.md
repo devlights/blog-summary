@@ -1130,6 +1130,7 @@
 - [Goメモ-554 (net/rpc)(RPC通信の処理を作りやすくするライブラリ)](https://devlights.hatenablog.com/entry/2025/03/18/073000)
 - [Goメモ-555 (weak)(弱参照, Go 1.24で追加)](https://devlights.hatenablog.com/entry/2025/03/19/073000)
 - [Goメモ-556 (チャネルの送受信部分のみのベンチマーク)](https://devlights.hatenablog.com/entry/2025/03/25/073000)
+- [Goメモ-557 (forループとtime.Before()を組み合わせて「Nの時間分何かを行う」)](https://devlights.hatenablog.com/entry/2025/03/31/073000)
 
 ## python
 
