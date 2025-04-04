@@ -184,6 +184,7 @@
 
 ## linux
 
+- [tcpdumpでアドレスとポートの変換を行わないようにする (-nn)](https://devlights.hatenablog.com/entry/2025/04/04/073000)
 - [topコマンドのirixモードとsolarisモード (CPU使用率, shift+i)](https://devlights.hatenablog.com/entry/2025/04/03/073000)
 - [systemdの場合のランレベル変更](https://devlights.hatenablog.com/entry/2025/03/28/073000)
 - [pkillコマンドでコマンドライン全体にヒットしたもので終了させる](https://devlights.hatenablog.com/entry/2025/03/27/073000)
