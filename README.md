@@ -1134,6 +1134,7 @@
 - [Goメモ-556 (チャネルの送受信部分のみのベンチマーク)](https://devlights.hatenablog.com/entry/2025/03/25/073000)
 - [Goメモ-557 (forループとtime.Before()を組み合わせて「Nの時間分何かを行う」)](https://devlights.hatenablog.com/entry/2025/03/31/073000)
 - [Goメモ-558 (syscall.Nanosleep)](https://devlights.hatenablog.com/entry/2025/04/01/073000)
+- [Goメモ-559 (UNIXドメインソケットの抽象名前空間)(syscall版)](https://devlights.hatenablog.com/entry/2025/04/07/073000)
 
 ## python
 
