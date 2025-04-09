@@ -1136,6 +1136,7 @@
 - [Goメモ-558 (syscall.Nanosleep)](https://devlights.hatenablog.com/entry/2025/04/01/073000)
 - [Goメモ-559 (UNIXドメインソケットの抽象名前空間)(syscall版)](https://devlights.hatenablog.com/entry/2025/04/07/073000)
 - [Goメモ-560 (UNIXドメインソケットの抽象名前空間)(netパッケージのUnixConn版)](https://devlights.hatenablog.com/entry/2025/04/08/073000)
+- [Goメモ-561 (UNIXドメインソケットの抽象名前空間)(netパッケージのConn版)](https://devlights.hatenablog.com/entry/2025/04/09/073000)
 
 ## python
 
