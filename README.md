@@ -1776,6 +1776,7 @@
 
 ## misc
 
+- [dnGrep (Windowsで使えるGUIなGREPツール)(ExcelとWordも検索してくれる)](https://devlights.hatenablog.com/entry/2025/04/10/073000)
 - [ClaudeにWeb検索機能が追加される（2025-03-21時点では日本はまだ）](https://devlights.hatenablog.com/entry/2025/03/26/073000)
 - [Hyperfine (sharkdp/hyperfine)(ベンチマーク, rust)](https://devlights.hatenablog.com/entry/2025/03/24/073000)
 - [OneCommanderでドラッグ時間の許容閾値を調整 (DragCancellationThresholdMs)](https://devlights.hatenablog.com/entry/2025/03/07/073000)
