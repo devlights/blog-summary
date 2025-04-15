@@ -184,6 +184,7 @@
 
 ## linux
 
+- [soファイルに定義されている公開関数を確認 (nm, awk)](https://devlights.hatenablog.com/entry/2025/04/15/073000)
 - [スクリプト実行時にスクリプトが配置されているディレクトリをCWDにする](https://devlights.hatenablog.com/entry/2025/04/11/073000)
 - [tcpdumpでアドレスとポートの変換を行わないようにする (-nn)](https://devlights.hatenablog.com/entry/2025/04/04/073000)
 - [topコマンドのirixモードとsolarisモード (CPU使用率, shift+i)](https://devlights.hatenablog.com/entry/2025/04/03/073000)
