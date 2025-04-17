@@ -1140,6 +1140,7 @@
 - [Goメモ-560 (UNIXドメインソケットの抽象名前空間)(netパッケージのUnixConn版)](https://devlights.hatenablog.com/entry/2025/04/08/073000)
 - [Goメモ-561 (UNIXドメインソケットの抽象名前空間)(netパッケージのConn版)](https://devlights.hatenablog.com/entry/2025/04/09/073000)
 - [Goメモ-562 (net.ListenerとSO_REUSEADDR)](https://devlights.hatenablog.com/entry/2025/04/16/073000)
+- [Goメモ-563 (net.Connとselectシステムコール)](https://devlights.hatenablog.com/entry/2025/04/17/073000)
 
 ## python
 
