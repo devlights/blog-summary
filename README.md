@@ -1143,6 +1143,7 @@
 - [Goメモ-563 (net.Connとselectシステムコール)](https://devlights.hatenablog.com/entry/2025/04/17/073000)
 - [Goメモ-564 (io.ReadFullとio.ErrUnexpectedEOF)](https://devlights.hatenablog.com/entry/2025/04/18/073000)
 - [Goメモ-565 (ファイルディスクリプタパッシング)(File Descriptor Passing, sys/unix, SCM_RIGHTS)](https://devlights.hatenablog.com/entry/2025/04/21/073000)
+- [Goメモ-566 (Goに慣れた人がCに戻るとやりがちなこと)(ローカルアドレスを戻す)](https://devlights.hatenablog.com/entry/2025/04/22/073000)
 
 ## python
 
