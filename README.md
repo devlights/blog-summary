@@ -1145,6 +1145,7 @@
 - [Goメモ-565 (ファイルディスクリプタパッシング)(File Descriptor Passing, sys/unix, SCM_RIGHTS)](https://devlights.hatenablog.com/entry/2025/04/21/073000)
 - [Goメモ-566 (Goに慣れた人がCに戻るとやりがちなこと)(ローカルアドレスを戻す)](https://devlights.hatenablog.com/entry/2025/04/22/073000)
 - [Goメモ-567 (Golang におけるヒープ割り当ての最適化)(Optimizing Heap Allocations in Golang, dolthubのブログ記事)](https://devlights.hatenablog.com/entry/2025/04/23/073000)
+- [Goメモ-568 (go-yamlパッケージのリポジトリがアーカイブ状態に)](https://devlights.hatenablog.com/entry/2025/04/24/073000)
 
 ## python
 
