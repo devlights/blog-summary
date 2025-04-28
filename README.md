@@ -1147,6 +1147,7 @@
 - [Goメモ-567 (Golang におけるヒープ割り当ての最適化)(Optimizing Heap Allocations in Golang, dolthubのブログ記事)](https://devlights.hatenablog.com/entry/2025/04/23/073000)
 - [Goメモ-568 (go-yamlパッケージのリポジトリがアーカイブ状態に)](https://devlights.hatenablog.com/entry/2025/04/24/073000)
 - [Goメモ-569 (Goでdo-while文)](https://devlights.hatenablog.com/entry/2025/04/25/073000)
+- [Goメモ-570 (signal使ったらsignal.Stop()をちゃんと呼ぶ)](https://devlights.hatenablog.com/entry/2025/04/28/073000)
 
 ## python
 
