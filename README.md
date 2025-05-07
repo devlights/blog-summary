@@ -1148,6 +1148,7 @@
 - [Goメモ-568 (go-yamlパッケージのリポジトリがアーカイブ状態に)](https://devlights.hatenablog.com/entry/2025/04/24/073000)
 - [Goメモ-569 (Goでdo-while文)](https://devlights.hatenablog.com/entry/2025/04/25/073000)
 - [Goメモ-570 (signal使ったらsignal.Stop()をちゃんと呼ぶ)](https://devlights.hatenablog.com/entry/2025/04/28/073000)
+- [Goメモ-571 (gopsutilを利用してCPU使用率を取得)(cpu.Percent, cpu.PercentWithContext)](https://devlights.hatenablog.com/entry/2025/05/07/073000)
 
 ## python
 
