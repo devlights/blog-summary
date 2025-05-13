@@ -1151,6 +1151,7 @@
 - [Goメモ-570 (signal使ったらsignal.Stop()をちゃんと呼ぶ)](https://devlights.hatenablog.com/entry/2025/04/28/073000)
 - [Goメモ-571 (gopsutilを利用してCPU使用率を取得)(cpu.Percent, cpu.PercentWithContext)](https://devlights.hatenablog.com/entry/2025/05/07/073000)
 - [Goメモ-572 (gopsutilを利用してメモリ使用量を取得)(mem.VirtualMemory)](https://devlights.hatenablog.com/entry/2025/05/12/073000)
+- [Goメモ-573 (gopsutilを利用してメモリ使用量を取得)(mem.NewExLinux, mem.NewExWindows, v4.24.5から追加)](https://devlights.hatenablog.com/entry/2025/05/13/073000)
 
 ## python
 
