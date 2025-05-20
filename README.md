@@ -1155,6 +1155,7 @@
 - [Goメモ-574 (procfsを利用してCPU使用量を取得)(procfs.FS, CPUInfo)](https://devlights.hatenablog.com/entry/2025/05/14/073000)
 - [Goメモ-575 (procfsを利用してメモリ使用量を取得)(procfs.FS, MemInfo)](https://devlights.hatenablog.com/entry/2025/05/15/073000)
 - [Goメモ-576 (procfsを利用して自プロセス情報を取得)(procfs.FS, Self)](https://devlights.hatenablog.com/entry/2025/05/16/073000)
+- [Goメモ-577 (procfsを利用して全プロセス情報を取得)(procfs.FS, AllProcs)](https://devlights.hatenablog.com/entry/2025/05/20/073000)
 
 ## python
 
