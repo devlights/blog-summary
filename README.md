@@ -1157,6 +1157,7 @@
 - [Goメモ-576 (procfsを利用して自プロセス情報を取得)(procfs.FS, Self)](https://devlights.hatenablog.com/entry/2025/05/16/073000)
 - [Goメモ-577 (procfsを利用して全プロセス情報を取得)(procfs.FS, AllProcs)](https://devlights.hatenablog.com/entry/2025/05/20/073000)
 - [Goメモ-578 (Syscall関数を使ってシステムコールの呼び出し)(syscall.Syscall, unix.Syscall, 引数３つまで)](https://devlights.hatenablog.com/entry/2025/05/21/073000)
+- [Goメモ-579 (Syscall6関数を使ってシステムコールの呼び出し)(syscall.Syscall, unix.Syscall, 引数６つまで)](https://devlights.hatenablog.com/entry/2025/05/22/073000)
 
 ## python
 
