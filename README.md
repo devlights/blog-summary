@@ -1161,6 +1161,7 @@
 - [Goメモ-580 (RawSyscall関数を使ってシステムコールの呼び出し)(syscall.RawSyscall, unix.RawSyscall, 絶対にブロッキングしないシステムコール用)](https://devlights.hatenablog.com/entry/2025/05/23/073000)
 - [Goメモ-581 (エラーを返さないSyscall関数)(syscall.SyscallNoError)](https://devlights.hatenablog.com/entry/2025/05/27/073000)
 - [Goメモ-582 (unix.Syscall(), unixパッケージの関数, 標準ライブラリで同じ処理書いた場合の比較)](https://devlights.hatenablog.com/entry/2025/05/28/073000)
+- [Goメモ-583 (gitコマンドを使って特定コミット間で変更されたファイルを取得してZIPで出力する)](https://devlights.hatenablog.com/entry/2025/05/29/073000)
 
 ## python
 
