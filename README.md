@@ -1804,6 +1804,7 @@
 
 ## misc
 
+- [FrankenPHPがPHP公式サポートになってた](https://devlights.hatenablog.com/entry/2025/06/06/073000)
 - [PostgreSQL設計ガイドライン (Future Enterprise Arch Guidelines, フューチャー技術ブログ)](https://devlights.hatenablog.com/entry/2025/06/05/073000)
 - [帳票 UDPゴシックと帳票 UDP明朝 (「1」と「１（全角）」の幅のみを変更し、数字（0〜9）を等幅にしたフォント）](https://devlights.hatenablog.com/entry/2025/06/02/073000)
 - [WizTree (どのファイルやディレクトリが容量を占めているか見えるツール, windows, gui)](https://devlights.hatenablog.com/entry/2025/05/26/073000)
