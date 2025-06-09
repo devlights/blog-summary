@@ -1164,6 +1164,7 @@
 - [Goメモ-583 (gitコマンドを使って特定コミット間で変更されたファイルを取得してZIPで出力する)](https://devlights.hatenablog.com/entry/2025/05/29/073000)
 - [Goメモ-584 (flagパッケージ再入門)(08-複数回指定可能なパラメータを用意)](https://devlights.hatenablog.com/entry/2025/06/03/073000)
 - [Goメモ-585 (main関数のテストをしたい場合に使えるTips)(標準出力を差し替え)](https://devlights.hatenablog.com/entry/2025/06/04/073000)
+- [Goメモ-586 (デバッグビルドとリリースビルド時によく利用するフラグ)](https://devlights.hatenablog.com/entry/2025/06/09/073000)
 
 ## python
 
