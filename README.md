@@ -467,6 +467,7 @@
 
 ## vscode
 
+- [Markdown Preview Enhanced (VSCodeの拡張機能, マーメイド記法, エクスポート出来る)](https://devlights.hatenablog.com/entry/2025/06/10/073000)
 - [Markdown Table (VSCodeの拡張機能, テーブルのフォーマット)](https://devlights.hatenablog.com/entry/2024/01/29/073000)
 - [VSCodeをフォークして作られているAIコードエディタ (Cursor)](https://devlights.hatenablog.com/entry/2023/10/30/073000)
 - [VSCodeの C# 向け拡張機能 「C# Dev Kit」が一般提供されてた](https://devlights.hatenablog.com/entry/2023/10/16/073000)
