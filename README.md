@@ -338,6 +338,7 @@
 
 ## github
 
+- [gitで一部のファイルやディレクトリのみをチェックアウトする (git sparse-checkout)](https://devlights.hatenablog.com/entry/2025/06/13/073000)
 - [gitでブランチをプッシュしてその後削除するときにブランチ名を指定したくない (HEAD, @{-1})](https://devlights.hatenablog.com/entry/2025/01/06/073000)
 - [gitでリポジトリのディレクトリ外からコマンドを実行する (-C オプション)](https://devlights.hatenablog.com/entry/2024/09/09/073000)
 - [大きなリポジトリをサクッと git clone したいときのTips (--branch, --single-branch, --depth)](https://devlights.hatenablog.com/entry/2024/02/29/073000)
