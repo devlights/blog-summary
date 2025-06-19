@@ -1171,6 +1171,7 @@
 - [Goメモ-588 (Go 1.25 rc1)(Go 1.25 is not yet released, rc版などを一時的インストールして遊ぶ)](https://devlights.hatenablog.com/entry/2025/06/16/073000)
 - [Goメモ-589 (Go 1.25でsync.WaitGroupにGoメソッドが追加)(Go 1.25 rc1)](https://devlights.hatenablog.com/entry/2025/06/17/073000)
 - [Goメモ-590 (Go 1.25でgo doc コマンドに -http オプションが追加)(Go 1.25 rc1)](https://devlights.hatenablog.com/entry/2025/06/18/073000)
+- [Goメモ-591 (Go 1.25でgo vet コマンドに sync.WaitGroup 用のチェックが追加)(Go 1.25 rc1)](https://devlights.hatenablog.com/entry/2025/06/19/073000)
 
 ## python
 
