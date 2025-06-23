@@ -1173,6 +1173,7 @@
 - [Goメモ-590 (Go 1.25でgo doc コマンドに -http オプションが追加)(Go 1.25 rc1)](https://devlights.hatenablog.com/entry/2025/06/18/073000)
 - [Goメモ-591 (Go 1.25でgo vet コマンドに sync.WaitGroup 用のチェックが追加)(Go 1.25 rc1)](https://devlights.hatenablog.com/entry/2025/06/19/073000)
 - [Goメモ-592 (Go 1.25でgo vet コマンドに net.Dial 用のチェックが追加)(Go 1.25 rc1)](https://devlights.hatenablog.com/entry/2025/06/20/073000)
+- [uithub (GitHubリポジトリの内容をText, HTML, JSON, YAML形式でまとめてくれるWebサービス)](https://devlights.hatenablog.com/entry/2025/06/23/073000)
 
 ## python
 
