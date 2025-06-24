@@ -1173,7 +1173,6 @@
 - [Goメモ-590 (Go 1.25でgo doc コマンドに -http オプションが追加)(Go 1.25 rc1)](https://devlights.hatenablog.com/entry/2025/06/18/073000)
 - [Goメモ-591 (Go 1.25でgo vet コマンドに sync.WaitGroup 用のチェックが追加)(Go 1.25 rc1)](https://devlights.hatenablog.com/entry/2025/06/19/073000)
 - [Goメモ-592 (Go 1.25でgo vet コマンドに net.Dial 用のチェックが追加)(Go 1.25 rc1)](https://devlights.hatenablog.com/entry/2025/06/20/073000)
-- [uithub (GitHubリポジトリの内容をText, HTML, JSON, YAML形式でまとめてくれるWebサービス)](https://devlights.hatenablog.com/entry/2025/06/23/073000)
 
 ## python
 
@@ -1814,6 +1813,8 @@
 
 ## misc
 
+- [mitmproxy (オープンソースのローカルプロキシツール, HTTPS)](https://devlights.hatenablog.com/entry/2025/06/24/073000)
+- [uithub (GitHubリポジトリの内容をText, HTML, JSON, YAML形式でまとめてくれるWebサービス)](https://devlights.hatenablog.com/entry/2025/06/23/073000)
 - [PostgreSQL 18で非同期I/Oが採用される](https://devlights.hatenablog.com/entry/2025/06/12/073000)
 - [FrankenPHPがPHP公式サポートになってた](https://devlights.hatenablog.com/entry/2025/06/06/073000)
 - [PostgreSQL設計ガイドライン (Future Enterprise Arch Guidelines, フューチャー技術ブログ)](https://devlights.hatenablog.com/entry/2025/06/05/073000)
