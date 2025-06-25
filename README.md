@@ -165,6 +165,7 @@
 - [Flutterメモ-40 (dart pub unpack)(Dart 3.4で追加)](https://devlights.hatenablog.com/entry/2024/08/29/073000)
 - [Flutterメモ-41 (shelf)(Dart公式が提供しているDartのWebフレームワーク)](https://devlights.hatenablog.com/entry/2025/01/17/073000)
 - [Flutterメモ-42 (ARM64 ChromebookでFlutter Webの環境構築手順)](https://devlights.hatenablog.com/entry/2025/02/19/073000)
+- [Flutterメモ-43 (webのhot reloadが出来るようになった)(v3.32, まだExperimental扱い)](https://devlights.hatenablog.com/entry/2025/06/25/073000)
 
 ## shell
 
