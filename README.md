@@ -567,6 +567,7 @@
 - [Task (go-task) メモ-38 (CHECKSUM変数, TIMESTAMP変数)(v3.41.0から追加)](https://devlights.hatenablog.com/entry/2025/01/29/073000)
 - [Task (go-task) メモ-39 (--initオプションにディレクトリ名を渡せるようになった)(v3.42.0から追加)](https://devlights.hatenablog.com/entry/2025/03/21/073000)
 - [Task (go-task) メモ-40 (C言語向けの汎用タスクファイル)](https://devlights.hatenablog.com/entry/2025/05/08/073000)
+- [Task (go-task) メモ-41 (コマンドライン引数をリストで取得, CLI_ARGS_LIST, v3.44)](https://devlights.hatenablog.com/entry/2025/06/26/073000)
 
 ## golang
 
