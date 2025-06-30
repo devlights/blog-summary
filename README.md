@@ -569,6 +569,7 @@
 - [Task (go-task) メモ-40 (C言語向けの汎用タスクファイル)](https://devlights.hatenablog.com/entry/2025/05/08/073000)
 - [Task (go-task) メモ-41 (コマンドライン引数をリストで取得, CLI_ARGS_LIST, v3.44)](https://devlights.hatenablog.com/entry/2025/06/26/073000)
 - [Task (go-task) メモ-42 (uuid関数が追加, v3.44で追加)](https://devlights.hatenablog.com/entry/2025/06/27/073000)
+- [Task (go-task) メモ-43 (randInt, randIntN関数が追加, v3.44で追加)](https://devlights.hatenablog.com/entry/2025/06/30/073000)
 
 ## golang
 
