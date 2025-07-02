@@ -1818,6 +1818,7 @@
 
 ## misc
 
+- [Anthropicが日本事務所を開設予定（Claude日本語版が用意される？)](https://devlights.hatenablog.com/entry/2025/07/02/073000)
 - [mitmproxy (オープンソースのローカルプロキシツール, HTTPS)](https://devlights.hatenablog.com/entry/2025/06/24/073000)
 - [uithub (GitHubリポジトリの内容をText, HTML, JSON, YAML形式でまとめてくれるWebサービス)](https://devlights.hatenablog.com/entry/2025/06/23/073000)
 - [PostgreSQL 18で非同期I/Oが採用される](https://devlights.hatenablog.com/entry/2025/06/12/073000)
