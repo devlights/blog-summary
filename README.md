@@ -1818,6 +1818,7 @@
 
 ## misc
 
+- [glibcとmuslの比較資料 (glibc vs. musl)](https://devlights.hatenablog.com/entry/2025/07/03/073000)
 - [Anthropicが日本事務所を開設予定（Claude日本語版が用意される？)](https://devlights.hatenablog.com/entry/2025/07/02/073000)
 - [mitmproxy (オープンソースのローカルプロキシツール, HTTPS)](https://devlights.hatenablog.com/entry/2025/06/24/073000)
 - [uithub (GitHubリポジトリの内容をText, HTML, JSON, YAML形式でまとめてくれるWebサービス)](https://devlights.hatenablog.com/entry/2025/06/23/073000)
