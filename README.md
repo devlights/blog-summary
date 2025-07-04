@@ -385,6 +385,7 @@
 
 ## vim
 
+- [vim ローカルマークとグローバルマーク](https://devlights.hatenablog.com/entry/2025/07/04/073000)
 - [vimtutorをgVimで開く](https://devlights.hatenablog.com/entry/2025/07/01/073000)
 - [Learn Vim (Learn Vim the Smart Way)](https://devlights.hatenablog.com/entry/2025/02/27/073000)
 - [vimで行連結の２つのやり方 (行連結時にスペースを付与するか否か)(j, gJ)](https://devlights.hatenablog.com/entry/2024/12/03/073000)
