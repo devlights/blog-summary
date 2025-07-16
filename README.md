@@ -1185,6 +1185,7 @@
 - [Goメモ-591 (Go 1.25でgo vet コマンドに sync.WaitGroup 用のチェックが追加)(Go 1.25 rc1)](https://devlights.hatenablog.com/entry/2025/06/19/073000)
 - [Goメモ-592 (Go 1.25でgo vet コマンドに net.Dial 用のチェックが追加)(Go 1.25 rc1)](https://devlights.hatenablog.com/entry/2025/06/20/073000)
 - [Goメモ-593 (Go 1.25 interactive tour)](https://devlights.hatenablog.com/entry/2025/07/08/073000)
+- [Goメモ-594 (gotipとかgo1.25rc1などの削除方法)](https://devlights.hatenablog.com/entry/2025/07/16/073000)
 
 ## python
 
