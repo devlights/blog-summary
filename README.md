@@ -1186,6 +1186,7 @@
 - [Goメモ-592 (Go 1.25でgo vet コマンドに net.Dial 用のチェックが追加)(Go 1.25 rc1)](https://devlights.hatenablog.com/entry/2025/06/20/073000)
 - [Goメモ-593 (Go 1.25 interactive tour)](https://devlights.hatenablog.com/entry/2025/07/08/073000)
 - [Goメモ-594 (gotipとかgo1.25rc1などの削除方法)](https://devlights.hatenablog.com/entry/2025/07/16/073000)
+- [Goメモ-595 (exec.Commandで大きな出力をストリームで扱う)(os.Pipe, bufio.Scanner.Buffer)](https://devlights.hatenablog.com/entry/2025/07/17/073000)
 
 ## python
 
