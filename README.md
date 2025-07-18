@@ -15,7 +15,7 @@
 - [shell](#shell)
 - [linux](#linux)
 - [gitpod](#gitpod)
-- [github](#github)
+- [git](#git)
 - [vim](#vim)
 - [chromebook](#chromebook)
 - [vscode](#vscode)
@@ -338,8 +338,9 @@
 - [ChromebookとGitpodでお安く勉強環境を作る](https://devlights.hatenablog.com/entry/2020/03/08/033644)
 - [Gitpod で OpenVSX 経由で VSCode の拡張機能がインストールできるようになってる](https://devlights.hatenablog.com/entry/2020/07/25/185225)
 
-## github
+## git
 
+- [gitでリポジトリの総コミット数を取得 (rev-list, --count)](https://devlights.hatenablog.com/entry/2025/07/18/073000)
 - [git notes についてのメモ](https://devlights.hatenablog.com/entry/2025/07/11/073000)
 - [gitで一部のファイルやディレクトリのみをチェックアウトする (git sparse-checkout)](https://devlights.hatenablog.com/entry/2025/06/13/073000)
 - [gitでブランチをプッシュしてその後削除するときにブランチ名を指定したくない (HEAD, @{-1})](https://devlights.hatenablog.com/entry/2025/01/06/073000)
