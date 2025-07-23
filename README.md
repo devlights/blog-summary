@@ -388,6 +388,7 @@
 
 ## vim
 
+- [vimでカーソルの形状をモード毎に変える](https://devlights.hatenablog.com/entry/2025/07/23/073000)
 - [vimのジャンプリスト (C-o, C-i)(過去の位置に戻ったり進んだり)](https://devlights.hatenablog.com/entry/2025/07/09/073000)
 - [vimでripgrepを使ってgrepするようにする](https://devlights.hatenablog.com/entry/2025/07/07/073000)
 - [vim ローカルマークとグローバルマーク](https://devlights.hatenablog.com/entry/2025/07/04/073000)
