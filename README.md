@@ -186,6 +186,7 @@
 
 ## linux
 
+- [ヒアドキュメントのメモ (bash, <<と<<-の違いとか)](https://devlights.hatenablog.com/entry/2025/07/24/073000)
 - [soファイルに定義されている公開関数を確認 (nm, awk)](https://devlights.hatenablog.com/entry/2025/04/15/073000)
 - [スクリプト実行時にスクリプトが配置されているディレクトリをCWDにする](https://devlights.hatenablog.com/entry/2025/04/11/073000)
 - [tcpdumpでアドレスとポートの変換を行わないようにする (-nn)](https://devlights.hatenablog.com/entry/2025/04/04/073000)
