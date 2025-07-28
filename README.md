@@ -23,6 +23,7 @@
 - [go-task](#go-task)
 - [golang](#golang)
 - [python](#python)
+- [rust](#rust)
 - [dotnet](#dotnet)
 - [dotnet-channels](#dotnet-channels)
 - [linq](#linq)
@@ -1336,6 +1337,10 @@
 - [Pythonメモ-131 (bython)(Python with braces, ブレース付きのpython)](https://devlights.hatenablog.com/entry/2024/04/01/073000)
 - [Pythonメモ-132 (marimo)(リアクティブに動作するPython notebook)](https://devlights.hatenablog.com/entry/2024/11/14/073000)
 - [Pythonメモ-133 (ty)(Rustで実装されているPython型チェッカー, uv, astral-sh)](https://devlights.hatenablog.com/entry/2025/05/19/073000)
+
+## rust
+
+- [rustのインストールをサイレントに行う（non-interactive, rustup-init.sh, default-toolchain)](https://devlights.hatenablog.com/entry/2025/07/28/073000)
 
 ## dotnet
 
