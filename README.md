@@ -1192,6 +1192,7 @@
 - [Goメモ-594 (gotipとかgo1.25rc1などの削除方法)](https://devlights.hatenablog.com/entry/2025/07/16/073000)
 - [Goメモ-595 (exec.Commandで大きな出力をストリームで扱う)(os.Pipe, bufio.Scanner.Buffer)](https://devlights.hatenablog.com/entry/2025/07/17/073000)
 - [Goメモ-596 (ハッシュセットの簡易実装)(hashset, mapのキーだけ使う版)](https://devlights.hatenablog.com/entry/2025/07/25/073000)
+- [Goメモ-597 (Tree-sitterメモ-01)(下準備, Goバインディングのインストール)](https://devlights.hatenablog.com/entry/2025/07/29/073000)
 
 ## python
 
