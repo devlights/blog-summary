@@ -1,6 +1,10 @@
 title: ブログ 「いろいろ備忘録日記」の記事まとめ
+description: [ブログ](https://devlights.hatenablog.com/)にてアップした記事がリンクされています。
 
 author:
   name: devlights
   
-theme: minima
+#theme: minima
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-remote-theme
