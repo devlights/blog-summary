@@ -479,6 +479,7 @@
 
 ## vscode
 
+- [VSCodeのスニペットで利用できる変数 (Visual Studio Code, Snippet, code-snippets)](https://devlights.hatenablog.com/entry/2025/08/04/073000)
 - [VSCode起動時に前回のウィンドウを復元しないようにする (Restore Window, Open Without Arguments In New Window)](https://devlights.hatenablog.com/entry/2025/07/14/073000)
 - [Markdown Preview Enhanced (VSCodeの拡張機能, マーメイド記法, エクスポート出来る)](https://devlights.hatenablog.com/entry/2025/06/10/073000)
 - [Markdown Table (VSCodeの拡張機能, テーブルのフォーマット)](https://devlights.hatenablog.com/entry/2024/01/29/073000)
