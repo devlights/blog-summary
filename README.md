@@ -1342,6 +1342,7 @@
 - [Pythonメモ-131 (bython)(Python with braces, ブレース付きのpython)](https://devlights.hatenablog.com/entry/2024/04/01/073000)
 - [Pythonメモ-132 (marimo)(リアクティブに動作するPython notebook)](https://devlights.hatenablog.com/entry/2024/11/14/073000)
 - [Pythonメモ-133 (ty)(Rustで実装されているPython型チェッカー, uv, astral-sh)](https://devlights.hatenablog.com/entry/2025/05/19/073000)
+- [Pythonメモ-134 (Pyrefly)(Rustで実装されているPython型チェッカー, Metaが主導)](https://devlights.hatenablog.com/entry/2025/08/05/073000)
 
 ## rust
 
