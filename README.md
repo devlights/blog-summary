@@ -1197,6 +1197,7 @@
 - [Goメモ-598 (Tree-sitterメモ-02)(パーサーの生成と言語の設定)](https://devlights.hatenablog.com/entry/2025/07/30/073000)
 - [Goメモ-599 (Tree-sitterメモ-03)(解析処理の実行とツリーの取得)](https://devlights.hatenablog.com/entry/2025/07/31/073000)
 - [Goメモ-600 (Tree-sitterメモ-04)(シンタックスエラーの出力)](https://devlights.hatenablog.com/entry/2025/08/01/073000)
+- [Goメモ-601 (git showを使ってN世代前のファイルを出力する)](https://devlights.hatenablog.com/entry/2025/08/06/073000)
 
 ## python
 
