@@ -390,6 +390,7 @@
 
 ## vim
 
+- [vimでコマンドモード時のファイル名補完を大文字・小文字を区別しないようにする (wildignorecase)](https://devlights.hatenablog.com/entry/2025/08/07/073000)
 - [vimでカーソルの形状をモード毎に変える](https://devlights.hatenablog.com/entry/2025/07/23/073000)
 - [vimのジャンプリスト (C-o, C-i)(過去の位置に戻ったり進んだり)](https://devlights.hatenablog.com/entry/2025/07/09/073000)
 - [vimでripgrepを使ってgrepするようにする](https://devlights.hatenablog.com/entry/2025/07/07/073000)
