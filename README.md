@@ -1200,6 +1200,7 @@
 - [Goメモ-600 (Tree-sitterメモ-04)(シンタックスエラーの出力)](https://devlights.hatenablog.com/entry/2025/08/01/073000)
 - [Goメモ-601 (git showを使ってN世代前のファイルを出力する)](https://devlights.hatenablog.com/entry/2025/08/06/073000)
 - [Goメモ-602 (nalgeon/be)(シンプルなテスト用アサートライブラリ, Equal)](https://devlights.hatenablog.com/entry/2025/08/08/073000)
+- [Goメモ-603 (nalgeon/be)(シンプルなテスト用アサートライブラリ, Err)](https://devlights.hatenablog.com/entry/2025/08/12/073000)
 
 ## python
 
