@@ -1881,7 +1881,7 @@
 - [draw.ioの公式Officeアドイン (draw.io add-in for Microsoft Office products (Word, Excel and Powerpoint))](https://devlights.hatenablog.com/entry/2024/07/02/073000)
 - [sysinternals ProcessMonitor が メジャーバージョンアップしてた](https://devlights.hatenablog.com/entry/2024/07/01/073000)
 - [htmx 2.0.0 がリリースされた](https://devlights.hatenablog.com/entry/2024/06/28/073000)
-- [XPipe (モダンなシェル接続ハブとリモートファイルマネージャ)]()
+- [XPipe (モダンなシェル接続ハブとリモートファイルマネージャ)](https://devlights.hatenablog.com/entry/2024/06/20/073000)
 - [OpenAIから公式のdotnetライブラリがリリース](https://devlights.hatenablog.com/entry/2024/06/12/073000)
 - [Jetbrainsがテスト自動化用IDEのAquaをリリース (個人の非商用利用は無償)](https://devlights.hatenablog.com/entry/2024/06/03/073000)
 - [myCompiler (いろいろな言語のプレイグラウンドが試せるサイト)](https://devlights.hatenablog.com/entry/2024/05/31/073000)
