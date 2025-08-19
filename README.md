@@ -1205,6 +1205,7 @@
 - [Goメモ-603 (nalgeon/be)(シンプルなテスト用アサートライブラリ, Err)](https://devlights.hatenablog.com/entry/2025/08/12/073000)
 - [Goメモ-604 (nalgeon/be)(シンプルなテスト用アサートライブラリ, True)](https://devlights.hatenablog.com/entry/2025/08/13/073000)
 - [Goメモ-605 (Tree-sitterメモ-05)(ノードタイプ)](https://devlights.hatenablog.com/entry/2025/08/15/073000)
+- [Goメモ-606 (Tree-sitterメモ-06)(ノードテキスト)](https://devlights.hatenablog.com/entry/2025/08/19/073000)
 
 ## python
 
