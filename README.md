@@ -1207,6 +1207,7 @@
 - [Goメモ-605 (Tree-sitterメモ-05)(ノードタイプ)](https://devlights.hatenablog.com/entry/2025/08/15/073000)
 - [Goメモ-606 (Tree-sitterメモ-06)(ノードテキスト)](https://devlights.hatenablog.com/entry/2025/08/19/073000)
 - [Goメモ-607 (Tree-sitterメモ-07)(ノードのトラバース(1), ループとコールバックで実施)](https://devlights.hatenablog.com/entry/2025/08/20/073000)
+- [Goメモ-608 (Tree-sitterメモ-08)(ノードのトラバース(2), TreeCursorの利用)](https://devlights.hatenablog.com/entry/2025/08/21/073000)
 
 ## python
 
