@@ -465,6 +465,7 @@
 
 ## chromebook
 
+- [chromebookのターミナルで xdg-open でホスト側のChromeが起動しない場合 (xdg-settings, xdg-mime, .config/mimeapps.list)](https://devlights.hatenablog.com/entry/2025/08/22/073000)
 - [ChromebookのLinux上でneovimでシステムクリップボードとやり取りしてコピペ](https://devlights.hatenablog.com/entry/2024/03/01/073000)
 - [Chromebookの自動ソフトウェア更新の期間が１０年に伸びた](https://devlights.hatenablog.com/entry/2023/10/05/073000)
 - [chromebookでショートカット一覧を表示するキーボードショートカット](https://devlights.hatenablog.com/entry/2023/08/15/073000)
