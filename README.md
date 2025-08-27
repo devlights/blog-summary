@@ -1856,6 +1856,7 @@
 
 ## misc
 
+- [gkoos/cnt (とても小さなC言語向けのユニットテストフレームワーク)(Minimalistic C unit testing framework, ヘッダファイル１つだけ)](https://devlights.hatenablog.com/entry/2025/08/27/073000)
 - [scoopでインストールしたアプリの引き継ぎ（scoop export, scoop import)](https://devlights.hatenablog.com/entry/2025/07/15/073000)
 - [glibcとmuslの比較資料 (glibc vs. musl)](https://devlights.hatenablog.com/entry/2025/07/03/073000)
 - [Anthropicが日本事務所を開設予定（Claude日本語版が用意される？)](https://devlights.hatenablog.com/entry/2025/07/02/073000)
