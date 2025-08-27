@@ -5,6 +5,7 @@
 
 <!-- TOC -->
 
+- [C](#c)
 - [miller](#miller)
 - [nushell](#nushell)
 - [deno](#deno)
@@ -40,6 +41,16 @@
 <!-- /TOC -->
 
 ---
+
+## C
+
+- [clibs/clib (C言語向けのパッケージマネージャ)](https://devlights.hatenablog.com/entry/2025/01/24/073000)
+- [Task (go-task) メモ-40 (C言語向けの汎用タスクファイル)](https://devlights.hatenablog.com/entry/2025/05/08/073000)
+- [gkoos/cnt (とても小さなC言語向けのユニットテストフレームワーク)(Minimalistic C unit testing framework, ヘッダファイル１つだけ)](https://devlights.hatenablog.com/entry/2025/08/27/073000)
+- [gcovとlcovとgenhtmlを使ってC言語のプログラムのカバレッジを計測してHTMLレポート出力](https://devlights.hatenablog.com/entry/2024/04/24/073000)
+- [C言語でちょっとしたサンプルつくるときのMakefile](https://devlights.hatenablog.com/entry/2024/04/10/073000)
+- [gccで各関数が使用しているスタックサイズを出力するオプション](https://devlights.hatenablog.com/entry/2020/10/05/201142)
+- [gccの定義済みdefineを列挙 (gcc -dM -xc -E)](https://devlights.hatenablog.com/entry/2024/04/08/073000)
 
 ## miller
 
@@ -200,7 +211,6 @@
 - [/dev/tcp と /dev/udp (bash)](https://devlights.hatenablog.com/entry/2025/02/14/073000)
 - [gdbでTUIモードに入るコマンド (ctrl+x,1)](https://devlights.hatenablog.com/entry/2025/02/12/073000)
 - [bashで現在日時を取得 (dateコマンド)](https://devlights.hatenablog.com/entry/2025/02/05/073000)
-- [clibs/clib (C言語向けのパッケージマネージャ)](https://devlights.hatenablog.com/entry/2025/01/24/073000)
 - [Makefileでデフォルトのゴールを設定 (.DEFAULT_GOAL)](https://devlights.hatenablog.com/entry/2025/01/20/073000)
 - [catコマンドでタブを可視化 (-T, -t)](https://devlights.hatenablog.com/entry/2025/01/07/073000)
 - [SSHで接続した後でどこから接続してきているのかを確認する ($SSH_CONNECTION)](https://devlights.hatenablog.com/entry/2024/12/13/073000)
@@ -286,7 +296,6 @@
 - [ncコマンドでUDP通信の確認をする](https://devlights.hatenablog.com/entry/2020/11/19/143711)
 - [linuxでアプリが32ビット版か64ビット版かを判定 (file, od, hexdump)](https://devlights.hatenablog.com/entry/2020/11/10/151736)
 - [wcコマンドでファイルサイズを表示 (linux, コマンドライン)](https://devlights.hatenablog.com/entry/2020/10/20/120114)
-- [gccで各関数が使用しているスタックサイズを出力するオプション](https://devlights.hatenablog.com/entry/2020/10/05/201142)
 - [less の環境変数 LESSOPEN で２つ以上のパイプを繋ぐ (nkfとsource-highlight同時指定)](https://devlights.hatenablog.com/entry/2020/09/08/121023)
 - [less コマンドで ソースコード のハイライト表示をする (GNU Source-Highlight, LESSOPEN)](https://devlights.hatenablog.com/entry/2020/09/08/025346)
 - [less コマンドで sjis とか euc-jp なファイルを表示する (LESSOPEN)](https://devlights.hatenablog.com/entry/2020/09/07/125513)
@@ -1856,7 +1865,6 @@
 
 ## misc
 
-- [gkoos/cnt (とても小さなC言語向けのユニットテストフレームワーク)(Minimalistic C unit testing framework, ヘッダファイル１つだけ)](https://devlights.hatenablog.com/entry/2025/08/27/073000)
 - [scoopでインストールしたアプリの引き継ぎ（scoop export, scoop import)](https://devlights.hatenablog.com/entry/2025/07/15/073000)
 - [glibcとmuslの比較資料 (glibc vs. musl)](https://devlights.hatenablog.com/entry/2025/07/03/073000)
 - [Anthropicが日本事務所を開設予定（Claude日本語版が用意される？)](https://devlights.hatenablog.com/entry/2025/07/02/073000)
@@ -1875,7 +1883,6 @@
 - [OneCommanderでドラッグ時間の許容閾値を調整 (DragCancellationThresholdMs)](https://devlights.hatenablog.com/entry/2025/03/07/073000)
 - [OneCommander (Windows, ファイルマネージャ, WPF)](https://devlights.hatenablog.com/entry/2025/02/07/073000)
 - [zig-book (プログラミング言語 zig の本)](https://devlights.hatenablog.com/entry/2025/02/06/073000)
-- [clibs/clib (C言語向けのパッケージマネージャ)](https://devlights.hatenablog.com/entry/2025/01/24/073000)
 - [ExcelとWordで知っておるとちょっと便利なショートカットキー](https://devlights.hatenablog.com/entry/2025/01/23/073000)
 - [コピペできるHTMLスニペットまとめ (CodePen)](https://devlights.hatenablog.com/entry/2025/01/22/073000)
 - [SQLite3の設定ファイル (.sqliterc)](https://devlights.hatenablog.com/entry/2024/11/18/073000)
@@ -1900,10 +1907,7 @@
 - [Nix入門 (Zennで公開されている無償書籍)](https://devlights.hatenablog.com/entry/2024/05/02/073000)
 - [psqlで出力を縦にする \(\x\)](https://devlights.hatenablog.com/entry/2024/04/30/073000)
 - [V言語 \(The V Programming Language\)](https://devlights.hatenablog.com/entry/2024/04/26/073000)
-- [gcovとlcovとgenhtmlを使ってC言語のプログラムのカバレッジを計測してHTMLレポート出力](https://devlights.hatenablog.com/entry/2024/04/24/073000)
-- [C言語でちょっとしたサンプルつくるときのMakefile](https://devlights.hatenablog.com/entry/2024/04/10/073000)
 - [Bun 1.1 リリース (Windows版が提供された, Bun Shell)](https://devlights.hatenablog.com/entry/2024/04/09/073000)
-- [gccの定義済みdefineを列挙 (gcc -dM -xc -E)](https://devlights.hatenablog.com/entry/2024/04/08/073000)
 - [ChatGPTでメッセージが送信出来ない件（反応しない、チャットが送信できない)](https://devlights.hatenablog.com/entry/2024/03/12/073000)
 - [Chromeでキャッシュ消去とハード再読み込み（ハードリロード）する](https://devlights.hatenablog.com/entry/2024/03/11/073000)
 - [LPI-JapanのLinuxサーバー構築標準教科書がバージョンアップ](https://devlights.hatenablog.com/entry/2024/02/28/073000)
@@ -2045,7 +2049,6 @@
 - [Youtubeアプリで動画を上下にスワイプでフルスクリーンの切り替えが可能に](https://devlights.hatenablog.com/entry/2020/11/01/235305)
 - [wcコマンドでファイルサイズを表示 (linux, コマンドライン)](https://devlights.hatenablog.com/entry/2020/10/20/120114)
 - [TCPソケットがclose状態の時の挙動についての情報メモ (Writing to a closed, local TCP socket not failing)](https://devlights.hatenablog.com/entry/2020/10/14/134430)
-- [gccで各関数が使用しているスタックサイズを出力するオプション](https://devlights.hatenablog.com/entry/2020/10/05/201142)
 - [技術的負債とオープンソース開発 (Technical Debt and Open Source Development)](https://devlights.hatenablog.com/entry/2020/09/28/135530)
 - [Learn X in Y minutes (いろんなプログラミング言語の特徴とかを載せてくれているサイト)](https://devlights.hatenablog.com/entry/2020/09/25/133403)
 - [Todoistにボード機能が搭載された](https://devlights.hatenablog.com/entry/2020/09/24/190512)
