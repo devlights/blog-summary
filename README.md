@@ -1221,6 +1221,7 @@
 - [Goメモ-608 (Tree-sitterメモ-08)(ノードのトラバース(2), TreeCursorの利用)](https://devlights.hatenablog.com/entry/2025/08/21/073000)
 - [Goメモ-609 (flagパッケージはデフォルトで"--"(ダブルダッシュ)形式がサポートされている)](https://devlights.hatenablog.com/entry/2025/08/25/073000)
 - [Goメモ-610 (Go Concurrency Rocks)(Goの並行処理の動きをインタラクティブに確認できるサイト)](https://devlights.hatenablog.com/entry/2025/08/26/073000)
+- [Goメモ-611 (何もせずジーッと待機しているだけのプログラム)(chan, time.Sleep, signal.NotifyContext)](https://devlights.hatenablog.com/entry/2025/08/29/073000)
 
 ## python
 
