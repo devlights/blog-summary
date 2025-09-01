@@ -493,6 +493,7 @@
 
 ## vscode
 
+- [VSCodeでTODOをツリー上で表示してくれる拡張機能 (Todo Tree)](https://devlights.hatenablog.com/entry/2025/09/01/073000)
 - [VSCodeのスニペットで利用できる変数 (Visual Studio Code, Snippet, code-snippets)](https://devlights.hatenablog.com/entry/2025/08/04/073000)
 - [VSCode起動時に前回のウィンドウを復元しないようにする (Restore Window, Open Without Arguments In New Window)](https://devlights.hatenablog.com/entry/2025/07/14/073000)
 - [Markdown Preview Enhanced (VSCodeの拡張機能, マーメイド記法, エクスポート出来る)](https://devlights.hatenablog.com/entry/2025/06/10/073000)
