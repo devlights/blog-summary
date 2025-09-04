@@ -198,6 +198,7 @@
 
 ## linux
 
+- [cpコマンドでコピー時に階層構造を含めてコピーする (--parent)](https://devlights.hatenablog.com/entry/2025/09/04/073000)
 - [プロセスの生存確認方法あれこれ (kill -0, ps -p, /proc/PID, pgrep)](https://devlights.hatenablog.com/entry/2025/08/28/073000)
 - [The Linux Command Line 第６版 (TLCL, 無償ドキュメント)](https://devlights.hatenablog.com/entry/2025/08/14/073000)
 - [ヒアドキュメントのメモ (bash, <<と<<-の違いとか)](https://devlights.hatenablog.com/entry/2025/07/24/073000)
