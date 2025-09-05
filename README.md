@@ -354,6 +354,7 @@
 
 ## git
 
+- [gitで一部のファイルやディレクトリのみをチェックアウトする(2) (git clone, --sparse, --filter, --no-checkout, --depth)](https://devlights.hatenablog.com/entry/2025/09/05/073000)
 - [gitでリポジトリの総コミット数を取得 (rev-list, --count)](https://devlights.hatenablog.com/entry/2025/07/18/073000)
 - [git notes についてのメモ](https://devlights.hatenablog.com/entry/2025/07/11/073000)
 - [gitで一部のファイルやディレクトリのみをチェックアウトする (git sparse-checkout)](https://devlights.hatenablog.com/entry/2025/06/13/073000)
