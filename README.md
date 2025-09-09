@@ -1226,6 +1226,7 @@
 - [Goメモ-610 (Go Concurrency Rocks)(Goの並行処理の動きをインタラクティブに確認できるサイト)](https://devlights.hatenablog.com/entry/2025/08/26/073000)
 - [Goメモ-611 (何もせずジーッと待機しているだけのプログラム)(chan, time.Sleep, signal.NotifyContext)](https://devlights.hatenablog.com/entry/2025/08/29/073000)
 - [Goメモ-612 (Go 1.25 リリース)](https://devlights.hatenablog.com/entry/2025/09/02/073000)
+- [Goメモ-613 (Go言語の勉強になるWebリソース)](https://devlights.hatenablog.com/entry/2025/09/09/073000)
 
 ## python
 
