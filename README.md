@@ -1231,6 +1231,7 @@
 - [Goメモ-613 (Go言語の勉強になるWebリソース)](https://devlights.hatenablog.com/entry/2025/09/09/073000)
 - [Goメモ-614 (bufio.ScannerにBufferメソッドでバッファサイズを設定)](https://devlights.hatenablog.com/entry/2025/09/10/073000)
 - [Goメモ-615 (ファイルディスクリプタが端末を参照しているか判定)(isatty, go-isatty, ioctl, TCGETS)](https://devlights.hatenablog.com/entry/2025/09/12/073000)
+- [Goメモ-616 (testing/synctestのfake clock機能を使ってテスト)(synctest.Test, Go 1.25, time.Sleep, time.Since)](https://devlights.hatenablog.com/entry/2025/09/17/073000)
 
 ## python
 
