@@ -198,6 +198,7 @@
 
 ## linux
 
+- [bats (bats-core/bats-core, Bash向けのテストフレームワーク)](https://devlights.hatenablog.com/entry/2025/09/26/073000)
 - [cpとmvにある--updateオプション (新しいファイルだけ更新)](https://devlights.hatenablog.com/entry/2025/09/11/073000)
 - [cpコマンドでコピー時に階層構造を含めてコピーする (--parent)](https://devlights.hatenablog.com/entry/2025/09/04/073000)
 - [プロセスの生存確認方法あれこれ (kill -0, ps -p, /proc/PID, pgrep)](https://devlights.hatenablog.com/entry/2025/08/28/073000)
