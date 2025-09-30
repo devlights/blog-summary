@@ -1238,6 +1238,7 @@
 - [Goメモ-619 (slices.Chunkを使ってスライスを特定のチャンクに分けて処理)](https://devlights.hatenablog.com/entry/2025/09/22/073000)
 - [Goメモ-620 (Go 1.25でslog.RecordにSourceメソッドが追加)(ファイルパス, 関数, 行数)](https://devlights.hatenablog.com/entry/2025/09/24/073000)
 - [Goメモ-621 (build constraintsでunixを指定した場合に有効になるOS)(ビルドタグ, Go 1.19で導入)](https://devlights.hatenablog.com/entry/2025/09/29/073000)
+- [Goメモ-622 (Windowsでファイルの作成時間を変更する)(syscall, Creation Time, os.Chtimesでは無理)](https://devlights.hatenablog.com/entry/2025/09/30/073000)
 
 ## python
 
