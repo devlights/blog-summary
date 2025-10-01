@@ -1239,6 +1239,7 @@
 - [Goメモ-620 (Go 1.25でslog.RecordにSourceメソッドが追加)(ファイルパス, 関数, 行数)](https://devlights.hatenablog.com/entry/2025/09/24/073000)
 - [Goメモ-621 (build constraintsでunixを指定した場合に有効になるOS)(ビルドタグ, Go 1.19で導入)](https://devlights.hatenablog.com/entry/2025/09/29/073000)
 - [Goメモ-622 (Windowsでファイルの作成時間を変更する)(syscall, Creation Time, os.Chtimesでは無理)](https://devlights.hatenablog.com/entry/2025/09/30/073000)
+- [Goメモ-623 (cgoメモ-29)(memcpyの呼び出し)](https://devlights.hatenablog.com/entry/2025/10/01/073000)
 
 ## python
 
