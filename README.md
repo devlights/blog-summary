@@ -1886,6 +1886,7 @@
 
 ## misc
 
+- [EXPLAINをexplainしてくれている資料 (PostgreSQL, クエリ最適化)](https://devlights.hatenablog.com/entry/2025/10/02/073000)
 - [Intel One Monoフォント (intel/intel-one-mono)](https://devlights.hatenablog.com/entry/2025/09/25/073000)
 - [WordやExcelでBackstageを経由せずに直接ファイル保存ダイアログで保存 (ショートカットキー, F12)](https://devlights.hatenablog.com/entry/2025/09/08/073000)
 - [scoopでインストールしたアプリの引き継ぎ（scoop export, scoop import)](https://devlights.hatenablog.com/entry/2025/07/15/073000)
