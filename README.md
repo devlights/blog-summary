@@ -1241,6 +1241,7 @@
 - [Goメモ-621 (build constraintsでunixを指定した場合に有効になるOS)(ビルドタグ, Go 1.19で導入)](https://devlights.hatenablog.com/entry/2025/09/29/073000)
 - [Goメモ-622 (Windowsでファイルの作成時間を変更する)(syscall, Creation Time, os.Chtimesでは無理)](https://devlights.hatenablog.com/entry/2025/09/30/073000)
 - [Goメモ-623 (cgoメモ-29)(memcpyの呼び出し)](https://devlights.hatenablog.com/entry/2025/10/01/073000)
+- [Goメモ-624 (スライスのコピー方法あれこれ)(どれが一番速いのか？)](https://devlights.hatenablog.com/entry/2025/10/07/073000)
 
 ## python
 
