@@ -1242,6 +1242,7 @@
 - [Goメモ-622 (Windowsでファイルの作成時間を変更する)(syscall, Creation Time, os.Chtimesでは無理)](https://devlights.hatenablog.com/entry/2025/09/30/073000)
 - [Goメモ-623 (cgoメモ-29)(memcpyの呼び出し)](https://devlights.hatenablog.com/entry/2025/10/01/073000)
 - [Goメモ-624 (スライスのコピー方法あれこれ)(どれが一番速いのか？)](https://devlights.hatenablog.com/entry/2025/10/07/073000)
+- [Goメモ-625 (特定のベンチマークだけメモリ割当の統計情報を出力)(testing.B.ReportAllocs)](https://devlights.hatenablog.com/entry/2025/10/08/073000)
 
 ## python
 
