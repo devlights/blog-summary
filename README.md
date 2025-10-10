@@ -198,6 +198,7 @@
 
 ## linux
 
+- [tar.xzファイルをtarコマンドで展開](https://devlights.hatenablog.com/entry/2025/10/10/073000)
 - [bats (bats-core/bats-core, Bash向けのテストフレームワーク)](https://devlights.hatenablog.com/entry/2025/09/26/073000)
 - [cpとmvにある--updateオプション (新しいファイルだけ更新)](https://devlights.hatenablog.com/entry/2025/09/11/073000)
 - [cpコマンドでコピー時に階層構造を含めてコピーする (--parent)](https://devlights.hatenablog.com/entry/2025/09/04/073000)
