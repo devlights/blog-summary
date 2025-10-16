@@ -1247,6 +1247,7 @@
 - [Goメモ-626 (go buildの際にビルドキャッシュを使わずに強制再ビルドする)](https://devlights.hatenablog.com/entry/2025/10/09/073000)
 - [Goメモ-627 (cgoメモ-30)(Goでビルドした静的ライブラリのC言語からの利用)](https://devlights.hatenablog.com/entry/2025/10/14/073000)
 - [Goメモ-628 (cgoメモ-31)(Cの関数からGoの関数をコールバックする)](https://devlights.hatenablog.com/entry/2025/10/15/073000)
+- [Goメモ-629 (cgoメモ-32)(Cの関数からGoの関数をコールバックする(2))](https://devlights.hatenablog.com/entry/2025/10/16/073000)
 
 ## python
 
