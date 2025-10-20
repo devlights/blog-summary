@@ -1396,6 +1396,7 @@
 - [Pythonメモ-133 (ty)(Rustで実装されているPython型チェッカー, uv, astral-sh)](https://devlights.hatenablog.com/entry/2025/05/19/073000)
 - [Pythonメモ-134 (Pyrefly)(Rustで実装されているPython型チェッカー, Metaが主導)](https://devlights.hatenablog.com/entry/2025/08/05/073000)
 - [Pythonメモ-135 (Diagrams)(Pythonのコードからダイアグラムを生成できるライブラリ)](https://devlights.hatenablog.com/entry/2025/09/03/073000)
+- [Pythonメモ-136 (Python 3.14 リリース)(フリースレッドが正式サポート, 実験的JITコンパイラ)](https://devlights.hatenablog.com/entry/2025/10/20/073000)
 
 ## rust
 
