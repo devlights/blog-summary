@@ -44,6 +44,7 @@
 
 ## C
 
+- [vaqt (Goのtimeパッケージ風の日付操作)(C言語)](https://devlights.hatenablog.com/entry/2025/10/24/073000)
 - [clibs/clib (C言語向けのパッケージマネージャ)](https://devlights.hatenablog.com/entry/2025/01/24/073000)
 - [Task (go-task) メモ-40 (C言語向けの汎用タスクファイル)](https://devlights.hatenablog.com/entry/2025/05/08/073000)
 - [gkoos/cnt (とても小さなC言語向けのユニットテストフレームワーク)(Minimalistic C unit testing framework, ヘッダファイル１つだけ)](https://devlights.hatenablog.com/entry/2025/08/27/073000)
