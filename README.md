@@ -1252,6 +1252,7 @@
 - [Goメモ-629 (cgoメモ-32)(Cの関数からGoの関数をコールバックする(2))](https://devlights.hatenablog.com/entry/2025/10/16/073000)
 - [Goメモ-630 (cgoメモ-33)(LD_PRELOAD を利用したモック)](https://devlights.hatenablog.com/entry/2025/10/17/073000)
 - [Goメモ-631 (csv処理で列が不揃いでもエラーにしない)(csv.Reader.FieldsPerRecord)](https://devlights.hatenablog.com/entry/2025/10/23/073000)
+- [Goメモ-632 (unsafeパッケージを用いてポインタを任意の型にキャスト)](https://devlights.hatenablog.com/entry/2025/10/27/073000)
 
 ## python
 
