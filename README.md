@@ -44,6 +44,7 @@
 
 ## C
 
+- [標準出力をアンバッファリングにする (setbuf, setvbuf)(C言語)](https://devlights.hatenablog.com/entry/2025/10/29/073000)
 - [vaqt (Goのtimeパッケージ風の日付操作)(C言語)](https://devlights.hatenablog.com/entry/2025/10/24/073000)
 - [clibs/clib (C言語向けのパッケージマネージャ)](https://devlights.hatenablog.com/entry/2025/01/24/073000)
 - [Task (go-task) メモ-40 (C言語向けの汎用タスクファイル)](https://devlights.hatenablog.com/entry/2025/05/08/073000)
