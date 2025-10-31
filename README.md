@@ -1256,6 +1256,7 @@
 - [Goメモ-632 (unsafeパッケージを用いてポインタを任意の型にキャスト)](https://devlights.hatenablog.com/entry/2025/10/27/073000)
 - [Goメモ-633 (unsafe.Add関数を用いてポインタ演算する)](https://devlights.hatenablog.com/entry/2025/10/28/073000)
 - [Goメモ-634 (unsafe.Slice, unsafe.SliceData関数を用いて*byteと[]byteを相互変換)](https://devlights.hatenablog.com/entry/2025/10/30/073000)
+- [Goメモ-635 (cgoでunsafe.Slice, unsafe.SliceData関数を使ってCの世界とデータをやり取り)](https://devlights.hatenablog.com/entry/2025/10/31/073000)
 
 ## python
 
