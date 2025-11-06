@@ -1259,6 +1259,7 @@
 - [Goメモ-635 (cgoでunsafe.Slice, unsafe.SliceData関数を使ってCの世界とデータをやり取り)](https://devlights.hatenablog.com/entry/2025/10/31/073000)
 - [Goメモ-636 (Green Tea Garbage Collector)(Go 1.25で実験的追加, Go 1.26でデフォルトになる予定)](https://devlights.hatenablog.com/entry/2025/11/04/073000)
 - [Goメモ-637 (unsafe.Sizeofで構造体のサイズを取得)](https://devlights.hatenablog.com/entry/2025/11/05/073000)
+- [Goメモ-638 (unsafe.Offsetofで構造体内のフィールドのオフセット位置を取得)](https://devlights.hatenablog.com/entry/2025/11/06/073000)
 
 ## python
 
