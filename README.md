@@ -1261,6 +1261,7 @@
 - [Goメモ-637 (unsafe.Sizeofで構造体のサイズを取得)](https://devlights.hatenablog.com/entry/2025/11/05/073000)
 - [Goメモ-638 (unsafe.Offsetofで構造体内のフィールドのオフセット位置を取得)](https://devlights.hatenablog.com/entry/2025/11/06/073000)
 - [Goメモ-639 (unsafe.Alignofで構造体のアライメント要件サイズを取得)](https://devlights.hatenablog.com/entry/2025/11/07/073000)
+- [Goメモ-640 (unsafeパッケージを使って構造体のメモリレイアウトを見る)](https://devlights.hatenablog.com/entry/2025/11/10/073000)
 
 ## python
 
