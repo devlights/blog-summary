@@ -1910,6 +1910,7 @@
 
 ## misc
 
+- [Windows TerminalでAltを押しながらプロファイルを選ぶと分割表示してくれる](https://devlights.hatenablog.com/entry/2025/11/11/073000)
 - [PostgreSQL 18がリリース (非同期I/O処理)](https://devlights.hatenablog.com/entry/2025/10/06/073000)
 - [EXPLAINをexplainしてくれている資料 (PostgreSQL, クエリ最適化)](https://devlights.hatenablog.com/entry/2025/10/02/073000)
 - [Intel One Monoフォント (intel/intel-one-mono)](https://devlights.hatenablog.com/entry/2025/09/25/073000)
