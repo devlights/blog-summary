@@ -1263,6 +1263,7 @@
 - [Goメモ-638 (unsafe.Offsetofで構造体内のフィールドのオフセット位置を取得)](https://devlights.hatenablog.com/entry/2025/11/06/073000)
 - [Goメモ-639 (unsafe.Alignofで構造体のアライメント要件サイズを取得)](https://devlights.hatenablog.com/entry/2025/11/07/073000)
 - [Goメモ-640 (unsafeパッケージを使って構造体のメモリレイアウトを見る)](https://devlights.hatenablog.com/entry/2025/11/10/073000)
+- [Goメモ-641 (cgoメモ-34)(C側で定義された配列の操作)(アクセサ関数を用意)](https://devlights.hatenablog.com/entry/2025/11/13/073000)
 
 ## python
 
