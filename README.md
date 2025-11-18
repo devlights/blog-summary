@@ -202,6 +202,7 @@
 
 ## linux
 
+- [Makefileでコマンド実行に失敗しても継続する (ハイフン)](https://devlights.hatenablog.com/entry/2025/11/18/073000)
 - [Linux上でインストールされてる日本語フォントを探す (fc-list, :lang=ja)](https://devlights.hatenablog.com/entry/2025/10/22/073000)
 - [tar.xzファイルをtarコマンドで展開](https://devlights.hatenablog.com/entry/2025/10/10/073000)
 - [bats (bats-core/bats-core, Bash向けのテストフレームワーク)](https://devlights.hatenablog.com/entry/2025/09/26/073000)
