@@ -1423,6 +1423,7 @@
 
 ## dotnet
 
+- [.NET 10がリリース](https://devlights.hatenablog.com/entry/2025/11/19/073000)
 - [.NET 9 で WinForms に Control.InvokeAsync が追加 (Form.ShowAsync, TaskDialog.ShowDialogAsync は Experimental)](https://devlights.hatenablog.com/entry/2024/12/16/073000)
 - [Xamarinは2024-05-01にサポート終了となる模様](https://devlights.hatenablog.com/entry/2023/06/22/073000)
 - [.NETインストールスクリプトを使ってSDKをインストール](https://devlights.hatenablog.com/entry/2023/06/20/073000)
