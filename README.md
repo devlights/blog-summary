@@ -183,6 +183,7 @@
 - [Flutterメモ-43 (webのhot reloadが出来るようになった)(v3.32, まだExperimental扱い)](https://devlights.hatenablog.com/entry/2025/06/25/073000)
 - [Flutterメモ-44 (dartでクロスコンパイルが可能に)(v3.8, まだlinuxへのクロスコンパイルのみ)](https://devlights.hatenablog.com/entry/2025/07/10/073000)
 - [Flutterメモ-45 (AvaloniaがFlutterと連携してImpellerを.NETに移植する計画を発表)](https://devlights.hatenablog.com/entry/2025/11/14/073000)
+- [Flutterメモ-46 (Flutter 3.38リリース)(Dart 3.10, dot shorthands, widget-preview)](https://devlights.hatenablog.com/entry/2025/11/20/073000)
 
 ## shell
 
