@@ -1917,6 +1917,7 @@
 
 ## misc
 
+- [Apache Iggy (incubating, メッセージストリーミングプラットフォーム, 超高速)](https://devlights.hatenablog.com/entry/2025/11/21/073000)
 - [Windows TerminalでAltを押しながらプロファイルを選ぶと分割表示してくれる](https://devlights.hatenablog.com/entry/2025/11/11/073000)
 - [PostgreSQL 18がリリース (非同期I/O処理)](https://devlights.hatenablog.com/entry/2025/10/06/073000)
 - [EXPLAINをexplainしてくれている資料 (PostgreSQL, クエリ最適化)](https://devlights.hatenablog.com/entry/2025/10/02/073000)
