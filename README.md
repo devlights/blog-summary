@@ -611,6 +611,7 @@
 - [Task (go-task) メモ-42 (uuid関数が追加, v3.44で追加)](https://devlights.hatenablog.com/entry/2025/06/27/073000)
 - [Task (go-task) メモ-43 (randInt, randIntN関数が追加, v3.44で追加)](https://devlights.hatenablog.com/entry/2025/06/30/073000)
 - [Task (go-task) メモ-44 (Built-in Core Utilities for Windows, v3.45で追加)](https://devlights.hatenablog.com/entry/2025/10/03/073000)
+- [Task (go-task) メモ-45 (Wildcard arguments, タスク名にワイルドカードを付与)](https://devlights.hatenablog.com/entry/2025/11/25/073000)
 
 ## golang
 
