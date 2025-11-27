@@ -203,6 +203,7 @@
 
 ## linux
 
+- [システムの設定値とか制限値を取得 (getconf, linux)](https://devlights.hatenablog.com/entry/2025/11/27/073000)
 - [Makefileでコマンド実行に失敗しても継続する (ハイフン)](https://devlights.hatenablog.com/entry/2025/11/18/073000)
 - [Linux上でインストールされてる日本語フォントを探す (fc-list, :lang=ja)](https://devlights.hatenablog.com/entry/2025/10/22/073000)
 - [tar.xzファイルをtarコマンドで展開](https://devlights.hatenablog.com/entry/2025/10/10/073000)
