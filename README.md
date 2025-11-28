@@ -1919,6 +1919,7 @@
 
 ## misc
 
+- [regex101 (正規表現のマッチ具合をビジュアルに見せてくれるサイト)](https://devlights.hatenablog.com/entry/2025/11/28/073000)
 - [Windowsの除外ポート範囲 (10013, WSAEACCES, Socket.DoBind)](https://devlights.hatenablog.com/entry/2025/11/26/073000)
 - [Apache Iggy (incubating, メッセージストリーミングプラットフォーム, 超高速)](https://devlights.hatenablog.com/entry/2025/11/21/073000)
 - [Windows TerminalでAltを押しながらプロファイルを選ぶと分割表示してくれる](https://devlights.hatenablog.com/entry/2025/11/11/073000)
