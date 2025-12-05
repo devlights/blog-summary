@@ -1921,6 +1921,7 @@
 
 ## misc
 
+- [AnthropicがBunを買収 (Claude, Claude Code)](https://devlights.hatenablog.com/entry/2025/12/05/073000)
 - [本番環境の障害通知風目覚ましアラーム（クソアプリ Advent Calendar 2025, Qiita, アーキテクチャが無駄に豪華)](https://devlights.hatenablog.com/entry/2025/12/04/073000)
 - [RHEL10からwgetが非推奨になる (9.13. 非推奨のパッケージ)](https://devlights.hatenablog.com/entry/2025/12/03/073000)
 - [regex101 (正規表現のマッチ具合をビジュアルに見せてくれるサイト)](https://devlights.hatenablog.com/entry/2025/11/28/073000)
