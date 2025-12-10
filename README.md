@@ -1273,6 +1273,7 @@
 - [Goメモ-643 (Goでsysconf(3)とpathconf(3)の呼び出し)](https://devlights.hatenablog.com/entry/2025/12/01/073000)
 - [Goメモ-644 (cgoメモ-35)(マクロ定数は参照できるけどマクロは使えない)](https://devlights.hatenablog.com/entry/2025/12/02/073000)
 - [Goメモ-645 (synctest.Wait)(バブル内のゴルーチンが完了するまで待機させる)](https://devlights.hatenablog.com/entry/2025/12/09/073000)
+- [Goメモ-646 (Go 1.26でerrors.AsType関数が追加される)(errors.As, ジェネリック版)](https://devlights.hatenablog.com/entry/2025/12/10/073000)
 
 ## python
 
