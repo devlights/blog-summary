@@ -1923,6 +1923,7 @@
 
 ## misc
 
+- [Jetbrains Fleetが開発停止になった (The Future of Fleet)](https://devlights.hatenablog.com/entry/2025/12/11/073000)
 - [Google IME + HHKB で切替が「あ」から「_A」になってしまう (半角英数, Eisu, IMEの有効化, IMEの無効化)](https://devlights.hatenablog.com/entry/2025/12/08/073000)
 - [AnthropicがBunを買収 (Claude, Claude Code)](https://devlights.hatenablog.com/entry/2025/12/05/073000)
 - [本番環境の障害通知風目覚ましアラーム（クソアプリ Advent Calendar 2025, Qiita, アーキテクチャが無駄に豪華)](https://devlights.hatenablog.com/entry/2025/12/04/073000)
