@@ -1856,6 +1856,7 @@
 
 ## csharp
 
+- [C# 14からSpanとReadOnlySpanがファーストクラスサポートとなった (.NET 10)](https://devlights.hatenablog.com/entry/2025/12/15/073000)
 - [.NET 9 で WinForms に Control.InvokeAsync が追加 (Form.ShowAsync, TaskDialog.ShowDialogAsync は Experimental)](https://devlights.hatenablog.com/entry/2024/12/16/073000)
 - [C# 13の新機能についてのメモ (Lockオブジェクトなど)](https://devlights.hatenablog.com/entry/2024/10/30/073000)
 - [Windows FormsのProgressBarの進みがちょっとだけ遅れる](https://devlights.hatenablog.com/entry/2023/11/29/073000)
