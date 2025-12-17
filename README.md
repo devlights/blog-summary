@@ -507,6 +507,7 @@
 
 ## vscode
 
+- [VSCodeのv1.107でTerminal Suggest機能がStable扱いになった (便利だけど無効にしたい)](https://devlights.hatenablog.com/entry/2025/12/17/073000)
 - [VSCodeでCtrl-D (次の検索結果を選択に追加)を一つ戻す (Ctrl-d, Ctrl-u)](https://devlights.hatenablog.com/entry/2025/09/16/073000)
 - [VSCodeでTODOをツリー上で表示してくれる拡張機能 (Todo Tree)](https://devlights.hatenablog.com/entry/2025/09/01/073000)
 - [VSCodeのスニペットで利用できる変数 (Visual Studio Code, Snippet, code-snippets)](https://devlights.hatenablog.com/entry/2025/08/04/073000)
