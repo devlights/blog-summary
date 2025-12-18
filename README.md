@@ -1927,6 +1927,7 @@
 
 ## misc
 
+- [プログラミング用フォント (Publickeyさん、2025年版)](https://devlights.hatenablog.com/entry/2025/12/18/073000)
 - [Jetbrains Fleetが開発停止になった (The Future of Fleet)](https://devlights.hatenablog.com/entry/2025/12/11/073000)
 - [Google IME + HHKB で切替が「あ」から「_A」になってしまう (半角英数, Eisu, IMEの有効化, IMEの無効化)](https://devlights.hatenablog.com/entry/2025/12/08/073000)
 - [AnthropicがBunを買収 (Claude, Claude Code)](https://devlights.hatenablog.com/entry/2025/12/05/073000)
