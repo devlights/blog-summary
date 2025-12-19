@@ -1277,6 +1277,7 @@
 - [Goメモ-645 (synctest.Wait)(バブル内のゴルーチンが完了するまで待機させる)](https://devlights.hatenablog.com/entry/2025/12/09/073000)
 - [Goメモ-646 (Go 1.26でerrors.AsType関数が追加される)(errors.As, ジェネリック版)](https://devlights.hatenablog.com/entry/2025/12/10/073000)
 - [Goメモ-647 (Goのswitch statementはcaseに複数の候補が指定できる)(multi case switch statement)](https://devlights.hatenablog.com/entry/2025/12/16/073000)
+- [Goメモ-648 (Go 1.24以降ではmap[key]boolとmap[key]struct{}のメモリ使用量は実質同じ？)](https://devlights.hatenablog.com/entry/2025/12/19/073000)
 
 ## python
 
