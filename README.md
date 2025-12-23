@@ -415,6 +415,7 @@
 
 ## vim
 
+- [vimでカーソル行をバッファの所定位置にする（上中下, zz, zt, zb)](https://devlights.hatenablog.com/entry/2025/12/23/073000)
 - [vimをターミナル上で使っててCTRL-Vがペーストに当たってる場合にVISUAL BLOCKをオンにする (CTRL-V-alternative, CTRL-Q)](https://devlights.hatenablog.com/entry/2025/08/18/073000)
 - [vimでコマンドモード時のファイル名補完を大文字・小文字を区別しないようにする (wildignorecase)](https://devlights.hatenablog.com/entry/2025/08/07/073000)
 - [vimでカーソルの形状をモード毎に変える](https://devlights.hatenablog.com/entry/2025/07/23/073000)
