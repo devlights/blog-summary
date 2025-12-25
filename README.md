@@ -80,6 +80,7 @@
 
 ## wsl-docker
 
+- [Ubuntu Pro for WSL](https://devlights.hatenablog.com/entry/2025/12/25/073000)
 - [wslu (WSL用のユーティリティ集)(wslutilities/wslu)](https://devlights.hatenablog.com/entry/2025/03/03/073000)
 - [WSLにRed Hat Enterprise Linux (RHEL) が追加される](https://devlights.hatenablog.com/entry/2024/12/05/073000)
 - [WSLでホスト名を変更したい](https://devlights.hatenablog.com/entry/2024/02/15/073000)
