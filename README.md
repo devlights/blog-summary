@@ -1283,6 +1283,7 @@
 - [Goメモ-648 (Go 1.24以降ではmap[key]boolとmap[key]struct{}のメモリ使用量は実質同じ？)](https://devlights.hatenablog.com/entry/2025/12/19/073000)
 - [Goメモ-649 (Go 1.26 RC1)(golang.org/dl/go1.26rc1)](https://devlights.hatenablog.com/entry/2025/12/22/073000)
 - [Goメモ-650 (goforj/godump)(凄く使いやすいダンプライブラリ)](https://devlights.hatenablog.com/entry/2025/12/26/073000)
+- [Goメモ-651 (os.UserHomeDir)(Go 1.12から追加, UserConfigDir, UserCacheDir)](https://devlights.hatenablog.com/entry/2026/01/06/073000)
 
 ## python
 
