@@ -1285,6 +1285,7 @@
 - [Goメモ-650 (goforj/godump)(凄く使いやすいダンプライブラリ)](https://devlights.hatenablog.com/entry/2025/12/26/073000)
 - [Goメモ-651 (os.UserHomeDir)(Go 1.12から追加, UserConfigDir, UserCacheDir)](https://devlights.hatenablog.com/entry/2026/01/06/073000)
 - [Goメモ-652 (Go 1.26の新機能とか変更点)(GreenTea GC, new 構文の拡張)](https://devlights.hatenablog.com/entry/2026/01/07/073000)
+- [Goメモ-653 (Go 1.26 interactive tour)(Antonさん)](https://devlights.hatenablog.com/entry/2026/01/08/073000)
 
 ## python
 
