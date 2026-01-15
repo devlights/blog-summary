@@ -1938,6 +1938,7 @@
 
 ## misc
 
+- [Enroll (既に存在するLinuxマシンからAnsible Playbookを作成してくれるツール)](https://devlights.hatenablog.com/entry/2026/01/15/073000)
 - [Claude Code 2.1.1 がリリース](https://devlights.hatenablog.com/entry/2026/01/09/073000)
 - [プログラミング用フォント (Publickeyさん、2025年版)](https://devlights.hatenablog.com/entry/2025/12/18/073000)
 - [Jetbrains Fleetが開発停止になった (The Future of Fleet)](https://devlights.hatenablog.com/entry/2025/12/11/073000)
