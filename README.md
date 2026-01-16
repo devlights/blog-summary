@@ -1288,6 +1288,7 @@
 - [Goメモ-652 (Go 1.26の新機能とか変更点)(GreenTea GC, new 構文の拡張)](https://devlights.hatenablog.com/entry/2026/01/07/073000)
 - [Goメモ-653 (Go 1.26 interactive tour)(Antonさん)](https://devlights.hatenablog.com/entry/2026/01/08/073000)
 - [Goメモ-654 (cgoメモ-36)(structs.HostLayout)](https://devlights.hatenablog.com/entry/2026/01/14/073000)
+- [Goメモ-655 (bmatcuk/doublestar)(`**`をGlobで使えるライブラリ)](https://devlights.hatenablog.com/entry/2026/01/16/073000)
 
 ## python
 
