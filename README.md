@@ -206,6 +206,7 @@
 
 ## linux
 
+- [非推奨になったLinuxのコマンドたち](https://devlights.hatenablog.com/entry/2026/01/19/073000)
 - [システムの設定値とか制限値を取得 (getconf, linux)](https://devlights.hatenablog.com/entry/2025/11/27/073000)
 - [Makefileでコマンド実行に失敗しても継続する (ハイフン)](https://devlights.hatenablog.com/entry/2025/11/18/073000)
 - [Linux上でインストールされてる日本語フォントを探す (fc-list, :lang=ja)](https://devlights.hatenablog.com/entry/2025/10/22/073000)
