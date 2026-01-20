@@ -1940,6 +1940,7 @@
 
 ## misc
 
+- [PWAについての最新情報（State of PWA 2026)](https://devlights.hatenablog.com/entry/2026/01/20/073000)
 - [Enroll (既に存在するLinuxマシンからAnsible Playbookを作成してくれるツール)](https://devlights.hatenablog.com/entry/2026/01/15/073000)
 - [Claude Code 2.1.1 がリリース](https://devlights.hatenablog.com/entry/2026/01/09/073000)
 - [プログラミング用フォント (Publickeyさん、2025年版)](https://devlights.hatenablog.com/entry/2025/12/18/073000)
