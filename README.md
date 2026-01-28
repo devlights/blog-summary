@@ -371,6 +371,7 @@
 
 ## git
 
+- [git pullでerror: The following untracked working tree files would be overwritten by mergeって出たときの対処法の一つ (git clean, git pull)](https://devlights.hatenablog.com/entry/2026/01/28/073000)
 - [gitで一部のファイルやディレクトリのみをチェックアウトする(2) (git clone, --sparse, --filter, --no-checkout, --depth)](https://devlights.hatenablog.com/entry/2025/09/05/073000)
 - [gitでリポジトリの総コミット数を取得 (rev-list, --count)](https://devlights.hatenablog.com/entry/2025/07/18/073000)
 - [git notes についてのメモ](https://devlights.hatenablog.com/entry/2025/07/11/073000)
