@@ -1948,6 +1948,7 @@
 
 ## misc
 
+- [MicrosoftがWindowsアプリを開発するためのCLIを公開 (winapp CLI)](https://devlights.hatenablog.com/entry/2026/02/04/073000)
 - [OpenAI が Azure PostgreSQL（単一プライマリ＋約50リードレプリカ）を最適化して8億ユーザをさばいている事例記事 (Scaling PostgreSQL to power 800 million ChatGPT users)](https://devlights.hatenablog.com/entry/2026/01/29/073000)
 - [PWAについての最新情報（State of PWA 2026)](https://devlights.hatenablog.com/entry/2026/01/20/073000)
 - [Enroll (既に存在するLinuxマシンからAnsible Playbookを作成してくれるツール)](https://devlights.hatenablog.com/entry/2026/01/15/073000)
