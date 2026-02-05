@@ -81,6 +81,7 @@
 
 ## wsl-docker
 
+- [WSL2で/mnt/wslを使ってLinux同士でやり取り](https://devlights.hatenablog.com/entry/2026/02/05/073000)
 - [Ubuntu Pro for WSL](https://devlights.hatenablog.com/entry/2025/12/25/073000)
 - [wslu (WSL用のユーティリティ集)(wslutilities/wslu)](https://devlights.hatenablog.com/entry/2025/03/03/073000)
 - [WSLにRed Hat Enterprise Linux (RHEL) が追加される](https://devlights.hatenablog.com/entry/2024/12/05/073000)
