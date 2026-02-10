@@ -1298,6 +1298,7 @@
 - [Goメモ-657 (Go1.26でslogにMultiHandlerが追加)](https://devlights.hatenablog.com/entry/2026/01/30/073000)
 - [Goメモ-658 (Goアプリをgdbでデバッグする際の手順)](https://devlights.hatenablog.com/entry/2026/02/02/073000)
 - [Goメモ-659 (Goのランタイムメトリクスについてのチートシート)(Go Runtime Metrics: CPU, GC, Memory, Scheduler)](https://devlights.hatenablog.com/entry/2026/02/03/073000)
+- [Goメモ-660 (cgoメモ-37)(go-md4c, MD4Cのラッパーライブラリ)](https://devlights.hatenablog.com/entry/2026/02/10/073000)
 
 ## python
 
