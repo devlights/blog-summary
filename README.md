@@ -208,6 +208,7 @@
 
 ## linux
 
+- [ss -ltnの結果をポート番号で並び替えたい (ヘッダは表示したままで, AWK使わずに)](https://devlights.hatenablog.com/entry/2026/02/12/073000)
 - [インストール済みファイルの所属パッケージ確認 (RHEL系, rpm)](https://devlights.hatenablog.com/entry/2026/01/21/073000)
 - [非推奨になったLinuxのコマンドたち](https://devlights.hatenablog.com/entry/2026/01/19/073000)
 - [システムの設定値とか制限値を取得 (getconf, linux)](https://devlights.hatenablog.com/entry/2025/11/27/073000)
