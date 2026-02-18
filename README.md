@@ -209,6 +209,7 @@
 
 ## linux
 
+- [Bashで拡張GLOBを有効にして利用 (shopt, extglob, !(pattern), パターン以外にマッチさせる)](https://devlights.hatenablog.com/entry/2026/02/18/073000)
 - [ss -ltnの結果をポート番号で並び替えたい (ヘッダは表示したままで, AWK使わずに)](https://devlights.hatenablog.com/entry/2026/02/12/073000)
 - [インストール済みファイルの所属パッケージ確認 (RHEL系, rpm)](https://devlights.hatenablog.com/entry/2026/01/21/073000)
 - [非推奨になったLinuxのコマンドたち](https://devlights.hatenablog.com/entry/2026/01/19/073000)
