@@ -1954,6 +1954,7 @@
 
 ## misc
 
+- [SQLiteのIIF関数が可変長引数をサポートするようになってた (3.49.0以降, sqlite3)](https://devlights.hatenablog.com/entry/2026/02/19/073000)
 - [Zellij (とても使いやすいターミナルマルチプレクサ, Terminal Workspace, tmux)](https://devlights.hatenablog.com/entry/2026/02/13/073000)
 - [Claude Opus 4.6がリリースされた](https://devlights.hatenablog.com/entry/2026/02/09/073000)
 - [Bun v1.3.8でマークダウンパーサーが搭載された (MD4Cの移植)](https://devlights.hatenablog.com/entry/2026/02/06/073000)
