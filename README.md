@@ -1303,6 +1303,7 @@
 - [Goメモ-659 (Goのランタイムメトリクスについてのチートシート)(Go Runtime Metrics: CPU, GC, Memory, Scheduler)](https://devlights.hatenablog.com/entry/2026/02/03/073000)
 - [Goメモ-660 (cgoメモ-37)(go-md4c, MD4Cのラッパーライブラリ)](https://devlights.hatenablog.com/entry/2026/02/10/073000)
 - [Goメモ-661 (cgoメモ-38)(cgoのランタイムメトリクス)(/cgo/go-to-c-calls:calls)](https://devlights.hatenablog.com/entry/2026/02/17/073000)
+- [Goメモ-662 (Go 1.26リリース)](https://devlights.hatenablog.com/entry/2026/02/20/073000)
 
 ## python
 
