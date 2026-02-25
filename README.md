@@ -1956,6 +1956,7 @@
 
 ## misc
 
+- [Helixエディタ(hx)のvim使ってる人向けのチートシート (hx, 自分用, AIに作ってもらった)](https://devlights.hatenablog.com/entry/2026/02/25/073000)
 - [SQLiteのIIF関数が可変長引数をサポートするようになってた (3.49.0以降, sqlite3)](https://devlights.hatenablog.com/entry/2026/02/19/073000)
 - [Zellij (とても使いやすいターミナルマルチプレクサ, Terminal Workspace, tmux)](https://devlights.hatenablog.com/entry/2026/02/13/073000)
 - [Claude Opus 4.6がリリースされた](https://devlights.hatenablog.com/entry/2026/02/09/073000)
