@@ -44,6 +44,7 @@
 
 ## C
 
+- [凄く高機能なピュアC言語で実装されたソケットライブラリ(7etsuo/tetsuo-pulse)](https://devlights.hatenablog.com/entry/2026/02/27/073000)
 - [コマンドラインでC言語のヘッダーファイルに定義されてるdefineの値を調べる (echo, gcc, -E, -dM, grep)](https://devlights.hatenablog.com/entry/2025/12/24/073000)
 - [C23でtypeof演算子が使えるようになる (gccの拡張機能では以前から使えてた)](https://devlights.hatenablog.com/entry/2025/12/12/073000)
 - [siu/minunit (ヘッダファイルだけの超シンプルなC言語向けユニットテストライブラリ)](https://devlights.hatenablog.com/entry/2025/11/12/073000)
