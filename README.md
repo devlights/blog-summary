@@ -1958,6 +1958,8 @@
 
 ## misc
 
+- [java.evolved (Javaのコードをモダンな書き方と旧来の書き方で見れる)](https://devlights.hatenablog.com/entry/2026/03/05/073000)
+- [rga (ripgrep-all) で特定のアダプターを除外して検索 (--rga-list-adapters, --rga-adapters)](https://devlights.hatenablog.com/entry/2026/03/04/073000)
 - [helixエディタでテーマ設定で Unsupported theme: theme requires true color support って出る件](https://devlights.hatenablog.com/entry/2026/03/03/073000)
 - [SQLite3にて起動時にコマンド指定して設定を強制する (sqlite3, -cmd, 一時的に列幅を広くしたい)](https://devlights.hatenablog.com/entry/2026/03/02/073000)
 - [Helixエディタ(hx)のvim使ってる人向けのチートシート (hx, 自分用, AIに作ってもらった)](https://devlights.hatenablog.com/entry/2026/02/25/073000)
