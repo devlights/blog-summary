@@ -210,6 +210,7 @@
 
 ## linux
 
+- [pkill, pgrepでプロセスが見つからない場合 (15文字まで, -fオプション, /proc/pid/stat, TASK_COMM_LEN)](https://devlights.hatenablog.com/entry/2026/03/11/073000)
 - [tarコマンドでxz形式の圧縮と解凍](https://devlights.hatenablog.com/entry/2026/02/24/073000)
 - [Bashで拡張GLOBを有効にして利用 (shopt, extglob, !(pattern), パターン以外にマッチさせる)](https://devlights.hatenablog.com/entry/2026/02/18/073000)
 - [ss -ltnの結果をポート番号で並び替えたい (ヘッダは表示したままで, AWK使わずに)](https://devlights.hatenablog.com/entry/2026/02/12/073000)
