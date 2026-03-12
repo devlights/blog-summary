@@ -1310,6 +1310,7 @@
 - [Goメモ-662 (Go 1.26リリース)](https://devlights.hatenablog.com/entry/2026/02/20/073000)
 - [Goメモ-663 (byte配列をスライスに変換するやり方)(普通に変換, unsafe.Slice使って変換)](https://devlights.hatenablog.com/entry/2026/03/06/073000)
 - [Goメモ-664 (How we reduced the size of our Agent Go binaries by up to 77%)(Datadogのブログ記事, Goのビルドバイナリのサイズ削減Tips)](https://devlights.hatenablog.com/entry/2026/03/09/073000)
+- [Goメモ-665 (nalgeon/solod)(GoのコードをCへ変換)](https://devlights.hatenablog.com/entry/2026/03/12/073000)
 
 ## python
 
