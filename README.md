@@ -1312,6 +1312,7 @@
 - [Goメモ-664 (How we reduced the size of our Agent Go binaries by up to 77%)(Datadogのブログ記事, Goのビルドバイナリのサイズ削減Tips)](https://devlights.hatenablog.com/entry/2026/03/09/073000)
 - [Goメモ-665 (nalgeon/solod)(GoのコードをCへ変換)](https://devlights.hatenablog.com/entry/2026/03/12/073000)
 - [Goメモ-666 (DWAR4形式でビルドする)(Go1.25以降, GOEXPERIMENT, nodwarf5)](https://devlights.hatenablog.com/entry/2026/03/13/073000)
+- [Fresh (ターミナルエディタ, viキーバインドではない, 使いやすい)](https://devlights.hatenablog.com/entry/2026/03/16/073000)
 
 ## python
 
