@@ -1966,6 +1966,7 @@
 
 ## misc
 
+- [PostgreSQLのON CONFLICT DO NOTHING (INSERT文)](https://devlights.hatenablog.com/entry/2026/03/19/073000)
 - [非同期設計ガイドライン（フューチャー株式会社さん)](https://devlights.hatenablog.com/entry/2026/03/10/073000)
 - [java.evolved (Javaのコードをモダンな書き方と旧来の書き方で見れる)](https://devlights.hatenablog.com/entry/2026/03/05/073000)
 - [rga (ripgrep-all) で特定のアダプターを除外して検索 (--rga-list-adapters, --rga-adapters)](https://devlights.hatenablog.com/entry/2026/03/04/073000)
