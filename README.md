@@ -1316,6 +1316,7 @@
 - [Goメモ-667 (Go 1.26 で go fix が変わった)(modernizeパッケージ, go:fix inline)](https://devlights.hatenablog.com/entry/2026/03/17/073000)
 - [Goメモ-668 (fergusstrange/embedded-postgres)(埋め込みPostgreSQL)](https://devlights.hatenablog.com/entry/2026/03/18/073000)
 - [Goメモ-669 (Best Practices for Secure Error Handling in Go)(JetBrainsさんのブログ記事, エラーハンドリング)](https://devlights.hatenablog.com/entry/2026/03/23/073000)
+- [Goメモ-670 (Go 1.26でsignal.Notifyでシグナル受けた際にどのシグナル受けたかが分かるようになった)(context.Cause)](https://devlights.hatenablog.com/entry/2026/03/24/073000)
 
 ## python
 
