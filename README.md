@@ -1318,6 +1318,7 @@
 - [Goメモ-669 (Best Practices for Secure Error Handling in Go)(JetBrainsさんのブログ記事, エラーハンドリング)](https://devlights.hatenablog.com/entry/2026/03/23/073000)
 - [Goメモ-670 (Go 1.26でsignal.Notifyでシグナル受けた際にどのシグナル受けたかが分かるようになった)(context.Cause)](https://devlights.hatenablog.com/entry/2026/03/24/073000)
 - [Goメモ-671 (Go 1.26でゴルーチンリーク用のプロファイルが追加)(実験的機能, GOEXPERIMENT=goroutineleakprofile)](https://devlights.hatenablog.com/entry/2026/03/25/073000)
+- [Goメモ-672 (実行されていないコードパスを見つけてくれるツール)(goreach)](https://devlights.hatenablog.com/entry/2026/03/26/073000)
 
 ## python
 
