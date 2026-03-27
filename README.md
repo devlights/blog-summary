@@ -1970,6 +1970,7 @@
 
 ## misc
 
+- [Microsoft Hasn’t Had a Coherent GUI Strategy Since Petzold (MicrosoftはPetzold以降一貫したGUI戦略を持っていない, Jeffrey Snoverさん)](https://devlights.hatenablog.com/entry/2026/03/27/073000)
 - [PostgreSQLのON CONFLICT DO NOTHING (INSERT文)](https://devlights.hatenablog.com/entry/2026/03/19/073000)
 - [非同期設計ガイドライン（フューチャー株式会社さん)](https://devlights.hatenablog.com/entry/2026/03/10/073000)
 - [java.evolved (Javaのコードをモダンな書き方と旧来の書き方で見れる)](https://devlights.hatenablog.com/entry/2026/03/05/073000)
