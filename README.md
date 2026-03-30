@@ -71,6 +71,7 @@
 - [Nushellメモ-04 (Nushellでサブシェル実行)](https://devlights.hatenablog.com/entry/2024/10/22/073000)
 - [Nushellメモ-05 (設定をデフォルトに戻す)(config reset)](https://devlights.hatenablog.com/entry/2024/12/06/073000)
 - [Nushellメモ-06 (Nushellでletをパイプラインの末尾で利用可能になった)(0.110.0)](https://devlights.hatenablog.com/entry/2026/01/27/073000)
+- [Nushellメモ-07 (起動時のバナーメッセージを表示しないようにする)](https://devlights.hatenablog.com/entry/2026/03/30/073000)
 
 ## deno
 
