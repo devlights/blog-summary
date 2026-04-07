@@ -1974,6 +1974,7 @@
 
 ## misc
 
+- [chromebookのLinuxターミナルアプリからChromeOS上のクリップボードとやり取り](https://devlights.hatenablog.com/entry/2026/04/07/073000)
 - [PowerShellで.NETのライブラリが依存しているアセンブリを表示](https://devlights.hatenablog.com/entry/2026/04/02/073000)
 - [Microsoft Hasn’t Had a Coherent GUI Strategy Since Petzold (MicrosoftはPetzold以降一貫したGUI戦略を持っていない, Jeffrey Snoverさん)](https://devlights.hatenablog.com/entry/2026/03/27/073000)
 - [PostgreSQLのON CONFLICT DO NOTHING (INSERT文)](https://devlights.hatenablog.com/entry/2026/03/19/073000)
