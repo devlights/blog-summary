@@ -1974,6 +1974,7 @@
 
 ## misc
 
+- [managedcode/dotnet-skills (AIコーディングエージェント向けのスキル情報を出力してくれるツール)](https://devlights.hatenablog.com/entry/2026/04/09/073000)
 - [Helix (hx) エディタでシステムクリップボードにコピーする (chromebook, wl-clipboard)](https://devlights.hatenablog.com/entry/2026/04/08/073000)
 - [chromebookのLinuxターミナルアプリからChromeOS上のクリップボードとやり取り](https://devlights.hatenablog.com/entry/2026/04/07/073000)
 - [PowerShellで.NETのライブラリが依存しているアセンブリを表示](https://devlights.hatenablog.com/entry/2026/04/02/073000)
