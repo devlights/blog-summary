@@ -1475,6 +1475,7 @@
 
 ## rust
 
+- [100 Exercises To Learn Rust](https://devlights.hatenablog.com/entry/2026/04/10/073000)
 - [rustのインストールをサイレントに行う（non-interactive, rustup-init.sh, default-toolchain)](https://devlights.hatenablog.com/entry/2025/07/28/073000)
 
 ## dotnet
