@@ -433,6 +433,7 @@
 
 ## vim
 
+- [vimにポップアップウィンドウの半透明と、補完メニューの半透明が入った](https://devlights.hatenablog.com/entry/2026/04/14/073000)
 - [vimでnew,enew,vnewの違い](https://devlights.hatenablog.com/entry/2026/01/13/073000)
 - [vimでカーソル行をバッファの所定位置にする（上中下, zz, zt, zb)](https://devlights.hatenablog.com/entry/2025/12/23/073000)
 - [vimをターミナル上で使っててCTRL-Vがペーストに当たってる場合にVISUAL BLOCKをオンにする (CTRL-V-alternative, CTRL-Q)](https://devlights.hatenablog.com/entry/2025/08/18/073000)
