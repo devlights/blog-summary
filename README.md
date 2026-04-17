@@ -434,6 +434,7 @@
 
 ## vim
 
+- [vimで対象行のインデントを全て除去する (挿入モード, 0<C-d>)](https://devlights.hatenablog.com/entry/2026/04/17/073000)
 - [vimにポップアップウィンドウの半透明と、補完メニューの半透明が入った](https://devlights.hatenablog.com/entry/2026/04/14/073000)
 - [vimでnew,enew,vnewの違い](https://devlights.hatenablog.com/entry/2026/01/13/073000)
 - [vimでカーソル行をバッファの所定位置にする（上中下, zz, zt, zb)](https://devlights.hatenablog.com/entry/2025/12/23/073000)
