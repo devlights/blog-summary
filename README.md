@@ -193,6 +193,7 @@
 - [Flutterメモ-46 (Flutter 3.38リリース)(Dart 3.10, dot shorthands, widget-preview)](https://devlights.hatenablog.com/entry/2025/11/20/073000)
 - [Flutterメモ-47 (トヨタがFlutterをベースにしたゲームエンジンFluoriteを発表)](https://devlights.hatenablog.com/entry/2026/02/16/073000)
 - [Flutterメモ-48 (MaterialとCupertinoがコードフリーズ)(コアフレームワークから分離)](https://devlights.hatenablog.com/entry/2026/04/13/073000)
+- [Flutterメモ-49 (jasper)(flutter.devやdart.devがjasperでリライト, dartのweb framework)](https://devlights.hatenablog.com/entry/2026/04/22/073000)
 
 ## shell
 
