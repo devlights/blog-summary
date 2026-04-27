@@ -1983,6 +1983,7 @@
 
 ## misc
 
+- [FILCOで有名なダイヤテックが閉業](https://devlights.hatenablog.com/entry/2026/04/27/073000)
 - [Windowsのダウンロードファイルに付与されるZone.Identifier (ブロックのやつ）を一括解除 (PowerShell, Unblock-File, NTFS代替データストリーム)](https://devlights.hatenablog.com/entry/2026/04/21/073000)
 - [hexyl (ターミナル上で使えるHEXビューワ)(Rust製, 見やすい, C言語用のコード出力)](https://devlights.hatenablog.com/entry/2026/04/16/073000)
 - [managedcode/dotnet-skills (AIコーディングエージェント向けのスキル情報を出力してくれるツール)](https://devlights.hatenablog.com/entry/2026/04/09/073000)
