@@ -1331,6 +1331,7 @@
 - [Goメモ-673 (TCPコネクションプールを提供してくれるライブラリ)(github.com/soyvural/connpool)](https://devlights.hatenablog.com/entry/2026/04/01/073000)
 - [Goメモ-674 (Go 1.22以降ldflagsで-sの指定で-wも暗黙で含むようになっていた)(シンボルテーブル, DWARF)](https://devlights.hatenablog.com/entry/2026/04/06/073000)
 - [Goメモ-675 (binary.NativeEndian)(ホストエンディアン)](https://devlights.hatenablog.com/entry/2026/04/24/073000)
+- [Goメモ-676 (JohannesKaufmann/html-to-markdown)(HTMLからMarkdownへ変換してくれるライブラリ)](https://devlights.hatenablog.com/entry/2026/04/30/073000)
 
 ## python
 
@@ -1983,6 +1984,7 @@
 
 ## misc
 
+- [Gitea 1.26がリリース](https://devlights.hatenablog.com/entry/2026/04/28/073000)
 - [FILCOで有名なダイヤテックが閉業](https://devlights.hatenablog.com/entry/2026/04/27/073000)
 - [Windowsのダウンロードファイルに付与されるZone.Identifier (ブロックのやつ）を一括解除 (PowerShell, Unblock-File, NTFS代替データストリーム)](https://devlights.hatenablog.com/entry/2026/04/21/073000)
 - [hexyl (ターミナル上で使えるHEXビューワ)(Rust製, 見やすい, C言語用のコード出力)](https://devlights.hatenablog.com/entry/2026/04/16/073000)
