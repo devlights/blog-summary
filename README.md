@@ -1332,6 +1332,7 @@
 - [Goメモ-674 (Go 1.22以降ldflagsで-sの指定で-wも暗黙で含むようになっていた)(シンボルテーブル, DWARF)](https://devlights.hatenablog.com/entry/2026/04/06/073000)
 - [Goメモ-675 (binary.NativeEndian)(ホストエンディアン)](https://devlights.hatenablog.com/entry/2026/04/24/073000)
 - [Goメモ-676 (JohannesKaufmann/html-to-markdown)(HTMLからMarkdownへ変換してくれるライブラリ)](https://devlights.hatenablog.com/entry/2026/04/30/073000)
+- [Goメモ-677 (devlights/pkgdoc2md)(Goの標準ライブラリのパッケージページをMarkdownに変換)](https://devlights.hatenablog.com/entry/2026/05/07/073000)
 
 ## python
 
