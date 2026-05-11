@@ -213,6 +213,7 @@
 
 ## linux
 
+- [テスト用のバイナリファイルを作成 (linux, shell, dd, for, hexyl)](https://devlights.hatenablog.com/entry/2026/05/11/073000)
 - [findコマンドで複数の場所から検索する](https://devlights.hatenablog.com/entry/2026/04/15/073000)
 - [Fresh (ターミナルエディタ, viキーバインドではない, 使いやすい)](https://devlights.hatenablog.com/entry/2026/03/16/073000)
 - [pkill, pgrepでプロセスが見つからない場合 (15文字まで, -fオプション, /proc/pid/stat, TASK_COMM_LEN)](https://devlights.hatenablog.com/entry/2026/03/11/073000)
@@ -1985,6 +1986,7 @@
 
 ## misc
 
+- [Perry (TypeScriptのコードをネイティブバイナリにコンパイル)(Rust製)](https://devlights.hatenablog.com/entry/2026/05/08/073000)
 - [Gitea 1.26がリリース](https://devlights.hatenablog.com/entry/2026/04/28/073000)
 - [FILCOで有名なダイヤテックが閉業](https://devlights.hatenablog.com/entry/2026/04/27/073000)
 - [Windowsのダウンロードファイルに付与されるZone.Identifier (ブロックのやつ）を一括解除 (PowerShell, Unblock-File, NTFS代替データストリーム)](https://devlights.hatenablog.com/entry/2026/04/21/073000)
