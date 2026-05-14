@@ -1988,6 +1988,7 @@
 
 ## misc
 
+- [sql-tap (PostgreSQLやMySQLのSQLトラフィックをリアルタイムで監視・表示できるTUIツール)](https://devlights.hatenablog.com/entry/2026/05/14/073000)
 - [Perry (TypeScriptのコードをネイティブバイナリにコンパイル)(Rust製)](https://devlights.hatenablog.com/entry/2026/05/08/073000)
 - [Gitea 1.26がリリース](https://devlights.hatenablog.com/entry/2026/04/28/073000)
 - [FILCOで有名なダイヤテックが閉業](https://devlights.hatenablog.com/entry/2026/04/27/073000)
