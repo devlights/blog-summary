@@ -1336,6 +1336,7 @@
 - [Goメモ-677 (devlights/pkgdoc2md)(Goの標準ライブラリのパッケージページをMarkdownに変換)](https://devlights.hatenablog.com/entry/2026/05/07/073000)
 - [Goメモ-678 (eBPFについてのリソース)(libbpf, libbpf-bootstrap, cilium/ebpf)](https://devlights.hatenablog.com/entry/2026/05/12/073000)
 - [Goメモ-679 (cgoメモ-39)(Cの関数呼び出しで戻り値とerrorが受け取れる)](https://devlights.hatenablog.com/entry/2026/05/13/073000)
+- [Goメモ-680 (通常ファイルでタイムアウトを発生させる)(os.Open, os.File, os.Pipe, netpoller, epoll)](https://devlights.hatenablog.com/entry/2026/05/18/073000)
 
 ## python
 
