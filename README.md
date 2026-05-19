@@ -194,6 +194,7 @@
 - [Flutterメモ-47 (トヨタがFlutterをベースにしたゲームエンジンFluoriteを発表)](https://devlights.hatenablog.com/entry/2026/02/16/073000)
 - [Flutterメモ-48 (MaterialとCupertinoがコードフリーズ)(コアフレームワークから分離)](https://devlights.hatenablog.com/entry/2026/04/13/073000)
 - [Flutterメモ-49 (jasper)(flutter.devやdart.devがjasperでリライト, dartのweb framework)](https://devlights.hatenablog.com/entry/2026/04/22/073000)
+- [Flutterメモ-50 (Dartのブログページがお引越し)](https://devlights.hatenablog.com/entry/2026/05/19/073000)
 
 ## shell
 
