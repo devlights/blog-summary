@@ -437,6 +437,7 @@
 
 ## vim
 
+- [iamcco/markdown-preview.nvim (マークダウンをプレビュー出来るプラグイン, 連動する, vim/nvim対応)](https://devlights.hatenablog.com/entry/2026/05/20/073000)
 - [Icebergテーマ (vim, 青系のミニマルカラースキーム, vim/nvim対応)](https://devlights.hatenablog.com/entry/2026/04/20/073000)
 - [vimで対象行のインデントを全て除去する (挿入モード, 0<C-d>)](https://devlights.hatenablog.com/entry/2026/04/17/073000)
 - [vimにポップアップウィンドウの半透明と、補完メニューの半透明が入った](https://devlights.hatenablog.com/entry/2026/04/14/073000)
