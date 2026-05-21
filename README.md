@@ -1991,6 +1991,7 @@
 
 ## misc
 
+- [Avaloniaにリッチテキストエディターコントロールが追加](https://devlights.hatenablog.com/entry/2026/05/21/073000)
 - [PostgreSQL17にはMERGE PARTITIONとSPLIT PARTITIONは入っていない (commit 3890d90c)](https://devlights.hatenablog.com/entry/2026/05/15/073000)
 - [sql-tap (PostgreSQLやMySQLのSQLトラフィックをリアルタイムで監視・表示できるTUIツール)](https://devlights.hatenablog.com/entry/2026/05/14/073000)
 - [Perry (TypeScriptのコードをネイティブバイナリにコンパイル)(Rust製)](https://devlights.hatenablog.com/entry/2026/05/08/073000)
