@@ -44,6 +44,7 @@
 
 ## C
 
+- [gccの `__attribute__` 拡張メモ (GCC attribute specifier, GCC attribute syntax, cleanup, packed, constructor, always_inline, unused)](https://devlights.hatenablog.com/entry/2026/05/25/073000)
 - [凄く高機能なピュアC言語で実装されたソケットライブラリ(7etsuo/tetsuo-pulse)](https://devlights.hatenablog.com/entry/2026/02/27/073000)
 - [コマンドラインでC言語のヘッダーファイルに定義されてるdefineの値を調べる (echo, gcc, -E, -dM, grep)](https://devlights.hatenablog.com/entry/2025/12/24/073000)
 - [C23でtypeof演算子が使えるようになる (gccの拡張機能では以前から使えてた)](https://devlights.hatenablog.com/entry/2025/12/12/073000)
@@ -1340,6 +1341,7 @@
 - [Goメモ-679 (cgoメモ-39)(Cの関数呼び出しで戻り値とerrorが受け取れる)](https://devlights.hatenablog.com/entry/2026/05/13/073000)
 - [Goメモ-680 (通常ファイルでタイムアウトを発生させる)(os.Open, os.File, os.Pipe, netpoller, epoll)](https://devlights.hatenablog.com/entry/2026/05/18/073000)
 - [Goメモ-681 (text/tabwriter)(CLI で列をタブ区切りを揃えたテキストを出したい)](https://devlights.hatenablog.com/entry/2026/05/22/073000)
+- [Goメモ-682 (pkg.go.devにAPIインターフェースがベータ版で登場)(Introducing the pkg.go.dev API)](https://devlights.hatenablog.com/entry/2026/05/26/073000)
 
 ## python
 
