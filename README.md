@@ -1342,6 +1342,7 @@
 - [Goメモ-680 (通常ファイルでタイムアウトを発生させる)(os.Open, os.File, os.Pipe, netpoller, epoll)](https://devlights.hatenablog.com/entry/2026/05/18/073000)
 - [Goメモ-681 (text/tabwriter)(CLI で列をタブ区切りを揃えたテキストを出したい)](https://devlights.hatenablog.com/entry/2026/05/22/073000)
 - [Goメモ-682 (pkg.go.devにAPIインターフェースがベータ版で登場)(Introducing the pkg.go.dev API)](https://devlights.hatenablog.com/entry/2026/05/26/073000)
+- [Goメモ-683 (/dev/ttyで遊ぶ)(プロセスが所属している制御端末を指す特殊エイリアス)](https://devlights.hatenablog.com/entry/2026/05/27/073000)
 
 ## python
 
