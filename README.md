@@ -1343,6 +1343,7 @@
 - [Goメモ-681 (text/tabwriter)(CLI で列をタブ区切りを揃えたテキストを出したい)](https://devlights.hatenablog.com/entry/2026/05/22/073000)
 - [Goメモ-682 (pkg.go.devにAPIインターフェースがベータ版で登場)(Introducing the pkg.go.dev API)](https://devlights.hatenablog.com/entry/2026/05/26/073000)
 - [Goメモ-683 (/dev/ttyで遊ぶ)(プロセスが所属している制御端末を指す特殊エイリアス)](https://devlights.hatenablog.com/entry/2026/05/27/073000)
+- [Goメモ-684 (flag.Visit)(起動時に指定されたフラグを走査, デフォルト値を持つフラグが実際に指定されたかどうか判定)](https://devlights.hatenablog.com/entry/2026/05/28/073000)
 
 ## python
 
