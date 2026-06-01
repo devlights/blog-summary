@@ -1996,6 +1996,7 @@
 
 ## misc
 
+- [RivoLink/leaf (TUIで利用できるマークダウンビューワー, Rust)](https://devlights.hatenablog.com/entry/2026/06/01/073000)
 - [pgxbackup (PostgreSQL, pgBackRestのフォーク, pgx社がメンテ)](https://devlights.hatenablog.com/entry/2026/05/29/073000)
 - [Avaloniaにリッチテキストエディターコントロールが追加](https://devlights.hatenablog.com/entry/2026/05/21/073000)
 - [PostgreSQL17にはMERGE PARTITIONとSPLIT PARTITIONは入っていない (commit 3890d90c)](https://devlights.hatenablog.com/entry/2026/05/15/073000)
