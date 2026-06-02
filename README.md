@@ -438,6 +438,7 @@
 
 ## vim
 
+- [RivoLink/leaf を vim で呼び出せるようにする](https://devlights.hatenablog.com/entry/2026/06/02/073000)
 - [iamcco/markdown-preview.nvim (マークダウンをプレビュー出来るプラグイン, 連動する, vim/nvim対応)](https://devlights.hatenablog.com/entry/2026/05/20/073000)
 - [Icebergテーマ (vim, 青系のミニマルカラースキーム, vim/nvim対応)](https://devlights.hatenablog.com/entry/2026/04/20/073000)
 - [vimで対象行のインデントを全て除去する (挿入モード, 0<C-d>)](https://devlights.hatenablog.com/entry/2026/04/17/073000)
