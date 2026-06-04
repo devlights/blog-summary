@@ -438,6 +438,8 @@
 
 ## vim
 
+- [Perplexityが自社で利用しているツールBumblebeeをオープンソースとして公開](https://devlights.hatenablog.com/entry/2026/06/04/073000)
+- [charmbracelet/glow (TUIで使えるマークダウンビューワー, leafと似てる, Go)](https://devlights.hatenablog.com/entry/2026/06/03/073000)
 - [RivoLink/leaf を vim で呼び出せるようにする](https://devlights.hatenablog.com/entry/2026/06/02/073000)
 - [iamcco/markdown-preview.nvim (マークダウンをプレビュー出来るプラグイン, 連動する, vim/nvim対応)](https://devlights.hatenablog.com/entry/2026/05/20/073000)
 - [Icebergテーマ (vim, 青系のミニマルカラースキーム, vim/nvim対応)](https://devlights.hatenablog.com/entry/2026/04/20/073000)
