@@ -438,6 +438,7 @@
 
 ## vim
 
+- [PostgreSQLで特定のスキーマのテーブル全部消す (DROP TABLE, pg_tables)](https://devlights.hatenablog.com/entry/2026/06/05/073000)
 - [Perplexityが自社で利用しているツールBumblebeeをオープンソースとして公開](https://devlights.hatenablog.com/entry/2026/06/04/073000)
 - [charmbracelet/glow (TUIで使えるマークダウンビューワー, leafと似てる, Go)](https://devlights.hatenablog.com/entry/2026/06/03/073000)
 - [RivoLink/leaf を vim で呼び出せるようにする](https://devlights.hatenablog.com/entry/2026/06/02/073000)
