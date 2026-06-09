@@ -1348,6 +1348,7 @@
 - [Goメモ-682 (pkg.go.devにAPIインターフェースがベータ版で登場)(Introducing the pkg.go.dev API)](https://devlights.hatenablog.com/entry/2026/05/26/073000)
 - [Goメモ-683 (/dev/ttyで遊ぶ)(プロセスが所属している制御端末を指す特殊エイリアス)](https://devlights.hatenablog.com/entry/2026/05/27/073000)
 - [Goメモ-684 (flag.Visit)(起動時に指定されたフラグを走査, デフォルト値を持つフラグが実際に指定されたかどうか判定)](https://devlights.hatenablog.com/entry/2026/05/28/073000)
+- [Goメモ-685 (securego/gosec)(静的解析（SAST）し、セキュリティ上の脆弱性を検出するツール)](https://devlights.hatenablog.com/entry/2026/06/08/073000)
 
 ## python
 
@@ -2000,6 +2001,7 @@
 
 ## misc
 
+- [GNU poke (CUIベースのバイナリエディタ, Poke言語, 型を定義してバイナリにマッピングして編集する)](https://devlights.hatenablog.com/entry/2026/06/09/073000)
 - [RivoLink/leaf (TUIで利用できるマークダウンビューワー, Rust)](https://devlights.hatenablog.com/entry/2026/06/01/073000)
 - [pgxbackup (PostgreSQL, pgBackRestのフォーク, pgx社がメンテ)](https://devlights.hatenablog.com/entry/2026/05/29/073000)
 - [Avaloniaにリッチテキストエディターコントロールが追加](https://devlights.hatenablog.com/entry/2026/05/21/073000)
