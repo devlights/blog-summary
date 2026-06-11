@@ -2002,6 +2002,7 @@
 
 ## misc
 
+- [Coreutils for Windows (マイクロソフト, UNIX系コマンドをWindowsに移植)](https://devlights.hatenablog.com/entry/2026/06/11/073000)
 - [GNU poke (CUIベースのバイナリエディタ, Poke言語, 型を定義してバイナリにマッピングして編集する)](https://devlights.hatenablog.com/entry/2026/06/09/073000)
 - [RivoLink/leaf (TUIで利用できるマークダウンビューワー, Rust)](https://devlights.hatenablog.com/entry/2026/06/01/073000)
 - [pgxbackup (PostgreSQL, pgBackRestのフォーク, pgx社がメンテ)](https://devlights.hatenablog.com/entry/2026/05/29/073000)
