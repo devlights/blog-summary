@@ -215,6 +215,7 @@
 
 ## linux
 
+- [fcコマンド (直前に実行したコマンドを$EDITORで編集, :q!としても直前コマンドが実行される点は注意)](https://devlights.hatenablog.com/entry/2026/06/15/073000)
 - [テスト用のバイナリファイルを作成 (linux, shell, dd, for, hexyl)](https://devlights.hatenablog.com/entry/2026/05/11/073000)
 - [findコマンドで複数の場所から検索する](https://devlights.hatenablog.com/entry/2026/04/15/073000)
 - [Fresh (ターミナルエディタ, viキーバインドではない, 使いやすい)](https://devlights.hatenablog.com/entry/2026/03/16/073000)
