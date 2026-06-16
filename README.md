@@ -1351,6 +1351,7 @@
 - [Goメモ-684 (flag.Visit)(起動時に指定されたフラグを走査, デフォルト値を持つフラグが実際に指定されたかどうか判定)](https://devlights.hatenablog.com/entry/2026/05/28/073000)
 - [Goメモ-685 (securego/gosec)(静的解析（SAST）し、セキュリティ上の脆弱性を検出するツール)](https://devlights.hatenablog.com/entry/2026/06/08/073000)
 - [Goメモ-686 (生成AI時代にこそ効くGo)(SpeakerDeck)](https://devlights.hatenablog.com/entry/2026/06/10/073000)
+- [Goメモ-687 (http/httptraceパッケージ)(HTTPのハンドシェイクにフック入れる)](https://devlights.hatenablog.com/entry/2026/06/16/073000)
 
 ## python
 
