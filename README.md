@@ -1354,6 +1354,7 @@
 - [Goメモ-687 (http/httptraceパッケージ)(HTTPのハンドシェイクにフック入れる)](https://devlights.hatenablog.com/entry/2026/06/16/073000)
 - [Goメモ-688 (Go エラーハンドリング 10箇条)(The 10 Go Error Handling Commandments)](https://devlights.hatenablog.com/entry/2026/06/17/073000)
 - [Goメモ-689 (path/filepath.Clean)(パスの正規化)](https://devlights.hatenablog.com/entry/2026/06/18/073000)
+- [Goメモ-690 (os.OpenRoot)(Go1.24で追加, 特定ディレクトリ配下に操作を閉じ込める)](https://devlights.hatenablog.com/entry/2026/06/19/073000)
 
 ## python
 
