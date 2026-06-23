@@ -2008,6 +2008,7 @@
 
 ## misc
 
+- [psqlで出力を一時的に捨てる方法 (\o, /dev/null)](https://devlights.hatenablog.com/entry/2026/06/23/073000)
 - [cdecl (「C のややこしい宣言／キャスト」と「英語ふうの説明」を双方向に変換)](https://devlights.hatenablog.com/entry/2026/06/12/073000)
 - [Coreutils for Windows (マイクロソフト, UNIX系コマンドをWindowsに移植)](https://devlights.hatenablog.com/entry/2026/06/11/073000)
 - [GNU poke (CUIベースのバイナリエディタ, Poke言語, 型を定義してバイナリにマッピングして編集する)](https://devlights.hatenablog.com/entry/2026/06/09/073000)
