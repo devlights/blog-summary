@@ -8,8 +8,6 @@
 - [C](#c)
 - [miller](#miller)
 - [nushell](#nushell)
-- [deno](#deno)
-- [javascript](#javascript)
 - [wsl-docker](#wsl-docker)
 - [java](#java)
 - [flutter](#flutter)
@@ -73,14 +71,6 @@
 - [Nushellメモ-05 (設定をデフォルトに戻す)(config reset)](https://devlights.hatenablog.com/entry/2024/12/06/073000)
 - [Nushellメモ-06 (Nushellでletをパイプラインの末尾で利用可能になった)(0.110.0)](https://devlights.hatenablog.com/entry/2026/01/27/073000)
 - [Nushellメモ-07 (起動時のバナーメッセージを表示しないようにする)](https://devlights.hatenablog.com/entry/2026/03/30/073000)
-
-## deno
-
-- [Deno 1.39 がリリース](https://devlights.hatenablog.com/entry/2023/12/27/073000)
-
-## javascript
-
-- [bun 1.0 がリリース](https://devlights.hatenablog.com/entry/2023/09/13/073000)
 
 ## wsl-docker
 
@@ -439,9 +429,7 @@
 
 ## vim
 
-- [PostgreSQLで特定のスキーマのテーブル全部消す (DROP TABLE, pg_tables)](https://devlights.hatenablog.com/entry/2026/06/05/073000)
-- [Perplexityが自社で利用しているツールBumblebeeをオープンソースとして公開](https://devlights.hatenablog.com/entry/2026/06/04/073000)
-- [charmbracelet/glow (TUIで使えるマークダウンビューワー, leafと似てる, Go)](https://devlights.hatenablog.com/entry/2026/06/03/073000)
+- [vimでROT13エンコード (おまけ機能みたいなもの)](https://devlights.hatenablog.com/entry/2026/06/25/073000)
 - [RivoLink/leaf を vim で呼び出せるようにする](https://devlights.hatenablog.com/entry/2026/06/02/073000)
 - [iamcco/markdown-preview.nvim (マークダウンをプレビュー出来るプラグイン, 連動する, vim/nvim対応)](https://devlights.hatenablog.com/entry/2026/05/20/073000)
 - [Icebergテーマ (vim, 青系のミニマルカラースキーム, vim/nvim対応)](https://devlights.hatenablog.com/entry/2026/04/20/073000)
@@ -2008,8 +1996,13 @@
 
 ## misc
 
+- [bun 1.0 がリリース](https://devlights.hatenablog.com/entry/2023/09/13/073000)
+- [Deno 1.39 がリリース](https://devlights.hatenablog.com/entry/2023/12/27/073000)
 - [Google Earthのフライトシミュレータがブラウザでも出来るようになってた（現在試験運用中とのこと）](https://devlights.hatenablog.com/entry/2026/06/24/073000)
 - [psqlで出力を一時的に捨てる方法 (\o, /dev/null)](https://devlights.hatenablog.com/entry/2026/06/23/073000)
+- [PostgreSQLで特定のスキーマのテーブル全部消す (DROP TABLE, pg_tables)](https://devlights.hatenablog.com/entry/2026/06/05/073000)
+- [Perplexityが自社で利用しているツールBumblebeeをオープンソースとして公開](https://devlights.hatenablog.com/entry/2026/06/04/073000)
+- [charmbracelet/glow (TUIで使えるマークダウンビューワー, leafと似てる, Go)](https://devlights.hatenablog.com/entry/2026/06/03/073000)
 - [cdecl (「C のややこしい宣言／キャスト」と「英語ふうの説明」を双方向に変換)](https://devlights.hatenablog.com/entry/2026/06/12/073000)
 - [Coreutils for Windows (マイクロソフト, UNIX系コマンドをWindowsに移植)](https://devlights.hatenablog.com/entry/2026/06/11/073000)
 - [GNU poke (CUIベースのバイナリエディタ, Poke言語, 型を定義してバイナリにマッピングして編集する)](https://devlights.hatenablog.com/entry/2026/06/09/073000)
