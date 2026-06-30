@@ -1345,6 +1345,7 @@
 - [Goメモ-689 (path/filepath.Clean)(パスの正規化)](https://devlights.hatenablog.com/entry/2026/06/18/073000)
 - [Goメモ-690 (os.OpenRoot)(Go1.24で追加, 特定ディレクトリ配下に操作を閉じ込める)](https://devlights.hatenablog.com/entry/2026/06/19/073000)
 - [Goメモ-691 (os.OpenInRoot)(Go1.24で追加, os.OpenRootのショートカット)](https://devlights.hatenablog.com/entry/2026/06/22/073000)
+- [Goメモ-692 (ROT13エンコーディング)(ネタ)](https://devlights.hatenablog.com/entry/2026/06/30/073000)
 
 ## python
 
