@@ -1347,6 +1347,7 @@
 - [Goメモ-691 (os.OpenInRoot)(Go1.24で追加, os.OpenRootのショートカット)](https://devlights.hatenablog.com/entry/2026/06/22/073000)
 - [Goメモ-692 (ROT13エンコーディング)(ネタ)](https://devlights.hatenablog.com/entry/2026/06/30/073000)
 - [Goメモ-693 (False Sharing)(CPU, 非同期, L1, L2)](https://devlights.hatenablog.com/entry/2026/07/01/073000)
+- [Goメモ-694 (Go1.27でジェネリックメソッドが追加される)(1.27, Generic Method)](https://devlights.hatenablog.com/entry/2026/07/03/073000)
 
 ## python
 
