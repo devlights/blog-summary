@@ -2000,6 +2000,7 @@
 
 ## misc
 
+- [開発に欠かせない 10 個のプロンプト (Google Cloud ブログ)](https://devlights.hatenablog.com/entry/2026/07/06/073000)
 - [PerplexityでProサーチとディープリサーチの残り回数を確認する方法 (Pro Search, Deep Research)](https://devlights.hatenablog.com/entry/2026/06/26/073000)
 - [bun 1.0 がリリース](https://devlights.hatenablog.com/entry/2023/09/13/073000)
 - [Deno 1.39 がリリース](https://devlights.hatenablog.com/entry/2023/12/27/073000)
