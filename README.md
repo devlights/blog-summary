@@ -2001,6 +2001,7 @@
 
 ## misc
 
+- [Goメモ-695 (Solod v0.2がリリース)(so/netパッケージが追加, TCP, UDP, Unix domain socket)](https://devlights.hatenablog.com/entry/2026/07/09/073000)
 - [Windows11でマウスカーソルがカクつく (アニメーションをオフにする)](https://devlights.hatenablog.com/entry/2026/07/08/073000)
 - [開発に欠かせない 10 個のプロンプト (Google Cloud ブログ)](https://devlights.hatenablog.com/entry/2026/07/06/073000)
 - [PerplexityでProサーチとディープリサーチの残り回数を確認する方法 (Pro Search, Deep Research)](https://devlights.hatenablog.com/entry/2026/06/26/073000)
