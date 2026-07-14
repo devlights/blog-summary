@@ -1350,6 +1350,7 @@
 - [Goメモ-692 (ROT13エンコーディング)(ネタ)](https://devlights.hatenablog.com/entry/2026/06/30/073000)
 - [Goメモ-693 (False Sharing)(CPU, 非同期, L1, L2)](https://devlights.hatenablog.com/entry/2026/07/01/073000)
 - [Goメモ-694 (Go1.27でジェネリックメソッドが追加される)(1.27, Generic Method)](https://devlights.hatenablog.com/entry/2026/07/03/073000)
+- [- [Goメモ-695 (Solod v0.2がリリース)(so/netパッケージが追加, TCP, UDP, Unix domain socket)](https://devlights.hatenablog.com/entry/2026/07/09/073000)]
 
 ## python
 
@@ -2002,7 +2003,7 @@
 
 ## misc
 
-- [Goメモ-695 (Solod v0.2がリリース)(so/netパッケージが追加, TCP, UDP, Unix domain socket)](https://devlights.hatenablog.com/entry/2026/07/09/073000)
+- [G# (a modern .NET language with Go, Kotlin, and Swift ergonomics)](https://devlights.hatenablog.com/entry/2026/07/14/073000)
 - [Windows11でマウスカーソルがカクつく (アニメーションをオフにする)](https://devlights.hatenablog.com/entry/2026/07/08/073000)
 - [開発に欠かせない 10 個のプロンプト (Google Cloud ブログ)](https://devlights.hatenablog.com/entry/2026/07/06/073000)
 - [PerplexityでProサーチとディープリサーチの残り回数を確認する方法 (Pro Search, Deep Research)](https://devlights.hatenablog.com/entry/2026/06/26/073000)
