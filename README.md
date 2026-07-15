@@ -2003,6 +2003,7 @@
 
 ## misc
 
+- [SQLのLATERALについて](https://devlights.hatenablog.com/entry/2026/07/15/073000)
 - [G# (a modern .NET language with Go, Kotlin, and Swift ergonomics)](https://devlights.hatenablog.com/entry/2026/07/14/073000)
 - [Windows11でマウスカーソルがカクつく (アニメーションをオフにする)](https://devlights.hatenablog.com/entry/2026/07/08/073000)
 - [開発に欠かせない 10 個のプロンプト (Google Cloud ブログ)](https://devlights.hatenablog.com/entry/2026/07/06/073000)
