@@ -2003,6 +2003,7 @@
 
 ## misc
 
+- [PostgreSQL一つで十分（Postgres is enough）](https://devlights.hatenablog.com/entry/2026/07/17/073000)
 - [ガートナー社の2029年までの予測 (Gartner Predicts 60% of Organizations Will Adopt Smaller Software Engineering Teams by 2029)](https://devlights.hatenablog.com/entry/2026/07/16/073000)
 - [SQLのLATERALについて](https://devlights.hatenablog.com/entry/2026/07/15/073000)
 - [G# (a modern .NET language with Go, Kotlin, and Swift ergonomics)](https://devlights.hatenablog.com/entry/2026/07/14/073000)
