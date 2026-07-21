@@ -1350,7 +1350,9 @@
 - [Goメモ-692 (ROT13エンコーディング)(ネタ)](https://devlights.hatenablog.com/entry/2026/06/30/073000)
 - [Goメモ-693 (False Sharing)(CPU, 非同期, L1, L2)](https://devlights.hatenablog.com/entry/2026/07/01/073000)
 - [Goメモ-694 (Go1.27でジェネリックメソッドが追加される)(1.27, Generic Method)](https://devlights.hatenablog.com/entry/2026/07/03/073000)
-- [- [Goメモ-695 (Solod v0.2がリリース)(so/netパッケージが追加, TCP, UDP, Unix domain socket)](https://devlights.hatenablog.com/entry/2026/07/09/073000)]
+- [Goメモ-695 (Solod v0.2がリリース)(so/netパッケージが追加, TCP, UDP, Unix domain socket)](https://devlights.hatenablog.com/entry/2026/07/09/073000)
+- [Goメモ-696 (Solod v0.2がリリース)(so/netパッケージが追加, TCPのサンプル)](https://devlights.hatenablog.com/entry/2026/07/10/073000)
+- [Goメモ-697 (Excelizeパッケージが１０周年とv2.11.0リリース)(10th Anniversary of the Excelize)](https://devlights.hatenablog.com/entry/2026/07/21/073000)
 
 ## python
 
