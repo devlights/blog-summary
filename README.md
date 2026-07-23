@@ -1353,6 +1353,7 @@
 - [Goメモ-695 (Solod v0.2がリリース)(so/netパッケージが追加, TCP, UDP, Unix domain socket)](https://devlights.hatenablog.com/entry/2026/07/09/073000)
 - [Goメモ-696 (Solod v0.2がリリース)(so/netパッケージが追加, TCPのサンプル)](https://devlights.hatenablog.com/entry/2026/07/10/073000)
 - [Goメモ-697 (Excelizeパッケージが１０周年とv2.11.0リリース)(10th Anniversary of the Excelize)](https://devlights.hatenablog.com/entry/2026/07/21/073000)
+- [Goメモ-698 (pterm/pterm)(modern Go module to easily beautify console output)](https://devlights.hatenablog.com/entry/2026/07/23/073000)
 
 ## python
 
@@ -1502,6 +1503,7 @@
 - [Pythonメモ-135 (Diagrams)(Pythonのコードからダイアグラムを生成できるライブラリ)](https://devlights.hatenablog.com/entry/2025/09/03/073000)
 - [Pythonメモ-136 (Python 3.14 リリース)(フリースレッドが正式サポート, 実験的JITコンパイラ)](https://devlights.hatenablog.com/entry/2025/10/20/073000)
 - [Pythonメモ-137 (Python 3.16からWindows向けのインストーラーが廃止される模様)(Python Install Mangerを使う)](https://devlights.hatenablog.com/entry/2025/10/21/073000)
+- [Pythonメモ-138 (Python 3.14と3.15におけるインクリメンタルGCのリバート)(Reverting the incremental GC in Python 3.14 and 3.15)](https://devlights.hatenablog.com/entry/2026/07/22/073000)
 
 ## rust
 
