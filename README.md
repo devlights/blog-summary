@@ -1356,6 +1356,7 @@
 - [Goメモ-698 (pterm/pterm)(modern Go module to easily beautify console output)](https://devlights.hatenablog.com/entry/2026/07/23/073000)
 - [Goメモ-699 (Solodに非同期機能が追加)(Go-flavored concurrency in C)](https://devlights.hatenablog.com/entry/2026/07/24/073000)
 - [Goメモ-700 (GoLand v2026.2で構造体の最適化機能が追加された)(Struct Optimization)](https://devlights.hatenablog.com/entry/2026/07/27/073000)
+- [Goメモ-701 (Failsafe-go)(リトライ)](https://devlights.hatenablog.com/entry/2026/07/29/073000)
 
 ## python
 
