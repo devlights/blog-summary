@@ -1358,6 +1358,7 @@
 - [Goメモ-700 (GoLand v2026.2で構造体の最適化機能が追加された)(Struct Optimization)](https://devlights.hatenablog.com/entry/2026/07/27/073000)
 - [Goメモ-701 (Failsafe-go)(リトライ)](https://devlights.hatenablog.com/entry/2026/07/29/073000)
 - [Goメモ-702 (Failsafe-go)(リトライ＋タイムアウト)](https://devlights.hatenablog.com/entry/2026/07/30/073000)
+- [Goメモ-703 (Failsafe-go)(サーキットブレーカー, Circuit Breaker, 自力実装)](https://devlights.hatenablog.com/entry/2026/07/31/073000)
 
 ## python
 
