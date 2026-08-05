@@ -2014,6 +2014,7 @@
 
 ## misc
 
+- [VercelがTypescriptをC言語に変換するscriptcを公開](https://devlights.hatenablog.com/entry/2026/08/05/073000)
 - [PostgreSQLで既存テーブルの構造や制約をそのままコピーして新しいテーブルを作成(LIKE, INCLUDING ALL)](https://devlights.hatenablog.com/entry/2026/07/28/073000)
 - [PostgreSQL一つで十分（Postgres is enough）](https://devlights.hatenablog.com/entry/2026/07/17/073000)
 - [ガートナー社の2029年までの予測 (Gartner Predicts 60% of Organizations Will Adopt Smaller Software Engineering Teams by 2029)](https://devlights.hatenablog.com/entry/2026/07/16/073000)
