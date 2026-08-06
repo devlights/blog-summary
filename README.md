@@ -1511,6 +1511,7 @@
 - [Pythonメモ-136 (Python 3.14 リリース)(フリースレッドが正式サポート, 実験的JITコンパイラ)](https://devlights.hatenablog.com/entry/2025/10/20/073000)
 - [Pythonメモ-137 (Python 3.16からWindows向けのインストーラーが廃止される模様)(Python Install Mangerを使う)](https://devlights.hatenablog.com/entry/2025/10/21/073000)
 - [Pythonメモ-138 (Python 3.14と3.15におけるインクリメンタルGCのリバート)(Reverting the incremental GC in Python 3.14 and 3.15)](https://devlights.hatenablog.com/entry/2026/07/22/073000)
+- [Pythonメモ-139 (Flet)(GUIライブラリ, Flutterベース)](https://devlights.hatenablog.com/entry/2026/08/06/073000)
 
 ## rust
 
