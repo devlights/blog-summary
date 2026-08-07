@@ -2015,6 +2015,7 @@
 
 ## misc
 
+- [Arto (マークダウンを読むためのツール, Rust)](https://devlights.hatenablog.com/entry/2026/08/07/073000)
 - [VercelがTypescriptをC言語に変換するscriptcを公開](https://devlights.hatenablog.com/entry/2026/08/05/073000)
 - [PostgreSQLで既存テーブルの構造や制約をそのままコピーして新しいテーブルを作成(LIKE, INCLUDING ALL)](https://devlights.hatenablog.com/entry/2026/07/28/073000)
 - [PostgreSQL一つで十分（Postgres is enough）](https://devlights.hatenablog.com/entry/2026/07/17/073000)
