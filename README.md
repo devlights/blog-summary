@@ -1361,6 +1361,7 @@
 - [Goメモ-703 (Failsafe-go)(サーキットブレーカー, Circuit Breaker, 自力実装)](https://devlights.hatenablog.com/entry/2026/07/31/073000)
 - [Goメモ-704 (Failsafe-go)(サーキットブレーカー, Circuit Breaker)](https://devlights.hatenablog.com/entry/2026/08/03/073000)
 - [Goメモ-705 (go get toolで追加したツールの削除)(go get tool, none)](https://devlights.hatenablog.com/entry/2026/08/04/073000)
+- [Goメモ-706 (インターフェースでジェネリックメソッドは宣言できない)(go1.27)](https://devlights.hatenablog.com/entry/2026/08/18/073000)
 
 ## python
 
