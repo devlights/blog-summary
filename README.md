@@ -206,6 +206,7 @@
 
 ## linux
 
+- [LinuxでCAPS LOCKをCTRLに変更 (Ubuntu Linux 26.04)](https://devlights.hatenablog.com/entry/2026/08/21/073000)
 - [SSHトンネルについての情報 (A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding)](https://devlights.hatenablog.com/entry/2026/07/07/073000)
 - [fcコマンド (直前に実行したコマンドを$EDITORで編集, :q!としても直前コマンドが実行される点は注意)](https://devlights.hatenablog.com/entry/2026/06/15/073000)
 - [テスト用のバイナリファイルを作成 (linux, shell, dd, for, hexyl)](https://devlights.hatenablog.com/entry/2026/05/11/073000)
