@@ -206,6 +206,7 @@
 
 ## linux
 
+- [LinuxでNautilusで管理者権限で開けるように変更 (Ubuntu Linux 26.04)](https://devlights.hatenablog.com/entry/2026/08/25/073000)
 - [Linuxでホームディレクトリのダウンロードとかのディレクトリ名を英語表記に変更 (Ubuntu Linux 26.04)](https://devlights.hatenablog.com/entry/2026/08/24/073000)
 - [LinuxでCAPS LOCKをCTRLに変更 (Ubuntu Linux 26.04)](https://devlights.hatenablog.com/entry/2026/08/21/073000)
 - [SSHトンネルについての情報 (A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding)](https://devlights.hatenablog.com/entry/2026/07/07/073000)
