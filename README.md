@@ -206,6 +206,8 @@
 
 ## linux
 
+- [パッケージに含まれるファイルを一覧表示 (Ubuntu Linux 26.04, dpkg -L, dpkg -S)](https://devlights.hatenablog.com/entry/2026/08/27/073000)
+- [apt searchでパッケージ名で検索 (apt search -n)](https://devlights.hatenablog.com/entry/2026/08/26/073000)
 - [LinuxでNautilusで管理者権限で開けるように変更 (Ubuntu Linux 26.04)](https://devlights.hatenablog.com/entry/2026/08/25/073000)
 - [Linuxでホームディレクトリのダウンロードとかのディレクトリ名を英語表記に変更 (Ubuntu Linux 26.04)](https://devlights.hatenablog.com/entry/2026/08/24/073000)
 - [LinuxでCAPS LOCKをCTRLに変更 (Ubuntu Linux 26.04)](https://devlights.hatenablog.com/entry/2026/08/21/073000)
