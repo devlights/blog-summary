@@ -206,6 +206,7 @@
 
 ## linux
 
+- [Linuxでマウス接続時にタッチパッドを無効に変更 (Ubuntu Linux 26.04)](https://devlights.hatenablog.com/entry/2026/09/01/073000)
 - [パッケージに含まれるファイルを一覧表示 (Ubuntu Linux 26.04, dpkg -L, dpkg -S)](https://devlights.hatenablog.com/entry/2026/08/27/073000)
 - [apt searchでパッケージ名で検索 (apt search -n)](https://devlights.hatenablog.com/entry/2026/08/26/073000)
 - [LinuxでNautilusで管理者権限で開けるように変更 (Ubuntu Linux 26.04)](https://devlights.hatenablog.com/entry/2026/08/25/073000)
