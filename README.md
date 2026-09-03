@@ -1371,6 +1371,7 @@
 - [Goメモ-706 (インターフェースでジェネリックメソッドは宣言できない)(go1.27)](https://devlights.hatenablog.com/entry/2026/08/18/073000)
 - [Goメモ-707 (Go 1.27の情報)](https://devlights.hatenablog.com/entry/2026/08/19/073000)
 - [Goメモ-708 (go-linqのv5でジェネリックメソッドが活用されてる)](https://devlights.hatenablog.com/entry/2026/08/20/073000)
+- [Goメモ-709 (fmt.Printfの書式指定で% x, % Xとすると16進数をバイトごとに区切ってくれる)](https://devlights.hatenablog.com/entry/2026/09/03/073000)
 
 ## python
 
