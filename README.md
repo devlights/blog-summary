@@ -2026,6 +2026,7 @@
 
 ## misc
 
+- [PostgreSQL18からUUIDv7が使えるようになってた (uuidv4(), uuidv7())](https://devlights.hatenablog.com/entry/2026/09/07/063000)
 - [pgfmt (PostgreSQL向けのSQLフォーマッタ)](https://devlights.hatenablog.com/entry/2026/08/31/073000)
 - [JetBrains RiderでプロセスにアタッチしてF10するとステップに凄く時間が掛かる (Allow property evaluations and other implicit function calls, プロパティの評価とその他の暗黙的な関数呼び出しを許可する)](https://devlights.hatenablog.com/entry/2026/08/17/073000)
 - [Arto (マークダウンを読むためのツール, Rust)](https://devlights.hatenablog.com/entry/2026/08/07/073000)
