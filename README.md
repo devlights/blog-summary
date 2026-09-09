@@ -648,6 +648,7 @@
 - [Task (go-task) メモ-44 (Built-in Core Utilities for Windows, v3.45で追加)](https://devlights.hatenablog.com/entry/2025/10/03/073000)
 - [Task (go-task) メモ-45 (Wildcard arguments, タスク名にワイルドカードを付与)](https://devlights.hatenablog.com/entry/2025/11/25/073000)
 - [Task (go-task) メモ-46 (--temp-dir オプション, taskが利用する一時ディレクトリの場所を指定)](https://devlights.hatenablog.com/entry/2026/07/13/073000)
+- [Task (go-task) メモ-47 (v3.53でリモートタスクファイル機能がstableになった)(Remote Taskfiles are now generally available)](https://devlights.hatenablog.com/entry/2026/09/09/073000)
 
 ## golang
 
@@ -2026,6 +2027,7 @@
 
 ## misc
 
+- [テクニカルライティングガイドライン](https://devlights.hatenablog.com/entry/2026/09/08/073000)
 - [PostgreSQL18からUUIDv7が使えるようになってた (uuidv4(), uuidv7())](https://devlights.hatenablog.com/entry/2026/09/07/063000)
 - [pgfmt (PostgreSQL向けのSQLフォーマッタ)](https://devlights.hatenablog.com/entry/2026/08/31/073000)
 - [JetBrains RiderでプロセスにアタッチしてF10するとステップに凄く時間が掛かる (Allow property evaluations and other implicit function calls, プロパティの評価とその他の暗黙的な関数呼び出しを許可する)](https://devlights.hatenablog.com/entry/2026/08/17/073000)
