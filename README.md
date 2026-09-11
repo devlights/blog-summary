@@ -1373,6 +1373,8 @@
 - [Goメモ-707 (Go 1.27の情報)](https://devlights.hatenablog.com/entry/2026/08/19/073000)
 - [Goメモ-708 (go-linqのv5でジェネリックメソッドが活用されてる)](https://devlights.hatenablog.com/entry/2026/08/20/073000)
 - [Goメモ-709 (fmt.Printfの書式指定で% x, % Xとすると16進数をバイトごとに区切ってくれる)](https://devlights.hatenablog.com/entry/2026/09/03/073000)
+- [Goメモ-710 (rand.Shuffleでスライスをシャッフル)](https://devlights.hatenablog.com/entry/2026/09/04/073000)
+- [Goメモ-711 (Go 1.27で構造体リテラルの指定が楽になった)(Struct literal field selectors, 構造体リテラルのキー拡張)](https://devlights.hatenablog.com/entry/2026/09/11/073000)
 
 ## python
 
