@@ -2030,6 +2030,7 @@
 
 ## misc
 
+- [fastfetch (システム情報を表示してくれるCLI, neofetchの後継)](https://devlights.hatenablog.com/entry/2026/09/14/073000)
 - [テクニカルライティングガイドライン](https://devlights.hatenablog.com/entry/2026/09/08/073000)
 - [PostgreSQL18からUUIDv7が使えるようになってた (uuidv4(), uuidv7())](https://devlights.hatenablog.com/entry/2026/09/07/063000)
 - [pgfmt (PostgreSQL向けのSQLフォーマッタ)](https://devlights.hatenablog.com/entry/2026/08/31/073000)
