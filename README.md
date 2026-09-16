@@ -2030,6 +2030,7 @@
 
 ## misc
 
+- [PostgreSQLで指定ロールが指定DBへ接続した場合だけsearch_pathを調整したい (ALTER ROLE, IN DATABASE)](https://devlights.hatenablog.com/entry/2026/09/16/073000)
 - [PostgreSQLでパーティションテーブル構成している場合で特定のレコードがどのパーティションにいるのかを確認（tableoid, regclass)](https://devlights.hatenablog.com/entry/2026/09/15/073000)
 - [fastfetch (システム情報を表示してくれるCLI, neofetchの後継)](https://devlights.hatenablog.com/entry/2026/09/14/073000)
 - [テクニカルライティングガイドライン](https://devlights.hatenablog.com/entry/2026/09/08/073000)
