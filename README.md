@@ -2030,6 +2030,7 @@
 
 ## misc
 
+- [PostgreSQL 19 インタラクティブツアー (PostgreSQL 19 interactive tour, VictoriaMetrics)](https://devlights.hatenablog.com/entry/2026/09/17/073000)
 - [PostgreSQLで指定ロールが指定DBへ接続した場合だけsearch_pathを調整したい (ALTER ROLE, IN DATABASE)](https://devlights.hatenablog.com/entry/2026/09/16/073000)
 - [PostgreSQLでパーティションテーブル構成している場合で特定のレコードがどのパーティションにいるのかを確認（tableoid, regclass)](https://devlights.hatenablog.com/entry/2026/09/15/073000)
 - [fastfetch (システム情報を表示してくれるCLI, neofetchの後継)](https://devlights.hatenablog.com/entry/2026/09/14/073000)
