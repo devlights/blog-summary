@@ -2031,6 +2031,7 @@
 
 ## misc
 
+- [Fletがバージョン 1.0 に到達](https://devlights.hatenablog.com/entry/2026/09/25/073000)
 - [Rune (Goで実装されたキーボード中心の開発環境, IDEチック, Unix思想)](https://devlights.hatenablog.com/entry/2026/09/24/073000)
 - [PostgreSQL 19 インタラクティブツアー (PostgreSQL 19 interactive tour, VictoriaMetrics)](https://devlights.hatenablog.com/entry/2026/09/17/073000)
 - [PostgreSQLで指定ロールが指定DBへ接続した場合だけsearch_pathを調整したい (ALTER ROLE, IN DATABASE)](https://devlights.hatenablog.com/entry/2026/09/16/073000)
