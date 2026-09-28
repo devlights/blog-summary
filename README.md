@@ -208,6 +208,7 @@
 
 ## linux
 
+- [teeコマンドでパーミッションが異なるファイルに書き込み (tee, tee -a, EOF, /dev/null)](https://devlights.hatenablog.com/entry/2026/09/28/073000)
 - [Linuxでマウス接続時にタッチパッドを無効に変更 (Ubuntu Linux 26.04)](https://devlights.hatenablog.com/entry/2026/09/01/073000)
 - [パッケージに含まれるファイルを一覧表示 (Ubuntu Linux 26.04, dpkg -L, dpkg -S)](https://devlights.hatenablog.com/entry/2026/08/27/073000)
 - [apt searchでパッケージ名で検索 (apt search -n)](https://devlights.hatenablog.com/entry/2026/08/26/073000)
