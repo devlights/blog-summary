@@ -2033,6 +2033,7 @@
 
 ## misc
 
+- [日経ソフトウェアが休刊 (2026 年 11月号が最後, 29年間)](https://devlights.hatenablog.com/entry/2026/09/30/073000)
 - [Fletがバージョン 1.0 に到達](https://devlights.hatenablog.com/entry/2026/09/25/073000)
 - [Rune (Goで実装されたキーボード中心の開発環境, IDEチック, Unix思想)](https://devlights.hatenablog.com/entry/2026/09/24/073000)
 - [PostgreSQL 19 インタラクティブツアー (PostgreSQL 19 interactive tour, VictoriaMetrics)](https://devlights.hatenablog.com/entry/2026/09/17/073000)
