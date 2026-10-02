@@ -1379,6 +1379,7 @@
 - [Goメモ-710 (rand.Shuffleでスライスをシャッフル)](https://devlights.hatenablog.com/entry/2026/09/04/073000)
 - [Goメモ-711 (Go 1.27で構造体リテラルの指定が楽になった)(Struct literal field selectors, 構造体リテラルのキー拡張)](https://devlights.hatenablog.com/entry/2026/09/11/073000)
 - [Goメモ-712 (encoding/json/v2 に至る14年)](https://devlights.hatenablog.com/entry/2026/10/01/073000)
+- [Goメモ-713 (Solod v0.4)(sobindなど)](https://devlights.hatenablog.com/entry/2026/10/02/073000)
 
 ## python
 
