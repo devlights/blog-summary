@@ -389,6 +389,7 @@
 
 ## git
 
+- [Git 2.56.0 で git branch --delete-merged オプションが追加 (統合ブランチにマージ済みのブランチを削除)](https://devlights.hatenablog.com/entry/2026/10/05/073000)
 - [GitHub Copilot インタラクションデータ利用ポリシーが変更される (2026年4月24日以降, AIモデルの訓練・改善)](https://devlights.hatenablog.com/entry/2026/03/31/073000)
 - [gitで.git/info/excludeにローカル専用の除外設定を追加 (.gitignore, classmethodさん)](https://devlights.hatenablog.com/entry/2026/02/26/073000)
 - [git pullでerror: The following untracked working tree files would be overwritten by mergeって出たときの対処法の一つ (git clean, git pull)](https://devlights.hatenablog.com/entry/2026/01/28/073000)
