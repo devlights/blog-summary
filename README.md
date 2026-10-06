@@ -74,6 +74,7 @@
 
 ## wsl-docker
 
+- [WSL 3.0 がリリース (WSL containers)](https://devlights.hatenablog.com/entry/2026/10/06/073000)
 - [WSL2に割り当てられている内部IPアドレスを知る (wsl, hostname, -I)](https://devlights.hatenablog.com/entry/2026/09/18/073000)
 - [WSLで始めるLinux環境構築術](https://devlights.hatenablog.com/entry/2026/09/02/073000)
 - [WSLコンテナ (まだプレビュー状態, wsl上でコンテナを作成出来る機能)](https://devlights.hatenablog.com/entry/2026/06/29/073000)
