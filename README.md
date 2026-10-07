@@ -654,6 +654,7 @@
 - [Task (go-task) メモ-45 (Wildcard arguments, タスク名にワイルドカードを付与)](https://devlights.hatenablog.com/entry/2025/11/25/073000)
 - [Task (go-task) メモ-46 (--temp-dir オプション, taskが利用する一時ディレクトリの場所を指定)](https://devlights.hatenablog.com/entry/2026/07/13/073000)
 - [Task (go-task) メモ-47 (v3.53でリモートタスクファイル機能がstableになった)(Remote Taskfiles are now generally available)](https://devlights.hatenablog.com/entry/2026/09/09/073000)
+- [Task (go-task) メモ-48 (v3.54で補完エンジンが共通化された)(One Completion Engine for Every Shell)](https://devlights.hatenablog.com/entry/2026/10/07/073000)
 
 ## golang
 
