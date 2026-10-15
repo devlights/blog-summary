@@ -116,6 +116,7 @@
 
 ## java
 
+- [Java 27がリリースされてた](https://devlights.hatenablog.com/entry/2026/10/15/073000)
 - [Javaで数字をカンマ付け (%,d)](https://devlights.hatenablog.com/entry/2022/11/29/083000)
 - [Java11からjavaファイルを直接実行できるようになってた (JEP 330)](https://devlights.hatenablog.com/entry/2022/11/28/073000)
 - [Java SE Subscription Enterprise Performance Pack (パフォーマンスパック, java8のままでjava17の性能向上を得る, EPP)](https://devlights.hatenablog.com/entry/2022/10/20/073000)
