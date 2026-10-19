@@ -1385,6 +1385,7 @@
 - [Goメモ-712 (encoding/json/v2 に至る14年)](https://devlights.hatenablog.com/entry/2026/10/01/073000)
 - [Goメモ-713 (Solod v0.4)(sobindなど)](https://devlights.hatenablog.com/entry/2026/10/02/073000)
 - [Goメモ-714 (Go1.27でstrings.CutLast関数が追加)](https://devlights.hatenablog.com/entry/2026/10/08/073000)
+- [Goメモ-716 (インフラエンジニアのためのGo言語入門)(zenn)](https://devlights.hatenablog.com/entry/2026/10/19/073000)
 
 ## python
 
