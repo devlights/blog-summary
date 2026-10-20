@@ -1386,6 +1386,7 @@
 - [Goメモ-713 (Solod v0.4)(sobindなど)](https://devlights.hatenablog.com/entry/2026/10/02/073000)
 - [Goメモ-714 (Go1.27でstrings.CutLast関数が追加)](https://devlights.hatenablog.com/entry/2026/10/08/073000)
 - [Goメモ-716 (インフラエンジニアのためのGo言語入門)(zenn)](https://devlights.hatenablog.com/entry/2026/10/19/073000)
+- [Goメモ-717 (zennで公開されている無償で読めるGoの本)](https://devlights.hatenablog.com/entry/2026/10/20/073000)
 
 ## python
 
