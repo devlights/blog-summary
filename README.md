@@ -210,6 +210,7 @@
 
 ## linux
 
+- [freeコマンドを自動実行 (free, -k, -s, -c)](https://devlights.hatenablog.com/entry/2026/10/22/073000)
 - [spongeコマンド (moreutils, 入力を読み切ってから出力するコマンド, 結果を同じファイルに書き出す)](https://devlights.hatenablog.com/entry/2026/09/29/073000)
 - [teeコマンドでパーミッションが異なるファイルに書き込み (tee, tee -a, EOF, /dev/null)](https://devlights.hatenablog.com/entry/2026/09/28/073000)
 - [Linuxでマウス接続時にタッチパッドを無効に変更 (Ubuntu Linux 26.04)](https://devlights.hatenablog.com/entry/2026/09/01/073000)
