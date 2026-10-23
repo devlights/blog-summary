@@ -1389,6 +1389,7 @@
 - [Goメモ-716 (インフラエンジニアのためのGo言語入門)(zenn)](https://devlights.hatenablog.com/entry/2026/10/19/073000)
 - [Goメモ-717 (zennで公開されている無償で読めるGoの本)](https://devlights.hatenablog.com/entry/2026/10/20/073000)
 - [Goメモ-718 (os.SameFile)(同じファイルかどうか判定, inode, デバイス番号, stat, lstat)](https://devlights.hatenablog.com/entry/2026/10/21/073000)
+- [Goメモ-719 (uuid.NewV4)(Go 1.27, uuid, v4)](https://devlights.hatenablog.com/entry/2026/10/23/073000)
 
 ## python
 
