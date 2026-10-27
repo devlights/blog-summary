@@ -1391,6 +1391,7 @@
 - [Goメモ-718 (os.SameFile)(同じファイルかどうか判定, inode, デバイス番号, stat, lstat)](https://devlights.hatenablog.com/entry/2026/10/21/073000)
 - [Goメモ-719 (uuid.NewV4)(Go 1.27, uuid, v4)](https://devlights.hatenablog.com/entry/2026/10/23/073000)
 - [Goメモ-720 (uuid.NewV7)(Go 1.27, uuid, v7)](https://devlights.hatenablog.com/entry/2026/10/26/073000)
+- [Goメモ-721 (rand.NewPCG)(math/rand/v2, 乱数生成器, PCG, Permuted Congruential Generator)](https://devlights.hatenablog.com/entry/2026/10/27/073000)
 
 ## python
 
