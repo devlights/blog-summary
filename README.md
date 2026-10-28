@@ -1552,6 +1552,7 @@
 
 ## dotnet
 
+- [Passenger (RiderインスパイアなIDE, Avalonia, MITライセンス)](https://devlights.hatenablog.com/entry/2026/10/28/073000)
 - [XAML Studioがオープンソースで公開された](https://devlights.hatenablog.com/entry/2026/01/26/073000)
 - [.NET 10がリリース](https://devlights.hatenablog.com/entry/2025/11/19/073000)
 - [.NET 9 で WinForms に Control.InvokeAsync が追加 (Form.ShowAsync, TaskDialog.ShowDialogAsync は Experimental)](https://devlights.hatenablog.com/entry/2024/12/16/073000)
