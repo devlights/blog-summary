@@ -1553,6 +1553,7 @@
 
 ## dotnet
 
+- [dotnetup (rustupみたいな感じの.NET用ツールチェインマネージャ)](https://devlights.hatenablog.com/entry/2026/10/30/073000)
 - [Passenger (RiderインスパイアなIDE, Avalonia, MITライセンス)](https://devlights.hatenablog.com/entry/2026/10/28/073000)
 - [XAML Studioがオープンソースで公開された](https://devlights.hatenablog.com/entry/2026/01/26/073000)
 - [.NET 10がリリース](https://devlights.hatenablog.com/entry/2025/11/19/073000)
