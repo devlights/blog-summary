@@ -5,6 +5,7 @@
 
 <!-- TOC -->
 
+- [sqlite3](#sqlite3)
 - [C](#c)
 - [miller](#miller)
 - [nushell](#nushell)
@@ -39,6 +40,16 @@
 <!-- /TOC -->
 
 ---
+
+## sqlite3
+
+- [SQLite3にて起動時にコマンド指定して設定を強制する (sqlite3, -cmd, 一時的に列幅を広くしたい)](https://devlights.hatenablog.com/entry/2026/03/02/073000)
+- [SQLiteのIIF関数が可変長引数をサポートするようになってた (3.49.0以降, sqlite3)](https://devlights.hatenablog.com/entry/2026/02/19/073000)
+- [SQLite3の設定ファイル (.sqliterc)](https://devlights.hatenablog.com/entry/2024/11/18/073000)
+- [sqlite3にて結果をマークダウンで出力 (.mode markdown)](https://devlights.hatenablog.com/entry/2023/11/21/073000)
+- [SQLite3のデータベースをダンプする](https://devlights.hatenablog.com/entry/2023/05/10/073000)
+- [SQLite3 をコマンドラインで利用する場合に設定しておいた方が良いもの (起動時にパラメータで指定)](https://devlights.hatenablog.com/entry/2023/05/09/073000)
+- [SQLite3 をコマンドラインで利用する場合に設定しておいた方が良いもの](https://devlights.hatenablog.com/entry/2023/05/08/073000)
 
 ## C
 
@@ -2104,9 +2115,7 @@
 - [java.evolved (Javaのコードをモダンな書き方と旧来の書き方で見れる)](https://devlights.hatenablog.com/entry/2026/03/05/073000)
 - [rga (ripgrep-all) で特定のアダプターを除外して検索 (--rga-list-adapters, --rga-adapters)](https://devlights.hatenablog.com/entry/2026/03/04/073000)
 - [helixエディタでテーマ設定で Unsupported theme: theme requires true color support って出る件](https://devlights.hatenablog.com/entry/2026/03/03/073000)
-- [SQLite3にて起動時にコマンド指定して設定を強制する (sqlite3, -cmd, 一時的に列幅を広くしたい)](https://devlights.hatenablog.com/entry/2026/03/02/073000)
 - [Helixエディタ(hx)のvim使ってる人向けのチートシート (hx, 自分用, AIに作ってもらった)](https://devlights.hatenablog.com/entry/2026/02/25/073000)
-- [SQLiteのIIF関数が可変長引数をサポートするようになってた (3.49.0以降, sqlite3)](https://devlights.hatenablog.com/entry/2026/02/19/073000)
 - [Zellij (とても使いやすいターミナルマルチプレクサ, Terminal Workspace, tmux)](https://devlights.hatenablog.com/entry/2026/02/13/073000)
 - [Claude Opus 4.6がリリースされた](https://devlights.hatenablog.com/entry/2026/02/09/073000)
 - [Bun v1.3.8でマークダウンパーサーが搭載された (MD4Cの移植)](https://devlights.hatenablog.com/entry/2026/02/06/073000)
@@ -2149,7 +2158,6 @@
 - [zig-book (プログラミング言語 zig の本)](https://devlights.hatenablog.com/entry/2025/02/06/073000)
 - [ExcelとWordで知っておるとちょっと便利なショートカットキー](https://devlights.hatenablog.com/entry/2025/01/23/073000)
 - [コピペできるHTMLスニペットまとめ (CodePen)](https://devlights.hatenablog.com/entry/2025/01/22/073000)
-- [SQLite3の設定ファイル (.sqliterc)](https://devlights.hatenablog.com/entry/2024/11/18/073000)
 - [Java 23 と Project Amber (void mainだけで良くなった, まだプレビュー段階)](https://devlights.hatenablog.com/entry/2024/10/31/073000)
 - [Windowsのタスクマネージャにて更新を一時停止させる](https://devlights.hatenablog.com/entry/2024/10/24/073000)
 - [PostgreSQL 17 がリリース (増分バックアップのネイティブ対応など)](https://devlights.hatenablog.com/entry/2024/10/07/073000)
@@ -2192,7 +2200,6 @@
 - [Monaspace (フォント, Githubが公開)](https://devlights.hatenablog.com/entry/2023/11/28/073000)
 - [Deno KVがセルフホスト可能に](https://devlights.hatenablog.com/entry/2023/11/24/073000)
 - [opensslを使ってランダムなバイト列を生成 (openssl rand)](https://devlights.hatenablog.com/entry/2023/11/22/073000)
-- [sqlite3にて結果をマークダウンで出力 (.mode markdown)](https://devlights.hatenablog.com/entry/2023/11/21/073000)
 - [グレープシティがメシウスに社名変更](https://devlights.hatenablog.com/entry/2023/11/13/073000)
 - [方眼DIFF (Excelファイルを比較してくれるツール)](https://devlights.hatenablog.com/entry/2023/11/10/073000)
 - [OpenAI DevDay](https://devlights.hatenablog.com/entry/2023/11/07/073000)
@@ -2217,9 +2224,6 @@
 - [ChatGPT PlusにWebブラウジングとプラグイン機能が追加された（まだベータ版扱い）](https://devlights.hatenablog.com/entry/2023/05/18/073000)
 - [Windows10のバージョンは22H2が最終バージョンで2025-10-14でサポート終了](https://devlights.hatenablog.com/entry/2023/05/15/073000)
 - [Deno KVが発表 (Deno, KVストア, SQLite3内包するようになった, v1.32)](https://devlights.hatenablog.com/entry/2023/05/11/073000)
-- [SQLite3のデータベースをダンプする](https://devlights.hatenablog.com/entry/2023/05/10/073000)
-- [SQLite3 をコマンドラインで利用する場合に設定しておいた方が良いもの (起動時にパラメータで指定)](https://devlights.hatenablog.com/entry/2023/05/09/073000)
-- [SQLite3 をコマンドラインで利用する場合に設定しておいた方が良いもの](https://devlights.hatenablog.com/entry/2023/05/08/073000)
 - [ChatGPTの履歴データが取得できるみたい](https://devlights.hatenablog.com/entry/2023/04/27/073000)
 - [Google Authenticator (Google 認証システム) がアカウント同期に対応](https://devlights.hatenablog.com/entry/2023/04/26/073000)
 - [AlloyDB Omni (Google Cloud AlloyDBのオンプレミス版、テクニカルプレビュー)](https://devlights.hatenablog.com/entry/2023/04/07/073000)
