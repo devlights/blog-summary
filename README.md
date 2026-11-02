@@ -2050,6 +2050,7 @@
 
 ## misc
 
+- [WinUI Reactor (Microsoft.WinAppCli, winapp)](https://devlights.hatenablog.com/entry/2026/11/02/073000)
 - [psqlでファイル内のクエリをEXPLAIN ANALYZEする (\set, \o, :query)](https://devlights.hatenablog.com/entry/2026/10/14/073000)
 - [PostgreSQLのキャッシュをクリア (pg_buffercache, evict)](https://devlights.hatenablog.com/entry/2026/10/13/073000)
 - [日経ソフトウェアが休刊 (2026 年 11月号が最後, 29年間)](https://devlights.hatenablog.com/entry/2026/09/30/073000)
