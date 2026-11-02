@@ -46,7 +46,7 @@
 - [SQLite3にて起動時にコマンド指定して設定を強制する (sqlite3, -cmd, 一時的に列幅を広くしたい)](https://devlights.hatenablog.com/entry/2026/03/02/073000)
 - [SQLiteのIIF関数が可変長引数をサポートするようになってた (3.49.0以降, sqlite3)](https://devlights.hatenablog.com/entry/2026/02/19/073000)
 - [SQLite3の設定ファイル (.sqliterc)](https://devlights.hatenablog.com/entry/2024/11/18/073000)
-- [sqlite3にて結果をマークダウンで出力 (.mode markdown)](https://devlights.hatenablog.com/entry/2023/11/21/073000)
+- [SQLite3にて結果をマークダウンで出力 (.mode markdown)](https://devlights.hatenablog.com/entry/2023/11/21/073000)
 - [SQLite3のデータベースをダンプする](https://devlights.hatenablog.com/entry/2023/05/10/073000)
 - [SQLite3 をコマンドラインで利用する場合に設定しておいた方が良いもの (起動時にパラメータで指定)](https://devlights.hatenablog.com/entry/2023/05/09/073000)
 - [SQLite3 をコマンドラインで利用する場合に設定しておいた方が良いもの](https://devlights.hatenablog.com/entry/2023/05/08/073000)
