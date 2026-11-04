@@ -1404,6 +1404,7 @@
 - [Goメモ-720 (uuid.NewV7)(Go 1.27, uuid, v7)](https://devlights.hatenablog.com/entry/2026/10/26/073000)
 - [Goメモ-721 (rand.NewPCG)(math/rand/v2, 乱数生成器, PCG, Permuted Congruential Generator)](https://devlights.hatenablog.com/entry/2026/10/27/073000)
 - [Goメモ-722 (go doc -ex)(Go 1.27, -ex, Example関数を確認できるオプション)](https://devlights.hatenablog.com/entry/2026/10/29/073000)
+- [Goメモ-723 (全角数字を半角数字に変換)(strings.Map)](https://devlights.hatenablog.com/entry/2026/11/04/073000)
 
 ## python
 
