@@ -2065,6 +2065,7 @@
 
 ## misc
 
+- [Windowsサンドボックス](https://devlights.hatenablog.com/entry/2026/11/10/073000)
 - [WinUI Reactor (Microsoft.WinAppCli, winapp)](https://devlights.hatenablog.com/entry/2026/11/02/073000)
 - [psqlでファイル内のクエリをEXPLAIN ANALYZEする (\set, \o, :query)](https://devlights.hatenablog.com/entry/2026/10/14/073000)
 - [PostgreSQLのキャッシュをクリア (pg_buffercache, evict)](https://devlights.hatenablog.com/entry/2026/10/13/073000)
