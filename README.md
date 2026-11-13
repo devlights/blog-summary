@@ -1407,6 +1407,7 @@
 - [Goメモ-722 (go doc -ex)(Go 1.27, -ex, Example関数を確認できるオプション)](https://devlights.hatenablog.com/entry/2026/10/29/073000)
 - [Goメモ-723 (全角数字を半角数字に変換)(strings.Map)](https://devlights.hatenablog.com/entry/2026/11/04/073000)
 - [Goメモ-724 (定数式を文字列で評価)(go/types, Eval, TypeAndValue, ExactString)](https://devlights.hatenablog.com/entry/2026/11/05/073000)
+- [Goメモ-725 (AF11パケットを送信)(golang.org/x/net, ipv4.SetTOS)](https://devlights.hatenablog.com/entry/2026/11/13/073000)
 
 ## python
 
