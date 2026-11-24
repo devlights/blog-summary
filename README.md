@@ -1411,6 +1411,7 @@
 - [Goメモ-726 (MyGo)(Desktop apps in Go, GoだけでネイティブGUIアプリが作成できる)](https://devlights.hatenablog.com/entry/2026/11/16/073000)
 - [Goメモ-727 (Asuka)(MyGoの作者が作ってるライブラリ, エヴァンゲリオン, 全機種純正部品、Goで。)](https://devlights.hatenablog.com/entry/2026/11/17/073000)
 - [Goメモ-728 (Goは17歳になった, Go Turns 17)](https://devlights.hatenablog.com/entry/2026/11/18/073000)
+- [Goメモ-729 (synctest.Sleep)(Go1.27で追加された)](https://devlights.hatenablog.com/entry/2026/11/24/073000)
 
 ## python
 
@@ -2069,6 +2070,8 @@
 
 ## misc
 
+- [TMOG (Task Manager OG)(各OSで利用可能, 初代Windowsタスクマネージャーの開発者が新たに作った)](https://devlights.hatenablog.com/entry/2026/11/20/073000)
+- [PowerShell7がWindows11に同梱されるようになる (PowerShell 7 is coming to Windows)](https://devlights.hatenablog.com/entry/2026/11/19/073000)
 - [Windowsサンドボックスでアプリ起動](https://devlights.hatenablog.com/entry/2026/11/12/073000)
 - [Windowsサンドボックス](https://devlights.hatenablog.com/entry/2026/11/10/073000)
 - [WinUI Reactor (Microsoft.WinAppCli, winapp)](https://devlights.hatenablog.com/entry/2026/11/02/073000)
