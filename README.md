@@ -1412,6 +1412,7 @@
 - [Goメモ-727 (Asuka)(MyGoの作者が作ってるライブラリ, エヴァンゲリオン, 全機種純正部品、Goで。)](https://devlights.hatenablog.com/entry/2026/11/17/073000)
 - [Goメモ-728 (Goは17歳になった, Go Turns 17)](https://devlights.hatenablog.com/entry/2026/11/18/073000)
 - [Goメモ-729 (synctest.Sleep)(Go1.27で追加された)](https://devlights.hatenablog.com/entry/2026/11/24/073000)
+- [Goメモ-730 (context.AfterFunc)(キャンセル・タイムアウトした場合に呼び出す関数を登録)](https://devlights.hatenablog.com/entry/2026/11/25/073000)
 
 ## python
 
