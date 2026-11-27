@@ -1413,6 +1413,8 @@
 - [Goメモ-728 (Goは17歳になった, Go Turns 17)](https://devlights.hatenablog.com/entry/2026/11/18/073000)
 - [Goメモ-729 (synctest.Sleep)(Go1.27で追加された)](https://devlights.hatenablog.com/entry/2026/11/24/073000)
 - [Goメモ-730 (context.AfterFunc)(キャンセル・タイムアウトした場合に呼び出す関数を登録)](https://devlights.hatenablog.com/entry/2026/11/25/073000)
+- [Goメモ-731 (Internals for Interns)(Goの内部挙動などについての詳しい情報が沢山)](https://devlights.hatenablog.com/entry/2026/11/26/073000)
+- [Goメモ-732 (Wails 3.0 がリリースされていた)](https://devlights.hatenablog.com/entry/2026/11/27/073000)
 
 ## python
 
